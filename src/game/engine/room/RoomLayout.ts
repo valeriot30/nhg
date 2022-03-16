@@ -22,7 +22,7 @@ export default class RoomLayout {
     private logic: RoomLogic
     private room: Room;
 
-    private modelMatrix : string[][] = new Array()
+    private modelMatrix : number[][] = new Array()
 
     private colorsHash : ColorRGB[] = new Array()
     private floorPlane: FloorPlane
@@ -66,19 +66,30 @@ export default class RoomLayout {
     }
 
     private parseModel(model: string) : void {
-
         let modelRows = model.split("/")
+
         this.mapSizeX = modelRows.length
+        this.mapSizeY = Math.max(...(modelRows.map(el => el.length)))
+        
 
         for (let x = 0; x < this.mapSizeX; x++) {
-            this.modelMatrix[x] = new Array()
-            this.mapSizeY = modelRows[x].length
-
+            this.modelMatrix[x] = new Array();
             for (let y = 0; y < this.mapSizeY; y++) {
-                this.modelMatrix[x][y] = modelRows[x][y]
+                
+                let tile = modelRows[x].substr(y, y + 1).trim().toUpperCase().charAt(0)
 
-                if (MapData.parseHeight(this.modelMatrix[x][y]) > this.mapSizeZ) {
-                    this.mapSizeZ = MapData.parseHeight(this.modelMatrix[x][y])
+    
+
+                // height 0 represent empty tile
+                let height = tile.toUpperCase() != tile.toLowerCase()
+                        ? 10 + tile.charCodeAt(0) - 'A'.charCodeAt(0)
+                        : parseInt(tile);
+
+                console.log(height)
+                this.modelMatrix[x][y] = height
+    
+                if (height > this.mapSizeZ) {
+                    this.mapSizeZ = height
                     this.heighestPosition = new Point(x,y)
                 }
             }
@@ -158,13 +169,13 @@ export default class RoomLayout {
         return color
     }
 
-    public getModelMaltrix() : string[][] {
+    public getModelMaltrix() : number[][] {
         return this.modelMatrix
     }
 
-    public setModelMatrixElement(x: number, y: number, value: string) : void {
+    public setModelMatrixElement(x: number, y: number, height: number) : void {
         if (this.modelMatrix[x] && this.modelMatrix[x][y]) {
-            this.modelMatrix[x][y] = value
+            this.modelMatrix[x][y] = height
         }
     }
 
@@ -212,7 +223,7 @@ export default class RoomLayout {
         return this.logic
     }
 
-    public getModelMatrix(): string[][] {
+    public getModelMatrix(): number[][] {
         return this.modelMatrix
     }
     public getRoom() : Room {

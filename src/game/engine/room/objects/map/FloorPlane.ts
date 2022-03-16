@@ -21,10 +21,10 @@ export default class FloorPlane extends RoomPlane {
         this.getRoom().getModelMaltrix().forEach((xRow, x) => {
             xRow.forEach((_, y) => {
 
-                let position = new Point3d(x, y, MapData.parseHeight(this.getRoom().getModelMaltrix()[x][y]))
+                let position = new Point3d(x, y, this.getRoom().getModelMaltrix()[x][y])
 
                 if (position.getX() == this.getRoom().getDoorPosition().getX() && position.getY() == this.getRoom().getDoorPosition().getY())
-                    this.getRoom().getModelMaltrix()[x][y] = "x"
+                    this.getRoom().getModelMaltrix()[x][y] = 0
 
                 this.addMapObject(new Tile(
                     this,
@@ -43,7 +43,7 @@ export default class FloorPlane extends RoomPlane {
                 if (obj.getPosition().getX() == x && obj.getPosition().getY() == y) {
                     obj.setType(type)
                     if (type == TileType.Hole) {
-                        this.getRoom().setModelMatrixElement(x, y, 'x')
+                        this.getRoom().setModelMatrixElement(x, y, 0)
                     }
                 }
             }

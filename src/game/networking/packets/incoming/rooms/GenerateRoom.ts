@@ -12,7 +12,7 @@ export default class GenerateRoom extends MessageHandler{
                 Engine.getInstance().RoomsManager?.unsetRoom();
             }
             
-            let current = Engine.getInstance().RoomsManager?.setRoom(room.name, room.model, new Point(room.doorx, room.doory), room.id);
+            let current = Engine.getInstance().RoomsManager?.setRoom(room.name, room.layout, new Point(room.doorx, room.doory), room.id);
         }
     }
 }

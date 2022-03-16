@@ -31,7 +31,7 @@ export default class WallPlane extends RoomPlane {
                     isDoor = true
                 }
 
-                if (y <= minY && this.getRoom().getModelMatrix()[x][y] != "x") {
+                if (y <= minY && this.getRoom().getModelMatrix()[x][y] != 0) {
                     if (minY > y) {
                         minY = y;
                     }
@@ -40,7 +40,7 @@ export default class WallPlane extends RoomPlane {
                     this.addMapObject(new Wall(
                         this,
                         `wall${ x }-${ y }`,
-                        new Point3d(x, y, MapData.parseHeight(this.getRoom().getModelMatrix()[x][y])),
+                        new Point3d(x, y, this.getRoom().getModelMatrix()[x][y]),
                         isDoor ? WallType.DoorLeft : WallType.Left,
                         isCorner,
                         this.getRoom().getUniqueColor()
@@ -60,7 +60,7 @@ export default class WallPlane extends RoomPlane {
                     isDoor = true
                 }
 
-                if (x <= minX && this.getRoom().getModelMatrix()[x][y] != "x") {
+                if (x <= minX && this.getRoom().getModelMatrix()[x][y] != 0) {
                     if (minX > x) {
                         minX = x;
                     }
@@ -69,7 +69,7 @@ export default class WallPlane extends RoomPlane {
                     this.addMapObject(new Wall(
                         this,
                         `wall${ x }-${ y }`,
-                        new Point3d(x, y, MapData.parseHeight(this.getRoom().getModelMatrix()[x][y])),
+                        new Point3d(x, y, this.getRoom().getModelMatrix()[x][y]),
                         isDoor ? WallType.DoorRight : WallType.Right,
                         isCorner,
                         this.getRoom().getUniqueColor()
