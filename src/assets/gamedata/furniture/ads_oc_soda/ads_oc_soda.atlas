@@ -1,0 +1,69 @@
+
+ads_oc_soda.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_oc_soda_ads_oc_soda_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+ads_oc_soda_ads_oc_soda_64_a_4_0.png
+  rotate: false
+  xy: 2, 64
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+ads_oc_soda_ads_oc_soda_64_b_2_0.png
+  rotate: false
+  xy: 236, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_oc_soda_ads_oc_soda_64_b_2_1.png
+  rotate: false
+  xy: 172, 79
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+ads_oc_soda_ads_oc_soda_64_b_4_1.png
+  rotate: false
+  xy: 62, 4
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+ads_oc_soda_ads_oc_soda_64_c_2_0.png
+  rotate: false
+  xy: 62, 63
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+ads_oc_soda_ads_oc_soda_64_d_2_0.png
+  rotate: false
+  xy: 118, 64
+  size: 52, 60
+  orig: 52, 60
+  offset: 0, 0
+  index: -1
+ads_oc_soda_ads_oc_soda_64_sd_0_0.png
+  rotate: false
+  xy: 172, 106
+  size: 62, 18
+  orig: 62, 18
+  offset: 0, 0
+  index: -1
+ads_oc_soda_ads_oc_soda_icon_a.png
+  rotate: false
+  xy: 62, 31
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

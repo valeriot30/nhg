@@ -1,0 +1,216 @@
+
+hween09_chandelier.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween09_chandelier_hween09_chandelier_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 99, 68
+  orig: 99, 68
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_b_0_0.png
+  rotate: false
+  xy: 2, 75
+  size: 99, 177
+  orig: 99, 177
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_0.png
+  rotate: false
+  xy: 402, 139
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_1.png
+  rotate: false
+  xy: 493, 139
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_10.png
+  rotate: false
+  xy: 494, 196
+  size: 89, 56
+  orig: 89, 56
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_11.png
+  rotate: false
+  xy: 585, 196
+  size: 88, 56
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_12.png
+  rotate: false
+  xy: 103, 5
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_13.png
+  rotate: false
+  xy: 309, 197
+  size: 91, 55
+  orig: 91, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_14.png
+  rotate: false
+  xy: 402, 196
+  size: 90, 56
+  orig: 90, 56
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_15.png
+  rotate: false
+  xy: 103, 63
+  size: 93, 55
+  orig: 93, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_16.png
+  rotate: false
+  xy: 211, 197
+  size: 96, 55
+  orig: 96, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_17.png
+  rotate: false
+  xy: 103, 120
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_18.png
+  rotate: false
+  xy: 205, 119
+  size: 94, 37
+  orig: 94, 37
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_19.png
+  rotate: false
+  xy: 211, 158
+  size: 98, 37
+  orig: 98, 37
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_2.png
+  rotate: false
+  xy: 857, 197
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_20.png
+  rotate: false
+  xy: 516, 83
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_21.png
+  rotate: false
+  xy: 467, 82
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_22.png
+  rotate: false
+  xy: 948, 194
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_23.png
+  rotate: false
+  xy: 391, 82
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_24.png
+  rotate: false
+  xy: 301, 83
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_25.png
+  rotate: false
+  xy: 195, 4
+  size: 88, 56
+  orig: 88, 56
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_26.png
+  rotate: false
+  xy: 584, 139
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_27.png
+  rotate: false
+  xy: 198, 62
+  size: 88, 55
+  orig: 88, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_3.png
+  rotate: false
+  xy: 311, 140
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_4.png
+  rotate: false
+  xy: 675, 197
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_5.png
+  rotate: false
+  xy: 766, 197
+  size: 89, 55
+  orig: 89, 55
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_c_0_99.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_d_0_0.png
+  rotate: false
+  xy: 103, 177
+  size: 106, 75
+  orig: 106, 75
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_64_d_0_99.png
+  rotate: false
+  xy: 205, 174
+  size: 3, 1
+  orig: 3, 1
+  offset: 0, 0
+  index: -1
+hween09_chandelier_hween09_chandelier_icon_a.png
+  rotate: false
+  xy: 565, 120
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1

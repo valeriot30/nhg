@@ -1,0 +1,69 @@
+
+wintercabin_c19_stairs.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wintercabin_c19_stairs_wintercabin_c19_stairs_64_a_0_0.png
+  rotate: false
+  xy: 13, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+wintercabin_c19_stairs_wintercabin_c19_stairs_64_a_2_0.png
+  rotate: false
+  xy: 79, 49
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+wintercabin_c19_stairs_wintercabin_c19_stairs_64_a_4_0.png
+  rotate: false
+  xy: 2, 49
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+wintercabin_c19_stairs_wintercabin_c19_stairs_64_a_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+wintercabin_c19_stairs_wintercabin_c19_stairs_64_b_0_0.png
+  rotate: false
+  xy: 156, 14
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+wintercabin_c19_stairs_wintercabin_c19_stairs_64_b_2_0.png
+  rotate: false
+  xy: 232, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wintercabin_c19_stairs_wintercabin_c19_stairs_64_b_6_0.png
+  rotate: false
+  xy: 156, 71
+  size: 74, 55
+  orig: 74, 55
+  offset: 0, 0
+  index: -1
+wintercabin_c19_stairs_wintercabin_c19_stairs_64_sd_0_0.png
+  rotate: false
+  xy: 2, 11
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+wintercabin_c19_stairs_wintercabin_c19_stairs_icon_a.png
+  rotate: false
+  xy: 74, 18
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

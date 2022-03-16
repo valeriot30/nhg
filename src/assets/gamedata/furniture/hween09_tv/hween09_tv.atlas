@@ -1,0 +1,335 @@
+
+hween09_tv.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween09_tv_hween09_tv_32_c_0_99.png
+  rotate: false
+  xy: 504, 118
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_a_0_0.png
+  rotate: false
+  xy: 61, 17
+  size: 47, 102
+  orig: 47, 102
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_b_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 57, 111
+  orig: 57, 111
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_0.png
+  rotate: false
+  xy: 383, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_1.png
+  rotate: false
+  xy: 392, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_10.png
+  rotate: false
+  xy: 239, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_11.png
+  rotate: false
+  xy: 248, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_12.png
+  rotate: false
+  xy: 257, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_13.png
+  rotate: false
+  xy: 266, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_14.png
+  rotate: false
+  xy: 275, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_15.png
+  rotate: false
+  xy: 293, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_16.png
+  rotate: false
+  xy: 284, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_17.png
+  rotate: false
+  xy: 311, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_18.png
+  rotate: false
+  xy: 302, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_19.png
+  rotate: false
+  xy: 320, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_20.png
+  rotate: false
+  xy: 230, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_3.png
+  rotate: false
+  xy: 401, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_4.png
+  rotate: false
+  xy: 329, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_5.png
+  rotate: false
+  xy: 338, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_6.png
+  rotate: false
+  xy: 347, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_7.png
+  rotate: false
+  xy: 356, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_8.png
+  rotate: false
+  xy: 365, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_c_0_9.png
+  rotate: false
+  xy: 374, 53
+  size: 7, 28
+  orig: 7, 28
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_0.png
+  rotate: false
+  xy: 216, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_1.png
+  rotate: false
+  xy: 192, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_10.png
+  rotate: false
+  xy: 135, 2
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_11.png
+  rotate: false
+  xy: 480, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_12.png
+  rotate: false
+  xy: 182, 40
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_13.png
+  rotate: false
+  xy: 159, 2
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_14.png
+  rotate: false
+  xy: 206, 45
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_15.png
+  rotate: false
+  xy: 183, 2
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_16.png
+  rotate: false
+  xy: 384, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_17.png
+  rotate: false
+  xy: 408, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_18.png
+  rotate: false
+  xy: 432, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_19.png
+  rotate: false
+  xy: 456, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_2.png
+  rotate: false
+  xy: 134, 40
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_20.png
+  rotate: false
+  xy: 110, 40
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_3.png
+  rotate: false
+  xy: 336, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_4.png
+  rotate: false
+  xy: 360, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_5.png
+  rotate: false
+  xy: 288, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_6.png
+  rotate: false
+  xy: 312, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_7.png
+  rotate: false
+  xy: 240, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_8.png
+  rotate: false
+  xy: 264, 83
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_9.png
+  rotate: false
+  xy: 158, 40
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_d_0_99.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_64_sd_0_0.png
+  rotate: false
+  xy: 110, 78
+  size: 80, 41
+  orig: 80, 41
+  offset: 0, 0
+  index: -1
+hween09_tv_hween09_tv_icon_a.png
+  rotate: false
+  xy: 110, 6
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

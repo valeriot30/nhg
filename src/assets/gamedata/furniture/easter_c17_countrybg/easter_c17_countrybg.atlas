@@ -1,0 +1,48 @@
+
+easter_c17_countrybg.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c17_countrybg_easter_c17_countrybg_64_a_2_0.png
+  rotate: false
+  xy: 203, 2
+  size: 65, 247
+  orig: 65, 247
+  offset: 0, 0
+  index: -1
+easter_c17_countrybg_easter_c17_countrybg_64_a_2_1.png
+  rotate: false
+  xy: 270, 2
+  size: 65, 247
+  orig: 65, 247
+  offset: 0, 0
+  index: -1
+easter_c17_countrybg_easter_c17_countrybg_64_a_2_2.png
+  rotate: false
+  xy: 69, 2
+  size: 65, 247
+  orig: 65, 247
+  offset: 0, 0
+  index: -1
+easter_c17_countrybg_easter_c17_countrybg_64_a_2_3.png
+  rotate: false
+  xy: 136, 2
+  size: 65, 247
+  orig: 65, 247
+  offset: 0, 0
+  index: -1
+easter_c17_countrybg_easter_c17_countrybg_64_a_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 247
+  orig: 65, 247
+  offset: 0, 0
+  index: -1
+easter_c17_countrybg_easter_c17_countrybg_icon_a.png
+  rotate: false
+  xy: 337, 219
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

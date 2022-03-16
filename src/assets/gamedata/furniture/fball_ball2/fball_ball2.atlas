@@ -1,0 +1,83 @@
+
+fball_ball2.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fball_ball2_fball_ball2_64_a_1_1.png
+  rotate: false
+  xy: 58, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_64_a_1_2.png
+  rotate: false
+  xy: 30, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_64_a_1_3.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_64_a_2_1.png
+  rotate: false
+  xy: 226, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_64_a_2_2.png
+  rotate: false
+  xy: 170, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_64_a_2_3.png
+  rotate: false
+  xy: 198, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_64_a_3_1.png
+  rotate: false
+  xy: 86, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_64_a_3_2.png
+  rotate: false
+  xy: 114, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_64_a_3_3.png
+  rotate: false
+  xy: 142, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_64_sd_0_0.png
+  rotate: false
+  xy: 282, 17
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+fball_ball2_fball_ball2_icon_a.png
+  rotate: false
+  xy: 254, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+xmas13_tools1.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas13_tools1_xmas13_tools1_64_sd_0_0.png
+  rotate: false
+  xy: 30, 11
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+xmas13_tools1_xmas13_tools1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

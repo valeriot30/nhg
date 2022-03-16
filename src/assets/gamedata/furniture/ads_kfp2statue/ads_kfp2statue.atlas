@@ -1,0 +1,20 @@
+
+ads_kfp2statue.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_kfp2statue_ads_kfp2statue_64_a_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 126, 199
+  orig: 126, 199
+  offset: 0, 0
+  index: -1
+ads_kfp2statue_ads_kfp2statue_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

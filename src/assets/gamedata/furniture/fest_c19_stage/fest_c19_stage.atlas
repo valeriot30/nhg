@@ -1,0 +1,62 @@
+
+fest_c19_stage.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_stage_fest_c19_stage_64_a_0_0.png
+  rotate: false
+  xy: 399, 87
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+fest_c19_stage_fest_c19_stage_64_b_0_0.png
+  rotate: false
+  xy: 134, 60
+  size: 129, 58
+  orig: 129, 58
+  offset: 0, 0
+  index: -1
+fest_c19_stage_fest_c19_stage_64_c_0_0.png
+  rotate: false
+  xy: 265, 50
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+fest_c19_stage_fest_c19_stage_64_d_0_1.png
+  rotate: false
+  xy: 2, 35
+  size: 97, 16
+  orig: 97, 16
+  offset: 0, 0
+  index: -1
+fest_c19_stage_fest_c19_stage_64_e_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 31
+  orig: 66, 31
+  offset: 0, 0
+  index: -1
+fest_c19_stage_fest_c19_stage_64_f_0_0.png
+  rotate: false
+  xy: 333, 81
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+fest_c19_stage_fest_c19_stage_64_sd_0_0.png
+  rotate: false
+  xy: 2, 53
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+fest_c19_stage_fest_c19_stage_icon_a.png
+  rotate: false
+  xy: 333, 54
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+horse_stable_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+horse_stable_wall_horse_stable_wall_64_a_2_0.png
+  rotate: false
+  xy: 232, 47
+  size: 79, 175
+  orig: 79, 175
+  offset: 0, 0
+  index: -1
+horse_stable_wall_horse_stable_wall_64_a_2_1.png
+  rotate: false
+  xy: 313, 47
+  size: 79, 175
+  orig: 79, 175
+  offset: 0, 0
+  index: -1
+horse_stable_wall_horse_stable_wall_64_a_2_2.png
+  rotate: false
+  xy: 150, 47
+  size: 80, 175
+  orig: 80, 175
+  offset: 0, 0
+  index: -1
+horse_stable_wall_horse_stable_wall_64_a_2_3.png
+  rotate: false
+  xy: 394, 47
+  size: 79, 175
+  orig: 79, 175
+  offset: 0, 0
+  index: -1
+horse_stable_wall_horse_stable_wall_64_a_2_4.png
+  rotate: false
+  xy: 2, 36
+  size: 146, 186
+  orig: 146, 186
+  offset: 0, 0
+  index: -1
+horse_stable_wall_horse_stable_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1

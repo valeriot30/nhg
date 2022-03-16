@@ -1,0 +1,111 @@
+
+school_urinal.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+school_urinal_school_urinal_64_a_2_0.png
+  rotate: false
+  xy: 2, 30
+  size: 82, 96
+  orig: 82, 96
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_b_2_0.png
+  rotate: false
+  xy: 55, 27
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_b_2_1.png
+  rotate: false
+  xy: 148, 2
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_b_2_2.png
+  rotate: false
+  xy: 86, 69
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_b_2_3.png
+  rotate: false
+  xy: 137, 69
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_b_2_4.png
+  rotate: false
+  xy: 188, 69
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_b_2_5.png
+  rotate: false
+  xy: 356, 89
+  size: 49, 37
+  orig: 49, 37
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_c_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_c_2_2.png
+  rotate: false
+  xy: 301, 97
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_c_2_3.png
+  rotate: false
+  xy: 148, 36
+  size: 57, 31
+  orig: 57, 31
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_c_2_4.png
+  rotate: false
+  xy: 239, 94
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_c_2_5.png
+  rotate: false
+  xy: 86, 34
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_c_2_6.png
+  rotate: false
+  xy: 407, 102
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_64_c_2_7.png
+  rotate: false
+  xy: 239, 75
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+school_urinal_school_urinal_icon_a.png
+  rotate: false
+  xy: 207, 34
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1

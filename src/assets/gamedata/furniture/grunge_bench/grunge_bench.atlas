@@ -1,0 +1,62 @@
+
+grunge_bench.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grunge_bench_grunge_bench_64_a_2_0.png
+  rotate: false
+  xy: 165, 16
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+grunge_bench_grunge_bench_64_a_4_0.png
+  rotate: false
+  xy: 106, 16
+  size: 57, 38
+  orig: 57, 38
+  offset: 0, 0
+  index: -1
+grunge_bench_grunge_bench_64_b_2_0.png
+  rotate: false
+  xy: 360, 27
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+grunge_bench_grunge_bench_64_b_4_0.png
+  rotate: false
+  xy: 306, 28
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+grunge_bench_grunge_bench_64_c_2_0.png
+  rotate: false
+  xy: 219, 15
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+grunge_bench_grunge_bench_64_c_4_0.png
+  rotate: false
+  xy: 263, 15
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+grunge_bench_grunge_bench_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 102, 52
+  orig: 102, 52
+  offset: 0, 0
+  index: -1
+grunge_bench_grunge_bench_icon_a.png
+  rotate: false
+  xy: 406, 33
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

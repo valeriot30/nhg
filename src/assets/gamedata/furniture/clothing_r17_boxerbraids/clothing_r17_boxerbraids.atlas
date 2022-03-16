@@ -1,0 +1,27 @@
+
+clothing_r17_boxerbraids.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r17_boxerbraids_clothing_r17_boxerbraids_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+clothing_r17_boxerbraids_clothing_r17_boxerbraids_64_sd_0_0.png
+  rotate: false
+  xy: 33, 6
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+clothing_r17_boxerbraids_clothing_r17_boxerbraids_icon_a.png
+  rotate: false
+  xy: 33, 21
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

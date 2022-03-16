@@ -1,0 +1,55 @@
+
+sf_window.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sf_window_sf_window_64_2_mask.png
+  rotate: false
+  xy: 319, 2
+  size: 99, 121
+  orig: 99, 121
+  offset: 0, 0
+  index: -1
+sf_window_sf_window_64_a_2_0.png
+  rotate: false
+  xy: 2, 71
+  size: 133, 175
+  orig: 133, 175
+  offset: 0, 0
+  index: -1
+sf_window_sf_window_64_b_2_0.png
+  rotate: false
+  xy: 137, 78
+  size: 104, 168
+  orig: 104, 168
+  offset: 0, 0
+  index: -1
+sf_window_sf_window_64_c_2_0.png
+  rotate: false
+  xy: 243, 94
+  size: 74, 152
+  orig: 74, 152
+  offset: 0, 0
+  index: -1
+sf_window_sf_window_64_d_2_0.png
+  rotate: false
+  xy: 319, 125
+  size: 99, 121
+  orig: 99, 121
+  offset: 0, 0
+  index: -1
+sf_window_sf_window_64_d_2_1.png
+  rotate: false
+  xy: 2, 68
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sf_window_sf_window_icon_a.png
+  rotate: false
+  xy: 420, 223
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+party_discol.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+party_discol_party_discol_64_a_4_0.png
+  rotate: false
+  xy: 656, 29
+  size: 56, 111
+  orig: 56, 111
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_a_4_1.png
+  rotate: false
+  xy: 254, 2
+  size: 56, 111
+  orig: 56, 111
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_a_4_2.png
+  rotate: false
+  xy: 946, 142
+  size: 56, 111
+  orig: 56, 111
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_a_4_3.png
+  rotate: false
+  xy: 888, 142
+  size: 56, 111
+  orig: 56, 111
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_a_4_4.png
+  rotate: false
+  xy: 830, 142
+  size: 56, 111
+  orig: 56, 111
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_a_4_5.png
+  rotate: false
+  xy: 772, 142
+  size: 56, 111
+  orig: 56, 111
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_a_4_6.png
+  rotate: false
+  xy: 714, 142
+  size: 56, 111
+  orig: 56, 111
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_a_4_7.png
+  rotate: false
+  xy: 656, 142
+  size: 56, 111
+  orig: 56, 111
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_b_4_0.png
+  rotate: false
+  xy: 1020, 251
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_b_4_1.png
+  rotate: false
+  xy: 464, 112
+  size: 60, 141
+  orig: 60, 141
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_b_4_2.png
+  rotate: false
+  xy: 402, 104
+  size: 60, 149
+  orig: 60, 149
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_b_4_3.png
+  rotate: false
+  xy: 182, 96
+  size: 70, 157
+  orig: 70, 157
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_c_4_1.png
+  rotate: false
+  xy: 588, 123
+  size: 66, 130
+  orig: 66, 130
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_c_4_2.png
+  rotate: false
+  xy: 254, 115
+  size: 82, 138
+  orig: 82, 138
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_c_4_3.png
+  rotate: false
+  xy: 2, 107
+  size: 98, 146
+  orig: 98, 146
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_d_4_1.png
+  rotate: false
+  xy: 526, 113
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_d_4_2.png
+  rotate: false
+  xy: 338, 105
+  size: 62, 148
+  orig: 62, 148
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_d_4_3.png
+  rotate: false
+  xy: 102, 97
+  size: 78, 156
+  orig: 78, 156
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_e_4_0.png
+  rotate: false
+  xy: 2, 13
+  size: 34, 92
+  orig: 34, 92
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_64_sd_4_0.png
+  rotate: false
+  xy: 38, 79
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+party_discol_party_discol_icon_a.png
+  rotate: false
+  xy: 1004, 223
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+nest_chick.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nest_chick_nest_chick_64_a_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 53, 34
+  orig: 53, 34
+  offset: 0, 0
+  index: -1
+nest_chick_nest_chick_64_b_0_0.png
+  rotate: false
+  xy: 31, 9
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+nest_chick_nest_chick_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1

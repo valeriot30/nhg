@@ -1,0 +1,34 @@
+
+greek_c19_fruitbowl.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_c19_fruitbowl_greek_c19_fruitbowl_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+greek_c19_fruitbowl_greek_c19_fruitbowl_64_a_0_1.png
+  rotate: false
+  xy: 62, 2
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+greek_c19_fruitbowl_greek_c19_fruitbowl_64_sd_0_0.png
+  rotate: false
+  xy: 109, 12
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+greek_c19_fruitbowl_greek_c19_fruitbowl_icon_a.png
+  rotate: false
+  xy: 109, 27
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

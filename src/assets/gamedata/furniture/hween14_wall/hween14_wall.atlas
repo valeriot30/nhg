@@ -1,0 +1,34 @@
+
+hween14_wall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween14_wall_hween14_wall_64_a_4_0.png
+  rotate: false
+  xy: 82, 2
+  size: 73, 244
+  orig: 73, 244
+  offset: 0, 0
+  index: -1
+hween14_wall_hween14_wall_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 244
+  orig: 78, 244
+  offset: 0, 0
+  index: -1
+hween14_wall_hween14_wall_64_b_4_1.png
+  rotate: false
+  xy: 157, 37
+  size: 91, 209
+  orig: 91, 209
+  offset: 0, 0
+  index: -1
+hween14_wall_hween14_wall_icon_a.png
+  rotate: false
+  xy: 157, 5
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1

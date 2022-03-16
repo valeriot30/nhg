@@ -1,0 +1,216 @@
+
+obstacle_bush.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+obstacle_bush_obstacle_bush_64_a_4_0.png
+  rotate: false
+  xy: 168, 62
+  size: 142, 64
+  orig: 142, 64
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_b_4_0.png
+  rotate: false
+  xy: 624, 67
+  size: 68, 59
+  orig: 68, 59
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_b_4_1.png
+  rotate: false
+  xy: 945, 67
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_b_4_2.png
+  rotate: false
+  xy: 331, 25
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_b_4_3.png
+  rotate: false
+  xy: 168, 2
+  size: 44, 58
+  orig: 44, 58
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_c_4_0.png
+  rotate: false
+  xy: 825, 77
+  size: 59, 49
+  orig: 59, 49
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_c_4_1.png
+  rotate: false
+  xy: 764, 75
+  size: 59, 51
+  orig: 59, 51
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_c_4_2.png
+  rotate: false
+  xy: 886, 76
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_c_4_3.png
+  rotate: false
+  xy: 553, 76
+  size: 69, 50
+  orig: 69, 50
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_d_4_0.png
+  rotate: false
+  xy: 2, 39
+  size: 164, 87
+  orig: 164, 87
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_0.png
+  rotate: false
+  xy: 694, 73
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_1.png
+  rotate: false
+  xy: 359, 2
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_10.png
+  rotate: false
+  xy: 67, 5
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_11.png
+  rotate: false
+  xy: 531, 30
+  size: 42, 44
+  orig: 42, 44
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_12.png
+  rotate: false
+  xy: 277, 10
+  size: 52, 50
+  orig: 52, 50
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_13.png
+  rotate: false
+  xy: 214, 9
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_14.png
+  rotate: false
+  xy: 694, 76
+  size: 68, 50
+  orig: 68, 50
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_15.png
+  rotate: false
+  xy: 479, 78
+  size: 72, 48
+  orig: 72, 48
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_16.png
+  rotate: false
+  xy: 403, 77
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_2.png
+  rotate: false
+  xy: 312, 62
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_3.png
+  rotate: false
+  xy: 1003, 100
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_4.png
+  rotate: false
+  xy: 575, 41
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_5.png
+  rotate: false
+  xy: 484, 34
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_6.png
+  rotate: false
+  xy: 435, 31
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_7.png
+  rotate: false
+  xy: 385, 29
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_8.png
+  rotate: false
+  xy: 601, 58
+  size: 12, 16
+  orig: 12, 16
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_e_4_9.png
+  rotate: false
+  xy: 331, 2
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_f_4_0.png
+  rotate: false
+  xy: 2, 6
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_64_sd_4_0.png
+  rotate: false
+  xy: 312, 88
+  size: 89, 38
+  orig: 89, 38
+  offset: 0, 0
+  index: -1
+obstacle_bush_obstacle_bush_icon_a.png
+  rotate: false
+  xy: 101, 13
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

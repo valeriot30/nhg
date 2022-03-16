@@ -1,0 +1,27 @@
+
+dessertcafe_c17_rug.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dessertcafe_c17_rug_dessertcafe_c17_rug_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 100, 58
+  orig: 100, 58
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_rug_dessertcafe_c17_rug_64_sd_0_0.png
+  rotate: false
+  xy: 104, 2
+  size: 100, 58
+  orig: 100, 58
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_rug_dessertcafe_c17_rug_icon_a.png
+  rotate: false
+  xy: 206, 40
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

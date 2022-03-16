@@ -1,0 +1,132 @@
+
+summer_grill.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+summer_grill_summer_grill_64_a_0_0.png
+  rotate: false
+  xy: 442, 54
+  size: 31, 72
+  orig: 31, 72
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_a_0_1.png
+  rotate: false
+  xy: 475, 59
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_b_0_0.png
+  rotate: false
+  xy: 370, 7
+  size: 3, 29
+  orig: 3, 29
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_c_0_0.png
+  rotate: false
+  xy: 134, 35
+  size: 66, 91
+  orig: 66, 91
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_c_0_1.png
+  rotate: false
+  xy: 2, 12
+  size: 66, 114
+  orig: 66, 114
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_d_0_0.png
+  rotate: false
+  xy: 393, 84
+  size: 47, 42
+  orig: 47, 42
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_d_0_1.png
+  rotate: false
+  xy: 70, 26
+  size: 62, 100
+  orig: 62, 100
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_e_0_0.png
+  rotate: false
+  xy: 345, 17
+  size: 23, 66
+  orig: 23, 66
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_e_0_1.png
+  rotate: false
+  xy: 370, 38
+  size: 23, 44
+  orig: 23, 44
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_f_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_f_0_1.png
+  rotate: false
+  xy: 419, 76
+  size: 21, 6
+  orig: 21, 6
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_g_0_0.png
+  rotate: false
+  xy: 260, 49
+  size: 51, 77
+  orig: 51, 77
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_g_0_1.png
+  rotate: false
+  xy: 202, 24
+  size: 56, 102
+  orig: 56, 102
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_h_0_0.png
+  rotate: false
+  xy: 260, 33
+  size: 48, 14
+  orig: 48, 14
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_h_0_1.png
+  rotate: false
+  xy: 70, 23
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_64_sd_0_0.png
+  rotate: false
+  xy: 313, 85
+  size: 78, 41
+  orig: 78, 41
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_icon_a.png
+  rotate: false
+  xy: 313, 55
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+summer_grill_summer_grill_icon_b.png
+  rotate: false
+  xy: 395, 59
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1

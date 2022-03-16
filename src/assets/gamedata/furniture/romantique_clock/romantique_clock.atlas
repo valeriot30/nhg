@@ -1,0 +1,62 @@
+
+romantique_clock.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+romantique_clock_romantique_clock_64_a_2_0.png
+  rotate: false
+  xy: 50, 93
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+romantique_clock_romantique_clock_64_a_6_0.png
+  rotate: false
+  xy: 2, 93
+  size: 46, 131
+  orig: 46, 131
+  offset: 0, 0
+  index: -1
+romantique_clock_romantique_clock_64_b_2_0.png
+  rotate: false
+  xy: 98, 180
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+romantique_clock_romantique_clock_64_b_2_1.png
+  rotate: false
+  xy: 2, 26
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+romantique_clock_romantique_clock_64_b_2_2.png
+  rotate: false
+  xy: 98, 134
+  size: 19, 44
+  orig: 19, 44
+  offset: 0, 0
+  index: -1
+romantique_clock_romantique_clock_64_b_6_0.png
+  rotate: false
+  xy: 50, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+romantique_clock_romantique_clock_64_sd_2_0.png
+  rotate: false
+  xy: 2, 72
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+romantique_clock_romantique_clock_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1

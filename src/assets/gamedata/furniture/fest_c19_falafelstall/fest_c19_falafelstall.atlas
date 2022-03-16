@@ -1,0 +1,69 @@
+
+fest_c19_falafelstall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_falafelstall_fest_c19_falafelstall_64_a_2_0.png
+  rotate: false
+  xy: 433, 187
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+fest_c19_falafelstall_fest_c19_falafelstall_64_a_4_0.png
+  rotate: false
+  xy: 433, 136
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+fest_c19_falafelstall_fest_c19_falafelstall_64_b_2_0.png
+  rotate: false
+  xy: 215, 119
+  size: 135, 124
+  orig: 135, 124
+  offset: 0, 0
+  index: -1
+fest_c19_falafelstall_fest_c19_falafelstall_64_b_4_0.png
+  rotate: false
+  xy: 77, 99
+  size: 136, 144
+  orig: 136, 144
+  offset: 0, 0
+  index: -1
+fest_c19_falafelstall_fest_c19_falafelstall_64_c_2_0.png
+  rotate: false
+  xy: 352, 43
+  size: 79, 200
+  orig: 79, 200
+  offset: 0, 0
+  index: -1
+fest_c19_falafelstall_fest_c19_falafelstall_64_c_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 73, 209
+  orig: 73, 209
+  offset: 0, 0
+  index: -1
+fest_c19_falafelstall_fest_c19_falafelstall_64_sd_2_0.png
+  rotate: false
+  xy: 215, 53
+  size: 124, 64
+  orig: 124, 64
+  offset: 0, 0
+  index: -1
+fest_c19_falafelstall_fest_c19_falafelstall_64_sd_4_0.png
+  rotate: false
+  xy: 77, 33
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+fest_c19_falafelstall_fest_c19_falafelstall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

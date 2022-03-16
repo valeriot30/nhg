@@ -1,0 +1,48 @@
+
+snst_fireplace_nfs.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snst_fireplace_nfs_snst_fireplace_nfs_64_a_2_0.png
+  rotate: false
+  xy: 2, 37
+  size: 124, 209
+  orig: 124, 209
+  offset: 0, 0
+  index: -1
+snst_fireplace_nfs_snst_fireplace_nfs_64_b_2_0.png
+  rotate: false
+  xy: 128, 113
+  size: 195, 133
+  orig: 195, 133
+  offset: 0, 0
+  index: -1
+snst_fireplace_nfs_snst_fireplace_nfs_64_c_2_0.png
+  rotate: false
+  xy: 128, 41
+  size: 122, 70
+  orig: 122, 70
+  offset: 0, 0
+  index: -1
+snst_fireplace_nfs_snst_fireplace_nfs_64_c_2_1.png
+  rotate: false
+  xy: 325, 176
+  size: 122, 70
+  orig: 122, 70
+  offset: 0, 0
+  index: -1
+snst_fireplace_nfs_snst_fireplace_nfs_64_c_2_2.png
+  rotate: false
+  xy: 325, 104
+  size: 122, 70
+  orig: 122, 70
+  offset: 0, 0
+  index: -1
+snst_fireplace_nfs_snst_fireplace_nfs_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1

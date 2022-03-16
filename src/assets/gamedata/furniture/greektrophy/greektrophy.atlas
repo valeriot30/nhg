@@ -1,0 +1,41 @@
+
+greektrophy.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greektrophy_greektrophy_64_a_2_0.png
+  rotate: false
+  xy: 2, 159
+  size: 39, 84
+  orig: 39, 84
+  offset: 0, 0
+  index: -1
+greektrophy_greektrophy_64_b_2_0.png
+  rotate: false
+  xy: 2, 46
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+greektrophy_greektrophy_64_c_2_0.png
+  rotate: false
+  xy: 2, 96
+  size: 26, 61
+  orig: 26, 61
+  offset: 0, 0
+  index: -1
+greektrophy_greektrophy_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 13
+  orig: 41, 13
+  offset: 0, 0
+  index: -1
+greektrophy_greektrophy_icon_a.png
+  rotate: false
+  xy: 2, 17
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

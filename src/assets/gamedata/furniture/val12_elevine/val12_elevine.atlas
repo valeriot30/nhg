@@ -1,0 +1,48 @@
+
+val12_elevine.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val12_elevine_val12_elevine_64_a_0_0.png
+  rotate: false
+  xy: 71, 2
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+val12_elevine_val12_elevine_64_a_0_1.png
+  rotate: false
+  xy: 140, 7
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+val12_elevine_val12_elevine_64_a_0_2.png
+  rotate: false
+  xy: 140, 55
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+val12_elevine_val12_elevine_64_a_0_3.png
+  rotate: false
+  xy: 71, 39
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+val12_elevine_val12_elevine_64_a_0_4.png
+  rotate: false
+  xy: 2, 23
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+val12_elevine_val12_elevine_icon_a.png
+  rotate: false
+  xy: 208, 93
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

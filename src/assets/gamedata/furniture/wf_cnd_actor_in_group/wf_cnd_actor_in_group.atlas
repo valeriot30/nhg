@@ -1,0 +1,48 @@
+
+wf_cnd_actor_in_group.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wf_cnd_actor_in_group_wf_cnd_actor_in_group_64_a_2_0.png
+  rotate: false
+  xy: 209, 2
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+wf_cnd_actor_in_group_wf_cnd_actor_in_group_64_a_2_1.png
+  rotate: false
+  xy: 278, 2
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+wf_cnd_actor_in_group_wf_cnd_actor_in_group_64_a_2_2.png
+  rotate: false
+  xy: 71, 2
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+wf_cnd_actor_in_group_wf_cnd_actor_in_group_64_a_2_3.png
+  rotate: false
+  xy: 140, 2
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+wf_cnd_actor_in_group_wf_cnd_actor_in_group_64_a_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+wf_cnd_actor_in_group_wf_cnd_actor_in_group_icon_a.png
+  rotate: false
+  xy: 347, 21
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+celestial_c19_starchair.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+celestial_c19_starchair_celestial_c19_starchair_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 49
+  orig: 46, 49
+  offset: 0, 0
+  index: -1
+celestial_c19_starchair_celestial_c19_starchair_64_sd_0_0.png
+  rotate: false
+  xy: 50, 34
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+celestial_c19_starchair_celestial_c19_starchair_icon_a.png
+  rotate: false
+  xy: 50, 7
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

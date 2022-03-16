@@ -1,0 +1,41 @@
+
+mystics_bwall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mystics_bwall_mystics_bwall_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 77, 252
+  orig: 77, 252
+  offset: 0, 0
+  index: -1
+mystics_bwall_mystics_bwall_64_a_4_0.png
+  rotate: false
+  xy: 81, 2
+  size: 77, 252
+  orig: 77, 252
+  offset: 0, 0
+  index: -1
+mystics_bwall_mystics_bwall_64_b_2_0.png
+  rotate: false
+  xy: 160, 41
+  size: 79, 213
+  orig: 79, 213
+  offset: 0, 0
+  index: -1
+mystics_bwall_mystics_bwall_64_b_4_0.png
+  rotate: false
+  xy: 241, 41
+  size: 79, 213
+  orig: 79, 213
+  offset: 0, 0
+  index: -1
+mystics_bwall_mystics_bwall_icon_a.png
+  rotate: false
+  xy: 160, 7
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+clothing_inmate.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_inmate_clothing_inmate_64_a_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+clothing_inmate_clothing_inmate_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

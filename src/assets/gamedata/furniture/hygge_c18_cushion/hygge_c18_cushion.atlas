@@ -1,0 +1,62 @@
+
+hygge_c18_cushion.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hygge_c18_cushion_hygge_c18_cushion_64_a_0_0.png
+  rotate: false
+  xy: 2, 7
+  size: 72, 36
+  orig: 72, 36
+  offset: 0, 0
+  index: -1
+hygge_c18_cushion_hygge_c18_cushion_64_b_0_0.png
+  rotate: false
+  xy: 124, 60
+  size: 60, 47
+  orig: 60, 47
+  offset: 0, 0
+  index: -1
+hygge_c18_cushion_hygge_c18_cushion_64_c_0_0.png
+  rotate: false
+  xy: 186, 60
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+hygge_c18_cushion_hygge_c18_cushion_64_d_0_0.png
+  rotate: false
+  xy: 76, 5
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+hygge_c18_cushion_hygge_c18_cushion_64_e_0_0.png
+  rotate: false
+  xy: 173, 32
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+hygge_c18_cushion_hygge_c18_cushion_64_f_0_0.png
+  rotate: false
+  xy: 125, 27
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+hygge_c18_cushion_hygge_c18_cushion_64_sd_0_0.png
+  rotate: false
+  xy: 2, 45
+  size: 120, 62
+  orig: 120, 62
+  offset: 0, 0
+  index: -1
+hygge_c18_cushion_hygge_c18_cushion_icon_a.png
+  rotate: false
+  xy: 125, 2
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

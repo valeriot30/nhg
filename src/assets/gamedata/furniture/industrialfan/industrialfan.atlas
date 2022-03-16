@@ -1,0 +1,55 @@
+
+industrialfan.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+industrialfan_industrialfan_64_a_2_1.png
+  rotate: false
+  xy: 70, 2
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+industrialfan_industrialfan_64_b_2_1.png
+  rotate: false
+  xy: 138, 50
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+industrialfan_industrialfan_64_b_2_2.png
+  rotate: false
+  xy: 138, 8
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+industrialfan_industrialfan_64_b_2_3.png
+  rotate: false
+  xy: 204, 70
+  size: 34, 35
+  orig: 34, 35
+  offset: 0, 0
+  index: -1
+industrialfan_industrialfan_64_b_2_4.png
+  rotate: false
+  xy: 174, 58
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+industrialfan_industrialfan_64_c_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+industrialfan_industrialfan_icon_a.png
+  rotate: false
+  xy: 174, 26
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

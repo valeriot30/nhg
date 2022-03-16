@@ -1,0 +1,41 @@
+
+band_c19_guitar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+band_c19_guitar_band_c19_guitar_64_a_2_0.png
+  rotate: false
+  xy: 2, 123
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+band_c19_guitar_band_c19_guitar_64_a_4_0.png
+  rotate: false
+  xy: 2, 46
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+band_c19_guitar_band_c19_guitar_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+band_c19_guitar_band_c19_guitar_64_sd_4_0.png
+  rotate: false
+  xy: 2, 24
+  size: 34, 20
+  orig: 34, 20
+  offset: 0, 0
+  index: -1
+band_c19_guitar_band_c19_guitar_icon_a.png
+  rotate: false
+  xy: 39, 169
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1

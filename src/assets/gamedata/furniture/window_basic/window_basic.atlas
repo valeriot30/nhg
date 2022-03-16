@@ -1,0 +1,41 @@
+
+window_basic.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window_basic_window_basic_64_2_mask.png
+  rotate: false
+  xy: 128, 39
+  size: 40, 81
+  orig: 40, 81
+  offset: 0, 0
+  index: -1
+window_basic_window_basic_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 118
+  orig: 68, 118
+  offset: 0, 0
+  index: -1
+window_basic_window_basic_64_b_2_0.png
+  rotate: false
+  xy: 72, 44
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+window_basic_window_basic_64_b_2_1.png
+  rotate: false
+  xy: 170, 62
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+window_basic_window_basic_icon_a.png
+  rotate: false
+  xy: 72, 22
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+dessertcafe_c17_froyo.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dessertcafe_c17_froyo_dessertcafe_c17_froyo_64_a_0_0.png
+  rotate: false
+  xy: 80, 28
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_froyo_dessertcafe_c17_froyo_64_a_0_1.png
+  rotate: false
+  xy: 119, 28
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_froyo_dessertcafe_c17_froyo_64_a_0_2.png
+  rotate: false
+  xy: 2, 24
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_froyo_dessertcafe_c17_froyo_64_a_0_3.png
+  rotate: false
+  xy: 41, 24
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_froyo_dessertcafe_c17_froyo_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_froyo_dessertcafe_c17_froyo_icon_a.png
+  rotate: false
+  xy: 158, 31
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

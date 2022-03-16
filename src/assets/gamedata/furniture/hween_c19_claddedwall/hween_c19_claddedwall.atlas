@@ -1,0 +1,195 @@
+
+hween_c19_claddedwall.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_claddedwall_hween_c19_claddedwall_64_a_2_0.png
+  rotate: false
+  xy: 106, 72
+  size: 102, 180
+  orig: 102, 180
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_a_4_0.png
+  rotate: false
+  xy: 2, 72
+  size: 102, 180
+  orig: 102, 180
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_b_2_0.png
+  rotate: false
+  xy: 354, 93
+  size: 63, 159
+  orig: 63, 159
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_b_4_0.png
+  rotate: false
+  xy: 419, 93
+  size: 63, 159
+  orig: 63, 159
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_c_2_0.png
+  rotate: false
+  xy: 210, 89
+  size: 70, 163
+  orig: 70, 163
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_c_4_0.png
+  rotate: false
+  xy: 282, 89
+  size: 70, 163
+  orig: 70, 163
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_d_2_1.png
+  rotate: false
+  xy: 574, 117
+  size: 35, 135
+  orig: 35, 135
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_d_4_1.png
+  rotate: false
+  xy: 611, 118
+  size: 35, 134
+  orig: 35, 134
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_e_2_1.png
+  rotate: false
+  xy: 529, 103
+  size: 43, 149
+  orig: 43, 149
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_e_4_1.png
+  rotate: false
+  xy: 484, 103
+  size: 43, 149
+  orig: 43, 149
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_f_2_1.png
+  rotate: false
+  xy: 818, 138
+  size: 21, 114
+  orig: 21, 114
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_f_2_2.png
+  rotate: false
+  xy: 648, 138
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_f_4_1.png
+  rotate: false
+  xy: 841, 138
+  size: 21, 114
+  orig: 21, 114
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_f_4_2.png
+  rotate: false
+  xy: 681, 138
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_g_2_1.png
+  rotate: false
+  xy: 792, 136
+  size: 24, 116
+  orig: 24, 116
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_g_2_2.png
+  rotate: false
+  xy: 740, 136
+  size: 24, 116
+  orig: 24, 116
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_g_4_1.png
+  rotate: false
+  xy: 766, 136
+  size: 24, 116
+  orig: 24, 116
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_g_4_2.png
+  rotate: false
+  xy: 714, 136
+  size: 24, 116
+  orig: 24, 116
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_h_2_1.png
+  rotate: false
+  xy: 33, 7
+  size: 22, 63
+  orig: 22, 63
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_h_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_h_4_1.png
+  rotate: false
+  xy: 987, 189
+  size: 22, 63
+  orig: 22, 63
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_h_4_2.png
+  rotate: false
+  xy: 864, 184
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_i_2_1.png
+  rotate: false
+  xy: 964, 178
+  size: 21, 74
+  orig: 21, 74
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_i_2_2.png
+  rotate: false
+  xy: 918, 178
+  size: 21, 74
+  orig: 21, 74
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_i_4_1.png
+  rotate: false
+  xy: 941, 178
+  size: 21, 74
+  orig: 21, 74
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_64_i_4_2.png
+  rotate: false
+  xy: 895, 178
+  size: 21, 74
+  orig: 21, 74
+  offset: 0, 0
+  index: -1
+hween_c19_claddedwall_hween_c19_claddedwall_icon_a.png
+  rotate: false
+  xy: 864, 153
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1

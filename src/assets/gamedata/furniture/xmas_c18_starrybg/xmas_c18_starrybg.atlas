@@ -1,0 +1,265 @@
+
+xmas_c18_starrybg.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_starrybg_xmas_c18_starrybg_64_a_4_0.png
+  rotate: false
+  xy: 2, 314
+  size: 66, 353
+  orig: 66, 353
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_a_4_1.png
+  rotate: false
+  xy: 2, 669
+  size: 66, 353
+  orig: 66, 353
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_a_4_2.png
+  rotate: false
+  xy: 70, 669
+  size: 66, 353
+  orig: 66, 353
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_b_4_1.png
+  rotate: false
+  xy: 243, 842
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_b_4_2.png
+  rotate: false
+  xy: 59, 233
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_b_4_3.png
+  rotate: false
+  xy: 244, 1012
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_b_4_4.png
+  rotate: false
+  xy: 244, 1000
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_c_4_1.png
+  rotate: false
+  xy: 127, 604
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_c_4_2.png
+  rotate: false
+  xy: 249, 853
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_c_4_3.png
+  rotate: false
+  xy: 249, 846
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_c_4_4.png
+  rotate: false
+  xy: 195, 796
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_d_4_0.png
+  rotate: false
+  xy: 135, 666
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_d_4_1.png
+  rotate: false
+  xy: 138, 796
+  size: 55, 226
+  orig: 55, 226
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_d_4_2.png
+  rotate: false
+  xy: 70, 441
+  size: 55, 226
+  orig: 55, 226
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_d_4_3.png
+  rotate: false
+  xy: 2, 86
+  size: 55, 226
+  orig: 55, 226
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_1.png
+  rotate: false
+  xy: 138, 687
+  size: 1, 22
+  orig: 1, 22
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_10.png
+  rotate: false
+  xy: 195, 889
+  size: 47, 133
+  orig: 47, 133
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_11.png
+  rotate: false
+  xy: 152, 752
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_12.png
+  rotate: false
+  xy: 152, 709
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_2.png
+  rotate: false
+  xy: 108, 398
+  size: 3, 41
+  orig: 3, 41
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_3.png
+  rotate: false
+  xy: 127, 609
+  size: 6, 58
+  orig: 6, 58
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_4.png
+  rotate: false
+  xy: 59, 241
+  size: 9, 71
+  orig: 9, 71
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_5.png
+  rotate: false
+  xy: 138, 711
+  size: 12, 83
+  orig: 12, 83
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_6.png
+  rotate: false
+  xy: 70, 354
+  size: 15, 85
+  orig: 15, 85
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_7.png
+  rotate: false
+  xy: 195, 813
+  size: 17, 74
+  orig: 17, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_8.png
+  rotate: false
+  xy: 87, 370
+  size: 19, 69
+  orig: 19, 69
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_e_4_9.png
+  rotate: false
+  xy: 2, 16
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_f_4_1.png
+  rotate: false
+  xy: 35, 81
+  size: 12, 3
+  orig: 12, 3
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_f_4_2.png
+  rotate: false
+  xy: 87, 363
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_f_4_3.png
+  rotate: false
+  xy: 214, 838
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_f_4_4.png
+  rotate: false
+  xy: 214, 848
+  size: 33, 10
+  orig: 33, 10
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_f_4_5.png
+  rotate: false
+  xy: 214, 874
+  size: 40, 13
+  orig: 40, 13
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_f_4_6.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_f_4_7.png
+  rotate: false
+  xy: 214, 860
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_f_4_8.png
+  rotate: false
+  xy: 214, 827
+  size: 25, 9
+  orig: 25, 9
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_64_f_4_9.png
+  rotate: false
+  xy: 195, 805
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+xmas_c18_starrybg_xmas_c18_starrybg_icon_a.png
+  rotate: false
+  xy: 70, 320
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1

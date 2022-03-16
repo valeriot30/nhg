@@ -1,0 +1,27 @@
+
+hween14_flowerpot.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween14_flowerpot_hween14_flowerpot_64_a_0_0.png
+  rotate: false
+  xy: 2, 57
+  size: 43, 80
+  orig: 43, 80
+  offset: 0, 0
+  index: -1
+hween14_flowerpot_hween14_flowerpot_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+hween14_flowerpot_hween14_flowerpot_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,181 @@
+
+cubie_shelf_2_p.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cubie_shelf_2_p_cubie_shelf_2_p_32_d_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_32_d_0_0.png
+  rotate: false
+  xy: 29, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_a_0_0.png
+  rotate: false
+  xy: 2, 125
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_1.png
+  rotate: false
+  xy: 83, 74
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_10.png
+  rotate: false
+  xy: 56, 100
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_2.png
+  rotate: false
+  xy: 87, 21
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_3.png
+  rotate: false
+  xy: 30, 87
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_4.png
+  rotate: false
+  xy: 29, 12
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_5.png
+  rotate: false
+  xy: 56, 30
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_6.png
+  rotate: false
+  xy: 56, 65
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_7.png
+  rotate: false
+  xy: 84, 138
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_8.png
+  rotate: false
+  xy: 29, 50
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_b_0_9.png
+  rotate: false
+  xy: 83, 102
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_c_0_0.png
+  rotate: false
+  xy: 2, 186
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_1.png
+  rotate: false
+  xy: 83, 45
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_10.png
+  rotate: false
+  xy: 86, 211
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_2.png
+  rotate: false
+  xy: 107, 43
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_3.png
+  rotate: false
+  xy: 2, 48
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_4.png
+  rotate: false
+  xy: 2, 9
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_5.png
+  rotate: false
+  xy: 86, 175
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_6.png
+  rotate: false
+  xy: 56, 137
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_7.png
+  rotate: false
+  xy: 2, 87
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_8.png
+  rotate: false
+  xy: 58, 173
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_64_d_0_9.png
+  rotate: false
+  xy: 58, 210
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+cubie_shelf_2_p_cubie_shelf_2_p_icon_a.png
+  rotate: false
+  xy: 55, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

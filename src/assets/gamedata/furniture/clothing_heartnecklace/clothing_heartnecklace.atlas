@@ -1,0 +1,20 @@
+
+clothing_heartnecklace.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_heartnecklace_clothing_heartnecklace_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+clothing_heartnecklace_clothing_heartnecklace_icon_a.png
+  rotate: false
+  xy: 56, 5
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

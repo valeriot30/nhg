@@ -1,0 +1,160 @@
+
+js_coins.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+js_coins_js_coins_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_b_0_0.png
+  rotate: false
+  xy: 200, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_b_0_1.png
+  rotate: false
+  xy: 448, 10
+  size: 36, 105
+  orig: 36, 105
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_b_0_2.png
+  rotate: false
+  xy: 486, 19
+  size: 36, 96
+  orig: 36, 96
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_b_0_3.png
+  rotate: false
+  xy: 372, 13
+  size: 36, 102
+  orig: 36, 102
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_b_0_4.png
+  rotate: false
+  xy: 410, 9
+  size: 36, 106
+  orig: 36, 106
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_b_0_5.png
+  rotate: false
+  xy: 296, 13
+  size: 36, 102
+  orig: 36, 102
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_b_0_6.png
+  rotate: false
+  xy: 334, 13
+  size: 36, 102
+  orig: 36, 102
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_c_0_0.png
+  rotate: false
+  xy: 733, 88
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_d_0_1.png
+  rotate: false
+  xy: 2, 14
+  size: 51, 101
+  orig: 51, 101
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_d_0_2.png
+  rotate: false
+  xy: 106, 14
+  size: 45, 101
+  orig: 45, 101
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_d_0_3.png
+  rotate: false
+  xy: 249, 18
+  size: 45, 97
+  orig: 45, 97
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_d_0_4.png
+  rotate: false
+  xy: 153, 12
+  size: 45, 103
+  orig: 45, 103
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_d_0_5.png
+  rotate: false
+  xy: 200, 20
+  size: 47, 95
+  orig: 47, 95
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_d_0_6.png
+  rotate: false
+  xy: 55, 14
+  size: 49, 101
+  orig: 49, 101
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_e_0_1.png
+  rotate: false
+  xy: 524, 41
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_e_0_2.png
+  rotate: false
+  xy: 658, 62
+  size: 43, 53
+  orig: 43, 53
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_e_0_3.png
+  rotate: false
+  xy: 612, 59
+  size: 44, 56
+  orig: 44, 56
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_e_0_4.png
+  rotate: false
+  xy: 564, 58
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_e_0_5.png
+  rotate: false
+  xy: 733, 51
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_64_e_0_6.png
+  rotate: false
+  xy: 703, 36
+  size: 28, 79
+  orig: 28, 79
+  offset: 0, 0
+  index: -1
+js_coins_js_coins_icon_a.png
+  rotate: false
+  xy: 789, 90
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1

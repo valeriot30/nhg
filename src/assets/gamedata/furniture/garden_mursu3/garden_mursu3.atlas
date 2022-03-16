@@ -1,0 +1,97 @@
+
+garden_mursu3.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+garden_mursu3_garden_mursu3_64_a_0_0.png
+  rotate: false
+  xy: 562, 24
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_a_0_1.png
+  rotate: false
+  xy: 358, 16
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_a_0_2.png
+  rotate: false
+  xy: 154, 6
+  size: 50, 95
+  orig: 50, 95
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_a_2_0.png
+  rotate: false
+  xy: 510, 24
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_a_2_1.png
+  rotate: false
+  xy: 306, 16
+  size: 50, 85
+  orig: 50, 85
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_a_2_2.png
+  rotate: false
+  xy: 102, 6
+  size: 50, 95
+  orig: 50, 95
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_b_0_0.png
+  rotate: false
+  xy: 460, 20
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_b_0_1.png
+  rotate: false
+  xy: 256, 12
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_b_0_2.png
+  rotate: false
+  xy: 52, 2
+  size: 48, 99
+  orig: 48, 99
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_b_2_0.png
+  rotate: false
+  xy: 410, 20
+  size: 48, 81
+  orig: 48, 81
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_b_2_1.png
+  rotate: false
+  xy: 206, 12
+  size: 48, 89
+  orig: 48, 89
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_64_b_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 99
+  orig: 48, 99
+  offset: 0, 0
+  index: -1
+garden_mursu3_garden_mursu3_icon_a.png
+  rotate: false
+  xy: 614, 72
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1

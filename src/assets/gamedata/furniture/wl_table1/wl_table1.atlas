@@ -1,0 +1,41 @@
+
+wl_table1.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wl_table1_wl_table1_64_a_0_0.png
+  rotate: false
+  xy: 63, 181
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+wl_table1_wl_table1_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 58, 94
+  orig: 58, 94
+  offset: 0, 0
+  index: -1
+wl_table1_wl_table1_64_a_0_2.png
+  rotate: false
+  xy: 2, 98
+  size: 59, 139
+  orig: 59, 139
+  offset: 0, 0
+  index: -1
+wl_table1_wl_table1_64_sd_0_0.png
+  rotate: false
+  xy: 63, 150
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+wl_table1_wl_table1_icon_a.png
+  rotate: false
+  xy: 63, 121
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

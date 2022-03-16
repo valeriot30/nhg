@@ -1,0 +1,20 @@
+
+vikings_banner_r.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_banner_r_vikings_banner_r_64_a_2_0.png
+  rotate: false
+  xy: 2, 26
+  size: 85, 144
+  orig: 85, 144
+  offset: 0, 0
+  index: -1
+vikings_banner_r_vikings_banner_r_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+throne.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+throne_throne_64_a_0_0.png
+  rotate: false
+  xy: 164, 45
+  size: 23, 40
+  orig: 23, 40
+  offset: 0, 0
+  index: -1
+throne_throne_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+throne_throne_64_b_0_0.png
+  rotate: false
+  xy: 67, 41
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+throne_throne_64_b_2_0.png
+  rotate: false
+  xy: 132, 43
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+throne_throne_64_sd_2_0.png
+  rotate: false
+  xy: 132, 87
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+throne_throne_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

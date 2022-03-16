@@ -1,0 +1,188 @@
+
+fball_score_g.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fball_score_g_fball_score_g_64_a_2_0.png
+  rotate: false
+  xy: 2, 107
+  size: 51, 143
+  orig: 51, 143
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_1.png
+  rotate: false
+  xy: 55, 144
+  size: 2, 19
+  orig: 2, 19
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_2.png
+  rotate: false
+  xy: 41, 85
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_3.png
+  rotate: false
+  xy: 55, 230
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_4.png
+  rotate: false
+  xy: 42, 41
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_5.png
+  rotate: false
+  xy: 12, 11
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_6.png
+  rotate: false
+  xy: 12, 33
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_7.png
+  rotate: false
+  xy: 55, 165
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_8.png
+  rotate: false
+  xy: 2, 11
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_2_9.png
+  rotate: false
+  xy: 30, 62
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_0.png
+  rotate: false
+  xy: 32, 18
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_1.png
+  rotate: false
+  xy: 55, 123
+  size: 2, 19
+  orig: 2, 19
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_2.png
+  rotate: false
+  xy: 32, 40
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_3.png
+  rotate: false
+  xy: 55, 186
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_4.png
+  rotate: false
+  xy: 50, 63
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_5.png
+  rotate: false
+  xy: 51, 85
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_6.png
+  rotate: false
+  xy: 40, 62
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_7.png
+  rotate: false
+  xy: 55, 208
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_8.png
+  rotate: false
+  xy: 22, 11
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_b_4_9.png
+  rotate: false
+  xy: 22, 33
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_e_2_0.png
+  rotate: false
+  xy: 10, 2
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_f_2_0.png
+  rotate: false
+  xy: 42, 32
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_64_sd_2_0.png
+  rotate: false
+  xy: 2, 84
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+fball_score_g_fball_score_g_icon_a.png
+  rotate: false
+  xy: 2, 55
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

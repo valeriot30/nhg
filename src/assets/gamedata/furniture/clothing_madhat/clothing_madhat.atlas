@@ -1,0 +1,20 @@
+
+clothing_madhat.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_madhat_clothing_madhat_64_a_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 38, 62
+  orig: 38, 62
+  offset: 0, 0
+  index: -1
+clothing_madhat_clothing_madhat_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

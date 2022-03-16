@@ -1,0 +1,48 @@
+
+doorD.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+doorD_doorD_64_a_4_0.png
+  rotate: false
+  xy: 148, 91
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+doorD_doorD_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+doorD_doorD_64_b_4_0.png
+  rotate: false
+  xy: 148, 94
+  size: 71, 148
+  orig: 71, 148
+  offset: 0, 0
+  index: -1
+doorD_doorD_64_b_4_1.png
+  rotate: false
+  xy: 221, 94
+  size: 66, 148
+  orig: 66, 148
+  offset: 0, 0
+  index: -1
+doorD_doorD_64_c_4_1.png
+  rotate: false
+  xy: 2, 89
+  size: 144, 153
+  orig: 144, 153
+  offset: 0, 0
+  index: -1
+doorD_doorD_icon_a.png
+  rotate: false
+  xy: 289, 212
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,202 @@
+
+es_statue.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+es_statue_es_statue_32_b_0_0.png
+  rotate: false
+  xy: 2, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_a_0_0.png
+  rotate: false
+  xy: 362, 30
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_1.png
+  rotate: false
+  xy: 464, 39
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_10.png
+  rotate: false
+  xy: 467, 97
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_11.png
+  rotate: false
+  xy: 444, 97
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_12.png
+  rotate: false
+  xy: 416, 9
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_13.png
+  rotate: false
+  xy: 458, 9
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_14.png
+  rotate: false
+  xy: 362, 2
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_15.png
+  rotate: false
+  xy: 438, 9
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_16.png
+  rotate: false
+  xy: 464, 68
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_17.png
+  rotate: false
+  xy: 416, 67
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_18.png
+  rotate: false
+  xy: 230, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_19.png
+  rotate: false
+  xy: 182, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_2.png
+  rotate: false
+  xy: 416, 38
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_20.png
+  rotate: false
+  xy: 302, 27
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_21.png
+  rotate: false
+  xy: 242, 27
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_22.png
+  rotate: false
+  xy: 182, 27
+  size: 58, 99
+  orig: 58, 99
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_23.png
+  rotate: false
+  xy: 122, 21
+  size: 58, 105
+  orig: 58, 105
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_24.png
+  rotate: false
+  xy: 62, 21
+  size: 58, 105
+  orig: 58, 105
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_25.png
+  rotate: false
+  xy: 2, 21
+  size: 58, 105
+  orig: 58, 105
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_3.png
+  rotate: false
+  xy: 253, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_4.png
+  rotate: false
+  xy: 206, 2
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_5.png
+  rotate: false
+  xy: 488, 41
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_6.png
+  rotate: false
+  xy: 490, 70
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_7.png
+  rotate: false
+  xy: 490, 99
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_8.png
+  rotate: false
+  xy: 441, 38
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_64_b_0_9.png
+  rotate: false
+  xy: 441, 67
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+es_statue_es_statue_icon_a.png
+  rotate: false
+  xy: 416, 96
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+valentines_lovelock6.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+valentines_lovelock6_valentines_lovelock6_64_a_2_0.png
+  rotate: false
+  xy: 2, 53
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+valentines_lovelock6_valentines_lovelock6_64_a_2_1.png
+  rotate: false
+  xy: 2, 136
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+valentines_lovelock6_valentines_lovelock6_64_sd_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+valentines_lovelock6_valentines_lovelock6_icon_a.png
+  rotate: false
+  xy: 2, 21
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

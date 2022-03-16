@@ -1,0 +1,27 @@
+
+pastel_c19_plushie3.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastel_c19_plushie3_pastel_c19_plushie3_64_a_0_0.png
+  rotate: false
+  xy: 2, 57
+  size: 48, 68
+  orig: 48, 68
+  offset: 0, 0
+  index: -1
+pastel_c19_plushie3_pastel_c19_plushie3_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+pastel_c19_plushie3_pastel_c19_plushie3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

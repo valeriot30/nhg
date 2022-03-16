@@ -1,0 +1,27 @@
+
+cine_pstr_20.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cine_pstr_20_cine_pstr_20_64_a_2_0.png
+  rotate: false
+  xy: 69, 33
+  size: 65, 146
+  orig: 65, 146
+  offset: 0, 0
+  index: -1
+cine_pstr_20_cine_pstr_20_64_a_4_0.png
+  rotate: false
+  xy: 2, 33
+  size: 65, 146
+  orig: 65, 146
+  offset: 0, 0
+  index: -1
+cine_pstr_20_cine_pstr_20_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1

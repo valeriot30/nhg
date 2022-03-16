@@ -1,0 +1,244 @@
+
+dia_podium.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dia_podium_dia_podium_64_a_2_0.png
+  rotate: false
+  xy: 899, 57
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_a_6_0.png
+  rotate: false
+  xy: 857, 54
+  size: 40, 67
+  orig: 40, 67
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_0.png
+  rotate: false
+  xy: 899, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_1.png
+  rotate: false
+  xy: 2, 13
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_10.png
+  rotate: false
+  xy: 868, 43
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_11.png
+  rotate: false
+  xy: 941, 69
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_13.png
+  rotate: false
+  xy: 952, 80
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_14.png
+  rotate: false
+  xy: 965, 101
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_15.png
+  rotate: false
+  xy: 976, 112
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_2.png
+  rotate: false
+  xy: 857, 43
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_5.png
+  rotate: false
+  xy: 13, 13
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_6.png
+  rotate: false
+  xy: 857, 32
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_7.png
+  rotate: false
+  xy: 941, 80
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_b_2_9.png
+  rotate: false
+  xy: 965, 112
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_2_1.png
+  rotate: false
+  xy: 811, 24
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_2_2.png
+  rotate: false
+  xy: 627, 24
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_2_3.png
+  rotate: false
+  xy: 673, 24
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_2_4.png
+  rotate: false
+  xy: 719, 24
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_2_5.png
+  rotate: false
+  xy: 765, 24
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_2_6.png
+  rotate: false
+  xy: 443, 24
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_2_7.png
+  rotate: false
+  xy: 489, 24
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_2_8.png
+  rotate: false
+  xy: 535, 24
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_2_9.png
+  rotate: false
+  xy: 581, 24
+  size: 44, 97
+  orig: 44, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_6_1.png
+  rotate: false
+  xy: 394, 24
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_6_2.png
+  rotate: false
+  xy: 247, 24
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_6_3.png
+  rotate: false
+  xy: 198, 24
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_6_4.png
+  rotate: false
+  xy: 345, 24
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_6_5.png
+  rotate: false
+  xy: 296, 24
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_6_6.png
+  rotate: false
+  xy: 2, 24
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_6_7.png
+  rotate: false
+  xy: 51, 24
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_6_8.png
+  rotate: false
+  xy: 100, 24
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_64_c_6_9.png
+  rotate: false
+  xy: 149, 24
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+dia_podium_dia_podium_icon_a.png
+  rotate: false
+  xy: 941, 91
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

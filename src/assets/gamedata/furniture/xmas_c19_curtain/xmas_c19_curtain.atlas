@@ -1,0 +1,300 @@
+
+xmas_c19_curtain.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_curtain_xmas_c19_curtain_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 65, 210
+  orig: 65, 210
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_a_2_1.png
+  rotate: false
+  xy: 171, 34
+  size: 49, 210
+  orig: 49, 210
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_a_4_0.png
+  rotate: false
+  xy: 120, 34
+  size: 49, 210
+  orig: 49, 210
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_a_4_1.png
+  rotate: false
+  xy: 69, 34
+  size: 49, 210
+  orig: 49, 210
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_b_2_0.png
+  rotate: false
+  xy: 222, 37
+  size: 45, 207
+  orig: 45, 207
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_b_4_0.png
+  rotate: false
+  xy: 269, 37
+  size: 45, 207
+  orig: 45, 207
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_c_2_0.png
+  rotate: false
+  xy: 1398, 190
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_c_4_0.png
+  rotate: false
+  xy: 1310, 90
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_2_0.png
+  rotate: false
+  xy: 1092, 49
+  size: 26, 195
+  orig: 26, 195
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_2_1.png
+  rotate: false
+  xy: 758, 54
+  size: 37, 190
+  orig: 37, 190
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_2_2.png
+  rotate: false
+  xy: 416, 54
+  size: 50, 190
+  orig: 50, 190
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_2_3.png
+  rotate: false
+  xy: 366, 46
+  size: 48, 198
+  orig: 48, 198
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_2_4.png
+  rotate: false
+  xy: 641, 39
+  size: 37, 205
+  orig: 37, 205
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_2_5.png
+  rotate: false
+  xy: 1175, 40
+  size: 25, 204
+  orig: 25, 204
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_2_6.png
+  rotate: false
+  xy: 1148, 42
+  size: 25, 202
+  orig: 25, 202
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_4_0.png
+  rotate: false
+  xy: 1120, 49
+  size: 26, 195
+  orig: 26, 195
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_4_1.png
+  rotate: false
+  xy: 797, 54
+  size: 37, 190
+  orig: 37, 190
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_4_2.png
+  rotate: false
+  xy: 468, 54
+  size: 50, 190
+  orig: 50, 190
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_4_3.png
+  rotate: false
+  xy: 316, 46
+  size: 48, 198
+  orig: 48, 198
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_4_4.png
+  rotate: false
+  xy: 602, 39
+  size: 37, 205
+  orig: 37, 205
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_4_5.png
+  rotate: false
+  xy: 1202, 40
+  size: 25, 204
+  orig: 25, 204
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_d_4_6.png
+  rotate: false
+  xy: 1229, 42
+  size: 25, 202
+  orig: 25, 202
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_2_0.png
+  rotate: false
+  xy: 1283, 53
+  size: 25, 191
+  orig: 25, 191
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_2_1.png
+  rotate: false
+  xy: 940, 52
+  size: 32, 192
+  orig: 32, 192
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_2_2.png
+  rotate: false
+  xy: 680, 52
+  size: 37, 192
+  orig: 37, 192
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_2_3.png
+  rotate: false
+  xy: 520, 51
+  size: 39, 193
+  orig: 39, 193
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_2_4.png
+  rotate: false
+  xy: 871, 50
+  size: 33, 194
+  orig: 33, 194
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_2_5.png
+  rotate: false
+  xy: 1005, 51
+  size: 29, 193
+  orig: 29, 193
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_2_6.png
+  rotate: false
+  xy: 1036, 48
+  size: 26, 196
+  orig: 26, 196
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_4_0.png
+  rotate: false
+  xy: 1256, 53
+  size: 25, 191
+  orig: 25, 191
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_4_1.png
+  rotate: false
+  xy: 906, 52
+  size: 32, 192
+  orig: 32, 192
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_4_2.png
+  rotate: false
+  xy: 719, 52
+  size: 37, 192
+  orig: 37, 192
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_4_3.png
+  rotate: false
+  xy: 561, 51
+  size: 39, 193
+  orig: 39, 193
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_4_4.png
+  rotate: false
+  xy: 836, 50
+  size: 33, 194
+  orig: 33, 194
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_4_5.png
+  rotate: false
+  xy: 974, 51
+  size: 29, 193
+  orig: 29, 193
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_e_4_6.png
+  rotate: false
+  xy: 1064, 48
+  size: 26, 196
+  orig: 26, 196
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_f_2_0.png
+  rotate: false
+  xy: 1430, 192
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_f_2_1.png
+  rotate: false
+  xy: 222, 34
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_f_4_0.png
+  rotate: false
+  xy: 1342, 92
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_sd_2_0.png
+  rotate: false
+  xy: 1310, 146
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_64_sd_4_0.png
+  rotate: false
+  xy: 1310, 196
+  size: 86, 48
+  orig: 86, 48
+  offset: 0, 0
+  index: -1
+xmas_c19_curtain_xmas_c19_curtain_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+ads_pib.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_pib_ads_pib_64_a_4_0.png
+  rotate: false
+  xy: 103, 70
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+ads_pib_ads_pib_64_b_4_0.png
+  rotate: false
+  xy: 2, 18
+  size: 99, 98
+  orig: 99, 98
+  offset: 0, 0
+  index: -1
+ads_pib_ads_pib_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 47, 14
+  orig: 47, 14
+  offset: 0, 0
+  index: -1
+ads_pib_ads_pib_icon_a.png
+  rotate: false
+  xy: 103, 50
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1

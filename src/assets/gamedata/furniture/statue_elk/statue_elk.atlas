@@ -1,0 +1,34 @@
+
+statue_elk.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+statue_elk_statue_elk_64_a_4_0.png
+  rotate: false
+  xy: 2, 45
+  size: 105, 199
+  orig: 105, 199
+  offset: 0, 0
+  index: -1
+statue_elk_statue_elk_64_b_4_0.png
+  rotate: false
+  xy: 109, 219
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+statue_elk_statue_elk_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 88, 41
+  orig: 88, 41
+  offset: 0, 0
+  index: -1
+statue_elk_statue_elk_icon_a.png
+  rotate: false
+  xy: 109, 185
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

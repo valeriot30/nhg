@@ -1,0 +1,41 @@
+
+easter_c18_woodendeco.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c18_woodendeco_easter_c18_woodendeco_64_a_0_0.png
+  rotate: false
+  xy: 40, 22
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+easter_c18_woodendeco_easter_c18_woodendeco_64_a_0_1.png
+  rotate: false
+  xy: 66, 32
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+easter_c18_woodendeco_easter_c18_woodendeco_64_a_0_2.png
+  rotate: false
+  xy: 2, 25
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+easter_c18_woodendeco_easter_c18_woodendeco_64_sd_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+easter_c18_woodendeco_easter_c18_woodendeco_icon_a.png
+  rotate: false
+  xy: 66, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

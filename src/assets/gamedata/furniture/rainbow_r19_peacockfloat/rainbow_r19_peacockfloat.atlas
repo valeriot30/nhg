@@ -1,0 +1,69 @@
+
+rainbow_r19_peacockfloat.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainbow_r19_peacockfloat_rainbow_r19_peacockfloat_64_a_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 98, 102
+  orig: 98, 102
+  offset: 0, 0
+  index: -1
+rainbow_r19_peacockfloat_rainbow_r19_peacockfloat_64_a_4_0.png
+  rotate: false
+  xy: 102, 30
+  size: 96, 96
+  orig: 96, 96
+  offset: 0, 0
+  index: -1
+rainbow_r19_peacockfloat_rainbow_r19_peacockfloat_64_b_0_0.png
+  rotate: false
+  xy: 200, 60
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+rainbow_r19_peacockfloat_rainbow_r19_peacockfloat_64_b_4_0.png
+  rotate: false
+  xy: 253, 38
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+rainbow_r19_peacockfloat_rainbow_r19_peacockfloat_64_c_0_1.png
+  rotate: false
+  xy: 200, 50
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+rainbow_r19_peacockfloat_rainbow_r19_peacockfloat_64_c_4_1.png
+  rotate: false
+  xy: 2, 14
+  size: 27, 8
+  orig: 27, 8
+  offset: 0, 0
+  index: -1
+rainbow_r19_peacockfloat_rainbow_r19_peacockfloat_64_d_0_1.png
+  rotate: false
+  xy: 253, 101
+  size: 84, 25
+  orig: 84, 25
+  offset: 0, 0
+  index: -1
+rainbow_r19_peacockfloat_rainbow_r19_peacockfloat_64_d_4_1.png
+  rotate: false
+  xy: 102, 2
+  size: 85, 26
+  orig: 85, 26
+  offset: 0, 0
+  index: -1
+rainbow_r19_peacockfloat_rainbow_r19_peacockfloat_icon_a.png
+  rotate: false
+  xy: 339, 105
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

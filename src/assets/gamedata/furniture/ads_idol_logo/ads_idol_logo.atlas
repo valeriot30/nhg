@@ -1,0 +1,97 @@
+
+ads_idol_logo.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_idol_logo_ads_idol_logo_32_c_4_0.png
+  rotate: false
+  xy: 77, 73
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_32_c_4_0.png
+  rotate: false
+  xy: 164, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_32_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_32_d_2_0.png
+  rotate: false
+  xy: 239, 231
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_64_a_2_0.png
+  rotate: false
+  xy: 89, 21
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_64_a_4_0.png
+  rotate: false
+  xy: 89, 92
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_64_b_2_0.png
+  rotate: false
+  xy: 89, 163
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_64_b_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_64_c_2_1.png
+  rotate: false
+  xy: 164, 92
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_64_c_4_1.png
+  rotate: false
+  xy: 164, 163
+  size: 73, 69
+  orig: 73, 69
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_64_d_2_1.png
+  rotate: false
+  xy: 2, 155
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_64_d_4_1.png
+  rotate: false
+  xy: 2, 76
+  size: 85, 77
+  orig: 85, 77
+  offset: 0, 0
+  index: -1
+ads_idol_logo_ads_idol_logo_icon_a.png
+  rotate: false
+  xy: 164, 64
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

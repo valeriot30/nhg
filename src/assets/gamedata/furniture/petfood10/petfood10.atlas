@@ -1,0 +1,48 @@
+
+petfood10.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+petfood10_petfood10_64_a_2_0.png
+  rotate: false
+  xy: 2, 19
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+petfood10_petfood10_64_a_2_1.png
+  rotate: false
+  xy: 38, 29
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+petfood10_petfood10_64_a_2_2.png
+  rotate: false
+  xy: 74, 32
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+petfood10_petfood10_64_a_2_3.png
+  rotate: false
+  xy: 38, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+petfood10_petfood10_64_a_2_4.png
+  rotate: false
+  xy: 2, 5
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+petfood10_petfood10_icon_a.png
+  rotate: false
+  xy: 66, 6
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1

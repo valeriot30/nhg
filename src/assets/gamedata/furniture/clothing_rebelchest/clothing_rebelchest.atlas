@@ -1,0 +1,20 @@
+
+clothing_rebelchest.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_rebelchest_clothing_rebelchest_64_a_0_0.png
+  rotate: false
+  xy: 2, 35
+  size: 37, 68
+  orig: 37, 68
+  offset: 0, 0
+  index: -1
+clothing_rebelchest_clothing_rebelchest_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

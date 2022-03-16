@@ -1,0 +1,97 @@
+
+cny18_dogballoon.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cny18_dogballoon_cny18_dogballoon_64_a_0_0.png
+  rotate: false
+  xy: 451, 32
+  size: 54, 153
+  orig: 54, 153
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_1.png
+  rotate: false
+  xy: 395, 32
+  size: 54, 153
+  orig: 54, 153
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_10.png
+  rotate: false
+  xy: 59, 31
+  size: 54, 154
+  orig: 54, 154
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_2.png
+  rotate: false
+  xy: 562, 32
+  size: 53, 153
+  orig: 53, 153
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_3.png
+  rotate: false
+  xy: 507, 31
+  size: 53, 154
+  orig: 53, 154
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_4.png
+  rotate: false
+  xy: 171, 31
+  size: 54, 154
+  orig: 54, 154
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_5.png
+  rotate: false
+  xy: 115, 31
+  size: 54, 154
+  orig: 54, 154
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_6.png
+  rotate: false
+  xy: 339, 31
+  size: 54, 154
+  orig: 54, 154
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_7.png
+  rotate: false
+  xy: 2, 31
+  size: 55, 154
+  orig: 55, 154
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_8.png
+  rotate: false
+  xy: 283, 31
+  size: 54, 154
+  orig: 54, 154
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_a_0_9.png
+  rotate: false
+  xy: 227, 31
+  size: 54, 154
+  orig: 54, 154
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+cny18_dogballoon_cny18_dogballoon_icon_a.png
+  rotate: false
+  xy: 617, 160
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

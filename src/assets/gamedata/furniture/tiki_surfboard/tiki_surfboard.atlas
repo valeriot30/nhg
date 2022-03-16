@@ -1,0 +1,83 @@
+
+tiki_surfboard.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiki_surfboard_tiki_surfboard_64_a_2_0.png
+  rotate: false
+  xy: 132, 34
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_64_a_2_1.png
+  rotate: false
+  xy: 197, 34
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_64_a_2_2.png
+  rotate: false
+  xy: 2, 34
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_64_a_2_3.png
+  rotate: false
+  xy: 67, 34
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_64_a_2_4.png
+  rotate: false
+  xy: 457, 34
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_64_a_2_5.png
+  rotate: false
+  xy: 522, 34
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_64_a_2_6.png
+  rotate: false
+  xy: 327, 34
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_64_a_2_7.png
+  rotate: false
+  xy: 392, 34
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_64_a_2_8.png
+  rotate: false
+  xy: 262, 34
+  size: 63, 83
+  orig: 63, 83
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_64_b_2_0.png
+  rotate: false
+  xy: 587, 40
+  size: 59, 77
+  orig: 59, 77
+  offset: 0, 0
+  index: -1
+tiki_surfboard_tiki_surfboard_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

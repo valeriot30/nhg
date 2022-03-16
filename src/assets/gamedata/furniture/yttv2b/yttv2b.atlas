@@ -1,0 +1,97 @@
+
+yttv2b.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+yttv2b_yttv2b_64_a_2_0.png
+  rotate: false
+  xy: 553, 13
+  size: 55, 94
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_a_4_0.png
+  rotate: false
+  xy: 496, 13
+  size: 55, 94
+  orig: 55, 94
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_b_2_0.png
+  rotate: false
+  xy: 174, 14
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_b_4_0.png
+  rotate: false
+  xy: 234, 14
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_c_2_0.png
+  rotate: false
+  xy: 651, 21
+  size: 39, 86
+  orig: 39, 86
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_c_4_0.png
+  rotate: false
+  xy: 610, 21
+  size: 39, 86
+  orig: 39, 86
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_d_4_0.png
+  rotate: false
+  xy: 88, 2
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_e_2_0.png
+  rotate: false
+  xy: 692, 81
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_e_4_0.png
+  rotate: false
+  xy: 322, 28
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_sd_2_0.png
+  rotate: false
+  xy: 294, 56
+  size: 99, 51
+  orig: 99, 51
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_64_sd_4_0.png
+  rotate: false
+  xy: 395, 56
+  size: 99, 51
+  orig: 99, 51
+  offset: 0, 0
+  index: -1
+yttv2b_yttv2b_icon_a.png
+  rotate: false
+  xy: 294, 22
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1

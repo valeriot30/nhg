@@ -1,0 +1,41 @@
+
+hc2_divider.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc2_divider_hc2_divider_64_a_4_0.png
+  rotate: false
+  xy: 208, 2
+  size: 14, 111
+  orig: 14, 111
+  offset: 0, 0
+  index: -1
+hc2_divider_hc2_divider_64_b_4_0.png
+  rotate: false
+  xy: 167, 19
+  size: 39, 94
+  orig: 39, 94
+  offset: 0, 0
+  index: -1
+hc2_divider_hc2_divider_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 111
+  orig: 54, 111
+  offset: 0, 0
+  index: -1
+hc2_divider_hc2_divider_64_sd_4_0.png
+  rotate: false
+  xy: 58, 67
+  size: 107, 46
+  orig: 107, 46
+  offset: 0, 0
+  index: -1
+hc2_divider_hc2_divider_icon_a.png
+  rotate: false
+  xy: 58, 35
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

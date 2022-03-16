@@ -1,0 +1,209 @@
+
+gld_sofa1.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gld_sofa1_gld_sofa1_64_a_2_0.png
+  rotate: false
+  xy: 291, 81
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_a_6_0.png
+  rotate: false
+  xy: 305, 17
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_b_2_0.png
+  rotate: false
+  xy: 69, 10
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_b_6_0.png
+  rotate: false
+  xy: 188, 3
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_c_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_c_2_1.png
+  rotate: false
+  xy: 2, 65
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_c_6_0.png
+  rotate: false
+  xy: 262, 13
+  size: 41, 20
+  orig: 41, 20
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_c_6_1.png
+  rotate: false
+  xy: 218, 12
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_d_6_0.png
+  rotate: false
+  xy: 343, 39
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_e_6_0.png
+  rotate: false
+  xy: 132, 2
+  size: 27, 34
+  orig: 27, 34
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_f_6_0.png
+  rotate: false
+  xy: 433, 77
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_f_6_1.png
+  rotate: false
+  xy: 388, 76
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_g_2_0.png
+  rotate: false
+  xy: 340, 81
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_g_6_0.png
+  rotate: false
+  xy: 478, 90
+  size: 24, 36
+  orig: 24, 36
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_h_2_0.png
+  rotate: false
+  xy: 228, 81
+  size: 61, 45
+  orig: 61, 45
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_h_6_0.png
+  rotate: false
+  xy: 422, 49
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_i_2_0.png
+  rotate: false
+  xy: 69, 63
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_i_2_1.png
+  rotate: false
+  xy: 384, 30
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_i_6_0.png
+  rotate: false
+  xy: 218, 35
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_i_6_1.png
+  rotate: false
+  xy: 260, 35
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_j_2_0.png
+  rotate: false
+  xy: 301, 35
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_j_6_0.png
+  rotate: false
+  xy: 301, 38
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_k_6_0.png
+  rotate: false
+  xy: 161, 2
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_l_6_0.png
+  rotate: false
+  xy: 176, 38
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_l_6_1.png
+  rotate: false
+  xy: 134, 38
+  size: 40, 53
+  orig: 40, 53
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_64_sd_2_0.png
+  rotate: false
+  xy: 134, 93
+  size: 92, 33
+  orig: 92, 33
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_icon_a.png
+  rotate: false
+  xy: 188, 17
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_icon_b.png
+  rotate: false
+  xy: 447, 57
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+gld_sofa1_gld_sofa1_icon_c.png
+  rotate: false
+  xy: 346, 12
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

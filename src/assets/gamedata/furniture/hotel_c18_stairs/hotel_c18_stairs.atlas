@@ -1,0 +1,69 @@
+
+hotel_c18_stairs.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hotel_c18_stairs_hotel_c18_stairs_64_a_2_0.png
+  rotate: false
+  xy: 212, 4
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+hotel_c18_stairs_hotel_c18_stairs_64_a_4_0.png
+  rotate: false
+  xy: 144, 4
+  size: 66, 57
+  orig: 66, 57
+  offset: 0, 0
+  index: -1
+hotel_c18_stairs_hotel_c18_stairs_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+hotel_c18_stairs_hotel_c18_stairs_64_b_4_0.png
+  rotate: false
+  xy: 73, 2
+  size: 69, 59
+  orig: 69, 59
+  offset: 0, 0
+  index: -1
+hotel_c18_stairs_hotel_c18_stairs_64_c_2_0.png
+  rotate: false
+  xy: 349, 19
+  size: 66, 42
+  orig: 66, 42
+  offset: 0, 0
+  index: -1
+hotel_c18_stairs_hotel_c18_stairs_64_c_4_0.png
+  rotate: false
+  xy: 279, 20
+  size: 68, 41
+  orig: 68, 41
+  offset: 0, 0
+  index: -1
+hotel_c18_stairs_hotel_c18_stairs_64_d_2_0.png
+  rotate: false
+  xy: 417, 18
+  size: 36, 43
+  orig: 36, 43
+  offset: 0, 0
+  index: -1
+hotel_c18_stairs_hotel_c18_stairs_64_d_4_0.png
+  rotate: false
+  xy: 455, 19
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+hotel_c18_stairs_hotel_c18_stairs_icon_a.png
+  rotate: false
+  xy: 491, 35
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

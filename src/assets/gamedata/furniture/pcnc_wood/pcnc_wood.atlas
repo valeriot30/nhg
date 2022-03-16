@@ -1,0 +1,41 @@
+
+pcnc_wood.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pcnc_wood_pcnc_wood_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+pcnc_wood_pcnc_wood_64_a_0_1.png
+  rotate: false
+  xy: 2, 29
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+pcnc_wood_pcnc_wood_64_a_0_2.png
+  rotate: false
+  xy: 128, 29
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+pcnc_wood_pcnc_wood_64_a_0_3.png
+  rotate: false
+  xy: 68, 24
+  size: 58, 78
+  orig: 58, 78
+  offset: 0, 0
+  index: -1
+pcnc_wood_pcnc_wood_icon_a.png
+  rotate: false
+  xy: 188, 78
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

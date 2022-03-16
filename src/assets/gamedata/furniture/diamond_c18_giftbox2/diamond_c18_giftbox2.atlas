@@ -1,0 +1,27 @@
+
+diamond_c18_giftbox2.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diamond_c18_giftbox2_diamond_c18_giftbox2_64_a_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox2_diamond_c18_giftbox2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox2_diamond_c18_giftbox2_icon_a.png
+  rotate: false
+  xy: 66, 72
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

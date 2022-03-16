@@ -1,0 +1,83 @@
+
+bb_pyramid.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bb_pyramid_bb_pyramid_64_a_0_0.png
+  rotate: false
+  xy: 134, 60
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_64_a_0_1.png
+  rotate: false
+  xy: 2, 6
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_64_a_0_2.png
+  rotate: false
+  xy: 109, 41
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_64_a_0_3.png
+  rotate: false
+  xy: 200, 56
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_64_a_0_4.png
+  rotate: false
+  xy: 44, 23
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_64_a_0_5.png
+  rotate: false
+  xy: 2, 15
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_64_a_0_6.png
+  rotate: false
+  xy: 200, 80
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_64_a_0_7.png
+  rotate: false
+  xy: 134, 2
+  size: 58, 56
+  orig: 58, 56
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_64_a_0_8.png
+  rotate: false
+  xy: 68, 57
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_64_a_0_9.png
+  rotate: false
+  xy: 2, 55
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+bb_pyramid_bb_pyramid_icon_a.png
+  rotate: false
+  xy: 78, 25
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

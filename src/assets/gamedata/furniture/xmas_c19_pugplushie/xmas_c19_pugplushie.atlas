@@ -1,0 +1,27 @@
+
+xmas_c19_pugplushie.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_pugplushie_xmas_c19_pugplushie_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+xmas_c19_pugplushie_xmas_c19_pugplushie_64_sd_0_0.png
+  rotate: false
+  xy: 50, 33
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+xmas_c19_pugplushie_xmas_c19_pugplushie_icon_a.png
+  rotate: false
+  xy: 50, 7
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

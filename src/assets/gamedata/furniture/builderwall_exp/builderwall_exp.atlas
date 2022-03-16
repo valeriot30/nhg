@@ -1,0 +1,27 @@
+
+builderwall_exp.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+builderwall_exp_builderwall_exp_64_a_2_0.png
+  rotate: false
+  xy: 2, 133
+  size: 48, 97
+  orig: 48, 97
+  offset: 0, 0
+  index: -1
+builderwall_exp_builderwall_exp_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 48, 97
+  orig: 48, 97
+  offset: 0, 0
+  index: -1
+builderwall_exp_builderwall_exp_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

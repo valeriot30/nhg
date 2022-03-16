@@ -1,0 +1,41 @@
+
+runway_changingrare.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runway_changingrare_runway_changingrare_64_a_2_0.png
+  rotate: false
+  xy: 78, 179
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+runway_changingrare_runway_changingrare_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 71, 125
+  orig: 71, 125
+  offset: 0, 0
+  index: -1
+runway_changingrare_runway_changingrare_64_b_2_1.png
+  rotate: false
+  xy: 2, 129
+  size: 74, 125
+  orig: 74, 125
+  offset: 0, 0
+  index: -1
+runway_changingrare_runway_changingrare_64_sd_2_0.png
+  rotate: false
+  xy: 114, 222
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+runway_changingrare_runway_changingrare_icon_a.png
+  rotate: false
+  xy: 78, 147
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+rainyday_c19_boardgames.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainyday_c19_boardgames_rainyday_c19_boardgames_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+rainyday_c19_boardgames_rainyday_c19_boardgames_64_a_2_1.png
+  rotate: false
+  xy: 215, 30
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+rainyday_c19_boardgames_rainyday_c19_boardgames_64_a_2_2.png
+  rotate: false
+  xy: 268, 36
+  size: 54, 24
+  orig: 54, 24
+  offset: 0, 0
+  index: -1
+rainyday_c19_boardgames_rainyday_c19_boardgames_64_b_2_0.png
+  rotate: false
+  xy: 52, 7
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+rainyday_c19_boardgames_rainyday_c19_boardgames_64_b_2_1.png
+  rotate: false
+  xy: 160, 30
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1
+rainyday_c19_boardgames_rainyday_c19_boardgames_64_b_2_2.png
+  rotate: false
+  xy: 324, 37
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+rainyday_c19_boardgames_rainyday_c19_boardgames_64_sd_2_0.png
+  rotate: false
+  xy: 100, 31
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+rainyday_c19_boardgames_rainyday_c19_boardgames_icon_a.png
+  rotate: false
+  xy: 380, 30
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

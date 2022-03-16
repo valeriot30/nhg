@@ -1,0 +1,20 @@
+
+horse_hairstyle_7.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+horse_hairstyle_7_horse_hairstyle_7_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 98
+  orig: 55, 98
+  offset: 0, 0
+  index: -1
+horse_hairstyle_7_horse_hairstyle_7_icon_a.png
+  rotate: false
+  xy: 59, 68
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1

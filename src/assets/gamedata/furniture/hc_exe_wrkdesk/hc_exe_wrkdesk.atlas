@@ -1,0 +1,146 @@
+
+hc_exe_wrkdesk.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_a_2_0.png
+  rotate: false
+  xy: 66, 27
+  size: 63, 99
+  orig: 63, 99
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_a_6_0.png
+  rotate: false
+  xy: 192, 44
+  size: 55, 82
+  orig: 55, 82
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_b_2_1.png
+  rotate: false
+  xy: 66, 2
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_b_6_0.png
+  rotate: false
+  xy: 131, 29
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_b_6_1.png
+  rotate: false
+  xy: 102, 13
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_c_2_0.png
+  rotate: false
+  xy: 2, 15
+  size: 62, 111
+  orig: 62, 111
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_c_6_0.png
+  rotate: false
+  xy: 131, 32
+  size: 59, 94
+  orig: 59, 94
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_1.png
+  rotate: false
+  xy: 311, 101
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_10.png
+  rotate: false
+  xy: 249, 69
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_2.png
+  rotate: false
+  xy: 329, 101
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_3.png
+  rotate: false
+  xy: 275, 101
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_4.png
+  rotate: false
+  xy: 293, 101
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_5.png
+  rotate: false
+  xy: 383, 101
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_6.png
+  rotate: false
+  xy: 401, 101
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_7.png
+  rotate: false
+  xy: 347, 101
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_8.png
+  rotate: false
+  xy: 365, 101
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_2_9.png
+  rotate: false
+  xy: 419, 101
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_d_6_0.png
+  rotate: false
+  xy: 2, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_64_sd_2_0.png
+  rotate: false
+  xy: 192, 2
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+hc_exe_wrkdesk_hc_exe_wrkdesk_icon_a.png
+  rotate: false
+  xy: 249, 96
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

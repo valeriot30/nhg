@@ -1,0 +1,22 @@
+#userPanel {
+    min-height: 150px;
+    width: 90px;
+    background-color: #333;
+    margin:0;
+    pointer-events: all;
+    position: absolute;
+}
+
+#userPanel ul {
+    list-style-type: none;
+    padding: 3px;
+    padding: 0 !important;
+}
+#userPanel ul li {
+    display:block;
+    line-height:2;
+    background: linear-gradient(to bottom, #595959 50%, #404040 50%);
+    border-bottom: 1px solid #333;
+    color: #fff;
+    cursor:pointer;
+}

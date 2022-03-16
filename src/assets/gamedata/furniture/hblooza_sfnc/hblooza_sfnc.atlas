@@ -1,0 +1,104 @@
+
+hblooza_sfnc.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza_sfnc_hblooza_sfnc_64_a_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 35, 94
+  orig: 35, 94
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_a_2_0.png
+  rotate: false
+  xy: 39, 26
+  size: 35, 94
+  orig: 35, 94
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_b_0_0.png
+  rotate: false
+  xy: 76, 27
+  size: 35, 93
+  orig: 35, 93
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_b_2_0.png
+  rotate: false
+  xy: 113, 27
+  size: 35, 93
+  orig: 35, 93
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_c_0_0.png
+  rotate: false
+  xy: 280, 38
+  size: 32, 82
+  orig: 32, 82
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_c_2_0.png
+  rotate: false
+  xy: 314, 38
+  size: 32, 82
+  orig: 32, 82
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_d_0_0.png
+  rotate: false
+  xy: 381, 38
+  size: 31, 82
+  orig: 31, 82
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_d_2_0.png
+  rotate: false
+  xy: 348, 38
+  size: 31, 82
+  orig: 31, 82
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_e_0_0.png
+  rotate: false
+  xy: 150, 32
+  size: 31, 88
+  orig: 31, 88
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_e_2_0.png
+  rotate: false
+  xy: 183, 32
+  size: 31, 88
+  orig: 31, 88
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_f_0_0.png
+  rotate: false
+  xy: 216, 32
+  size: 30, 88
+  orig: 30, 88
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_64_f_2_0.png
+  rotate: false
+  xy: 248, 32
+  size: 30, 88
+  orig: 30, 88
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_icon_a.png
+  rotate: false
+  xy: 414, 90
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+hblooza_sfnc_hblooza_sfnc_icon_b.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1

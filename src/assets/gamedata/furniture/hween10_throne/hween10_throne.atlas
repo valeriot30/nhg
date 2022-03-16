@@ -1,0 +1,48 @@
+
+hween10_throne.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween10_throne_hween10_throne_64_a_0_0.png
+  rotate: false
+  xy: 143, 184
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+hween10_throne_hween10_throne_64_a_4_0.png
+  rotate: false
+  xy: 2, 85
+  size: 71, 135
+  orig: 71, 135
+  offset: 0, 0
+  index: -1
+hween10_throne_hween10_throne_64_b_0_0.png
+  rotate: false
+  xy: 75, 93
+  size: 66, 127
+  orig: 66, 127
+  offset: 0, 0
+  index: -1
+hween10_throne_hween10_throne_64_b_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+hween10_throne_hween10_throne_64_sd_0_0.png
+  rotate: false
+  xy: 193, 193
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+hween10_throne_hween10_throne_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+bazaar_c17_pots.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_pots_bazaar_c17_pots_64_a_0_0.png
+  rotate: false
+  xy: 75, 49
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+bazaar_c17_pots_bazaar_c17_pots_64_a_0_1.png
+  rotate: false
+  xy: 146, 55
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+bazaar_c17_pots_bazaar_c17_pots_64_a_0_2.png
+  rotate: false
+  xy: 2, 27
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+bazaar_c17_pots_bazaar_c17_pots_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 23
+  orig: 55, 23
+  offset: 0, 0
+  index: -1
+bazaar_c17_pots_bazaar_c17_pots_icon_a.png
+  rotate: false
+  xy: 209, 87
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1

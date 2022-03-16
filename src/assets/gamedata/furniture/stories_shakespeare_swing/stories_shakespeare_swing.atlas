@@ -1,0 +1,41 @@
+
+stories_shakespeare_swing.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stories_shakespeare_swing_stories_shakespeare_swing_64_a_4_0.png
+  rotate: false
+  xy: 2, 250
+  size: 53, 210
+  orig: 53, 210
+  offset: 0, 0
+  index: -1
+stories_shakespeare_swing_stories_shakespeare_swing_64_b_4_0.png
+  rotate: false
+  xy: 2, 46
+  size: 52, 202
+  orig: 52, 202
+  offset: 0, 0
+  index: -1
+stories_shakespeare_swing_stories_shakespeare_swing_64_c_4_0.png
+  rotate: false
+  xy: 57, 258
+  size: 32, 202
+  orig: 32, 202
+  offset: 0, 0
+  index: -1
+stories_shakespeare_swing_stories_shakespeare_swing_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+stories_shakespeare_swing_stories_shakespeare_swing_icon_a.png
+  rotate: false
+  xy: 91, 428
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

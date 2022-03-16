@@ -1,0 +1,27 @@
+
+hween10_wallskull.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween10_wallskull_hween10_wallskull_64_a_4_0.png
+  rotate: false
+  xy: 2, 122
+  size: 49, 96
+  orig: 49, 96
+  offset: 0, 0
+  index: -1
+hween10_wallskull_hween10_wallskull_64_sd_4_0.png
+  rotate: false
+  xy: 2, 30
+  size: 42, 90
+  orig: 42, 90
+  offset: 0, 0
+  index: -1
+hween10_wallskull_hween10_wallskull_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1

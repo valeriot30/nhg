@@ -1,0 +1,69 @@
+
+easter14_wall.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter14_wall_easter14_wall_64_a_2_0.png
+  rotate: false
+  xy: 335, 2
+  size: 109, 243
+  orig: 109, 243
+  offset: 0, 0
+  index: -1
+easter14_wall_easter14_wall_64_a_2_1.png
+  rotate: false
+  xy: 224, 2
+  size: 109, 243
+  orig: 109, 243
+  offset: 0, 0
+  index: -1
+easter14_wall_easter14_wall_64_a_2_2.png
+  rotate: false
+  xy: 773, 3
+  size: 107, 242
+  orig: 107, 242
+  offset: 0, 0
+  index: -1
+easter14_wall_easter14_wall_64_a_2_3.png
+  rotate: false
+  xy: 664, 3
+  size: 107, 242
+  orig: 107, 242
+  offset: 0, 0
+  index: -1
+easter14_wall_easter14_wall_64_a_4_0.png
+  rotate: false
+  xy: 113, 2
+  size: 109, 243
+  orig: 109, 243
+  offset: 0, 0
+  index: -1
+easter14_wall_easter14_wall_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 109, 243
+  orig: 109, 243
+  offset: 0, 0
+  index: -1
+easter14_wall_easter14_wall_64_a_4_2.png
+  rotate: false
+  xy: 555, 3
+  size: 107, 242
+  orig: 107, 242
+  offset: 0, 0
+  index: -1
+easter14_wall_easter14_wall_64_a_4_3.png
+  rotate: false
+  xy: 446, 3
+  size: 107, 242
+  orig: 107, 242
+  offset: 0, 0
+  index: -1
+easter14_wall_easter14_wall_icon_a.png
+  rotate: false
+  xy: 882, 214
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1

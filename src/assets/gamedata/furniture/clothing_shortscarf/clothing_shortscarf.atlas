@@ -1,0 +1,20 @@
+
+clothing_shortscarf.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_shortscarf_clothing_shortscarf_64_a_0_0.png
+  rotate: false
+  xy: 2, 29
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+clothing_shortscarf_clothing_shortscarf_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

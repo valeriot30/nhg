@@ -1,0 +1,34 @@
+
+gardenshed_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gardenshed_wall_gardenshed_wall_64_a_2_0.png
+  rotate: false
+  xy: 174, 36
+  size: 82, 178
+  orig: 82, 178
+  offset: 0, 0
+  index: -1
+gardenshed_wall_gardenshed_wall_64_a_2_1.png
+  rotate: false
+  xy: 2, 36
+  size: 86, 178
+  orig: 86, 178
+  offset: 0, 0
+  index: -1
+gardenshed_wall_gardenshed_wall_64_a_2_2.png
+  rotate: false
+  xy: 90, 36
+  size: 82, 178
+  orig: 82, 178
+  offset: 0, 0
+  index: -1
+gardenshed_wall_gardenshed_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1

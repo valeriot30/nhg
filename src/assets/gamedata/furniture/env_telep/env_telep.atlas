@@ -1,0 +1,55 @@
+
+env_telep.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+env_telep_env_telep_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 95
+  orig: 30, 95
+  offset: 0, 0
+  index: -1
+env_telep_env_telep_64_b_4_1.png
+  rotate: false
+  xy: 34, 8
+  size: 33, 89
+  orig: 33, 89
+  offset: 0, 0
+  index: -1
+env_telep_env_telep_64_c_4_0.png
+  rotate: false
+  xy: 2, 99
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+env_telep_env_telep_64_c_4_1.png
+  rotate: false
+  xy: 84, 99
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+env_telep_env_telep_64_d_4_0.png
+  rotate: false
+  xy: 248, 227
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+env_telep_env_telep_64_d_4_1.png
+  rotate: false
+  xy: 166, 99
+  size: 80, 129
+  orig: 80, 129
+  offset: 0, 0
+  index: -1
+env_telep_env_telep_icon_a.png
+  rotate: false
+  xy: 69, 67
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

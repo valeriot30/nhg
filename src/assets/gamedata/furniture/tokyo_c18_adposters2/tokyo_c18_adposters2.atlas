@@ -1,0 +1,48 @@
+
+tokyo_c18_adposters2.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_adposters2_tokyo_c18_adposters2_64_a_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+tokyo_c18_adposters2_tokyo_c18_adposters2_64_a_0_1.png
+  rotate: false
+  xy: 50, 26
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+tokyo_c18_adposters2_tokyo_c18_adposters2_64_a_2_0.png
+  rotate: false
+  xy: 146, 26
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+tokyo_c18_adposters2_tokyo_c18_adposters2_64_a_2_1.png
+  rotate: false
+  xy: 98, 26
+  size: 46, 87
+  orig: 46, 87
+  offset: 0, 0
+  index: -1
+tokyo_c18_adposters2_tokyo_c18_adposters2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+tokyo_c18_adposters2_tokyo_c18_adposters2_icon_a.png
+  rotate: false
+  xy: 194, 85
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

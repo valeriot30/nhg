@@ -1,0 +1,433 @@
+
+xmas14_sunbeams.png
+size: 4096,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas14_sunbeams_xmas14_sunbeams_64_a_0_0.png
+  rotate: false
+  xy: 357, 24
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_a_0_1.png
+  rotate: false
+  xy: 884, 150
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_a_0_2.png
+  rotate: false
+  xy: 263, 24
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_a_0_3.png
+  rotate: false
+  xy: 602, 150
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_a_0_4.png
+  rotate: false
+  xy: 696, 150
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_a_0_5.png
+  rotate: false
+  xy: 790, 150
+  size: 92, 62
+  orig: 92, 62
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_0.png
+  rotate: false
+  xy: 1756, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_1.png
+  rotate: false
+  xy: 1400, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_10.png
+  rotate: false
+  xy: 1845, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_11.png
+  rotate: false
+  xy: 1934, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_2.png
+  rotate: false
+  xy: 1311, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_3.png
+  rotate: false
+  xy: 1222, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_4.png
+  rotate: false
+  xy: 1133, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_5.png
+  rotate: false
+  xy: 1667, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_6.png
+  rotate: false
+  xy: 2023, 226
+  size: 86, 275
+  orig: 86, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_7.png
+  rotate: false
+  xy: 1578, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_8.png
+  rotate: false
+  xy: 1489, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_b_0_9.png
+  rotate: false
+  xy: 1044, 226
+  size: 87, 275
+  orig: 87, 275
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_0.png
+  rotate: false
+  xy: 3210, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_1.png
+  rotate: false
+  xy: 3129, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_10.png
+  rotate: false
+  xy: 3939, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_11.png
+  rotate: false
+  xy: 3858, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_2.png
+  rotate: false
+  xy: 3372, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_3.png
+  rotate: false
+  xy: 3291, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_4.png
+  rotate: false
+  xy: 3534, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_5.png
+  rotate: false
+  xy: 3453, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_6.png
+  rotate: false
+  xy: 3129, 2
+  size: 78, 248
+  orig: 78, 248
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_7.png
+  rotate: false
+  xy: 3615, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_8.png
+  rotate: false
+  xy: 3696, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_c_0_9.png
+  rotate: false
+  xy: 3777, 252
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_0.png
+  rotate: false
+  xy: 2281, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_1.png
+  rotate: false
+  xy: 2111, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_10.png
+  rotate: false
+  xy: 2876, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_11.png
+  rotate: false
+  xy: 2961, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_2.png
+  rotate: false
+  xy: 2196, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_3.png
+  rotate: false
+  xy: 2451, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_4.png
+  rotate: false
+  xy: 2536, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_5.png
+  rotate: false
+  xy: 2366, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_6.png
+  rotate: false
+  xy: 3046, 231
+  size: 81, 270
+  orig: 81, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_7.png
+  rotate: false
+  xy: 2791, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_8.png
+  rotate: false
+  xy: 2706, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_d_0_9.png
+  rotate: false
+  xy: 2621, 231
+  size: 83, 270
+  orig: 83, 270
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_0.png
+  rotate: false
+  xy: 263, 88
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_1.png
+  rotate: false
+  xy: 176, 8
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_10.png
+  rotate: false
+  xy: 2, 8
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_11.png
+  rotate: false
+  xy: 89, 8
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_2.png
+  rotate: false
+  xy: 611, 214
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_3.png
+  rotate: false
+  xy: 524, 214
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_4.png
+  rotate: false
+  xy: 437, 214
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_5.png
+  rotate: false
+  xy: 350, 88
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_6.png
+  rotate: false
+  xy: 959, 216
+  size: 83, 285
+  orig: 83, 285
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_7.png
+  rotate: false
+  xy: 872, 214
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_8.png
+  rotate: false
+  xy: 698, 214
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_e_0_9.png
+  rotate: false
+  xy: 785, 214
+  size: 85, 287
+  orig: 85, 287
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_f_0_0.png
+  rotate: false
+  xy: 294, 377
+  size: 82, 124
+  orig: 82, 124
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_f_0_1.png
+  rotate: false
+  xy: 4020, 380
+  size: 67, 121
+  orig: 67, 121
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_f_0_2.png
+  rotate: false
+  xy: 521, 113
+  size: 79, 99
+  orig: 79, 99
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_f_0_3.png
+  rotate: false
+  xy: 437, 91
+  size: 82, 121
+  orig: 82, 121
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_f_0_4.png
+  rotate: false
+  xy: 207, 377
+  size: 85, 124
+  orig: 85, 124
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_64_g_0_0.png
+  rotate: false
+  xy: 2, 297
+  size: 203, 204
+  orig: 203, 204
+  offset: 0, 0
+  index: -1
+xmas14_sunbeams_xmas14_sunbeams_icon_a.png
+  rotate: false
+  xy: 207, 345
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1

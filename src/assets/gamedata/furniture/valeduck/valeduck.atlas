@@ -1,0 +1,34 @@
+
+valeduck.png
+size: 32,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+valeduck_valeduck_64_a_4_0.png
+  rotate: false
+  xy: 2, 43
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+valeduck_valeduck_64_a_6_0.png
+  rotate: false
+  xy: 2, 78
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+valeduck_valeduck_64_sd_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+valeduck_valeduck_icon_a.png
+  rotate: false
+  xy: 2, 11
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

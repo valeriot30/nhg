@@ -1,0 +1,48 @@
+
+hween14_hangskull.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween14_hangskull_hween14_hangskull_64_a_4_0.png
+  rotate: false
+  xy: 2, 33
+  size: 37, 151
+  orig: 37, 151
+  offset: 0, 0
+  index: -1
+hween14_hangskull_hween14_hangskull_64_a_4_1.png
+  rotate: false
+  xy: 41, 33
+  size: 37, 151
+  orig: 37, 151
+  offset: 0, 0
+  index: -1
+hween14_hangskull_hween14_hangskull_64_a_4_2.png
+  rotate: false
+  xy: 80, 33
+  size: 37, 151
+  orig: 37, 151
+  offset: 0, 0
+  index: -1
+hween14_hangskull_hween14_hangskull_64_a_4_3.png
+  rotate: false
+  xy: 119, 33
+  size: 37, 151
+  orig: 37, 151
+  offset: 0, 0
+  index: -1
+hween14_hangskull_hween14_hangskull_64_sd_4_0.png
+  rotate: false
+  xy: 158, 169
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+hween14_hangskull_hween14_hangskull_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1

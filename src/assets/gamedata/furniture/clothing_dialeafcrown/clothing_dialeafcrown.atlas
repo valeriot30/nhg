@@ -1,0 +1,20 @@
+
+clothing_dialeafcrown.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_dialeafcrown_clothing_dialeafcrown_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 44
+  orig: 37, 44
+  offset: 0, 0
+  index: -1
+clothing_dialeafcrown_clothing_dialeafcrown_icon_a.png
+  rotate: false
+  xy: 41, 18
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

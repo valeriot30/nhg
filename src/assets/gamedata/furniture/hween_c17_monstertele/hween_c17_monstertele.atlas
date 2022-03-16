@@ -1,0 +1,111 @@
+
+hween_c17_monstertele.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_monstertele_hween_c17_monstertele_64_a_2_0.png
+  rotate: false
+  xy: 762, 204
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_a_2_1.png
+  rotate: false
+  xy: 694, 199
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_a_2_3.png
+  rotate: false
+  xy: 490, 123
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_a_2_4.png
+  rotate: false
+  xy: 84, 90
+  size: 81, 152
+  orig: 81, 152
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_a_2_5.png
+  rotate: false
+  xy: 2, 88
+  size: 80, 154
+  orig: 80, 154
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_a_2_6.png
+  rotate: false
+  xy: 167, 89
+  size: 77, 153
+  orig: 77, 153
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_b_2_0.png
+  rotate: false
+  xy: 694, 168
+  size: 66, 29
+  orig: 66, 29
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_b_2_1.png
+  rotate: false
+  xy: 626, 131
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_b_2_2.png
+  rotate: false
+  xy: 626, 167
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_b_2_3.png
+  rotate: false
+  xy: 558, 130
+  size: 66, 112
+  orig: 66, 112
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_b_2_4.png
+  rotate: false
+  xy: 328, 99
+  size: 81, 143
+  orig: 81, 143
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_b_2_5.png
+  rotate: false
+  xy: 246, 96
+  size: 80, 146
+  orig: 80, 146
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_64_b_2_6.png
+  rotate: false
+  xy: 411, 98
+  size: 77, 144
+  orig: 77, 144
+  offset: 0, 0
+  index: -1
+hween_c17_monstertele_hween_c17_monstertele_icon_a.png
+  rotate: false
+  xy: 762, 170
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

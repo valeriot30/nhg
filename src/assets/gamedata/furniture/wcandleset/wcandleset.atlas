@@ -1,0 +1,97 @@
+
+wcandleset.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wcandleset_wcandleset_64_a_0_0.png
+  rotate: false
+  xy: 288, 94
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_b_0_1.png
+  rotate: false
+  xy: 288, 72
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_b_0_2.png
+  rotate: false
+  xy: 48, 11
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_b_0_3.png
+  rotate: false
+  xy: 82, 41
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_b_0_4.png
+  rotate: false
+  xy: 334, 106
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_c_0_1.png
+  rotate: false
+  xy: 2, 20
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_d_0_1.png
+  rotate: false
+  xy: 2, 61
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_d_0_2.png
+  rotate: false
+  xy: 145, 62
+  size: 70, 64
+  orig: 70, 64
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_d_0_3.png
+  rotate: false
+  xy: 217, 62
+  size: 69, 64
+  orig: 69, 64
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_d_0_4.png
+  rotate: false
+  xy: 74, 61
+  size: 69, 65
+  orig: 69, 65
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_64_sd_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+wcandleset_wcandleset_icon_a.png
+  rotate: false
+  xy: 48, 32
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1

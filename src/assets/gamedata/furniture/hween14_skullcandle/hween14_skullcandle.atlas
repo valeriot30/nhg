@@ -1,0 +1,132 @@
+
+hween14_skullcandle.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween14_skullcandle_hween14_skullcandle_64_a_2_0.png
+  rotate: false
+  xy: 47, 28
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_a_2_1.png
+  rotate: false
+  xy: 2, 6
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_b_2_0.png
+  rotate: false
+  xy: 136, 36
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_b_2_3.png
+  rotate: false
+  xy: 47, 2
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_0.png
+  rotate: false
+  xy: 112, 20
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_1.png
+  rotate: false
+  xy: 74, 6
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_10.png
+  rotate: false
+  xy: 131, 18
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_11.png
+  rotate: false
+  xy: 207, 23
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_2.png
+  rotate: false
+  xy: 226, 41
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_3.png
+  rotate: false
+  xy: 93, 19
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_4.png
+  rotate: false
+  xy: 207, 41
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_5.png
+  rotate: false
+  xy: 188, 41
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_6.png
+  rotate: false
+  xy: 131, 2
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_7.png
+  rotate: false
+  xy: 188, 24
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_8.png
+  rotate: false
+  xy: 112, 2
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_c_2_9.png
+  rotate: false
+  xy: 93, 2
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_64_sd_2_0.png
+  rotate: false
+  xy: 92, 41
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+hween14_skullcandle_hween14_skullcandle_icon_a.png
+  rotate: false
+  xy: 163, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1

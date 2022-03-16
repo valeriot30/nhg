@@ -1,0 +1,20 @@
+
+clothing_nt_frostedbeard.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_nt_frostedbeard_clothing_nt_frostedbeard_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+clothing_nt_frostedbeard_clothing_nt_frostedbeard_icon_a.png
+  rotate: false
+  xy: 31, 19
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

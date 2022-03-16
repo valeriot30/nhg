@@ -1,0 +1,20 @@
+
+clothing_bloodglasses.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_bloodglasses_clothing_bloodglasses_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 42
+  orig: 29, 42
+  offset: 0, 0
+  index: -1
+clothing_bloodglasses_clothing_bloodglasses_icon_a.png
+  rotate: false
+  xy: 33, 16
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

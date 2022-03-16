@@ -1,0 +1,27 @@
+
+fest_c19_dye2.png
+size: 32,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_dye2_fest_c19_dye2_64_a_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1
+fest_c19_dye2_fest_c19_dye2_64_sd_0_0.png
+  rotate: false
+  xy: 17, 2
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+fest_c19_dye2_fest_c19_dye2_icon_a.png
+  rotate: false
+  xy: 17, 10
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

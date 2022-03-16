@@ -1,0 +1,55 @@
+
+lm_crystal_skull.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lm_crystal_skull_lm_crystal_skull_64_a_0_0.png
+  rotate: false
+  xy: 36, 33
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+lm_crystal_skull_lm_crystal_skull_64_a_1_0.png
+  rotate: false
+  xy: 2, 33
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+lm_crystal_skull_lm_crystal_skull_64_a_2_0.png
+  rotate: false
+  xy: 2, 3
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+lm_crystal_skull_lm_crystal_skull_64_a_3_0.png
+  rotate: false
+  xy: 32, 2
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+lm_crystal_skull_lm_crystal_skull_64_a_7_0.png
+  rotate: false
+  xy: 69, 33
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+lm_crystal_skull_lm_crystal_skull_64_sd_0_0.png
+  rotate: false
+  xy: 96, 45
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: -1
+lm_crystal_skull_lm_crystal_skull_icon_a.png
+  rotate: false
+  xy: 59, 6
+  size: 21, 25
+  orig: 21, 25
+  offset: 0, 0
+  index: -1

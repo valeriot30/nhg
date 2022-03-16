@@ -1,0 +1,41 @@
+
+stone_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stone_wall_stone_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 82, 172
+  orig: 82, 172
+  offset: 0, 0
+  index: -1
+stone_wall_stone_wall_64_a_2_1.png
+  rotate: false
+  xy: 86, 38
+  size: 82, 172
+  orig: 82, 172
+  offset: 0, 0
+  index: -1
+stone_wall_stone_wall_64_a_4_0.png
+  rotate: false
+  xy: 254, 38
+  size: 82, 172
+  orig: 82, 172
+  offset: 0, 0
+  index: -1
+stone_wall_stone_wall_64_a_4_1.png
+  rotate: false
+  xy: 170, 38
+  size: 82, 172
+  orig: 82, 172
+  offset: 0, 0
+  index: -1
+stone_wall_stone_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1

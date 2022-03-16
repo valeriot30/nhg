@@ -1,0 +1,27 @@
+
+classic9_plant.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic9_plant_classic9_plant_64_a_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 40, 101
+  orig: 40, 101
+  offset: 0, 0
+  index: -1
+classic9_plant_classic9_plant_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+classic9_plant_classic9_plant_icon_a.png
+  rotate: false
+  xy: 44, 95
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

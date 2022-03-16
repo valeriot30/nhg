@@ -1,0 +1,27 @@
+
+pixel_wall_blue.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pixel_wall_blue_pixel_wall_blue_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 224
+  orig: 67, 224
+  offset: 0, 0
+  index: -1
+pixel_wall_blue_pixel_wall_blue_64_b_2_0.png
+  rotate: false
+  xy: 71, 35
+  size: 3, 191
+  orig: 3, 191
+  offset: 0, 0
+  index: -1
+pixel_wall_blue_pixel_wall_blue_icon_a.png
+  rotate: false
+  xy: 76, 196
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

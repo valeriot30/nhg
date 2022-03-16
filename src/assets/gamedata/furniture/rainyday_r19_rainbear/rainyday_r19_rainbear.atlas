@@ -1,0 +1,83 @@
+
+rainyday_r19_rainbear.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_a_4_0.png
+  rotate: false
+  xy: 121, 71
+  size: 51, 55
+  orig: 51, 55
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_a_4_1.png
+  rotate: false
+  xy: 2, 55
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_a_4_2.png
+  rotate: false
+  xy: 66, 70
+  size: 53, 56
+  orig: 53, 56
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_a_4_3.png
+  rotate: false
+  xy: 2, 3
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_b_4_1.png
+  rotate: false
+  xy: 58, 2
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_b_4_2.png
+  rotate: false
+  xy: 121, 34
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_b_4_3.png
+  rotate: false
+  xy: 174, 43
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_b_4_4.png
+  rotate: false
+  xy: 174, 84
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_b_4_5.png
+  rotate: false
+  xy: 66, 36
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_64_sd_4_0.png
+  rotate: false
+  xy: 109, 11
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+rainyday_r19_rainbear_rainyday_r19_rainbear_icon_a.png
+  rotate: false
+  xy: 226, 96
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,440 @@
+
+vikings_house.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_house_vikings_house_64_a_4_1.png
+  rotate: false
+  xy: 585, 25
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_b_4_0.png
+  rotate: false
+  xy: 654, 46
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_b_4_1.png
+  rotate: false
+  xy: 3375, 195
+  size: 131, 59
+  orig: 131, 59
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_c_4_0.png
+  rotate: false
+  xy: 2250, 90
+  size: 150, 164
+  orig: 150, 164
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_c_4_1.png
+  rotate: false
+  xy: 3508, 195
+  size: 130, 59
+  orig: 130, 59
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_d_4_1.png
+  rotate: false
+  xy: 4026, 45
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_e_4_0.png
+  rotate: false
+  xy: 3190, 31
+  size: 70, 149
+  orig: 70, 149
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_e_4_1.png
+  rotate: false
+  xy: 226, 2
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_f_4_1.png
+  rotate: false
+  xy: 450, 2
+  size: 133, 72
+  orig: 133, 72
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_f_4_2.png
+  rotate: false
+  xy: 3112, 182
+  size: 133, 72
+  orig: 133, 72
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_1.png
+  rotate: false
+  xy: 3489, 64
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_10.png
+  rotate: false
+  xy: 1860, 119
+  size: 200, 135
+  orig: 200, 135
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_11.png
+  rotate: false
+  xy: 2402, 91
+  size: 149, 163
+  orig: 149, 163
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_12.png
+  rotate: false
+  xy: 880, 68
+  size: 198, 186
+  orig: 198, 186
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_2.png
+  rotate: false
+  xy: 1984, 41
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_3.png
+  rotate: false
+  xy: 3401, 2
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_4.png
+  rotate: false
+  xy: 3561, 142
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_5.png
+  rotate: false
+  xy: 3524, 133
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_7.png
+  rotate: false
+  xy: 1653, 107
+  size: 205, 147
+  orig: 205, 147
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_8.png
+  rotate: false
+  xy: 1080, 85
+  size: 202, 169
+  orig: 202, 169
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_g_4_9.png
+  rotate: false
+  xy: 676, 72
+  size: 202, 182
+  orig: 202, 182
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_h_4_5.png
+  rotate: false
+  xy: 2833, 156
+  size: 137, 98
+  orig: 137, 98
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_h_4_6.png
+  rotate: false
+  xy: 2553, 136
+  size: 138, 118
+  orig: 138, 118
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_h_4_7.png
+  rotate: false
+  xy: 2693, 146
+  size: 138, 108
+  orig: 138, 108
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_h_4_8.png
+  rotate: false
+  xy: 2972, 159
+  size: 138, 95
+  orig: 138, 95
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_1.png
+  rotate: false
+  xy: 1781, 14
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_10.png
+  rotate: false
+  xy: 2062, 88
+  size: 186, 166
+  orig: 186, 166
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_11.png
+  rotate: false
+  xy: 1470, 61
+  size: 181, 193
+  orig: 181, 193
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_12.png
+  rotate: false
+  xy: 1284, 37
+  size: 184, 217
+  orig: 184, 217
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_2.png
+  rotate: false
+  xy: 1653, 2
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_3.png
+  rotate: false
+  xy: 2619, 49
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_4.png
+  rotate: false
+  xy: 2553, 54
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_5.png
+  rotate: false
+  xy: 3961, 2
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_6.png
+  rotate: false
+  xy: 1716, 10
+  size: 63, 95
+  orig: 63, 95
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_7.png
+  rotate: false
+  xy: 450, 76
+  size: 224, 178
+  orig: 224, 178
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_8.png
+  rotate: false
+  xy: 226, 54
+  size: 222, 200
+  orig: 222, 200
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_i_4_9.png
+  rotate: false
+  xy: 2, 42
+  size: 222, 212
+  orig: 222, 212
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_j_4_0.png
+  rotate: false
+  xy: 1080, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_j_4_1.png
+  rotate: false
+  xy: 3489, 130
+  size: 33, 63
+  orig: 33, 63
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_10.png
+  rotate: false
+  xy: 3443, 68
+  size: 44, 125
+  orig: 44, 125
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_11.png
+  rotate: false
+  xy: 3356, 36
+  size: 43, 149
+  orig: 43, 149
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_12.png
+  rotate: false
+  xy: 3311, 9
+  size: 43, 176
+  orig: 43, 176
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_6.png
+  rotate: false
+  xy: 2017, 51
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_7.png
+  rotate: false
+  xy: 3401, 62
+  size: 40, 131
+  orig: 40, 131
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_8.png
+  rotate: false
+  xy: 3262, 35
+  size: 47, 150
+  orig: 47, 150
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_k_4_9.png
+  rotate: false
+  xy: 4037, 83
+  size: 49, 171
+  orig: 49, 171
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_l_4_1.png
+  rotate: false
+  xy: 311, 5
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_l_4_2.png
+  rotate: false
+  xy: 3598, 146
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_l_4_3.png
+  rotate: false
+  xy: 281, 7
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_l_4_4.png
+  rotate: false
+  xy: 4026, 2
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_l_4_5.png
+  rotate: false
+  xy: 1916, 31
+  size: 31, 86
+  orig: 31, 86
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_l_4_6.png
+  rotate: false
+  xy: 1882, 11
+  size: 32, 106
+  orig: 32, 106
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_l_4_7.png
+  rotate: false
+  xy: 1845, 9
+  size: 35, 96
+  orig: 35, 96
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_l_4_8.png
+  rotate: false
+  xy: 1949, 34
+  size: 33, 83
+  orig: 33, 83
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_10.png
+  rotate: false
+  xy: 3112, 24
+  size: 76, 156
+  orig: 76, 156
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_11.png
+  rotate: false
+  xy: 3883, 75
+  size: 76, 179
+  orig: 76, 179
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_12.png
+  rotate: false
+  xy: 3723, 47
+  size: 76, 207
+  orig: 76, 207
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_7.png
+  rotate: false
+  xy: 3961, 92
+  size: 74, 162
+  orig: 74, 162
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_8.png
+  rotate: false
+  xy: 3801, 73
+  size: 80, 181
+  orig: 80, 181
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_m_4_9.png
+  rotate: false
+  xy: 3640, 53
+  size: 81, 201
+  orig: 81, 201
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_64_sd_4_0.png
+  rotate: false
+  xy: 3247, 187
+  size: 126, 67
+  orig: 126, 67
+  offset: 0, 0
+  index: -1
+vikings_house_vikings_house_icon_a.png
+  rotate: false
+  xy: 3356, 2
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1

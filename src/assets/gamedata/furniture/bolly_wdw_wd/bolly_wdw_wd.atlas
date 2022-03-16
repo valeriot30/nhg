@@ -1,0 +1,188 @@
+
+bolly_wdw_wd.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bolly_wdw_wd_bolly_wdw_wd_32_b_2_0.png
+  rotate: false
+  xy: 137, 143
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_32_e_2_33.png
+  rotate: false
+  xy: 401, 169
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_2_mask.png
+  rotate: false
+  xy: 137, 147
+  size: 50, 106
+  orig: 50, 106
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_a_2_0.png
+  rotate: false
+  xy: 2, 127
+  size: 77, 126
+  orig: 77, 126
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_c_2_0.png
+  rotate: false
+  xy: 2, 15
+  size: 54, 110
+  orig: 54, 110
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_c_2_1.png
+  rotate: false
+  xy: 245, 151
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_d_2_0.png
+  rotate: false
+  xy: 81, 143
+  size: 54, 110
+  orig: 54, 110
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_d_2_1.png
+  rotate: false
+  xy: 189, 151
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_0.png
+  rotate: false
+  xy: 401, 172
+  size: 44, 81
+  orig: 44, 81
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_1.png
+  rotate: false
+  xy: 352, 169
+  size: 47, 84
+  orig: 47, 84
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_10.png
+  rotate: false
+  xy: 465, 246
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_11.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_12.png
+  rotate: false
+  xy: 81, 49
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_13.png
+  rotate: false
+  xy: 447, 173
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_14.png
+  rotate: false
+  xy: 316, 158
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_15.png
+  rotate: false
+  xy: 15, 10
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_16.png
+  rotate: false
+  xy: 58, 15
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_17.png
+  rotate: false
+  xy: 81, 54
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_2.png
+  rotate: false
+  xy: 301, 167
+  size: 49, 86
+  orig: 49, 86
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_20.png
+  rotate: false
+  xy: 102, 132
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_21.png
+  rotate: false
+  xy: 301, 152
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_33.png
+  rotate: false
+  xy: 189, 147
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_34.png
+  rotate: false
+  xy: 447, 180
+  size: 16, 73
+  orig: 16, 73
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_35.png
+  rotate: false
+  xy: 81, 65
+  size: 19, 76
+  orig: 19, 76
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_64_e_2_36.png
+  rotate: false
+  xy: 58, 47
+  size: 21, 78
+  orig: 21, 78
+  offset: 0, 0
+  index: -1
+bolly_wdw_wd_bolly_wdw_wd_icon_a.png
+  rotate: false
+  xy: 58, 24
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

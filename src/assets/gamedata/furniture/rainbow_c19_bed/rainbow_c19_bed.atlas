@@ -1,0 +1,223 @@
+
+rainbow_c19_bed.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainbow_c19_bed_rainbow_c19_bed_64_a_2_0.png
+  rotate: false
+  xy: 495, 74
+  size: 65, 52
+  orig: 65, 52
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_b_2_0.png
+  rotate: false
+  xy: 167, 48
+  size: 126, 78
+  orig: 126, 78
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_c_2_0.png
+  rotate: false
+  xy: 295, 65
+  size: 132, 61
+  orig: 132, 61
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_d_2_0.png
+  rotate: false
+  xy: 429, 62
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_1.png
+  rotate: false
+  xy: 979, 117
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_10.png
+  rotate: false
+  xy: 697, 83
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_2.png
+  rotate: false
+  xy: 323, 53
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_3.png
+  rotate: false
+  xy: 114, 2
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_4.png
+  rotate: false
+  xy: 142, 22
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_5.png
+  rotate: false
+  xy: 900, 99
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_6.png
+  rotate: false
+  xy: 89, 10
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_7.png
+  rotate: false
+  xy: 784, 86
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_8.png
+  rotate: false
+  xy: 755, 83
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_e_2_9.png
+  rotate: false
+  xy: 726, 83
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_0.png
+  rotate: false
+  xy: 495, 63
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_1.png
+  rotate: false
+  xy: 951, 112
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_10.png
+  rotate: false
+  xy: 562, 77
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_2.png
+  rotate: false
+  xy: 295, 49
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_3.png
+  rotate: false
+  xy: 923, 108
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_4.png
+  rotate: false
+  xy: 114, 19
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_5.png
+  rotate: false
+  xy: 839, 95
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_6.png
+  rotate: false
+  xy: 2, 5
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_7.png
+  rotate: false
+  xy: 665, 81
+  size: 30, 45
+  orig: 30, 45
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_8.png
+  rotate: false
+  xy: 632, 78
+  size: 31, 48
+  orig: 31, 48
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_f_2_9.png
+  rotate: false
+  xy: 597, 77
+  size: 33, 49
+  orig: 33, 49
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_g_2_0.png
+  rotate: false
+  xy: 811, 90
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_g_2_1.png
+  rotate: false
+  xy: 62, 9
+  size: 25, 34
+  orig: 25, 34
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_g_2_2.png
+  rotate: false
+  xy: 33, 7
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_bed_64_sd_2_0.png
+  rotate: false
+  xy: 2, 45
+  size: 163, 81
+  orig: 163, 81
+  offset: 0, 0
+  index: -1
+rainbow_c19_bed_rainbow_c19_icon_a.png
+  rotate: false
+  xy: 868, 101
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

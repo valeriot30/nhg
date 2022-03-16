@@ -1,0 +1,398 @@
+
+xm09_frplc.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm09_frplc_xm09_frplc_64_a_2_0.png
+  rotate: false
+  xy: 1802, 126
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_1.png
+  rotate: false
+  xy: 102, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_10.png
+  rotate: false
+  xy: 1402, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_11.png
+  rotate: false
+  xy: 1502, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_12.png
+  rotate: false
+  xy: 1202, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_13.png
+  rotate: false
+  xy: 1302, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_14.png
+  rotate: false
+  xy: 1002, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_15.png
+  rotate: false
+  xy: 1102, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_16.png
+  rotate: false
+  xy: 1702, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_17.png
+  rotate: false
+  xy: 1602, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_18.png
+  rotate: false
+  xy: 3502, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_19.png
+  rotate: false
+  xy: 3402, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_2.png
+  rotate: false
+  xy: 3602, 143
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_20.png
+  rotate: false
+  xy: 3102, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_21.png
+  rotate: false
+  xy: 3202, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_22.png
+  rotate: false
+  xy: 3302, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_23.png
+  rotate: false
+  xy: 2702, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_24.png
+  rotate: false
+  xy: 2802, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_25.png
+  rotate: false
+  xy: 2902, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_26.png
+  rotate: false
+  xy: 3002, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_3.png
+  rotate: false
+  xy: 802, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_4.png
+  rotate: false
+  xy: 602, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_5.png
+  rotate: false
+  xy: 1202, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_6.png
+  rotate: false
+  xy: 1002, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_7.png
+  rotate: false
+  xy: 3902, 143
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_8.png
+  rotate: false
+  xy: 3802, 143
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_2_9.png
+  rotate: false
+  xy: 902, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_0.png
+  rotate: false
+  xy: 3702, 143
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_1.png
+  rotate: false
+  xy: 302, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_10.png
+  rotate: false
+  xy: 502, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_11.png
+  rotate: false
+  xy: 602, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_12.png
+  rotate: false
+  xy: 702, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_13.png
+  rotate: false
+  xy: 802, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_14.png
+  rotate: false
+  xy: 102, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_15.png
+  rotate: false
+  xy: 202, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_16.png
+  rotate: false
+  xy: 302, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_17.png
+  rotate: false
+  xy: 402, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_18.png
+  rotate: false
+  xy: 2602, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_19.png
+  rotate: false
+  xy: 2502, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_2.png
+  rotate: false
+  xy: 202, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_20.png
+  rotate: false
+  xy: 2402, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_21.png
+  rotate: false
+  xy: 2202, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_22.png
+  rotate: false
+  xy: 2302, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_23.png
+  rotate: false
+  xy: 2002, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_24.png
+  rotate: false
+  xy: 2102, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_25.png
+  rotate: false
+  xy: 1802, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_26.png
+  rotate: false
+  xy: 1902, 129
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_3.png
+  rotate: false
+  xy: 502, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_4.png
+  rotate: false
+  xy: 402, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_5.png
+  rotate: false
+  xy: 902, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_6.png
+  rotate: false
+  xy: 702, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_7.png
+  rotate: false
+  xy: 1302, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_8.png
+  rotate: false
+  xy: 1102, 2
+  size: 98, 109
+  orig: 98, 109
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_64_b_4_9.png
+  rotate: false
+  xy: 2, 113
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+xm09_frplc_xm09_frplc_icon_a.png
+  rotate: false
+  xy: 4002, 223
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

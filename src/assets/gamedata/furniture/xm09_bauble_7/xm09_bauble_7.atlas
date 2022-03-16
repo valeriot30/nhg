@@ -1,0 +1,20 @@
+
+xm09_bauble_7.png
+size: 32,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm09_bauble_7_xm09_bauble_7_64_a_2_0.png
+  rotate: false
+  xy: 21, 15
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+xm09_bauble_7_xm09_bauble_7_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1

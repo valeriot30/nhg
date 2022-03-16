@@ -1,0 +1,62 @@
+
+football12_de.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+football12_de_football12_de_64_a_2_0.png
+  rotate: false
+  xy: 2, 23
+  size: 128, 177
+  orig: 128, 177
+  offset: 0, 0
+  index: -1
+football12_de_football12_de_64_b_2_0.png
+  rotate: false
+  xy: 132, 33
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_de_football12_de_64_b_2_1.png
+  rotate: false
+  xy: 620, 33
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_de_football12_de_64_b_2_2.png
+  rotate: false
+  xy: 498, 33
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_de_football12_de_64_b_2_3.png
+  rotate: false
+  xy: 376, 33
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_de_football12_de_64_b_2_4.png
+  rotate: false
+  xy: 254, 33
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_de_football12_de_64_b_2_5.png
+  rotate: false
+  xy: 742, 33
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_de_football12_de_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 19
+  orig: 28, 19
+  offset: 0, 0
+  index: -1

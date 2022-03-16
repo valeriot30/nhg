@@ -1,0 +1,20 @@
+
+clothing_pointyshoes.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_pointyshoes_clothing_pointyshoes_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+clothing_pointyshoes_clothing_pointyshoes_icon_a.png
+  rotate: false
+  xy: 52, 10
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

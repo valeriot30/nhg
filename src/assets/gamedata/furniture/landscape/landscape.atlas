@@ -1,0 +1,27 @@
+
+landscape.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+landscape_landscape_32_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+landscape_landscape_32_a_2_0.png
+  rotate: false
+  xy: 29, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+landscape_landscape_32_a_2_0.png
+  rotate: false
+  xy: 56, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1

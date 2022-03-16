@@ -1,0 +1,20 @@
+
+clothing_r17_goldtophat.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r17_goldtophat_clothing_r17_goldtophat_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 34, 65
+  orig: 34, 65
+  offset: 0, 0
+  index: -1
+clothing_r17_goldtophat_clothing_r17_goldtophat_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

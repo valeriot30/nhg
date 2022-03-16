@@ -1,0 +1,34 @@
+
+fest_c19_backdrop3.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_backdrop3_fest_c19_backdrop3_64_a_4_0.png
+  rotate: false
+  xy: 46, 40
+  size: 39, 181
+  orig: 39, 181
+  offset: 0, 0
+  index: -1
+fest_c19_backdrop3_fest_c19_backdrop3_64_b_4_0.png
+  rotate: false
+  xy: 2, 36
+  size: 42, 185
+  orig: 42, 185
+  offset: 0, 0
+  index: -1
+fest_c19_backdrop3_fest_c19_backdrop3_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 32
+  orig: 68, 32
+  offset: 0, 0
+  index: -1
+fest_c19_backdrop3_fest_c19_backdrop3_icon_a.png
+  rotate: false
+  xy: 87, 191
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+guitar_skull.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+guitar_skull_guitar_skull_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 87, 51
+  orig: 87, 51
+  offset: 0, 0
+  index: -1
+guitar_skull_guitar_skull_64_b_2_0.png
+  rotate: false
+  xy: 91, 4
+  size: 87, 49
+  orig: 87, 49
+  offset: 0, 0
+  index: -1
+guitar_skull_guitar_skull_icon_a.png
+  rotate: false
+  xy: 180, 33
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1

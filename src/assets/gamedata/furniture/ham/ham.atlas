@@ -1,0 +1,27 @@
+
+ham.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ham_ham_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+ham_ham_64_sd_0_0.png
+  rotate: false
+  xy: 51, 33
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+ham_ham_icon_a.png
+  rotate: false
+  xy: 51, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

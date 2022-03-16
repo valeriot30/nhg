@@ -1,0 +1,76 @@
+
+room_noob_tallfloor.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+room_noob_tallfloor_room_noob_tallfloor_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+room_noob_tallfloor_room_noob_tallfloor_64_d_0_0.png
+  rotate: false
+  xy: 42, 5
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+room_noob_tallfloor_room_noob_tallfloor_64_e_0_0.png
+  rotate: false
+  xy: 516, 79
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+room_noob_tallfloor_room_noob_tallfloor_64_f_0_0.png
+  rotate: false
+  xy: 184, 31
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+room_noob_tallfloor_room_noob_tallfloor_64_g_0_0.png
+  rotate: false
+  xy: 256, 34
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+room_noob_tallfloor_room_noob_tallfloor_64_h_0_0.png
+  rotate: false
+  xy: 322, 34
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+room_noob_tallfloor_room_noob_tallfloor_64_i_0_0.png
+  rotate: false
+  xy: 388, 34
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+room_noob_tallfloor_room_noob_tallfloor_64_j_0_0.png
+  rotate: false
+  xy: 454, 33
+  size: 60, 85
+  orig: 60, 85
+  offset: 0, 0
+  index: -1
+room_noob_tallfloor_room_noob_tallfloor_64_sd_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 180, 95
+  orig: 180, 95
+  offset: 0, 0
+  index: -1
+room_noob_tallfloor_room_noob_tallfloor_icon_a.png
+  rotate: false
+  xy: 516, 95
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1

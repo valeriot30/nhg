@@ -1,0 +1,391 @@
+
+easter_c18_radiator.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c18_radiator_easter_c18_radiator_64_a_0_0.png
+  rotate: false
+  xy: 53, 6
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_a_0_1.png
+  rotate: false
+  xy: 2, 6
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_b_0_1.png
+  rotate: false
+  xy: 104, 10
+  size: 43, 52
+  orig: 43, 52
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_c_0_0.png
+  rotate: false
+  xy: 2, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_c_0_1.png
+  rotate: false
+  xy: 149, 15
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_c_0_2.png
+  rotate: false
+  xy: 369, 2
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_c_0_3.png
+  rotate: false
+  xy: 398, 2
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_1.png
+  rotate: false
+  xy: 913, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_10.png
+  rotate: false
+  xy: 1321, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_13.png
+  rotate: false
+  xy: 1355, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_14.png
+  rotate: false
+  xy: 1151, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_16.png
+  rotate: false
+  xy: 1219, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_17.png
+  rotate: false
+  xy: 1287, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_18.png
+  rotate: false
+  xy: 947, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_19.png
+  rotate: false
+  xy: 1049, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_2.png
+  rotate: false
+  xy: 879, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_21.png
+  rotate: false
+  xy: 1729, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_23.png
+  rotate: false
+  xy: 1695, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_25.png
+  rotate: false
+  xy: 1627, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_27.png
+  rotate: false
+  xy: 1559, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_28.png
+  rotate: false
+  xy: 1593, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_29.png
+  rotate: false
+  xy: 1423, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_30.png
+  rotate: false
+  xy: 437, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_31.png
+  rotate: false
+  xy: 199, 24
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_33.png
+  rotate: false
+  xy: 233, 23
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_35.png
+  rotate: false
+  xy: 301, 23
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_37.png
+  rotate: false
+  xy: 573, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_39.png
+  rotate: false
+  xy: 607, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_40.png
+  rotate: false
+  xy: 709, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_41.png
+  rotate: false
+  xy: 675, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_42.png
+  rotate: false
+  xy: 641, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_44.png
+  rotate: false
+  xy: 811, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_45.png
+  rotate: false
+  xy: 777, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_46.png
+  rotate: false
+  xy: 743, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_49.png
+  rotate: false
+  xy: 845, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_5.png
+  rotate: false
+  xy: 505, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_51.png
+  rotate: false
+  xy: 1117, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_52.png
+  rotate: false
+  xy: 1253, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_53.png
+  rotate: false
+  xy: 1185, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_54.png
+  rotate: false
+  xy: 1015, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_55.png
+  rotate: false
+  xy: 981, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_57.png
+  rotate: false
+  xy: 1083, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_59.png
+  rotate: false
+  xy: 1389, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_6.png
+  rotate: false
+  xy: 539, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_61.png
+  rotate: false
+  xy: 1661, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_64.png
+  rotate: false
+  xy: 1525, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_65.png
+  rotate: false
+  xy: 1491, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_66.png
+  rotate: false
+  xy: 1457, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_68.png
+  rotate: false
+  xy: 369, 24
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_69.png
+  rotate: false
+  xy: 335, 23
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_7.png
+  rotate: false
+  xy: 471, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_71.png
+  rotate: false
+  xy: 267, 23
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_d_0_9.png
+  rotate: false
+  xy: 403, 25
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_64_sd_0_0.png
+  rotate: false
+  xy: 149, 37
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+easter_c18_radiator_easter_c18_radiator_icon_a.png
+  rotate: false
+  xy: 1763, 33
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1

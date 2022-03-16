@@ -1,0 +1,27 @@
+
+china_horse.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+china_horse_china_horse_64_a_0_0.png
+  rotate: false
+  xy: 2, 52
+  size: 52, 104
+  orig: 52, 104
+  offset: 0, 0
+  index: -1
+china_horse_china_horse_64_sd_0_0.png
+  rotate: false
+  xy: 2, 35
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+china_horse_china_horse_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1

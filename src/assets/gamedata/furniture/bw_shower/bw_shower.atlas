@@ -1,0 +1,76 @@
+
+bw_shower.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bw_shower_bw_shower_64_a_0_0.png
+  rotate: false
+  xy: 2, 129
+  size: 64, 125
+  orig: 64, 125
+  offset: 0, 0
+  index: -1
+bw_shower_bw_shower_64_b_0_0.png
+  rotate: false
+  xy: 68, 140
+  size: 6, 13
+  orig: 6, 13
+  offset: 0, 0
+  index: -1
+bw_shower_bw_shower_64_b_0_1.png
+  rotate: false
+  xy: 52, 115
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+bw_shower_bw_shower_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+bw_shower_bw_shower_64_d_0_0.png
+  rotate: false
+  xy: 23, 25
+  size: 6, 1
+  orig: 6, 1
+  offset: 0, 0
+  index: -1
+bw_shower_bw_shower_64_d_0_1.png
+  rotate: false
+  xy: 68, 155
+  size: 48, 99
+  orig: 48, 99
+  offset: 0, 0
+  index: -1
+bw_shower_bw_shower_64_d_0_2.png
+  rotate: false
+  xy: 2, 28
+  size: 48, 99
+  orig: 48, 99
+  offset: 0, 0
+  index: -1
+bw_shower_bw_shower_64_d_0_3.png
+  rotate: false
+  xy: 168, 156
+  size: 48, 98
+  orig: 48, 98
+  offset: 0, 0
+  index: -1
+bw_shower_bw_shower_64_d_0_4.png
+  rotate: false
+  xy: 118, 156
+  size: 48, 98
+  orig: 48, 98
+  offset: 0, 0
+  index: -1
+bw_shower_bw_shower_icon_a.png
+  rotate: false
+  xy: 218, 226
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1

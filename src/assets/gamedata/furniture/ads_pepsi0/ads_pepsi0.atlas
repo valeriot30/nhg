@@ -1,0 +1,55 @@
+
+ads_pepsi0.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_pepsi0_ads_pepsi0_64_a_2_0.png
+  rotate: false
+  xy: 136, 56
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+ads_pepsi0_ads_pepsi0_64_a_2_1.png
+  rotate: false
+  xy: 203, 56
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+ads_pepsi0_ads_pepsi0_64_a_4_0.png
+  rotate: false
+  xy: 2, 56
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+ads_pepsi0_ads_pepsi0_64_a_4_1.png
+  rotate: false
+  xy: 69, 56
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+ads_pepsi0_ads_pepsi0_64_sd_2_0.png
+  rotate: false
+  xy: 270, 164
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+ads_pepsi0_ads_pepsi0_64_sd_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+ads_pepsi0_ads_pepsi0_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

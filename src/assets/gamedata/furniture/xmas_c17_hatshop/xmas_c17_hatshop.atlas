@@ -1,0 +1,97 @@
+
+xmas_c17_hatshop.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_hatshop_xmas_c17_hatshop_64_a_0_0.png
+  rotate: false
+  xy: 687, 37
+  size: 55, 169
+  orig: 55, 169
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_a_2_0.png
+  rotate: false
+  xy: 630, 37
+  size: 55, 169
+  orig: 55, 169
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_b_0_0.png
+  rotate: false
+  xy: 148, 41
+  size: 65, 165
+  orig: 65, 165
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_b_2_0.png
+  rotate: false
+  xy: 215, 41
+  size: 65, 165
+  orig: 65, 165
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_c_0_0.png
+  rotate: false
+  xy: 510, 42
+  size: 58, 164
+  orig: 58, 164
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_c_2_0.png
+  rotate: false
+  xy: 570, 42
+  size: 58, 164
+  orig: 58, 164
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_d_0_0.png
+  rotate: false
+  xy: 2, 46
+  size: 71, 160
+  orig: 71, 160
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_d_2_0.png
+  rotate: false
+  xy: 75, 46
+  size: 71, 160
+  orig: 71, 160
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_e_0_0.png
+  rotate: false
+  xy: 282, 95
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_e_0_1.png
+  rotate: false
+  xy: 744, 205
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_e_2_0.png
+  rotate: false
+  xy: 396, 95
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 88, 42
+  orig: 88, 42
+  offset: 0, 0
+  index: -1
+xmas_c17_hatshop_xmas_c17_hatshop_icon_a.png
+  rotate: false
+  xy: 282, 63
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

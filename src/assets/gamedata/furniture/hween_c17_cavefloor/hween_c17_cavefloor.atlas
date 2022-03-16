@@ -1,0 +1,139 @@
+
+hween_c17_cavefloor.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_cavefloor_hween_c17_cavefloor_64_a_0_0.png
+  rotate: false
+  xy: 812, 20
+  size: 129, 36
+  orig: 129, 36
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_a_0_1.png
+  rotate: false
+  xy: 679, 2
+  size: 131, 54
+  orig: 131, 54
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_a_0_2.png
+  rotate: false
+  xy: 679, 58
+  size: 133, 68
+  orig: 133, 68
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_a_0_3.png
+  rotate: false
+  xy: 410, 42
+  size: 133, 84
+  orig: 133, 84
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_a_0_4.png
+  rotate: false
+  xy: 140, 26
+  size: 133, 100
+  orig: 133, 100
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_b_0_0.png
+  rotate: false
+  xy: 814, 58
+  size: 128, 68
+  orig: 128, 68
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_c_0_1.png
+  rotate: false
+  xy: 1254, 94
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_c_0_4.png
+  rotate: false
+  xy: 1320, 94
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_d_0_1.png
+  rotate: false
+  xy: 545, 2
+  size: 131, 53
+  orig: 131, 53
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_d_0_2.png
+  rotate: false
+  xy: 545, 57
+  size: 132, 69
+  orig: 132, 69
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_d_0_3.png
+  rotate: false
+  xy: 275, 42
+  size: 133, 84
+  orig: 133, 84
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_d_0_4.png
+  rotate: false
+  xy: 2, 26
+  size: 136, 100
+  orig: 136, 100
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_e_0_1.png
+  rotate: false
+  xy: 275, 39
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_f_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_f_0_1.png
+  rotate: false
+  xy: 1179, 75
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_f_0_2.png
+  rotate: false
+  xy: 1102, 59
+  size: 75, 67
+  orig: 75, 67
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_f_0_3.png
+  rotate: false
+  xy: 1023, 43
+  size: 77, 83
+  orig: 77, 83
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_64_f_0_4.png
+  rotate: false
+  xy: 944, 27
+  size: 77, 99
+  orig: 77, 99
+  offset: 0, 0
+  index: -1
+hween_c17_cavefloor_hween_c17_cavefloor_icon_a.png
+  rotate: false
+  xy: 1384, 96
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

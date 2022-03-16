@@ -1,0 +1,20 @@
+
+picture_car.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+picture_car_picture_car_64_a_2_0.png
+  rotate: false
+  xy: 2, 30
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+picture_car_picture_car_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1

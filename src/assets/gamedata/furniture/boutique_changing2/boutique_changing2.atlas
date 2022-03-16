@@ -1,0 +1,41 @@
+
+boutique_changing2.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boutique_changing2_boutique_changing2_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 121
+  orig: 64, 121
+  offset: 0, 0
+  index: -1
+boutique_changing2_boutique_changing2_64_b_2_0.png
+  rotate: false
+  xy: 68, 2
+  size: 64, 121
+  orig: 64, 121
+  offset: 0, 0
+  index: -1
+boutique_changing2_boutique_changing2_64_b_2_1.png
+  rotate: false
+  xy: 134, 2
+  size: 64, 121
+  orig: 64, 121
+  offset: 0, 0
+  index: -1
+boutique_changing2_boutique_changing2_64_sd_2_0.png
+  rotate: false
+  xy: 200, 91
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+boutique_changing2_boutique_changing2_icon_a.png
+  rotate: false
+  xy: 200, 59
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

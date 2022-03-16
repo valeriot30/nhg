@@ -1,0 +1,111 @@
+
+hween09_win.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween09_win_hween09_win_64_2_mask.png
+  rotate: false
+  xy: 331, 137
+  size: 51, 116
+  orig: 51, 116
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_4_mask.png
+  rotate: false
+  xy: 278, 137
+  size: 51, 116
+  orig: 51, 116
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_a_2_0.png
+  rotate: false
+  xy: 213, 114
+  size: 63, 139
+  orig: 63, 139
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_a_4_0.png
+  rotate: false
+  xy: 148, 114
+  size: 63, 139
+  orig: 63, 139
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_b_2_0.png
+  rotate: false
+  xy: 2, 57
+  size: 71, 196
+  orig: 71, 196
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_b_4_0.png
+  rotate: false
+  xy: 75, 57
+  size: 71, 196
+  orig: 71, 196
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_c_2_0.png
+  rotate: false
+  xy: 384, 143
+  size: 45, 110
+  orig: 45, 110
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_c_2_1.png
+  rotate: false
+  xy: 148, 2
+  size: 45, 110
+  orig: 45, 110
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_c_4_0.png
+  rotate: false
+  xy: 431, 143
+  size: 45, 110
+  orig: 45, 110
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_c_4_1.png
+  rotate: false
+  xy: 195, 2
+  size: 45, 110
+  orig: 45, 110
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_d_2_0.png
+  rotate: false
+  xy: 478, 171
+  size: 8, 55
+  orig: 8, 55
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_d_2_1.png
+  rotate: false
+  xy: 478, 228
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_d_4_0.png
+  rotate: false
+  xy: 242, 53
+  size: 8, 59
+  orig: 8, 59
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_64_d_4_1.png
+  rotate: false
+  xy: 2, 32
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+hween09_win_hween09_win_icon_a.png
+  rotate: false
+  xy: 278, 114
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1

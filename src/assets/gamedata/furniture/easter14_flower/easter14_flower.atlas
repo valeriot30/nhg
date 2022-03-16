@@ -1,0 +1,90 @@
+
+easter14_flower.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter14_flower_easter14_flower_64_a_0_4.png
+  rotate: false
+  xy: 467, 3
+  size: 64, 119
+  orig: 64, 119
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_a_2_0.png
+  rotate: false
+  xy: 335, 3
+  size: 64, 119
+  orig: 64, 119
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_a_2_1.png
+  rotate: false
+  xy: 401, 3
+  size: 64, 119
+  orig: 64, 119
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_a_2_2.png
+  rotate: false
+  xy: 136, 3
+  size: 65, 119
+  orig: 65, 119
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_a_2_3.png
+  rotate: false
+  xy: 269, 3
+  size: 64, 119
+  orig: 64, 119
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_a_2_4.png
+  rotate: false
+  xy: 203, 3
+  size: 64, 119
+  orig: 64, 119
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_a_2_5.png
+  rotate: false
+  xy: 70, 2
+  size: 64, 120
+  orig: 64, 120
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_a_2_6.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 120
+  orig: 66, 120
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_a_2_7.png
+  rotate: false
+  xy: 533, 2
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_a_2_8.png
+  rotate: false
+  xy: 597, 2
+  size: 62, 120
+  orig: 62, 120
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_64_sd_2_0.png
+  rotate: false
+  xy: 661, 90
+  size: 51, 32
+  orig: 51, 32
+  offset: 0, 0
+  index: -1
+easter14_flower_easter14_flower_icon_a.png
+  rotate: false
+  xy: 661, 59
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

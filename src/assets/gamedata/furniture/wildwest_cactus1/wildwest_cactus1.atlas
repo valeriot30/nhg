@@ -1,0 +1,34 @@
+
+wildwest_cactus1.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_cactus1_wildwest_cactus1_32_a_0_1.png
+  rotate: false
+  xy: 117, 26
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+wildwest_cactus1_wildwest_cactus1_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+wildwest_cactus1_wildwest_cactus1_64_a_0_1.png
+  rotate: false
+  xy: 58, 5
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+wildwest_cactus1_wildwest_cactus1_64_sd_0_0.png
+  rotate: false
+  xy: 149, 40
+  size: 44, 12
+  orig: 44, 12
+  offset: 0, 0
+  index: -1

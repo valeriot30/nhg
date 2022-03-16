@@ -1,0 +1,132 @@
+
+duck_zombie.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+duck_zombie_duck_zombie_64_a_4_1.png
+  rotate: false
+  xy: 157, 12
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_10.png
+  rotate: false
+  xy: 219, 38
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_11.png
+  rotate: false
+  xy: 161, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_12.png
+  rotate: false
+  xy: 190, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_13.png
+  rotate: false
+  xy: 132, 38
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_14.png
+  rotate: false
+  xy: 272, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_15.png
+  rotate: false
+  xy: 182, 12
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_16.png
+  rotate: false
+  xy: 295, 38
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_2.png
+  rotate: false
+  xy: 132, 11
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_3.png
+  rotate: false
+  xy: 107, 5
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_4.png
+  rotate: false
+  xy: 82, 31
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_5.png
+  rotate: false
+  xy: 82, 2
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_6.png
+  rotate: false
+  xy: 107, 33
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_7.png
+  rotate: false
+  xy: 57, 25
+  size: 23, 37
+  orig: 23, 37
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_8.png
+  rotate: false
+  xy: 2, 14
+  size: 25, 48
+  orig: 25, 48
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_a_4_9.png
+  rotate: false
+  xy: 29, 24
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_64_sd_4_0.png
+  rotate: false
+  xy: 132, 2
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+duck_zombie_duck_zombie_icon_a.png
+  rotate: false
+  xy: 247, 38
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

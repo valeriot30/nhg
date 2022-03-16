@@ -1,0 +1,76 @@
+
+easter_c18_boxplanter.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c18_boxplanter_easter_c18_boxplanter_64_a_2_0.png
+  rotate: false
+  xy: 72, 37
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+easter_c18_boxplanter_easter_c18_boxplanter_64_a_4_0.png
+  rotate: false
+  xy: 2, 37
+  size: 68, 85
+  orig: 68, 85
+  offset: 0, 0
+  index: -1
+easter_c18_boxplanter_easter_c18_boxplanter_64_b_2_0.png
+  rotate: false
+  xy: 142, 38
+  size: 67, 84
+  orig: 67, 84
+  offset: 0, 0
+  index: -1
+easter_c18_boxplanter_easter_c18_boxplanter_64_b_4_0.png
+  rotate: false
+  xy: 211, 38
+  size: 67, 84
+  orig: 67, 84
+  offset: 0, 0
+  index: -1
+easter_c18_boxplanter_easter_c18_boxplanter_64_c_2_0.png
+  rotate: false
+  xy: 348, 88
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+easter_c18_boxplanter_easter_c18_boxplanter_64_c_4_0.png
+  rotate: false
+  xy: 280, 53
+  size: 34, 34
+  orig: 34, 34
+  offset: 0, 0
+  index: -1
+easter_c18_boxplanter_easter_c18_boxplanter_64_d_2_0.png
+  rotate: false
+  xy: 280, 89
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+easter_c18_boxplanter_easter_c18_boxplanter_64_d_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+easter_c18_boxplanter_easter_c18_boxplanter_64_sd_2_0.png
+  rotate: false
+  xy: 70, 6
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+easter_c18_boxplanter_easter_c18_boxplanter_icon_a.png
+  rotate: false
+  xy: 384, 90
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

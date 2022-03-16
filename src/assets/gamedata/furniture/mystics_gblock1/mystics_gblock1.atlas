@@ -1,0 +1,41 @@
+
+mystics_gblock1.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mystics_gblock1_mystics_gblock1_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+mystics_gblock1_mystics_gblock1_64_b_0_0.png
+  rotate: false
+  xy: 68, 7
+  size: 62, 55
+  orig: 62, 55
+  offset: 0, 0
+  index: -1
+mystics_gblock1_mystics_gblock1_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_gblock1_mystics_gblock1_64_c_0_1.png
+  rotate: false
+  xy: 132, 20
+  size: 65, 42
+  orig: 65, 42
+  offset: 0, 0
+  index: -1
+mystics_gblock1_mystics_gblock1_icon_a.png
+  rotate: false
+  xy: 199, 35
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1

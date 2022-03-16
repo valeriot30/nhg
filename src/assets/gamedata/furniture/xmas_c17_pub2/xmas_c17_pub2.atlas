@@ -1,0 +1,111 @@
+
+xmas_c17_pub2.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_pub2_xmas_c17_pub2_64_a_0_0.png
+  rotate: false
+  xy: 95, 36
+  size: 91, 164
+  orig: 91, 164
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_a_0_1.png
+  rotate: false
+  xy: 2, 36
+  size: 91, 164
+  orig: 91, 164
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_a_2_0.png
+  rotate: false
+  xy: 188, 36
+  size: 91, 164
+  orig: 91, 164
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_a_2_1.png
+  rotate: false
+  xy: 281, 36
+  size: 91, 164
+  orig: 91, 164
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_b_0_0.png
+  rotate: false
+  xy: 670, 42
+  size: 51, 158
+  orig: 51, 158
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_b_0_1.png
+  rotate: false
+  xy: 723, 42
+  size: 51, 158
+  orig: 51, 158
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_b_2_0.png
+  rotate: false
+  xy: 829, 42
+  size: 51, 158
+  orig: 51, 158
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_b_2_1.png
+  rotate: false
+  xy: 776, 42
+  size: 51, 158
+  orig: 51, 158
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_c_0_1.png
+  rotate: false
+  xy: 374, 69
+  size: 92, 131
+  orig: 92, 131
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_c_2_0.png
+  rotate: false
+  xy: 374, 66
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_c_2_1.png
+  rotate: false
+  xy: 468, 69
+  size: 92, 131
+  orig: 92, 131
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_d_0_1.png
+  rotate: false
+  xy: 616, 62
+  size: 52, 138
+  orig: 52, 138
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_d_2_1.png
+  rotate: false
+  xy: 562, 62
+  size: 52, 138
+  orig: 52, 138
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_64_e_2_1.png
+  rotate: false
+  xy: 882, 109
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+xmas_c17_pub2_xmas_c17_pub2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1

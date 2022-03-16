@@ -1,0 +1,55 @@
+
+sandrug.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sandrug_sandrug_64_a_2_0.png
+  rotate: false
+  xy: 2, 50
+  size: 128, 69
+  orig: 128, 69
+  offset: 0, 0
+  index: -1
+sandrug_sandrug_64_b_2_0.png
+  rotate: false
+  xy: 132, 78
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+sandrug_sandrug_64_c_2_0.png
+  rotate: false
+  xy: 164, 106
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+sandrug_sandrug_64_d_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+sandrug_sandrug_64_d_6_0.png
+  rotate: false
+  xy: 132, 64
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+sandrug_sandrug_64_sd_0_0.png
+  rotate: false
+  xy: 2, 16
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+sandrug_sandrug_icon_a.png
+  rotate: false
+  xy: 132, 103
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+rare_vdoll.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_vdoll_rare_vdoll_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_0.png
+  rotate: false
+  xy: 644, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_1.png
+  rotate: false
+  xy: 1393, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_10.png
+  rotate: false
+  xy: 430, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_11.png
+  rotate: false
+  xy: 537, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_12.png
+  rotate: false
+  xy: 216, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_13.png
+  rotate: false
+  xy: 323, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_14.png
+  rotate: false
+  xy: 751, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_15.png
+  rotate: false
+  xy: 858, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_2.png
+  rotate: false
+  xy: 1500, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_3.png
+  rotate: false
+  xy: 1607, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_4.png
+  rotate: false
+  xy: 1714, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_5.png
+  rotate: false
+  xy: 965, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_6.png
+  rotate: false
+  xy: 1072, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_7.png
+  rotate: false
+  xy: 1179, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_8.png
+  rotate: false
+  xy: 1286, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_64_b_4_9.png
+  rotate: false
+  xy: 109, 2
+  size: 105, 100
+  orig: 105, 100
+  offset: 0, 0
+  index: -1
+rare_vdoll_rare_vdoll_icon_a.png
+  rotate: false
+  xy: 1821, 71
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

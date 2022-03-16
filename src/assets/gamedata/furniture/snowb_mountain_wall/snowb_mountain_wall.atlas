@@ -1,0 +1,27 @@
+
+snowb_mountain_wall.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snowb_mountain_wall_snowb_mountain_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 127, 407
+  orig: 127, 407
+  offset: 0, 0
+  index: -1
+snowb_mountain_wall_snowb_mountain_wall_64_a_2_1.png
+  rotate: false
+  xy: 131, 36
+  size: 127, 407
+  orig: 127, 407
+  offset: 0, 0
+  index: -1
+snowb_mountain_wall_snowb_mountain_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1

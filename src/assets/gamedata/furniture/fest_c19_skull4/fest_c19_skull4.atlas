@@ -1,0 +1,27 @@
+
+fest_c19_skull4.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_skull4_fest_c19_skull4_64_a_0_0.png
+  rotate: false
+  xy: 2, 53
+  size: 54, 70
+  orig: 54, 70
+  offset: 0, 0
+  index: -1
+fest_c19_skull4_fest_c19_skull4_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+fest_c19_skull4_fest_c19_skull4_icon_a.png
+  rotate: false
+  xy: 2, 21
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+hween_c19_bigroof.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_bigroof_hween_c19_bigroof_64_a_2_0.png
+  rotate: false
+  xy: 143, 22
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_64_a_4_0.png
+  rotate: false
+  xy: 216, 176
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_64_b_2_0.png
+  rotate: false
+  xy: 75, 82
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_64_b_2_1.png
+  rotate: false
+  xy: 143, 82
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_64_b_4_0.png
+  rotate: false
+  xy: 75, 6
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_64_b_4_1.png
+  rotate: false
+  xy: 148, 160
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_64_c_2_0.png
+  rotate: false
+  xy: 2, 80
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_64_c_2_1.png
+  rotate: false
+  xy: 2, 158
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_64_c_4_1.png
+  rotate: false
+  xy: 75, 158
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+hween_c19_bigroof_hween_c19_bigroof_icon_a.png
+  rotate: false
+  xy: 180, 51
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

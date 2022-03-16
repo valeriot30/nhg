@@ -1,0 +1,104 @@
+
+hween_c19_slimeblob.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_1.png
+  rotate: false
+  xy: 457, 24
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_10.png
+  rotate: false
+  xy: 2, 23
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_11.png
+  rotate: false
+  xy: 407, 23
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_12.png
+  rotate: false
+  xy: 357, 23
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_2.png
+  rotate: false
+  xy: 508, 22
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_3.png
+  rotate: false
+  xy: 557, 21
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_4.png
+  rotate: false
+  xy: 107, 23
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_5.png
+  rotate: false
+  xy: 157, 23
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_6.png
+  rotate: false
+  xy: 207, 23
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_7.png
+  rotate: false
+  xy: 257, 23
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_8.png
+  rotate: false
+  xy: 307, 23
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_a_0_9.png
+  rotate: false
+  xy: 56, 23
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+hween_c19_slimeblob_hween_c19_slimeblob_icon_a.png
+  rotate: false
+  xy: 606, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

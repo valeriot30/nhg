@@ -1,0 +1,237 @@
+
+ads_igorswitch.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 17, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 20, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 23, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 26, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 29, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_32_d_4_7.png
+  rotate: false
+  xy: 32, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_a_0_0.png
+  rotate: false
+  xy: 2, 62
+  size: 54, 64
+  orig: 54, 64
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_a_4_0.png
+  rotate: false
+  xy: 58, 67
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_b_0_1.png
+  rotate: false
+  xy: 48, 33
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_b_4_1.png
+  rotate: false
+  xy: 77, 6
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_c_0_1.png
+  rotate: false
+  xy: 17, 5
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_c_4_0.png
+  rotate: false
+  xy: 422, 92
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_c_4_1.png
+  rotate: false
+  xy: 495, 117
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_0_1.png
+  rotate: false
+  xy: 378, 75
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_0_2.png
+  rotate: false
+  xy: 389, 91
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_0_3.png
+  rotate: false
+  xy: 201, 51
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_0_4.png
+  rotate: false
+  xy: 201, 72
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_0_5.png
+  rotate: false
+  xy: 344, 101
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_0_6.png
+  rotate: false
+  xy: 253, 97
+  size: 47, 29
+  orig: 47, 29
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_0_7.png
+  rotate: false
+  xy: 201, 96
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_0_8.png
+  rotate: false
+  xy: 441, 112
+  size: 52, 14
+  orig: 52, 14
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_4_1.png
+  rotate: false
+  xy: 77, 23
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_4_2.png
+  rotate: false
+  xy: 77, 43
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_4_3.png
+  rotate: false
+  xy: 344, 73
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_4_4.png
+  rotate: false
+  xy: 163, 56
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_4_5.png
+  rotate: false
+  xy: 302, 92
+  size: 40, 34
+  orig: 40, 34
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_4_6.png
+  rotate: false
+  xy: 156, 88
+  size: 43, 38
+  orig: 43, 38
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_4_7.png
+  rotate: false
+  xy: 112, 84
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_d_4_8.png
+  rotate: false
+  xy: 2, 16
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_sd_0_0.png
+  rotate: false
+  xy: 112, 68
+  size: 49, 14
+  orig: 49, 14
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_64_sd_4_0.png
+  rotate: false
+  xy: 389, 110
+  size: 50, 16
+  orig: 50, 16
+  offset: 0, 0
+  index: -1
+ads_igorswitch_ads_igorswitch_icon_a.png
+  rotate: false
+  xy: 48, 9
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1

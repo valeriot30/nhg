@@ -1,0 +1,41 @@
+
+laundry_c18_dryingrack.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+laundry_c18_dryingrack_laundry_c18_dryingrack_64_a_0_0.png
+  rotate: false
+  xy: 146, 40
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+laundry_c18_dryingrack_laundry_c18_dryingrack_64_a_0_1.png
+  rotate: false
+  xy: 74, 40
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+laundry_c18_dryingrack_laundry_c18_dryingrack_64_a_0_2.png
+  rotate: false
+  xy: 2, 40
+  size: 70, 81
+  orig: 70, 81
+  offset: 0, 0
+  index: -1
+laundry_c18_dryingrack_laundry_c18_dryingrack_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+laundry_c18_dryingrack_laundry_c18_dryingrack_icon_a.png
+  rotate: false
+  xy: 218, 95
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

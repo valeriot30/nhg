@@ -1,0 +1,76 @@
+
+hween_c19_archway.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_archway_hween_c19_archway_64_a_2_0.png
+  rotate: false
+  xy: 182, 108
+  size: 28, 137
+  orig: 28, 137
+  offset: 0, 0
+  index: -1
+hween_c19_archway_hween_c19_archway_64_b_2_0.png
+  rotate: false
+  xy: 2, 86
+  size: 64, 159
+  orig: 64, 159
+  offset: 0, 0
+  index: -1
+hween_c19_archway_hween_c19_archway_64_c_2_1.png
+  rotate: false
+  xy: 212, 109
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+hween_c19_archway_hween_c19_archway_64_c_2_2.png
+  rotate: false
+  xy: 2, 9
+  size: 39, 75
+  orig: 39, 75
+  offset: 0, 0
+  index: -1
+hween_c19_archway_hween_c19_archway_64_c_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+hween_c19_archway_hween_c19_archway_64_d_2_1.png
+  rotate: false
+  xy: 68, 133
+  size: 58, 112
+  orig: 58, 112
+  offset: 0, 0
+  index: -1
+hween_c19_archway_hween_c19_archway_64_d_2_2.png
+  rotate: false
+  xy: 212, 141
+  size: 24, 104
+  orig: 24, 104
+  offset: 0, 0
+  index: -1
+hween_c19_archway_hween_c19_archway_64_d_2_3.png
+  rotate: false
+  xy: 128, 141
+  size: 52, 104
+  orig: 52, 104
+  offset: 0, 0
+  index: -1
+hween_c19_archway_hween_c19_archway_64_sd_2_0.png
+  rotate: false
+  xy: 68, 94
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+hween_c19_archway_hween_c19_archway_icon_a.png
+  rotate: false
+  xy: 238, 215
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+room_noob_carpet1.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+room_noob_carpet1_room_noob_carpet1_64_a_0_0.png
+  rotate: false
+  xy: 260, 23
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+room_noob_carpet1_room_noob_carpet1_64_b_0_0.png
+  rotate: false
+  xy: 2, 22
+  size: 129, 35
+  orig: 129, 35
+  offset: 0, 0
+  index: -1
+room_noob_carpet1_room_noob_carpet1_64_c_0_0.png
+  rotate: false
+  xy: 133, 23
+  size: 125, 34
+  orig: 125, 34
+  offset: 0, 0
+  index: -1
+room_noob_carpet1_room_noob_carpet1_64_d_0_0.png
+  rotate: false
+  xy: 330, 25
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+room_noob_carpet1_room_noob_carpet1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

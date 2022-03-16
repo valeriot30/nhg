@@ -1,0 +1,20 @@
+
+clothing_flowerbeard.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_flowerbeard_clothing_flowerbeard_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+clothing_flowerbeard_clothing_flowerbeard_icon_a.png
+  rotate: false
+  xy: 34, 16
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

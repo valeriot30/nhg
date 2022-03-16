@@ -1,0 +1,97 @@
+
+bazaar_r17_fountain.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_r17_fountain_bazaar_r17_fountain_64_a_2_0.png
+  rotate: false
+  xy: 178, 73
+  size: 44, 163
+  orig: 44, 163
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_a_4_0.png
+  rotate: false
+  xy: 132, 73
+  size: 44, 163
+  orig: 44, 163
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_b_2_0.png
+  rotate: false
+  xy: 2, 45
+  size: 63, 191
+  orig: 63, 191
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_b_4_0.png
+  rotate: false
+  xy: 67, 45
+  size: 63, 191
+  orig: 63, 191
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_c_2_0.png
+  rotate: false
+  xy: 132, 70
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_c_2_1.png
+  rotate: false
+  xy: 85, 13
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_c_2_2.png
+  rotate: false
+  xy: 224, 172
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_c_2_3.png
+  rotate: false
+  xy: 105, 13
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_c_4_1.png
+  rotate: false
+  xy: 224, 140
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_c_4_2.png
+  rotate: false
+  xy: 224, 108
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_c_4_3.png
+  rotate: false
+  xy: 224, 76
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+bazaar_r17_fountain_bazaar_r17_fountain_icon_a.png
+  rotate: false
+  xy: 224, 204
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1

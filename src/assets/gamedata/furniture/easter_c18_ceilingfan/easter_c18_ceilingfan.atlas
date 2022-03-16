@@ -1,0 +1,104 @@
+
+easter_c18_ceilingfan.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_a_0_1.png
+  rotate: false
+  xy: 778, 47
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_b_0_0.png
+  rotate: false
+  xy: 778, 88
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_c_0_0.png
+  rotate: false
+  xy: 614, 18
+  size: 81, 105
+  orig: 81, 105
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_c_0_1.png
+  rotate: false
+  xy: 533, 16
+  size: 79, 107
+  orig: 79, 107
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_c_0_2.png
+  rotate: false
+  xy: 450, 14
+  size: 81, 109
+  orig: 81, 109
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_c_0_3.png
+  rotate: false
+  xy: 95, 14
+  size: 87, 109
+  orig: 87, 109
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_c_0_4.png
+  rotate: false
+  xy: 362, 14
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_c_0_5.png
+  rotate: false
+  xy: 697, 16
+  size: 79, 107
+  orig: 79, 107
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_c_0_6.png
+  rotate: false
+  xy: 272, 16
+  size: 88, 107
+  orig: 88, 107
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_c_0_7.png
+  rotate: false
+  xy: 2, 14
+  size: 91, 109
+  orig: 91, 109
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_c_0_8.png
+  rotate: false
+  xy: 184, 14
+  size: 86, 109
+  orig: 86, 109
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_64_sd_0_0.png
+  rotate: false
+  xy: 815, 105
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+easter_c18_ceilingfan_easter_c18_ceilingfan_icon_a.png
+  rotate: false
+  xy: 778, 59
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

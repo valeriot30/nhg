@@ -1,0 +1,230 @@
+
+xmas_c17_roof.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_roof_xmas_c17_roof_64_a_2_0.png
+  rotate: false
+  xy: 730, 111
+  size: 38, 133
+  orig: 38, 133
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_a_2_1.png
+  rotate: false
+  xy: 770, 111
+  size: 38, 133
+  orig: 38, 133
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_a_2_2.png
+  rotate: false
+  xy: 568, 111
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_a_2_3.png
+  rotate: false
+  xy: 609, 111
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_a_4_0.png
+  rotate: false
+  xy: 690, 111
+  size: 38, 133
+  orig: 38, 133
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_a_4_1.png
+  rotate: false
+  xy: 650, 111
+  size: 38, 133
+  orig: 38, 133
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_a_4_2.png
+  rotate: false
+  xy: 527, 111
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_a_4_3.png
+  rotate: false
+  xy: 486, 111
+  size: 39, 133
+  orig: 39, 133
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_b_2_0.png
+  rotate: false
+  xy: 366, 76
+  size: 58, 168
+  orig: 58, 168
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_b_2_1.png
+  rotate: false
+  xy: 426, 76
+  size: 58, 168
+  orig: 58, 168
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_b_2_2.png
+  rotate: false
+  xy: 185, 76
+  size: 59, 168
+  orig: 59, 168
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_b_2_3.png
+  rotate: false
+  xy: 124, 76
+  size: 59, 168
+  orig: 59, 168
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_b_4_0.png
+  rotate: false
+  xy: 246, 76
+  size: 58, 168
+  orig: 58, 168
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_b_4_1.png
+  rotate: false
+  xy: 306, 76
+  size: 58, 168
+  orig: 58, 168
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_b_4_2.png
+  rotate: false
+  xy: 2, 76
+  size: 59, 168
+  orig: 59, 168
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_b_4_3.png
+  rotate: false
+  xy: 63, 76
+  size: 59, 168
+  orig: 59, 168
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_2_2.png
+  rotate: false
+  xy: 486, 82
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_2_3.png
+  rotate: false
+  xy: 166, 29
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_2_4.png
+  rotate: false
+  xy: 959, 193
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_2_5.png
+  rotate: false
+  xy: 2, 5
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_2_6.png
+  rotate: false
+  xy: 892, 199
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_2_7.png
+  rotate: false
+  xy: 810, 115
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_4_2.png
+  rotate: false
+  xy: 84, 8
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_4_3.png
+  rotate: false
+  xy: 210, 29
+  size: 42, 45
+  orig: 42, 45
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_4_4.png
+  rotate: false
+  xy: 959, 140
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_4_5.png
+  rotate: false
+  xy: 810, 175
+  size: 80, 69
+  orig: 80, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_4_6.png
+  rotate: false
+  xy: 892, 152
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_c_4_7.png
+  rotate: false
+  xy: 518, 90
+  size: 25, 19
+  orig: 25, 19
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_sd_2_0.png
+  rotate: false
+  xy: 810, 136
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_64_sd_4_0.png
+  rotate: false
+  xy: 84, 37
+  size: 80, 37
+  orig: 80, 37
+  offset: 0, 0
+  index: -1
+xmas_c17_roof_xmas_c17_roof_icon_a.png
+  rotate: false
+  xy: 254, 44
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

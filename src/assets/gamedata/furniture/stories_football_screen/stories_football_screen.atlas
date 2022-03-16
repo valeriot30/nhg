@@ -1,0 +1,230 @@
+
+stories_football_screen.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stories_football_screen_stories_football_screen_32_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_32_c_0_0.png
+  rotate: false
+  xy: 52, 5
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_a_0_0.png
+  rotate: false
+  xy: 52, 8
+  size: 41, 100
+  orig: 41, 100
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_b_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 48, 103
+  orig: 48, 103
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_1.png
+  rotate: false
+  xy: 455, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_10.png
+  rotate: false
+  xy: 257, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_11.png
+  rotate: false
+  xy: 235, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_12.png
+  rotate: false
+  xy: 213, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_13.png
+  rotate: false
+  xy: 191, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_2.png
+  rotate: false
+  xy: 279, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_3.png
+  rotate: false
+  xy: 301, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_4.png
+  rotate: false
+  xy: 323, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_5.png
+  rotate: false
+  xy: 345, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_6.png
+  rotate: false
+  xy: 367, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_7.png
+  rotate: false
+  xy: 389, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_8.png
+  rotate: false
+  xy: 411, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_c_0_9.png
+  rotate: false
+  xy: 433, 17
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_1.png
+  rotate: false
+  xy: 178, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_10.png
+  rotate: false
+  xy: 402, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_11.png
+  rotate: false
+  xy: 434, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_12.png
+  rotate: false
+  xy: 466, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_13.png
+  rotate: false
+  xy: 159, 12
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_2.png
+  rotate: false
+  xy: 127, 17
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_3.png
+  rotate: false
+  xy: 242, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_4.png
+  rotate: false
+  xy: 210, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_5.png
+  rotate: false
+  xy: 306, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_6.png
+  rotate: false
+  xy: 274, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_7.png
+  rotate: false
+  xy: 370, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_8.png
+  rotate: false
+  xy: 338, 61
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_d_0_9.png
+  rotate: false
+  xy: 95, 17
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_64_sd_0_0.png
+  rotate: false
+  xy: 95, 66
+  size: 81, 42
+  orig: 81, 42
+  offset: 0, 0
+  index: -1
+stories_football_screen_stories_football_screen_icon_a.png
+  rotate: false
+  xy: 477, 27
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

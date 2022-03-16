@@ -1,0 +1,251 @@
+
+ny16_stars.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ny16_stars_ny16_stars_64_a_0_0.png
+  rotate: false
+  xy: 2, 40
+  size: 145, 214
+  orig: 145, 214
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_a_0_1.png
+  rotate: false
+  xy: 149, 68
+  size: 123, 186
+  orig: 123, 186
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_a_0_2.png
+  rotate: false
+  xy: 274, 81
+  size: 126, 173
+  orig: 126, 173
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_0.png
+  rotate: false
+  xy: 258, 41
+  size: 11, 25
+  orig: 11, 25
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_1.png
+  rotate: false
+  xy: 736, 115
+  size: 65, 43
+  orig: 65, 43
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_10.png
+  rotate: false
+  xy: 2, 11
+  size: 135, 27
+  orig: 135, 27
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_2.png
+  rotate: false
+  xy: 543, 102
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_3.png
+  rotate: false
+  xy: 1219, 164
+  size: 125, 90
+  orig: 125, 90
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_4.png
+  rotate: false
+  xy: 1089, 162
+  size: 128, 92
+  orig: 128, 92
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_5.png
+  rotate: false
+  xy: 955, 161
+  size: 132, 93
+  orig: 132, 93
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_6.png
+  rotate: false
+  xy: 818, 160
+  size: 135, 94
+  orig: 135, 94
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_7.png
+  rotate: false
+  xy: 681, 160
+  size: 135, 94
+  orig: 135, 94
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_8.png
+  rotate: false
+  xy: 543, 158
+  size: 136, 96
+  orig: 136, 96
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_b_0_9.png
+  rotate: false
+  xy: 402, 155
+  size: 139, 99
+  orig: 139, 99
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_c_0_0.png
+  rotate: false
+  xy: 1934, 175
+  size: 111, 79
+  orig: 111, 79
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_c_0_1.png
+  rotate: false
+  xy: 1934, 99
+  size: 111, 74
+  orig: 111, 74
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_c_0_2.png
+  rotate: false
+  xy: 274, 10
+  size: 110, 69
+  orig: 110, 69
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_c_0_3.png
+  rotate: false
+  xy: 402, 87
+  size: 121, 66
+  orig: 121, 66
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_c_0_4.png
+  rotate: false
+  xy: 1346, 157
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_c_0_5.png
+  rotate: false
+  xy: 1818, 158
+  size: 114, 96
+  orig: 114, 96
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_c_0_6.png
+  rotate: false
+  xy: 1702, 157
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_c_0_7.png
+  rotate: false
+  xy: 1585, 154
+  size: 115, 100
+  orig: 115, 100
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_c_0_8.png
+  rotate: false
+  xy: 1466, 153
+  size: 117, 101
+  orig: 117, 101
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_0.png
+  rotate: false
+  xy: 691, 59
+  size: 43, 99
+  orig: 43, 99
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_1.png
+  rotate: false
+  xy: 2013, 8
+  size: 14, 89
+  orig: 14, 89
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_2.png
+  rotate: false
+  xy: 386, 2
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_3.png
+  rotate: false
+  xy: 426, 15
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_4.png
+  rotate: false
+  xy: 1932, 34
+  size: 79, 63
+  orig: 79, 63
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_5.png
+  rotate: false
+  xy: 1702, 96
+  size: 79, 59
+  orig: 79, 59
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_6.png
+  rotate: false
+  xy: 1783, 88
+  size: 74, 67
+  orig: 74, 67
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_7.png
+  rotate: false
+  xy: 619, 89
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_8.png
+  rotate: false
+  xy: 1859, 88
+  size: 71, 68
+  orig: 71, 68
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_d_0_9.png
+  rotate: false
+  xy: 507, 17
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_64_sd_0_0.png
+  rotate: false
+  xy: 149, 12
+  size: 107, 54
+  orig: 107, 54
+  offset: 0, 0
+  index: -1
+ny16_stars_ny16_stars_icon_a.png
+  rotate: false
+  xy: 803, 135
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1

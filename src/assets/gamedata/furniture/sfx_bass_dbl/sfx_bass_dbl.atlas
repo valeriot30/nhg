@@ -1,0 +1,41 @@
+
+sfx_bass_dbl.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sfx_bass_dbl_sfx_bass_dbl_64_a_0_0.png
+  rotate: false
+  xy: 70, 16
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+sfx_bass_dbl_sfx_bass_dbl_64_a_0_1.png
+  rotate: false
+  xy: 2, 16
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+sfx_bass_dbl_sfx_bass_dbl_64_a_0_2.png
+  rotate: false
+  xy: 138, 16
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+sfx_bass_dbl_sfx_bass_dbl_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+sfx_bass_dbl_sfx_bass_dbl_icon_a.png
+  rotate: false
+  xy: 206, 80
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

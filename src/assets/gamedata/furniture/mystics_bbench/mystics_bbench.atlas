@@ -1,0 +1,104 @@
+
+mystics_bbench.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mystics_bbench_mystics_bbench_64_a_2_0.png
+  rotate: false
+  xy: 201, 39
+  size: 58, 82
+  orig: 58, 82
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_a_6_0.png
+  rotate: false
+  xy: 2, 3
+  size: 54, 37
+  orig: 54, 37
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_b_2_0.png
+  rotate: false
+  xy: 72, 44
+  size: 66, 77
+  orig: 66, 77
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_b_6_0.png
+  rotate: false
+  xy: 444, 73
+  size: 55, 48
+  orig: 55, 48
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_c_2_0.png
+  rotate: false
+  xy: 140, 34
+  size: 59, 87
+  orig: 59, 87
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_c_6_0.png
+  rotate: false
+  xy: 383, 73
+  size: 59, 48
+  orig: 59, 48
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_d_2_0.png
+  rotate: false
+  xy: 2, 42
+  size: 68, 79
+  orig: 68, 79
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_d_6_0.png
+  rotate: false
+  xy: 324, 69
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_e_6_0.png
+  rotate: false
+  xy: 360, 4
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_f_6_0.png
+  rotate: false
+  xy: 261, 57
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_g_2_0.png
+  rotate: false
+  xy: 501, 120
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_g_6_0.png
+  rotate: false
+  xy: 312, 4
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_64_h_6_0.png
+  rotate: false
+  xy: 261, 2
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+mystics_bbench_mystics_bbench_icon_a.png
+  rotate: false
+  xy: 406, 45
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

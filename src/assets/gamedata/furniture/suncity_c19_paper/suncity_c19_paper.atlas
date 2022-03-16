@@ -1,0 +1,27 @@
+
+suncity_c19_paper.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_paper_suncity_c19_paper_64_a_0_0.png
+  rotate: false
+  xy: 2, 13
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+suncity_c19_paper_suncity_c19_paper_64_sd_0_0.png
+  rotate: false
+  xy: 55, 30
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+suncity_c19_paper_suncity_c19_paper_icon_a.png
+  rotate: false
+  xy: 55, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

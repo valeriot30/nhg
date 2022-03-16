@@ -1,0 +1,27 @@
+
+laundry_c18_dustpan.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+laundry_c18_dustpan_laundry_c18_dustpan_64_a_0_0.png
+  rotate: false
+  xy: 59, 9
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+laundry_c18_dustpan_laundry_c18_dustpan_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 44
+  orig: 55, 44
+  offset: 0, 0
+  index: -1
+laundry_c18_dustpan_laundry_c18_dustpan_icon_a.png
+  rotate: false
+  xy: 108, 22
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,293 @@
+
+wintercabin_c19_window.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wintercabin_c19_window_wintercabin_c19_window_64_a_4_0.png
+  rotate: false
+  xy: 2, 39
+  size: 34, 87
+  orig: 34, 87
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_a_4_1.png
+  rotate: false
+  xy: 38, 39
+  size: 26, 87
+  orig: 26, 87
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_b_4_0.png
+  rotate: false
+  xy: 66, 40
+  size: 25, 86
+  orig: 25, 86
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_b_4_1.png
+  rotate: false
+  xy: 93, 40
+  size: 25, 86
+  orig: 25, 86
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_c_4_0.png
+  rotate: false
+  xy: 166, 75
+  size: 13, 51
+  orig: 13, 51
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_d_4_0.png
+  rotate: false
+  xy: 164, 24
+  size: 6, 48
+  orig: 6, 48
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_1.png
+  rotate: false
+  xy: 198, 37
+  size: 8, 42
+  orig: 8, 42
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_10.png
+  rotate: false
+  xy: 241, 39
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_11.png
+  rotate: false
+  xy: 202, 81
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_12.png
+  rotate: false
+  xy: 231, 5
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_13.png
+  rotate: false
+  xy: 130, 3
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_14.png
+  rotate: false
+  xy: 146, 8
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_15.png
+  rotate: false
+  xy: 92, 4
+  size: 18, 34
+  orig: 18, 34
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_16.png
+  rotate: false
+  xy: 112, 35
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_17.png
+  rotate: false
+  xy: 13, 3
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_18.png
+  rotate: false
+  xy: 187, 30
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_19.png
+  rotate: false
+  xy: 143, 35
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_2.png
+  rotate: false
+  xy: 244, 83
+  size: 9, 43
+  orig: 9, 43
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_20.png
+  rotate: false
+  xy: 2, 2
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_21.png
+  rotate: false
+  xy: 208, 46
+  size: 13, 38
+  orig: 13, 38
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_22.png
+  rotate: false
+  xy: 223, 48
+  size: 14, 37
+  orig: 14, 37
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_23.png
+  rotate: false
+  xy: 239, 48
+  size: 11, 33
+  orig: 11, 33
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_24.png
+  rotate: false
+  xy: 34, 2
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_25.png
+  rotate: false
+  xy: 202, 86
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_26.png
+  rotate: false
+  xy: 181, 81
+  size: 19, 45
+  orig: 19, 45
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_27.png
+  rotate: false
+  xy: 172, 28
+  size: 13, 45
+  orig: 13, 45
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_28.png
+  rotate: false
+  xy: 218, 4
+  size: 11, 40
+  orig: 11, 40
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_29.png
+  rotate: false
+  xy: 42, 4
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_3.png
+  rotate: false
+  xy: 146, 17
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_30.png
+  rotate: false
+  xy: 50, 13
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_31.png
+  rotate: false
+  xy: 120, 35
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_4.png
+  rotate: false
+  xy: 223, 87
+  size: 19, 39
+  orig: 19, 39
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_5.png
+  rotate: false
+  xy: 71, 4
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_6.png
+  rotate: false
+  xy: 198, 23
+  size: 8, 12
+  orig: 8, 12
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_7.png
+  rotate: false
+  xy: 208, 2
+  size: 8, 42
+  orig: 8, 42
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_8.png
+  rotate: false
+  xy: 187, 35
+  size: 9, 44
+  orig: 9, 44
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_e_4_9.png
+  rotate: false
+  xy: 231, 10
+  size: 8, 36
+  orig: 8, 36
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_f_4_0.png
+  rotate: false
+  xy: 143, 74
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_g_4_0.png
+  rotate: false
+  xy: 120, 69
+  size: 21, 57
+  orig: 21, 57
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_64_sd_4_0.png
+  rotate: false
+  xy: 2, 13
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+wintercabin_c19_window_wintercabin_c19_window_icon_a.png
+  rotate: false
+  xy: 112, 3
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

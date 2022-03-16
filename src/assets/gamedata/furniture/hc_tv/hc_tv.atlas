@@ -1,0 +1,216 @@
+
+hc_tv.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_tv_hc_tv_64_a_2_0.png
+  rotate: false
+  xy: 197, 107
+  size: 71, 145
+  orig: 71, 145
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_b_2_0.png
+  rotate: false
+  xy: 123, 98
+  size: 72, 154
+  orig: 72, 154
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_0.png
+  rotate: false
+  xy: 427, 66
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_1.png
+  rotate: false
+  xy: 381, 66
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_10.png
+  rotate: false
+  xy: 362, 160
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_11.png
+  rotate: false
+  xy: 270, 113
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_12.png
+  rotate: false
+  xy: 316, 160
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_13.png
+  rotate: false
+  xy: 362, 207
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_14.png
+  rotate: false
+  xy: 316, 113
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_15.png
+  rotate: false
+  xy: 270, 207
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_16.png
+  rotate: false
+  xy: 2, 16
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_17.png
+  rotate: false
+  xy: 270, 160
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_18.png
+  rotate: false
+  xy: 316, 207
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_19.png
+  rotate: false
+  xy: 454, 160
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_2.png
+  rotate: false
+  xy: 335, 66
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_20.png
+  rotate: false
+  xy: 454, 207
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_21.png
+  rotate: false
+  xy: 408, 113
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_22.png
+  rotate: false
+  xy: 408, 160
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_3.png
+  rotate: false
+  xy: 289, 66
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_4.png
+  rotate: false
+  xy: 243, 60
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_5.png
+  rotate: false
+  xy: 197, 60
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_6.png
+  rotate: false
+  xy: 48, 16
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_7.png
+  rotate: false
+  xy: 454, 113
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_8.png
+  rotate: false
+  xy: 408, 207
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_c_2_9.png
+  rotate: false
+  xy: 362, 113
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_d_2_0.png
+  rotate: false
+  xy: 2, 63
+  size: 80, 45
+  orig: 80, 45
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_d_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_e_2_0.png
+  rotate: false
+  xy: 500, 251
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_64_e_2_1.png
+  rotate: false
+  xy: 2, 110
+  size: 119, 142
+  orig: 119, 142
+  offset: 0, 0
+  index: -1
+hc_tv_hc_tv_icon_a.png
+  rotate: false
+  xy: 84, 78
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

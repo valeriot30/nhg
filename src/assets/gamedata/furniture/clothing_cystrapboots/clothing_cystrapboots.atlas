@@ -1,0 +1,55 @@
+
+clothing_cystrapboots.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_cystrapboots_clothing_cystrapboots_64_a_2_0.png
+  rotate: false
+  xy: 2, 31
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+clothing_cystrapboots_clothing_cystrapboots_64_a_2_1.png
+  rotate: false
+  xy: 2, 72
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+clothing_cystrapboots_clothing_cystrapboots_64_a_2_2.png
+  rotate: false
+  xy: 2, 113
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+clothing_cystrapboots_clothing_cystrapboots_64_a_2_3.png
+  rotate: false
+  xy: 2, 154
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+clothing_cystrapboots_clothing_cystrapboots_64_a_2_4.png
+  rotate: false
+  xy: 2, 195
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+clothing_cystrapboots_clothing_cystrapboots_64_a_2_5.png
+  rotate: false
+  xy: 52, 233
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+clothing_cystrapboots_clothing_cystrapboots_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1

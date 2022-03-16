@@ -1,0 +1,41 @@
+
+xmas08_icewall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas08_icewall_xmas08_icewall_64_a_2_0.png
+  rotate: false
+  xy: 40, 34
+  size: 36, 130
+  orig: 36, 130
+  offset: 0, 0
+  index: -1
+xmas08_icewall_xmas08_icewall_64_a_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 36, 130
+  orig: 36, 130
+  offset: 0, 0
+  index: -1
+xmas08_icewall_xmas08_icewall_64_a_2_2.png
+  rotate: false
+  xy: 116, 34
+  size: 36, 130
+  orig: 36, 130
+  offset: 0, 0
+  index: -1
+xmas08_icewall_xmas08_icewall_64_a_2_3.png
+  rotate: false
+  xy: 78, 34
+  size: 36, 130
+  orig: 36, 130
+  offset: 0, 0
+  index: -1
+xmas08_icewall_xmas08_icewall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

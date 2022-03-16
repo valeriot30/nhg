@@ -1,0 +1,48 @@
+
+teleport_dragon.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teleport_dragon_teleport_dragon_64_a_4_0.png
+  rotate: false
+  xy: 116, 72
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+teleport_dragon_teleport_dragon_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+teleport_dragon_teleport_dragon_64_b_4_0.png
+  rotate: false
+  xy: 59, 67
+  size: 55, 159
+  orig: 55, 159
+  offset: 0, 0
+  index: -1
+teleport_dragon_teleport_dragon_64_b_4_1.png
+  rotate: false
+  xy: 2, 67
+  size: 55, 159
+  orig: 55, 159
+  offset: 0, 0
+  index: -1
+teleport_dragon_teleport_dragon_64_c_4_1.png
+  rotate: false
+  xy: 116, 75
+  size: 48, 151
+  orig: 48, 151
+  offset: 0, 0
+  index: -1
+teleport_dragon_teleport_dragon_icon_a.png
+  rotate: false
+  xy: 166, 196
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

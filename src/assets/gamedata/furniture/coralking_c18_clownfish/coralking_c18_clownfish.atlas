@@ -1,0 +1,391 @@
+
+coralking_c18_clownfish.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 27
+  orig: 51, 27
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_1.png
+  rotate: false
+  xy: 161, 37
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_10.png
+  rotate: false
+  xy: 534, 35
+  size: 47, 27
+  orig: 47, 27
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_11.png
+  rotate: false
+  xy: 1006, 32
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_12.png
+  rotate: false
+  xy: 871, 33
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_13.png
+  rotate: false
+  xy: 1182, 35
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_14.png
+  rotate: false
+  xy: 1141, 34
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_15.png
+  rotate: false
+  xy: 1651, 33
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_16.png
+  rotate: false
+  xy: 1228, 35
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_17.png
+  rotate: false
+  xy: 104, 37
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_18.png
+  rotate: false
+  xy: 55, 27
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_19.png
+  rotate: false
+  xy: 1051, 33
+  size: 43, 29
+  orig: 43, 29
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_2.png
+  rotate: false
+  xy: 917, 31
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_20.png
+  rotate: false
+  xy: 825, 35
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_21.png
+  rotate: false
+  xy: 583, 36
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_22.png
+  rotate: false
+  xy: 1220, 7
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_23.png
+  rotate: false
+  xy: 1096, 2
+  size: 39, 30
+  orig: 39, 30
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_3.png
+  rotate: false
+  xy: 1182, 2
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_4.png
+  rotate: false
+  xy: 1051, 2
+  size: 40, 29
+  orig: 40, 29
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_5.png
+  rotate: false
+  xy: 484, 35
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_6.png
+  rotate: false
+  xy: 1096, 34
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_7.png
+  rotate: false
+  xy: 1006, 2
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_8.png
+  rotate: false
+  xy: 728, 37
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_a_0_9.png
+  rotate: false
+  xy: 2, 31
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_0.png
+  rotate: false
+  xy: 1881, 48
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_12.png
+  rotate: false
+  xy: 1520, 44
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_13.png
+  rotate: false
+  xy: 1835, 47
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_14.png
+  rotate: false
+  xy: 1965, 47
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_19.png
+  rotate: false
+  xy: 1985, 48
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_b_0_5.png
+  rotate: false
+  xy: 1422, 46
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_0.png
+  rotate: false
+  xy: 327, 42
+  size: 51, 20
+  orig: 51, 20
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_1.png
+  rotate: false
+  xy: 1369, 47
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_10.png
+  rotate: false
+  xy: 380, 42
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_11.png
+  rotate: false
+  xy: 680, 36
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_12.png
+  rotate: false
+  xy: 1923, 48
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_13.png
+  rotate: false
+  xy: 1944, 48
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_14.png
+  rotate: false
+  xy: 1137, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_15.png
+  rotate: false
+  xy: 1273, 35
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_16.png
+  rotate: false
+  xy: 777, 38
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_17.png
+  rotate: false
+  xy: 270, 45
+  size: 55, 17
+  orig: 55, 17
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_18.png
+  rotate: false
+  xy: 1317, 44
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_19.png
+  rotate: false
+  xy: 1265, 11
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_2.png
+  rotate: false
+  xy: 1472, 44
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_20.png
+  rotate: false
+  xy: 1610, 35
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_21.png
+  rotate: false
+  xy: 1768, 32
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_22.png
+  rotate: false
+  xy: 1692, 36
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_23.png
+  rotate: false
+  xy: 1566, 37
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_3.png
+  rotate: false
+  xy: 55, 2
+  size: 39, 23
+  orig: 39, 23
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_4.png
+  rotate: false
+  xy: 1731, 35
+  size: 35, 27
+  orig: 35, 27
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_5.png
+  rotate: false
+  xy: 1902, 48
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_6.png
+  rotate: false
+  xy: 962, 31
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_7.png
+  rotate: false
+  xy: 632, 36
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_8.png
+  rotate: false
+  xy: 432, 41
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_64_c_0_9.png
+  rotate: false
+  xy: 214, 43
+  size: 54, 19
+  orig: 54, 19
+  offset: 0, 0
+  index: -1
+coralking_c18_clownfish_coralking_c18_clownfish_icon_a.png
+  rotate: false
+  xy: 1803, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

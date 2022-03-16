@@ -1,0 +1,62 @@
+
+wintercabin_c19_sofa.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wintercabin_c19_sofa_wintercabin_c19_sofa_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+wintercabin_c19_sofa_wintercabin_c19_sofa_64_a_6_0.png
+  rotate: false
+  xy: 76, 67
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+wintercabin_c19_sofa_wintercabin_c19_sofa_64_b_2_0.png
+  rotate: false
+  xy: 174, 54
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+wintercabin_c19_sofa_wintercabin_c19_sofa_64_b_6_0.png
+  rotate: false
+  xy: 242, 62
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+wintercabin_c19_sofa_wintercabin_c19_sofa_64_c_2_0.png
+  rotate: false
+  xy: 296, 70
+  size: 51, 56
+  orig: 51, 56
+  offset: 0, 0
+  index: -1
+wintercabin_c19_sofa_wintercabin_c19_sofa_64_c_6_0.png
+  rotate: false
+  xy: 102, 51
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+wintercabin_c19_sofa_wintercabin_c19_sofa_64_sd_6_0.png
+  rotate: false
+  xy: 2, 77
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+wintercabin_c19_sofa_wintercabin_c19_sofa_icon_a.png
+  rotate: false
+  xy: 349, 99
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

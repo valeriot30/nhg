@@ -1,0 +1,27 @@
+
+st_hween14_skulls.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_hween14_skulls_st_hween14_skulls_64_a_4_0.png
+  rotate: false
+  xy: 2, 57
+  size: 51, 84
+  orig: 51, 84
+  offset: 0, 0
+  index: -1
+st_hween14_skulls_st_hween14_skulls_64_sd_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+st_hween14_skulls_st_hween14_skulls_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

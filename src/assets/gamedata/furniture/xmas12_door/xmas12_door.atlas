@@ -1,0 +1,55 @@
+
+xmas12_door.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas12_door_xmas12_door_64_a_2_0.png
+  rotate: false
+  xy: 323, 2
+  size: 104, 248
+  orig: 104, 248
+  offset: 0, 0
+  index: -1
+xmas12_door_xmas12_door_64_a_2_1.png
+  rotate: false
+  xy: 429, 2
+  size: 104, 248
+  orig: 104, 248
+  offset: 0, 0
+  index: -1
+xmas12_door_xmas12_door_64_a_2_2.png
+  rotate: false
+  xy: 535, 2
+  size: 104, 248
+  orig: 104, 248
+  offset: 0, 0
+  index: -1
+xmas12_door_xmas12_door_64_a_4_0.png
+  rotate: false
+  xy: 109, 2
+  size: 105, 248
+  orig: 105, 248
+  offset: 0, 0
+  index: -1
+xmas12_door_xmas12_door_64_a_4_1.png
+  rotate: false
+  xy: 216, 2
+  size: 105, 248
+  orig: 105, 248
+  offset: 0, 0
+  index: -1
+xmas12_door_xmas12_door_64_a_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 105, 248
+  orig: 105, 248
+  offset: 0, 0
+  index: -1
+xmas12_door_xmas12_door_icon_a.png
+  rotate: false
+  xy: 641, 218
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

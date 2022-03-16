@@ -1,0 +1,20 @@
+
+clothing_bohoheadgems.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_bohoheadgems_clothing_bohoheadgems_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+clothing_bohoheadgems_clothing_bohoheadgems_icon_a.png
+  rotate: false
+  xy: 32, 16
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

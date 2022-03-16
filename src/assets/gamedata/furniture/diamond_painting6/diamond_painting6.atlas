@@ -1,0 +1,27 @@
+
+diamond_painting6.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diamond_painting6_diamond_painting6_64_a_2_0.png
+  rotate: false
+  xy: 86, 2
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+diamond_painting6_diamond_painting6_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 82, 98
+  orig: 82, 98
+  offset: 0, 0
+  index: -1
+diamond_painting6_diamond_painting6_icon_a.png
+  rotate: false
+  xy: 170, 67
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1

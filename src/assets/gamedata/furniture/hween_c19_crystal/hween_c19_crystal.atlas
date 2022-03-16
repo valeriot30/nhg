@@ -1,0 +1,34 @@
+
+hween_c19_crystal.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_crystal_hween_c19_crystal_64_a_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+hween_c19_crystal_hween_c19_crystal_64_a_0_1.png
+  rotate: false
+  xy: 35, 14
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+hween_c19_crystal_hween_c19_crystal_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+hween_c19_crystal_hween_c19_crystal_icon_a.png
+  rotate: false
+  xy: 68, 15
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

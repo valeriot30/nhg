@@ -1,0 +1,48 @@
+
+tokyo_c18_road.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_road_tokyo_c18_road_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 132, 34
+  orig: 132, 34
+  offset: 0, 0
+  index: -1
+tokyo_c18_road_tokyo_c18_road_64_b_0_0.png
+  rotate: false
+  xy: 404, 38
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+tokyo_c18_road_tokyo_c18_road_64_b_0_1.png
+  rotate: false
+  xy: 136, 38
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+tokyo_c18_road_tokyo_c18_road_64_b_0_2.png
+  rotate: false
+  xy: 2, 38
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+tokyo_c18_road_tokyo_c18_road_64_b_0_3.png
+  rotate: false
+  xy: 270, 38
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+tokyo_c18_road_tokyo_c18_road_icon_a.png
+  rotate: false
+  xy: 538, 89
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1

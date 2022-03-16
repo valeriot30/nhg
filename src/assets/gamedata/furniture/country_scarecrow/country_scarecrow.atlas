@@ -1,0 +1,62 @@
+
+country_scarecrow.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+country_scarecrow_country_scarecrow_64_a_0_0.png
+  rotate: false
+  xy: 187, 19
+  size: 60, 100
+  orig: 60, 100
+  offset: 0, 0
+  index: -1
+country_scarecrow_country_scarecrow_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 117
+  orig: 60, 117
+  offset: 0, 0
+  index: -1
+country_scarecrow_country_scarecrow_64_a_0_2.png
+  rotate: false
+  xy: 125, 13
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+country_scarecrow_country_scarecrow_64_a_4_0.png
+  rotate: false
+  xy: 310, 22
+  size: 59, 97
+  orig: 59, 97
+  offset: 0, 0
+  index: -1
+country_scarecrow_country_scarecrow_64_a_4_1.png
+  rotate: false
+  xy: 64, 7
+  size: 59, 112
+  orig: 59, 112
+  offset: 0, 0
+  index: -1
+country_scarecrow_country_scarecrow_64_a_4_2.png
+  rotate: false
+  xy: 249, 19
+  size: 59, 100
+  orig: 59, 100
+  offset: 0, 0
+  index: -1
+country_scarecrow_country_scarecrow_64_sd_0_0.png
+  rotate: false
+  xy: 392, 105
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+country_scarecrow_country_scarecrow_icon_a.png
+  rotate: false
+  xy: 371, 87
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

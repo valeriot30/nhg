@@ -1,0 +1,27 @@
+
+greek_c19_scrolls2.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_c19_scrolls2_greek_c19_scrolls2_64_a_0_0.png
+  rotate: false
+  xy: 2, 25
+  size: 44, 31
+  orig: 44, 31
+  offset: 0, 0
+  index: -1
+greek_c19_scrolls2_greek_c19_scrolls2_64_a_0_1.png
+  rotate: false
+  xy: 48, 27
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+greek_c19_scrolls2_greek_c19_scrolls2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

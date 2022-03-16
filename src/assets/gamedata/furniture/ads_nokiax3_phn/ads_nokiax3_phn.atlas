@@ -1,0 +1,20 @@
+
+ads_nokiax3_phn.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_nokiax3_phn_ads_nokiax3_phn_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 50, 136
+  orig: 50, 136
+  offset: 0, 0
+  index: -1
+ads_nokiax3_phn_ads_nokiax3_phn_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

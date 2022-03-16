@@ -1,0 +1,48 @@
+
+det_bhole.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+det_bhole_det_bhole_64_a_2_0.png
+  rotate: false
+  xy: 29, 9
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1
+det_bhole_det_bhole_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+det_bhole_det_bhole_64_a_2_2.png
+  rotate: false
+  xy: 50, 10
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+det_bhole_det_bhole_64_b_2_1.png
+  rotate: false
+  xy: 71, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+det_bhole_det_bhole_64_c_2_2.png
+  rotate: false
+  xy: 29, 4
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+det_bhole_det_bhole_icon_a.png
+  rotate: false
+  xy: 71, 17
+  size: 10, 13
+  orig: 10, 13
+  offset: 0, 0
+  index: -1

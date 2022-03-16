@@ -1,0 +1,62 @@
+
+summer_chair.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+summer_chair_summer_chair_64_a_4_0.png
+  rotate: false
+  xy: 75, 2
+  size: 49, 56
+  orig: 49, 56
+  offset: 0, 0
+  index: -1
+summer_chair_summer_chair_64_b_4_0.png
+  rotate: false
+  xy: 2, 52
+  size: 71, 73
+  orig: 71, 73
+  offset: 0, 0
+  index: -1
+summer_chair_summer_chair_64_c_4_0.png
+  rotate: false
+  xy: 126, 28
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+summer_chair_summer_chair_64_d_4_0.png
+  rotate: false
+  xy: 75, 60
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+summer_chair_summer_chair_64_e_4_0.png
+  rotate: false
+  xy: 147, 64
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+summer_chair_summer_chair_64_sd_4_0.png
+  rotate: false
+  xy: 2, 17
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+summer_chair_summer_chair_icon_a.png
+  rotate: false
+  xy: 213, 95
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+summer_chair_summer_chair_icon_b.png
+  rotate: false
+  xy: 213, 72
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

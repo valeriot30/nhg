@@ -1,0 +1,41 @@
+
+ads_twi_fountn.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_twi_fountn_ads_twi_fountn_32_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_twi_fountn_ads_twi_fountn_64_a_0_0.png
+  rotate: false
+  xy: 2, 74
+  size: 98, 162
+  orig: 98, 162
+  offset: 0, 0
+  index: -1
+ads_twi_fountn_ads_twi_fountn_64_b_0_1.png
+  rotate: false
+  xy: 62, 6
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+ads_twi_fountn_ads_twi_fountn_64_b_0_2.png
+  rotate: false
+  xy: 2, 5
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+ads_twi_fountn_ads_twi_fountn_icon_a.png
+  rotate: false
+  xy: 102, 206
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

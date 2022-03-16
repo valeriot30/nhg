@@ -1,0 +1,258 @@
+
+pirate_gate_g.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_gate_g_pirate_gate_g_64_a_0_0.png
+  rotate: false
+  xy: 640, 90
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_b_0_0.png
+  rotate: false
+  xy: 861, 73
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_b_2_0.png
+  rotate: false
+  xy: 838, 73
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_b_4_0.png
+  rotate: false
+  xy: 884, 74
+  size: 19, 52
+  orig: 19, 52
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_b_6_0.png
+  rotate: false
+  xy: 815, 73
+  size: 21, 53
+  orig: 21, 53
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_c_0_0.png
+  rotate: false
+  xy: 761, 71
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_c_2_0.png
+  rotate: false
+  xy: 707, 33
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_c_4_0.png
+  rotate: false
+  xy: 788, 72
+  size: 25, 54
+  orig: 25, 54
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_c_6_0.png
+  rotate: false
+  xy: 734, 43
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_d_0_0.png
+  rotate: false
+  xy: 82, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_d_2_0.png
+  rotate: false
+  xy: 138, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_d_4_0.png
+  rotate: false
+  xy: 679, 33
+  size: 26, 55
+  orig: 26, 55
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_d_6_0.png
+  rotate: false
+  xy: 110, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_e_0_0.png
+  rotate: false
+  xy: 400, 32
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_e_0_1.png
+  rotate: false
+  xy: 905, 88
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_e_2_0.png
+  rotate: false
+  xy: 640, 62
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_e_2_1.png
+  rotate: false
+  xy: 929, 88
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_e_4_0.png
+  rotate: false
+  xy: 439, 32
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_e_6_0.png
+  rotate: false
+  xy: 708, 100
+  size: 37, 26
+  orig: 37, 26
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_e_6_1.png
+  rotate: false
+  xy: 953, 88
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_f_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 46
+  orig: 78, 46
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_g_0_0.png
+  rotate: false
+  xy: 122, 60
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_g_0_1.png
+  rotate: false
+  xy: 280, 32
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_g_2_0.png
+  rotate: false
+  xy: 520, 60
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_g_2_1.png
+  rotate: false
+  xy: 320, 32
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_g_4_0.png
+  rotate: false
+  xy: 600, 61
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_g_4_1.png
+  rotate: false
+  xy: 560, 61
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_g_6_0.png
+  rotate: false
+  xy: 62, 60
+  size: 58, 66
+  orig: 58, 66
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_g_6_1.png
+  rotate: false
+  xy: 400, 60
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_h_0_0.png
+  rotate: false
+  xy: 440, 60
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_h_2_0.png
+  rotate: false
+  xy: 182, 49
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_h_2_1.png
+  rotate: false
+  xy: 480, 60
+  size: 38, 66
+  orig: 38, 66
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_h_4_0.png
+  rotate: false
+  xy: 2, 50
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_h_4_1.png
+  rotate: false
+  xy: 240, 33
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_64_h_6_1.png
+  rotate: false
+  xy: 360, 32
+  size: 38, 94
+  orig: 38, 94
+  offset: 0, 0
+  index: -1
+pirate_gate_g_pirate_gate_g_icon_a.png
+  rotate: false
+  xy: 977, 96
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

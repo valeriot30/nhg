@@ -1,0 +1,34 @@
+
+nest_gnome.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nest_gnome_nest_gnome_64_a_2_0.png
+  rotate: false
+  xy: 149, 29
+  size: 134, 181
+  orig: 134, 181
+  offset: 0, 0
+  index: -1
+nest_gnome_nest_gnome_64_b_2_0.png
+  rotate: false
+  xy: 2, 39
+  size: 145, 171
+  orig: 145, 171
+  offset: 0, 0
+  index: -1
+nest_gnome_nest_gnome_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 69, 35
+  orig: 69, 35
+  offset: 0, 0
+  index: -1
+nest_gnome_nest_gnome_icon_a.png
+  rotate: false
+  xy: 285, 178
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1

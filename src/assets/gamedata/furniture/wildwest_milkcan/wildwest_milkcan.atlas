@@ -1,0 +1,48 @@
+
+wildwest_milkcan.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_milkcan_wildwest_milkcan_32_a_4_0.png
+  rotate: false
+  xy: 35, 167
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+wildwest_milkcan_wildwest_milkcan_64_a_4_0.png
+  rotate: false
+  xy: 35, 193
+  size: 27, 46
+  orig: 27, 46
+  offset: 0, 0
+  index: -1
+wildwest_milkcan_wildwest_milkcan_64_a_4_1.png
+  rotate: false
+  xy: 2, 97
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+wildwest_milkcan_wildwest_milkcan_64_a_4_2.png
+  rotate: false
+  xy: 2, 160
+  size: 31, 79
+  orig: 31, 79
+  offset: 0, 0
+  index: -1
+wildwest_milkcan_wildwest_milkcan_64_a_4_3.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+wildwest_milkcan_wildwest_milkcan_64_a_4_4.png
+  rotate: false
+  xy: 2, 43
+  size: 36, 52
+  orig: 36, 52
+  offset: 0, 0
+  index: -1

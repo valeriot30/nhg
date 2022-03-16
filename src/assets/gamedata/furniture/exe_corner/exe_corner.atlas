@@ -1,0 +1,41 @@
+
+exe_corner.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exe_corner_exe_corner_64_a_0_0.png
+  rotate: false
+  xy: 2, 7
+  size: 58, 55
+  orig: 58, 55
+  offset: 0, 0
+  index: -1
+exe_corner_exe_corner_64_a_2_0.png
+  rotate: false
+  xy: 62, 8
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+exe_corner_exe_corner_64_a_4_0.png
+  rotate: false
+  xy: 172, 2
+  size: 47, 60
+  orig: 47, 60
+  offset: 0, 0
+  index: -1
+exe_corner_exe_corner_64_a_6_0.png
+  rotate: false
+  xy: 123, 3
+  size: 47, 59
+  orig: 47, 59
+  offset: 0, 0
+  index: -1
+exe_corner_exe_corner_icon_a.png
+  rotate: false
+  xy: 221, 34
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+clothing_poinsettia.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_poinsettia_clothing_poinsettia_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+clothing_poinsettia_clothing_poinsettia_icon_a.png
+  rotate: false
+  xy: 41, 20
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

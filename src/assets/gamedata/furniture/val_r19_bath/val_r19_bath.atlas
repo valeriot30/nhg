@@ -1,0 +1,279 @@
+
+val_r19_bath.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_r19_bath_val_r19_bath_64_a_2_0.png
+  rotate: false
+  xy: 2, 63
+  size: 85, 63
+  orig: 85, 63
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_b_2_0.png
+  rotate: false
+  xy: 812, 57
+  size: 57, 69
+  orig: 57, 69
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_c_2_0.png
+  rotate: false
+  xy: 145, 34
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_d_2_0.png
+  rotate: false
+  xy: 934, 53
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_e_2_1.png
+  rotate: false
+  xy: 542, 96
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_e_2_2.png
+  rotate: false
+  xy: 396, 92
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_e_2_3.png
+  rotate: false
+  xy: 930, 91
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_e_2_4.png
+  rotate: false
+  xy: 871, 48
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_f_2_1.png
+  rotate: false
+  xy: 612, 97
+  size: 67, 29
+  orig: 67, 29
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_f_2_2.png
+  rotate: false
+  xy: 468, 96
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_f_2_3.png
+  rotate: false
+  xy: 321, 93
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_f_2_4.png
+  rotate: false
+  xy: 249, 86
+  size: 70, 40
+  orig: 70, 40
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_g_2_1.png
+  rotate: false
+  xy: 871, 82
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_g_2_2.png
+  rotate: false
+  xy: 89, 44
+  size: 54, 36
+  orig: 54, 36
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_g_2_3.png
+  rotate: false
+  xy: 934, 23
+  size: 45, 28
+  orig: 45, 28
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_g_2_4.png
+  rotate: false
+  xy: 151, 2
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_h_2_1.png
+  rotate: false
+  xy: 747, 83
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_h_2_2.png
+  rotate: false
+  xy: 2, 16
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_h_2_3.png
+  rotate: false
+  xy: 177, 85
+  size: 70, 41
+  orig: 70, 41
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_h_2_4.png
+  rotate: false
+  xy: 681, 87
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_i_2_0.png
+  rotate: false
+  xy: 177, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_i_2_1.png
+  rotate: false
+  xy: 21, 3
+  size: 35, 11
+  orig: 35, 11
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_i_2_2.png
+  rotate: false
+  xy: 508, 81
+  size: 34, 13
+  orig: 34, 13
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_i_2_3.png
+  rotate: false
+  xy: 544, 83
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_i_2_4.png
+  rotate: false
+  xy: 114, 2
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_j_2_1.png
+  rotate: false
+  xy: 129, 17
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_j_2_2.png
+  rotate: false
+  xy: 74, 2
+  size: 38, 13
+  orig: 38, 13
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_j_2_3.png
+  rotate: false
+  xy: 468, 78
+  size: 38, 16
+  orig: 38, 16
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_j_2_4.png
+  rotate: false
+  xy: 192, 11
+  size: 38, 17
+  orig: 38, 17
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_k_2_1.png
+  rotate: false
+  xy: 375, 77
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_k_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_k_2_3.png
+  rotate: false
+  xy: 395, 77
+  size: 18, 13
+  orig: 18, 13
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_k_2_4.png
+  rotate: false
+  xy: 415, 75
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_l_2_1.png
+  rotate: false
+  xy: 74, 17
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_l_2_2.png
+  rotate: false
+  xy: 321, 66
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_l_2_3.png
+  rotate: false
+  xy: 190, 30
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_l_2_4.png
+  rotate: false
+  xy: 190, 57
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_64_sd_2_0.png
+  rotate: false
+  xy: 89, 82
+  size: 86, 44
+  orig: 86, 44
+  offset: 0, 0
+  index: -1
+val_r19_bath_val_r19_bath_icon_a.png
+  rotate: false
+  xy: 992, 99
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

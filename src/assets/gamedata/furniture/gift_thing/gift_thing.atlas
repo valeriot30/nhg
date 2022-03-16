@@ -1,0 +1,41 @@
+
+gift_thing.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gift_thing_gift_thing_64_a_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 38, 34
+  orig: 38, 34
+  offset: 0, 0
+  index: -1
+gift_thing_gift_thing_64_a_0_1.png
+  rotate: false
+  xy: 42, 15
+  size: 38, 33
+  orig: 38, 33
+  offset: 0, 0
+  index: -1
+gift_thing_gift_thing_64_a_0_2.png
+  rotate: false
+  xy: 82, 17
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+gift_thing_gift_thing_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+gift_thing_gift_thing_icon_a.png
+  rotate: false
+  xy: 122, 18
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

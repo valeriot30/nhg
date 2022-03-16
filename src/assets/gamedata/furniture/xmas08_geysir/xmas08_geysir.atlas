@@ -1,0 +1,363 @@
+
+xmas08_geysir.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas08_geysir_xmas08_geysir_64_a_0_0.png
+  rotate: false
+  xy: 1973, 173
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_b_0_0.png
+  rotate: false
+  xy: 83, 56
+  size: 128, 40
+  orig: 128, 40
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_c_0_0.png
+  rotate: false
+  xy: 1973, 204
+  size: 66, 43
+  orig: 66, 43
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_0.png
+  rotate: false
+  xy: 942, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_1.png
+  rotate: false
+  xy: 1023, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_10.png
+  rotate: false
+  xy: 699, 28
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_11.png
+  rotate: false
+  xy: 618, 28
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_12.png
+  rotate: false
+  xy: 1590, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_15.png
+  rotate: false
+  xy: 1509, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_16.png
+  rotate: false
+  xy: 456, 17
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_17.png
+  rotate: false
+  xy: 537, 28
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_18.png
+  rotate: false
+  xy: 456, 52
+  size: 79, 44
+  orig: 79, 44
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_19.png
+  rotate: false
+  xy: 83, 2
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_2.png
+  rotate: false
+  xy: 1185, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_20.png
+  rotate: false
+  xy: 213, 34
+  size: 79, 62
+  orig: 79, 62
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_21.png
+  rotate: false
+  xy: 375, 24
+  size: 79, 72
+  orig: 79, 72
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_22.png
+  rotate: false
+  xy: 294, 15
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_23.png
+  rotate: false
+  xy: 2, 6
+  size: 79, 90
+  orig: 79, 90
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_24.png
+  rotate: false
+  xy: 1892, 22
+  size: 79, 109
+  orig: 79, 109
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_25.png
+  rotate: false
+  xy: 1811, 117
+  size: 79, 130
+  orig: 79, 130
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_26.png
+  rotate: false
+  xy: 1730, 113
+  size: 79, 134
+  orig: 79, 134
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_27.png
+  rotate: false
+  xy: 1892, 133
+  size: 79, 114
+  orig: 79, 114
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_28.png
+  rotate: false
+  xy: 1811, 13
+  size: 79, 102
+  orig: 79, 102
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_29.png
+  rotate: false
+  xy: 1104, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_3.png
+  rotate: false
+  xy: 618, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_30.png
+  rotate: false
+  xy: 537, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_4.png
+  rotate: false
+  xy: 699, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_5.png
+  rotate: false
+  xy: 780, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_6.png
+  rotate: false
+  xy: 861, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_7.png
+  rotate: false
+  xy: 1266, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_8.png
+  rotate: false
+  xy: 1347, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_d_0_9.png
+  rotate: false
+  xy: 1428, 63
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_0.png
+  rotate: false
+  xy: 1634, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_10.png
+  rotate: false
+  xy: 674, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_11.png
+  rotate: false
+  xy: 866, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_12.png
+  rotate: false
+  xy: 770, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_13.png
+  rotate: false
+  xy: 290, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_14.png
+  rotate: false
+  xy: 386, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_15.png
+  rotate: false
+  xy: 482, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_16.png
+  rotate: false
+  xy: 578, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_17.png
+  rotate: false
+  xy: 2, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_18.png
+  rotate: false
+  xy: 98, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_19.png
+  rotate: false
+  xy: 194, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_20.png
+  rotate: false
+  xy: 1250, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_21.png
+  rotate: false
+  xy: 1154, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_22.png
+  rotate: false
+  xy: 1058, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_23.png
+  rotate: false
+  xy: 962, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_5.png
+  rotate: false
+  xy: 1538, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_6.png
+  rotate: false
+  xy: 1442, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_64_e_0_9.png
+  rotate: false
+  xy: 1346, 98
+  size: 94, 149
+  orig: 94, 149
+  offset: 0, 0
+  index: -1
+xmas08_geysir_xmas08_geysir_icon_a.png
+  rotate: false
+  xy: 164, 35
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1

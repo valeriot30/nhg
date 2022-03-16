@@ -1,0 +1,48 @@
+
+fball_ptch0.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fball_ptch0_fball_ptch0_64_a_0_0.png
+  rotate: false
+  xy: 2, 20
+  size: 194, 101
+  orig: 194, 101
+  offset: 0, 0
+  index: -1
+fball_ptch0_fball_ptch0_64_b_0_0.png
+  rotate: false
+  xy: 198, 24
+  size: 192, 97
+  orig: 192, 97
+  offset: 0, 0
+  index: -1
+fball_ptch0_fball_ptch0_64_c_0_0.png
+  rotate: false
+  xy: 392, 28
+  size: 186, 93
+  orig: 186, 93
+  offset: 0, 0
+  index: -1
+fball_ptch0_fball_ptch0_64_c_2_0.png
+  rotate: false
+  xy: 580, 72
+  size: 188, 49
+  orig: 188, 49
+  offset: 0, 0
+  index: -1
+fball_ptch0_fball_ptch0_64_c_6_0.png
+  rotate: false
+  xy: 770, 72
+  size: 187, 49
+  orig: 187, 49
+  offset: 0, 0
+  index: -1
+fball_ptch0_fball_ptch0_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1

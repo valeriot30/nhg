@@ -1,0 +1,20 @@
+
+clothing_badasshelmet.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_badasshelmet_clothing_badasshelmet_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+clothing_badasshelmet_clothing_badasshelmet_icon_a.png
+  rotate: false
+  xy: 48, 28
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+hween_c17_thefallen.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_thefallen_hween_c17_thefallen_64_a_0_0.png
+  rotate: false
+  xy: 2, 50
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+hween_c17_thefallen_hween_c17_thefallen_64_a_0_1.png
+  rotate: false
+  xy: 70, 74
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+hween_c17_thefallen_hween_c17_thefallen_64_a_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 46
+  orig: 66, 46
+  offset: 0, 0
+  index: -1
+hween_c17_thefallen_hween_c17_thefallen_64_a_0_3.png
+  rotate: false
+  xy: 70, 38
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+hween_c17_thefallen_hween_c17_thefallen_icon_a.png
+  rotate: false
+  xy: 70, 10
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1

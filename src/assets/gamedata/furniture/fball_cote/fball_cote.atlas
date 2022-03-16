@@ -1,0 +1,181 @@
+
+fball_cote.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fball_cote_fball_cote_32_k_0_0.png
+  rotate: false
+  xy: 506, 233
+  size: 1, 5
+  orig: 1, 5
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_a_0_0.png
+  rotate: false
+  xy: 345, 83
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_a_2_0.png
+  rotate: false
+  xy: 509, 234
+  size: 1, 4
+  orig: 1, 4
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_b_0_0.png
+  rotate: false
+  xy: 329, 109
+  size: 61, 129
+  orig: 61, 129
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_b_2_0.png
+  rotate: false
+  xy: 392, 142
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_c_0_0.png
+  rotate: false
+  xy: 462, 103
+  size: 35, 41
+  orig: 35, 41
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_c_2_0.png
+  rotate: false
+  xy: 212, 22
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_d_0_0.png
+  rotate: false
+  xy: 142, 107
+  size: 60, 131
+  orig: 60, 131
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_d_2_0.png
+  rotate: false
+  xy: 116, 12
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_e_0_0.png
+  rotate: false
+  xy: 430, 101
+  size: 30, 39
+  orig: 30, 39
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_e_2_0.png
+  rotate: false
+  xy: 263, 67
+  size: 35, 38
+  orig: 35, 38
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_f_0_0.png
+  rotate: false
+  xy: 72, 105
+  size: 68, 133
+  orig: 68, 133
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_f_2_0.png
+  rotate: false
+  xy: 456, 146
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_g_0_0.png
+  rotate: false
+  xy: 212, 64
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_g_2_0.png
+  rotate: false
+  xy: 392, 101
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_h_2_0.png
+  rotate: false
+  xy: 328, 80
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_i_0_0.png
+  rotate: false
+  xy: 456, 142
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_i_0_1.png
+  rotate: false
+  xy: 266, 109
+  size: 61, 129
+  orig: 61, 129
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_i_2_1.png
+  rotate: false
+  xy: 2, 7
+  size: 62, 96
+  orig: 62, 96
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_j_0_1.png
+  rotate: false
+  xy: 204, 107
+  size: 60, 131
+  orig: 60, 131
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_j_2_1.png
+  rotate: false
+  xy: 164, 14
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_k_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_k_0_1.png
+  rotate: false
+  xy: 2, 105
+  size: 68, 133
+  orig: 68, 133
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_64_k_2_1.png
+  rotate: false
+  xy: 66, 11
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+fball_cote_fball_cote_icon_a.png
+  rotate: false
+  xy: 300, 77
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

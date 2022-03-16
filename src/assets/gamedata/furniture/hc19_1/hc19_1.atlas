@@ -1,0 +1,27 @@
+
+hc19_1.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc19_1_hc19_1_64_a_0_0.png
+  rotate: false
+  xy: 2, 60
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+hc19_1_hc19_1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 30
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+hc19_1_hc19_1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1

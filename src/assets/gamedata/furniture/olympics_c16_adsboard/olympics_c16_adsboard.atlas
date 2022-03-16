@@ -1,0 +1,755 @@
+
+olympics_c16_adsboard.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+olympics_c16_adsboard_olympics_c16_adsboard_64_a_2_0.png
+  rotate: false
+  xy: 123, 102
+  size: 37, 145
+  orig: 37, 145
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_a_4_0.png
+  rotate: false
+  xy: 84, 102
+  size: 37, 145
+  orig: 37, 145
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_b_2_0.png
+  rotate: false
+  xy: 2, 101
+  size: 39, 146
+  orig: 39, 146
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_b_4_0.png
+  rotate: false
+  xy: 43, 101
+  size: 39, 146
+  orig: 39, 146
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_0.png
+  rotate: false
+  xy: 2076, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_1.png
+  rotate: false
+  xy: 1986, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_10.png
+  rotate: false
+  xy: 3381, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_11.png
+  rotate: false
+  xy: 3606, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_12.png
+  rotate: false
+  xy: 3651, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_13.png
+  rotate: false
+  xy: 3696, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_14.png
+  rotate: false
+  xy: 3741, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_15.png
+  rotate: false
+  xy: 3426, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_16.png
+  rotate: false
+  xy: 3471, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_17.png
+  rotate: false
+  xy: 3516, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_18.png
+  rotate: false
+  xy: 3561, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_19.png
+  rotate: false
+  xy: 3786, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_2.png
+  rotate: false
+  xy: 1941, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_20.png
+  rotate: false
+  xy: 2301, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_21.png
+  rotate: false
+  xy: 2211, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_22.png
+  rotate: false
+  xy: 2526, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_23.png
+  rotate: false
+  xy: 2571, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_24.png
+  rotate: false
+  xy: 2436, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_25.png
+  rotate: false
+  xy: 2481, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_26.png
+  rotate: false
+  xy: 2706, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_27.png
+  rotate: false
+  xy: 2751, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_28.png
+  rotate: false
+  xy: 2616, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_29.png
+  rotate: false
+  xy: 2661, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_3.png
+  rotate: false
+  xy: 1851, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_30.png
+  rotate: false
+  xy: 456, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_31.png
+  rotate: false
+  xy: 546, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_32.png
+  rotate: false
+  xy: 501, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_33.png
+  rotate: false
+  xy: 591, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_34.png
+  rotate: false
+  xy: 636, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_35.png
+  rotate: false
+  xy: 681, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_36.png
+  rotate: false
+  xy: 726, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_37.png
+  rotate: false
+  xy: 771, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_38.png
+  rotate: false
+  xy: 816, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_39.png
+  rotate: false
+  xy: 861, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_4.png
+  rotate: false
+  xy: 2391, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_40.png
+  rotate: false
+  xy: 317, 51
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_41.png
+  rotate: false
+  xy: 362, 51
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_42.png
+  rotate: false
+  xy: 227, 3
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_43.png
+  rotate: false
+  xy: 272, 3
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_44.png
+  rotate: false
+  xy: 587, 51
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_45.png
+  rotate: false
+  xy: 542, 51
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_46.png
+  rotate: false
+  xy: 497, 51
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_47.png
+  rotate: false
+  xy: 452, 51
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_48.png
+  rotate: false
+  xy: 407, 51
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_5.png
+  rotate: false
+  xy: 2346, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_6.png
+  rotate: false
+  xy: 2256, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_7.png
+  rotate: false
+  xy: 2166, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_8.png
+  rotate: false
+  xy: 1266, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_2_9.png
+  rotate: false
+  xy: 1131, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_0.png
+  rotate: false
+  xy: 1176, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_1.png
+  rotate: false
+  xy: 1221, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_10.png
+  rotate: false
+  xy: 1491, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_11.png
+  rotate: false
+  xy: 1536, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_12.png
+  rotate: false
+  xy: 1761, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_13.png
+  rotate: false
+  xy: 2886, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_14.png
+  rotate: false
+  xy: 2796, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_15.png
+  rotate: false
+  xy: 3066, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_16.png
+  rotate: false
+  xy: 3021, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_17.png
+  rotate: false
+  xy: 3291, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_18.png
+  rotate: false
+  xy: 3201, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_19.png
+  rotate: false
+  xy: 3336, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_2.png
+  rotate: false
+  xy: 1311, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_20.png
+  rotate: false
+  xy: 1446, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_21.png
+  rotate: false
+  xy: 1356, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_22.png
+  rotate: false
+  xy: 1671, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_23.png
+  rotate: false
+  xy: 1581, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_24.png
+  rotate: false
+  xy: 2841, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_25.png
+  rotate: false
+  xy: 2931, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_26.png
+  rotate: false
+  xy: 2976, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_27.png
+  rotate: false
+  xy: 3111, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_28.png
+  rotate: false
+  xy: 3156, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_29.png
+  rotate: false
+  xy: 3246, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_3.png
+  rotate: false
+  xy: 1401, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_30.png
+  rotate: false
+  xy: 2, 2
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_31.png
+  rotate: false
+  xy: 411, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_32.png
+  rotate: false
+  xy: 366, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_33.png
+  rotate: false
+  xy: 321, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_34.png
+  rotate: false
+  xy: 276, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_35.png
+  rotate: false
+  xy: 996, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_36.png
+  rotate: false
+  xy: 1041, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_37.png
+  rotate: false
+  xy: 906, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_38.png
+  rotate: false
+  xy: 951, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_39.png
+  rotate: false
+  xy: 1086, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_4.png
+  rotate: false
+  xy: 1626, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_40.png
+  rotate: false
+  xy: 47, 2
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_41.png
+  rotate: false
+  xy: 4011, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_42.png
+  rotate: false
+  xy: 3876, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_43.png
+  rotate: false
+  xy: 3831, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_44.png
+  rotate: false
+  xy: 3966, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_45.png
+  rotate: false
+  xy: 3921, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_46.png
+  rotate: false
+  xy: 92, 3
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_47.png
+  rotate: false
+  xy: 137, 3
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_48.png
+  rotate: false
+  xy: 182, 3
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_5.png
+  rotate: false
+  xy: 1716, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_6.png
+  rotate: false
+  xy: 1806, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_7.png
+  rotate: false
+  xy: 1896, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_8.png
+  rotate: false
+  xy: 2031, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_c_4_9.png
+  rotate: false
+  xy: 2121, 150
+  size: 43, 97
+  orig: 43, 97
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_d_2_0.png
+  rotate: false
+  xy: 219, 138
+  size: 55, 109
+  orig: 55, 109
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_d_4_0.png
+  rotate: false
+  xy: 162, 138
+  size: 55, 109
+  orig: 55, 109
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_sd_2_0.png
+  rotate: false
+  xy: 229, 102
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_64_sd_4_0.png
+  rotate: false
+  xy: 162, 102
+  size: 65, 34
+  orig: 65, 34
+  offset: 0, 0
+  index: -1
+olympics_c16_adsboard_olympics_c16_adsboard_icon_a.png
+  rotate: false
+  xy: 4056, 217
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

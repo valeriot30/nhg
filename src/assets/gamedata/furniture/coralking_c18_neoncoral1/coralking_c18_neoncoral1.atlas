@@ -1,0 +1,34 @@
+
+coralking_c18_neoncoral1.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_neoncoral1_coralking_c18_neoncoral1_64_a_0_0.png
+  rotate: false
+  xy: 47, 18
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+coralking_c18_neoncoral1_coralking_c18_neoncoral1_64_a_0_1.png
+  rotate: false
+  xy: 2, 18
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+coralking_c18_neoncoral1_coralking_c18_neoncoral1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 14
+  orig: 23, 14
+  offset: 0, 0
+  index: -1
+coralking_c18_neoncoral1_coralking_c18_neoncoral1_icon_a.png
+  rotate: false
+  xy: 92, 35
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1

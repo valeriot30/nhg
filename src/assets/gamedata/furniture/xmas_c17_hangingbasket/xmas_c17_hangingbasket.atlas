@@ -1,0 +1,27 @@
+
+xmas_c17_hangingbasket.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_hangingbasket_xmas_c17_hangingbasket_64_a_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 55, 142
+  orig: 55, 142
+  offset: 0, 0
+  index: -1
+xmas_c17_hangingbasket_xmas_c17_hangingbasket_64_a_0_1.png
+  rotate: false
+  xy: 2, 180
+  size: 55, 145
+  orig: 55, 145
+  offset: 0, 0
+  index: -1
+xmas_c17_hangingbasket_xmas_c17_hangingbasket_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+pirate_anchor.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_anchor_pirate_anchor_64_a_0_0.png
+  rotate: false
+  xy: 2, 9
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+pirate_anchor_pirate_anchor_64_sd_0_0.png
+  rotate: false
+  xy: 56, 34
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+pirate_anchor_pirate_anchor_icon_a.png
+  rotate: false
+  xy: 56, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

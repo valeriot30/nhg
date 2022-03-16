@@ -1,0 +1,160 @@
+
+bb_painimies2.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bb_painimies2_bb_painimies2_64_a_2_0.png
+  rotate: false
+  xy: 153, 511
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_a_2_2.png
+  rotate: false
+  xy: 202, 539
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_a_4_0.png
+  rotate: false
+  xy: 145, 328
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_a_4_1.png
+  rotate: false
+  xy: 100, 328
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_a_4_2.png
+  rotate: false
+  xy: 198, 512
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_b_2_0.png
+  rotate: false
+  xy: 150, 355
+  size: 46, 133
+  orig: 46, 133
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_b_2_1.png
+  rotate: false
+  xy: 202, 568
+  size: 46, 133
+  orig: 46, 133
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_b_2_2.png
+  rotate: false
+  xy: 201, 703
+  size: 46, 133
+  orig: 46, 133
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_b_4_0.png
+  rotate: false
+  xy: 100, 355
+  size: 48, 133
+  orig: 48, 133
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_b_4_1.png
+  rotate: false
+  xy: 153, 540
+  size: 47, 133
+  orig: 47, 133
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_b_4_2.png
+  rotate: false
+  xy: 2, 31
+  size: 47, 133
+  orig: 47, 133
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_c_2_0.png
+  rotate: false
+  xy: 251, 1000
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_c_2_1.png
+  rotate: false
+  xy: 153, 838
+  size: 48, 163
+  orig: 48, 163
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_c_2_2.png
+  rotate: false
+  xy: 153, 675
+  size: 46, 161
+  orig: 46, 161
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_c_2_3.png
+  rotate: false
+  xy: 203, 840
+  size: 46, 161
+  orig: 46, 161
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_c_2_4.png
+  rotate: false
+  xy: 2, 746
+  size: 149, 255
+  orig: 149, 255
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_c_4_1.png
+  rotate: false
+  xy: 2, 327
+  size: 48, 161
+  orig: 48, 161
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_c_4_2.png
+  rotate: false
+  xy: 52, 329
+  size: 46, 159
+  orig: 46, 159
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_c_4_3.png
+  rotate: false
+  xy: 2, 166
+  size: 46, 159
+  orig: 46, 159
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_64_c_4_4.png
+  rotate: false
+  xy: 2, 490
+  size: 149, 254
+  orig: 149, 254
+  offset: 0, 0
+  index: -1
+bb_painimies2_bb_painimies2_icon_a.png
+  rotate: false
+  xy: 190, 323
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

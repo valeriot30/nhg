@@ -1,0 +1,27 @@
+
+zengarden_c18_rootplant.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c18_rootplant_zengarden_c18_rootplant_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+zengarden_c18_rootplant_zengarden_c18_rootplant_64_sd_0_0.png
+  rotate: false
+  xy: 31, 5
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1
+zengarden_c18_rootplant_zengarden_c18_rootplant_icon_a.png
+  rotate: false
+  xy: 31, 22
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

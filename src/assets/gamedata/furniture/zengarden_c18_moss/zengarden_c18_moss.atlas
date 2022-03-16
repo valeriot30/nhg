@@ -1,0 +1,41 @@
+
+zengarden_c18_moss.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c18_moss_zengarden_c18_moss_64_a_0_0.png
+  rotate: false
+  xy: 57, 34
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+zengarden_c18_moss_zengarden_c18_moss_64_a_0_1.png
+  rotate: false
+  xy: 2, 30
+  size: 53, 32
+  orig: 53, 32
+  offset: 0, 0
+  index: -1
+zengarden_c18_moss_zengarden_c18_moss_64_a_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+zengarden_c18_moss_zengarden_c18_moss_64_sd_0_0.png
+  rotate: false
+  xy: 57, 15
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+zengarden_c18_moss_zengarden_c18_moss_icon_a.png
+  rotate: false
+  xy: 93, 10
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1

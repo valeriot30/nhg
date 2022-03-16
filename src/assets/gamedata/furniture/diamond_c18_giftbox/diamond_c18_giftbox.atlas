@@ -1,0 +1,118 @@
+
+diamond_c18_giftbox.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_0.png
+  rotate: false
+  xy: 1055, 57
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_1.png
+  rotate: false
+  xy: 818, 40
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_10.png
+  rotate: false
+  xy: 382, 34
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_11.png
+  rotate: false
+  xy: 476, 38
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_12.png
+  rotate: false
+  xy: 653, 42
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_13.png
+  rotate: false
+  xy: 476, 35
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_2.png
+  rotate: false
+  xy: 737, 40
+  size: 79, 86
+  orig: 79, 86
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_3.png
+  rotate: false
+  xy: 980, 53
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_4.png
+  rotate: false
+  xy: 899, 47
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_5.png
+  rotate: false
+  xy: 566, 41
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_6.png
+  rotate: false
+  xy: 287, 33
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_7.png
+  rotate: false
+  xy: 192, 33
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_8.png
+  rotate: false
+  xy: 97, 33
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_a_0_9.png
+  rotate: false
+  xy: 2, 32
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_64_sd_0_0.png
+  rotate: false
+  xy: 97, 2
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+diamond_c18_giftbox_diamond_c18_giftbox_icon_a.png
+  rotate: false
+  xy: 382, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+coralking_c18_boulders2.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_boulders2_coralking_c18_boulders2_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+coralking_c18_boulders2_coralking_c18_boulders2_64_a_0_1.png
+  rotate: false
+  xy: 2, 53
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+coralking_c18_boulders2_coralking_c18_boulders2_icon_a.png
+  rotate: false
+  xy: 31, 21
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

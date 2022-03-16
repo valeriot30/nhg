@@ -1,0 +1,41 @@
+
+ads_mtv_wall.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_mtv_wall_ads_mtv_wall_64_a_2_0.png
+  rotate: false
+  xy: 421, 41
+  size: 137, 144
+  orig: 137, 144
+  offset: 0, 0
+  index: -1
+ads_mtv_wall_ads_mtv_wall_64_a_2_1.png
+  rotate: false
+  xy: 282, 41
+  size: 137, 144
+  orig: 137, 144
+  offset: 0, 0
+  index: -1
+ads_mtv_wall_ads_mtv_wall_64_a_4_0.png
+  rotate: false
+  xy: 2, 36
+  size: 138, 149
+  orig: 138, 149
+  offset: 0, 0
+  index: -1
+ads_mtv_wall_ads_mtv_wall_64_a_4_1.png
+  rotate: false
+  xy: 142, 36
+  size: 138, 149
+  orig: 138, 149
+  offset: 0, 0
+  index: -1
+ads_mtv_wall_ads_mtv_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1

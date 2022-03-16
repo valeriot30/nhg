@@ -1,0 +1,69 @@
+
+school_charts.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+school_charts_school_charts_64_a_2_0.png
+  rotate: false
+  xy: 488, 4
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+school_charts_school_charts_64_a_4_0.png
+  rotate: false
+  xy: 407, 4
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+school_charts_school_charts_64_b_2_0.png
+  rotate: false
+  xy: 326, 4
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+school_charts_school_charts_64_b_2_1.png
+  rotate: false
+  xy: 164, 3
+  size: 79, 112
+  orig: 79, 112
+  offset: 0, 0
+  index: -1
+school_charts_school_charts_64_b_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 79, 113
+  orig: 79, 113
+  offset: 0, 0
+  index: -1
+school_charts_school_charts_64_b_4_0.png
+  rotate: false
+  xy: 569, 4
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+school_charts_school_charts_64_b_4_1.png
+  rotate: false
+  xy: 245, 3
+  size: 79, 112
+  orig: 79, 112
+  offset: 0, 0
+  index: -1
+school_charts_school_charts_64_b_4_2.png
+  rotate: false
+  xy: 83, 2
+  size: 79, 113
+  orig: 79, 113
+  offset: 0, 0
+  index: -1
+school_charts_school_charts_icon_a.png
+  rotate: false
+  xy: 650, 83
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

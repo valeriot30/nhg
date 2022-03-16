@@ -1,0 +1,27 @@
+
+china_snake.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+china_snake_china_snake_64_a_0_0.png
+  rotate: false
+  xy: 2, 67
+  size: 52, 102
+  orig: 52, 102
+  offset: 0, 0
+  index: -1
+china_snake_china_snake_64_sd_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+china_snake_china_snake_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

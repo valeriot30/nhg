@@ -1,0 +1,69 @@
+
+classic8_divider.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic8_divider_classic8_divider_64_a_0_0.png
+  rotate: false
+  xy: 112, 16
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+classic8_divider_classic8_divider_64_a_2_0.png
+  rotate: false
+  xy: 78, 16
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+classic8_divider_classic8_divider_64_b_2_0.png
+  rotate: false
+  xy: 40, 14
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+classic8_divider_classic8_divider_64_b_4_0.png
+  rotate: false
+  xy: 2, 14
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+classic8_divider_classic8_divider_64_c_4_0.png
+  rotate: false
+  xy: 146, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+classic8_divider_classic8_divider_64_c_6_0.png
+  rotate: false
+  xy: 175, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+classic8_divider_classic8_divider_64_d_2_0.png
+  rotate: false
+  xy: 178, 32
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+classic8_divider_classic8_divider_64_d_4_0.png
+  rotate: false
+  xy: 207, 32
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+classic8_divider_classic8_divider_icon_a.png
+  rotate: false
+  xy: 146, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

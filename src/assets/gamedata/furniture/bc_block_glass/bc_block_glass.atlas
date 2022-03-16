@@ -1,0 +1,48 @@
+
+bc_block_glass.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bc_block_glass_bc_block_glass_32_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_glass_bc_block_glass_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+bc_block_glass_bc_block_glass_64_b_0_0.png
+  rotate: false
+  xy: 140, 35
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+bc_block_glass_bc_block_glass_64_c_0_0.png
+  rotate: false
+  xy: 72, 35
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+bc_block_glass_bc_block_glass_icon_a.png
+  rotate: false
+  xy: 2, 5
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+bc_block_glass_bc_block_glass_icon_b.png
+  rotate: false
+  xy: 208, 78
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1

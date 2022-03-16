@@ -1,0 +1,55 @@
+
+hc_exe_chair2.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_exe_chair2_hc_exe_chair2_64_a_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 74, 81
+  orig: 74, 81
+  offset: 0, 0
+  index: -1
+hc_exe_chair2_hc_exe_chair2_64_a_6_0.png
+  rotate: false
+  xy: 78, 41
+  size: 74, 72
+  orig: 74, 72
+  offset: 0, 0
+  index: -1
+hc_exe_chair2_hc_exe_chair2_64_b_2_0.png
+  rotate: false
+  xy: 128, 10
+  size: 36, 29
+  orig: 36, 29
+  offset: 0, 0
+  index: -1
+hc_exe_chair2_hc_exe_chair2_64_b_6_0.png
+  rotate: false
+  xy: 154, 41
+  size: 67, 72
+  orig: 67, 72
+  offset: 0, 0
+  index: -1
+hc_exe_chair2_hc_exe_chair2_64_sd_2_0.png
+  rotate: false
+  xy: 78, 12
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+hc_exe_chair2_hc_exe_chair2_64_sd_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+hc_exe_chair2_hc_exe_chair2_icon_a.png
+  rotate: false
+  xy: 223, 83
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

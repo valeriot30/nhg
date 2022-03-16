@@ -1,0 +1,48 @@
+
+chess_b_queen.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess_b_queen_chess_b_queen_64_a_0_0.png
+  rotate: false
+  xy: 157, 32
+  size: 48, 150
+  orig: 48, 150
+  offset: 0, 0
+  index: -1
+chess_b_queen_chess_b_queen_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 50, 153
+  orig: 50, 153
+  offset: 0, 0
+  index: -1
+chess_b_queen_chess_b_queen_64_a_4_0.png
+  rotate: false
+  xy: 54, 29
+  size: 50, 153
+  orig: 50, 153
+  offset: 0, 0
+  index: -1
+chess_b_queen_chess_b_queen_64_a_6_0.png
+  rotate: false
+  xy: 106, 32
+  size: 49, 150
+  orig: 49, 150
+  offset: 0, 0
+  index: -1
+chess_b_queen_chess_b_queen_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+chess_b_queen_chess_b_queen_icon_a.png
+  rotate: false
+  xy: 207, 155
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1

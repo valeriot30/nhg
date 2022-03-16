@@ -1,0 +1,20 @@
+
+clothing_plungebikini.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_plungebikini_clothing_plungebikini_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 68
+  orig: 27, 68
+  offset: 0, 0
+  index: -1
+clothing_plungebikini_clothing_plungebikini_icon_a.png
+  rotate: false
+  xy: 31, 42
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

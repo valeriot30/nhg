@@ -1,0 +1,41 @@
+
+nest_bunny.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nest_bunny_nest_bunny_64_a_4_0.png
+  rotate: false
+  xy: 50, 2
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+nest_bunny_nest_bunny_64_a_4_1.png
+  rotate: false
+  xy: 98, 2
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+nest_bunny_nest_bunny_64_a_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 39
+  orig: 46, 39
+  offset: 0, 0
+  index: -1
+nest_bunny_nest_bunny_64_b_4_0.png
+  rotate: false
+  xy: 146, 16
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+nest_bunny_nest_bunny_icon_a.png
+  rotate: false
+  xy: 178, 21
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1

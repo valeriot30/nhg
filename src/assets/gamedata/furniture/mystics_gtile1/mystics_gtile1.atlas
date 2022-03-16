@@ -1,0 +1,160 @@
+
+mystics_gtile1.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mystics_gtile1_mystics_gtile1_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_b_0_0.png
+  rotate: false
+  xy: 407, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_b_0_1.png
+  rotate: false
+  xy: 1813, 275
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_c_0_1.png
+  rotate: false
+  xy: 501, 62
+  size: 106, 268
+  orig: 106, 268
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_c_0_2.png
+  rotate: false
+  xy: 1134, 61
+  size: 98, 269
+  orig: 98, 269
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_c_0_3.png
+  rotate: false
+  xy: 825, 64
+  size: 101, 266
+  orig: 101, 266
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_c_0_4.png
+  rotate: false
+  xy: 928, 64
+  size: 101, 266
+  orig: 101, 266
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_c_0_5.png
+  rotate: false
+  xy: 1437, 71
+  size: 97, 259
+  orig: 97, 259
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_c_0_6.png
+  rotate: false
+  xy: 1721, 81
+  size: 90, 249
+  orig: 90, 249
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_d_0_1.png
+  rotate: false
+  xy: 1234, 61
+  size: 98, 269
+  orig: 98, 269
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_d_0_2.png
+  rotate: false
+  xy: 1031, 64
+  size: 101, 266
+  orig: 101, 266
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_d_0_3.png
+  rotate: false
+  xy: 717, 62
+  size: 106, 268
+  orig: 106, 268
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_d_0_4.png
+  rotate: false
+  xy: 609, 62
+  size: 106, 268
+  orig: 106, 268
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_d_0_5.png
+  rotate: false
+  xy: 1334, 67
+  size: 101, 263
+  orig: 101, 263
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_d_0_6.png
+  rotate: false
+  xy: 1536, 76
+  size: 95, 254
+  orig: 95, 254
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_e_0_1.png
+  rotate: false
+  xy: 2, 37
+  size: 105, 293
+  orig: 105, 293
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_e_0_2.png
+  rotate: false
+  xy: 109, 37
+  size: 100, 293
+  orig: 100, 293
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_e_0_3.png
+  rotate: false
+  xy: 211, 36
+  size: 96, 294
+  orig: 96, 294
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_e_0_4.png
+  rotate: false
+  xy: 309, 36
+  size: 96, 294
+  orig: 96, 294
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_e_0_5.png
+  rotate: false
+  xy: 407, 43
+  size: 92, 287
+  orig: 92, 287
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_64_e_0_6.png
+  rotate: false
+  xy: 1633, 53
+  size: 86, 277
+  orig: 86, 277
+  offset: 0, 0
+  index: -1
+mystics_gtile1_mystics_gtile1_icon_a.png
+  rotate: false
+  xy: 1721, 61
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

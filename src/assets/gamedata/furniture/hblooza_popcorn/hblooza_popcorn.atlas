@@ -1,0 +1,125 @@
+
+hblooza_popcorn.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza_popcorn_hblooza_popcorn_64_a_2_0.png
+  rotate: false
+  xy: 70, 108
+  size: 64, 144
+  orig: 64, 144
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_0.png
+  rotate: false
+  xy: 173, 187
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_1.png
+  rotate: false
+  xy: 136, 97
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_10.png
+  rotate: false
+  xy: 136, 124
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_11.png
+  rotate: false
+  xy: 70, 80
+  size: 35, 9
+  orig: 35, 9
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_2.png
+  rotate: false
+  xy: 136, 111
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_3.png
+  rotate: false
+  xy: 136, 137
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_4.png
+  rotate: false
+  xy: 136, 185
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_5.png
+  rotate: false
+  xy: 70, 91
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_6.png
+  rotate: false
+  xy: 136, 165
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_7.png
+  rotate: false
+  xy: 110, 93
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_8.png
+  rotate: false
+  xy: 206, 190
+  size: 28, 11
+  orig: 28, 11
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_b_2_9.png
+  rotate: false
+  xy: 136, 151
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_c_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_d_2_0.png
+  rotate: false
+  xy: 2, 86
+  size: 66, 166
+  orig: 66, 166
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_64_sd_2_0.png
+  rotate: false
+  xy: 136, 203
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+hblooza_popcorn_hblooza_popcorn_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

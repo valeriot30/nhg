@@ -1,0 +1,48 @@
+
+summer_raft2.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+summer_raft2_summer_raft2_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+summer_raft2_summer_raft2_64_b_0_0.png
+  rotate: false
+  xy: 166, 33
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+summer_raft2_summer_raft2_64_b_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+summer_raft2_summer_raft2_64_b_2_0.png
+  rotate: false
+  xy: 82, 33
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+summer_raft2_summer_raft2_64_sd_0_0.png
+  rotate: false
+  xy: 82, 6
+  size: 78, 25
+  orig: 78, 25
+  offset: 0, 0
+  index: -1
+summer_raft2_summer_raft2_icon_a.png
+  rotate: false
+  xy: 162, 16
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1

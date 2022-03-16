@@ -1,0 +1,27 @@
+
+hotel_c18_cypress.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hotel_c18_cypress_hotel_c18_cypress_64_a_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 74, 255
+  orig: 74, 255
+  offset: 0, 0
+  index: -1
+hotel_c18_cypress_hotel_c18_cypress_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+hotel_c18_cypress_hotel_c18_cypress_icon_a.png
+  rotate: false
+  xy: 78, 255
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1

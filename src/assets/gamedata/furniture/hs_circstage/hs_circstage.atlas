@@ -1,0 +1,146 @@
+
+hs_circstage.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hs_circstage_hs_circstage_32_h_0_0.png
+  rotate: false
+  xy: 106, 201
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_32_h_0_0.png
+  rotate: false
+  xy: 82, 33
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_32_h_0_0.png
+  rotate: false
+  xy: 218, 231
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_a_0_0.png
+  rotate: false
+  xy: 118, 143
+  size: 78, 28
+  orig: 78, 28
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_b_0_0.png
+  rotate: false
+  xy: 2, 196
+  size: 102, 58
+  orig: 102, 58
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_c_0_0.png
+  rotate: false
+  xy: 118, 99
+  size: 64, 42
+  orig: 64, 42
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_d_0_0.png
+  rotate: false
+  xy: 118, 173
+  size: 106, 29
+  orig: 106, 29
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_d_0_1.png
+  rotate: false
+  xy: 2, 76
+  size: 114, 38
+  orig: 114, 38
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_d_0_2.png
+  rotate: false
+  xy: 2, 36
+  size: 114, 38
+  orig: 114, 38
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_d_0_3.png
+  rotate: false
+  xy: 2, 156
+  size: 114, 38
+  orig: 114, 38
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_d_0_4.png
+  rotate: false
+  xy: 2, 116
+  size: 114, 38
+  orig: 114, 38
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_e_0_0.png
+  rotate: false
+  xy: 184, 71
+  size: 64, 16
+  orig: 64, 16
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_e_0_1.png
+  rotate: false
+  xy: 184, 89
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_e_0_2.png
+  rotate: false
+  xy: 118, 15
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_e_0_3.png
+  rotate: false
+  xy: 118, 42
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_e_0_4.png
+  rotate: false
+  xy: 184, 116
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_f_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 32
+  orig: 78, 32
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_g_0_1.png
+  rotate: false
+  xy: 106, 204
+  size: 110, 50
+  orig: 110, 50
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_64_h_0_1.png
+  rotate: false
+  xy: 118, 69
+  size: 64, 28
+  orig: 64, 28
+  offset: 0, 0
+  index: -1
+hs_circstage_hs_circstage_icon_a.png
+  rotate: false
+  xy: 218, 234
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+hween_r19_witchfamiliar.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_a_0_0.png
+  rotate: false
+  xy: 57, 50
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_a_0_1.png
+  rotate: false
+  xy: 2, 50
+  size: 53, 76
+  orig: 53, 76
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_b_0_0.png
+  rotate: false
+  xy: 112, 88
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_0.png
+  rotate: false
+  xy: 207, 30
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_1.png
+  rotate: false
+  xy: 172, 30
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_10.png
+  rotate: false
+  xy: 277, 30
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_11.png
+  rotate: false
+  xy: 311, 29
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_12.png
+  rotate: false
+  xy: 251, 79
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_13.png
+  rotate: false
+  xy: 173, 79
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_14.png
+  rotate: false
+  xy: 288, 79
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_15.png
+  rotate: false
+  xy: 242, 30
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_16.png
+  rotate: false
+  xy: 46, 2
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_2.png
+  rotate: false
+  xy: 459, 79
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_3.png
+  rotate: false
+  xy: 425, 78
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_4.png
+  rotate: false
+  xy: 212, 79
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_5.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_6.png
+  rotate: false
+  xy: 323, 78
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_7.png
+  rotate: false
+  xy: 392, 76
+  size: 31, 50
+  orig: 31, 50
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_c_0_9.png
+  rotate: false
+  xy: 358, 75
+  size: 32, 51
+  orig: 32, 51
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_d_0_0.png
+  rotate: false
+  xy: 147, 54
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_d_0_1.png
+  rotate: false
+  xy: 345, 39
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_d_0_2.png
+  rotate: false
+  xy: 112, 50
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_64_sd_0_0.png
+  rotate: false
+  xy: 81, 25
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+hween_r19_witchfamiliar_hween_r19_witchfamiliar_icon_a.png
+  rotate: false
+  xy: 376, 43
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

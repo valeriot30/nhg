@@ -1,0 +1,118 @@
+
+xmas12_table.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas12_table_xmas12_table_64_a_0_0.png
+  rotate: false
+  xy: 742, 15
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_a_0_1.png
+  rotate: false
+  xy: 674, 15
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_a_0_2.png
+  rotate: false
+  xy: 70, 12
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_a_0_3.png
+  rotate: false
+  xy: 2, 12
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_b_0_0.png
+  rotate: false
+  xy: 2, 47
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_b_0_1.png
+  rotate: false
+  xy: 404, 47
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_b_0_2.png
+  rotate: false
+  xy: 270, 47
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_b_0_3.png
+  rotate: false
+  xy: 136, 47
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_c_0_0.png
+  rotate: false
+  xy: 740, 50
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_c_0_1.png
+  rotate: false
+  xy: 808, 50
+  size: 66, 75
+  orig: 66, 75
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_c_0_2.png
+  rotate: false
+  xy: 538, 50
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_c_0_3.png
+  rotate: false
+  xy: 639, 50
+  size: 99, 75
+  orig: 99, 75
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_d_0_0.png
+  rotate: false
+  xy: 538, 2
+  size: 134, 46
+  orig: 134, 46
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_d_0_1.png
+  rotate: false
+  xy: 876, 56
+  size: 134, 69
+  orig: 134, 69
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_64_sd_0_0.png
+  rotate: false
+  xy: 876, 4
+  size: 126, 50
+  orig: 126, 50
+  offset: 0, 0
+  index: -1
+xmas12_table_xmas12_table_icon_a.png
+  rotate: false
+  xy: 810, 24
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

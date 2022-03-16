@@ -1,0 +1,118 @@
+
+cine_r18_trailer.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cine_r18_trailer_cine_r18_trailer_64_a_0_0.png
+  rotate: false
+  xy: 850, 118
+  size: 65, 134
+  orig: 65, 134
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_b_0_0.png
+  rotate: false
+  xy: 522, 118
+  size: 129, 134
+  orig: 129, 134
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_c_0_0.png
+  rotate: false
+  xy: 917, 180
+  size: 30, 72
+  orig: 30, 72
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_d_0_0.png
+  rotate: false
+  xy: 653, 120
+  size: 123, 132
+  orig: 123, 132
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_e_0_0.png
+  rotate: false
+  xy: 949, 175
+  size: 24, 77
+  orig: 24, 77
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_f_0_0.png
+  rotate: false
+  xy: 70, 2
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_g_0_0.png
+  rotate: false
+  xy: 164, 40
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_g_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_h_0_0.png
+  rotate: false
+  xy: 2, 115
+  size: 129, 137
+  orig: 129, 137
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_h_0_1.png
+  rotate: false
+  xy: 133, 115
+  size: 129, 137
+  orig: 129, 137
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_i_0_0.png
+  rotate: false
+  xy: 264, 114
+  size: 127, 138
+  orig: 127, 138
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_i_0_1.png
+  rotate: false
+  xy: 393, 114
+  size: 127, 138
+  orig: 127, 138
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_j_0_0.png
+  rotate: false
+  xy: 778, 123
+  size: 70, 129
+  orig: 70, 129
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_j_0_1.png
+  rotate: false
+  xy: 164, 75
+  size: 68, 38
+  orig: 68, 38
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_64_sd_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 160, 81
+  orig: 160, 81
+  offset: 0, 0
+  index: -1
+cine_r18_trailer_cine_r18_trailer_icon_a.png
+  rotate: false
+  xy: 234, 89
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1

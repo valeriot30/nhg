@@ -1,0 +1,111 @@
+
+uni_projector.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_projector_uni_projector_64_a_2_0.png
+  rotate: false
+  xy: 88, 88
+  size: 39, 137
+  orig: 39, 137
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_a_4_0.png
+  rotate: false
+  xy: 129, 88
+  size: 39, 137
+  orig: 39, 137
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_b_2_0.png
+  rotate: false
+  xy: 376, 49
+  size: 32, 133
+  orig: 32, 133
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_b_4_0.png
+  rotate: false
+  xy: 342, 49
+  size: 32, 133
+  orig: 32, 133
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_c_2_0.png
+  rotate: false
+  xy: 209, 2
+  size: 27, 87
+  orig: 27, 87
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_c_4_0.png
+  rotate: false
+  xy: 180, 2
+  size: 27, 87
+  orig: 27, 87
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_d_2_0.png
+  rotate: false
+  xy: 134, 13
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_d_4_0.png
+  rotate: false
+  xy: 88, 13
+  size: 44, 73
+  orig: 44, 73
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_e_2_0.png
+  rotate: false
+  xy: 2, 120
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_e_4_0.png
+  rotate: false
+  xy: 2, 13
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_f_2_0.png
+  rotate: false
+  xy: 256, 134
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_f_4_0.png
+  rotate: false
+  xy: 170, 134
+  size: 84, 91
+  orig: 84, 91
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_sd_2_0.png
+  rotate: false
+  xy: 170, 91
+  size: 91, 41
+  orig: 91, 41
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_64_sd_4_0.png
+  rotate: false
+  xy: 342, 184
+  size: 91, 41
+  orig: 91, 41
+  offset: 0, 0
+  index: -1
+uni_projector_uni_projector_icon_a.png
+  rotate: false
+  xy: 435, 193
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

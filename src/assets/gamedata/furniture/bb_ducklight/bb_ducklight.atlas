@@ -1,0 +1,216 @@
+
+bb_ducklight.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bb_ducklight_bb_caterhead_32_d_2_0.png
+  rotate: false
+  xy: 174, 9
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_0_0.png
+  rotate: false
+  xy: 884, 136
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_0_1.png
+  rotate: false
+  xy: 950, 136
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_0_2.png
+  rotate: false
+  xy: 752, 136
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_0_3.png
+  rotate: false
+  xy: 818, 136
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_0_4.png
+  rotate: false
+  xy: 686, 136
+  size: 64, 117
+  orig: 64, 117
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_2_0.png
+  rotate: false
+  xy: 414, 131
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_2_1.png
+  rotate: false
+  xy: 482, 131
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_2_2.png
+  rotate: false
+  xy: 550, 131
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_2_3.png
+  rotate: false
+  xy: 618, 131
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_a_2_4.png
+  rotate: false
+  xy: 346, 131
+  size: 66, 122
+  orig: 66, 122
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_b_0_0.png
+  rotate: false
+  xy: 686, 133
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_b_0_1.png
+  rotate: false
+  xy: 550, 109
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_b_0_2.png
+  rotate: false
+  xy: 520, 109
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_b_0_3.png
+  rotate: false
+  xy: 473, 88
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_b_0_4.png
+  rotate: false
+  xy: 346, 17
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_c_0_1.png
+  rotate: false
+  xy: 260, 134
+  size: 84, 119
+  orig: 84, 119
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_c_0_2.png
+  rotate: false
+  xy: 174, 12
+  size: 84, 119
+  orig: 84, 119
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_c_0_3.png
+  rotate: false
+  xy: 174, 133
+  size: 84, 120
+  orig: 84, 120
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_c_0_4.png
+  rotate: false
+  xy: 260, 13
+  size: 84, 119
+  orig: 84, 119
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_c_2_1.png
+  rotate: false
+  xy: 88, 3
+  size: 84, 124
+  orig: 84, 124
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_c_2_2.png
+  rotate: false
+  xy: 88, 129
+  size: 84, 124
+  orig: 84, 124
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_c_2_3.png
+  rotate: false
+  xy: 2, 128
+  size: 84, 125
+  orig: 84, 125
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_c_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 84, 124
+  orig: 84, 124
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_d_0_1.png
+  rotate: false
+  xy: 346, 39
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_d_0_2.png
+  rotate: false
+  xy: 346, 85
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_d_0_3.png
+  rotate: false
+  xy: 400, 85
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_d_0_4.png
+  rotate: false
+  xy: 400, 43
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_64_sd_0.png
+  rotate: false
+  xy: 454, 110
+  size: 64, 19
+  orig: 64, 19
+  offset: 0, 0
+  index: -1
+bb_ducklight_bb_ducklight_icon_a.png
+  rotate: false
+  xy: 454, 76
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1

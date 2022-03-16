@@ -1,0 +1,132 @@
+
+wildwest_clothesline.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_clothesline_wildwest_clothesline_32_e_4_6.png
+  rotate: false
+  xy: 144, 86
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_32_e_4_6.png
+  rotate: false
+  xy: 185, 114
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_32_e_4_6.png
+  rotate: false
+  xy: 198, 123
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_a_4_0.png
+  rotate: false
+  xy: 2, 19
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_b_4_0.png
+  rotate: false
+  xy: 47, 15
+  size: 35, 109
+  orig: 35, 109
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_c_4_0.png
+  rotate: false
+  xy: 84, 63
+  size: 45, 24
+  orig: 45, 24
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_d_4_0.png
+  rotate: false
+  xy: 84, 52
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_d_4_1.png
+  rotate: false
+  xy: 154, 90
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_d_4_4.png
+  rotate: false
+  xy: 185, 117
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_d_4_5.png
+  rotate: false
+  xy: 84, 56
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_e_4_0.png
+  rotate: false
+  xy: 131, 76
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_e_4_1.png
+  rotate: false
+  xy: 101, 57
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_e_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_e_4_3.png
+  rotate: false
+  xy: 18, 13
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_e_4_4.png
+  rotate: false
+  xy: 131, 80
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_e_4_5.png
+  rotate: false
+  xy: 2, 10
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_64_sd_4_0.png
+  rotate: false
+  xy: 84, 89
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+wildwest_clothesline_wildwest_clothesline_icon_a.png
+  rotate: false
+  xy: 154, 97
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

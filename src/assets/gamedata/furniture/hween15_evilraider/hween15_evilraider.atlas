@@ -1,0 +1,727 @@
+
+hween15_evilraider.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween15_evilraider_hween15_evilraider_64_a_0_0.png
+  rotate: false
+  xy: 329, 15
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_a_0_1.png
+  rotate: false
+  xy: 233, 12
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_a_0_2.png
+  rotate: false
+  xy: 55, 5
+  size: 49, 74
+  orig: 49, 74
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_a_0_3.png
+  rotate: false
+  xy: 130, 2
+  size: 52, 79
+  orig: 52, 79
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_b_0_0.png
+  rotate: false
+  xy: 280, 13
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_b_0_1.png
+  rotate: false
+  xy: 184, 10
+  size: 47, 71
+  orig: 47, 71
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_b_0_2.png
+  rotate: false
+  xy: 2, 3
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_b_0_3.png
+  rotate: false
+  xy: 376, 15
+  size: 54, 81
+  orig: 54, 81
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_0.png
+  rotate: false
+  xy: 853, 5
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_1.png
+  rotate: false
+  xy: 1348, 36
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_10.png
+  rotate: false
+  xy: 2752, 146
+  size: 61, 108
+  orig: 61, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_100.png
+  rotate: false
+  xy: 943, 3
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_101.png
+  rotate: false
+  xy: 988, 3
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_102.png
+  rotate: false
+  xy: 1708, 31
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_103.png
+  rotate: false
+  xy: 1573, 19
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_104.png
+  rotate: false
+  xy: 1888, 39
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_105.png
+  rotate: false
+  xy: 1933, 39
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_106.png
+  rotate: false
+  xy: 1663, 19
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_11.png
+  rotate: false
+  xy: 3382, 149
+  size: 61, 105
+  orig: 61, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_12.png
+  rotate: false
+  xy: 2815, 146
+  size: 61, 108
+  orig: 61, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_13.png
+  rotate: false
+  xy: 2309, 143
+  size: 61, 111
+  orig: 61, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_14.png
+  rotate: false
+  xy: 2878, 146
+  size: 61, 108
+  orig: 61, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_15.png
+  rotate: false
+  xy: 3256, 149
+  size: 61, 105
+  orig: 61, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_18.png
+  rotate: false
+  xy: 3003, 146
+  size: 60, 108
+  orig: 60, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_19.png
+  rotate: false
+  xy: 3319, 149
+  size: 61, 105
+  orig: 61, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_2.png
+  rotate: false
+  xy: 718, 10
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_20.png
+  rotate: false
+  xy: 2941, 146
+  size: 60, 108
+  orig: 60, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_21.png
+  rotate: false
+  xy: 3445, 143
+  size: 58, 111
+  orig: 58, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_22.png
+  rotate: false
+  xy: 3624, 143
+  size: 54, 111
+  orig: 54, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_23.png
+  rotate: false
+  xy: 1393, 36
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_24.png
+  rotate: false
+  xy: 2498, 146
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_25.png
+  rotate: false
+  xy: 3065, 149
+  size: 62, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_26.png
+  rotate: false
+  xy: 2434, 146
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_27.png
+  rotate: false
+  xy: 2116, 143
+  size: 64, 111
+  orig: 64, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_28.png
+  rotate: false
+  xy: 2049, 143
+  size: 65, 111
+  orig: 65, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_29.png
+  rotate: false
+  xy: 1979, 146
+  size: 68, 108
+  orig: 68, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_3.png
+  rotate: false
+  xy: 763, 7
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_30.png
+  rotate: false
+  xy: 1905, 146
+  size: 72, 108
+  orig: 72, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_31.png
+  rotate: false
+  xy: 1827, 149
+  size: 76, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_32.png
+  rotate: false
+  xy: 1743, 149
+  size: 82, 105
+  orig: 82, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_33.png
+  rotate: false
+  xy: 1318, 146
+  size: 92, 108
+  orig: 92, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_34.png
+  rotate: false
+  xy: 1117, 142
+  size: 107, 112
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_35.png
+  rotate: false
+  xy: 1666, 141
+  size: 75, 113
+  orig: 75, 113
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_36.png
+  rotate: false
+  xy: 1500, 143
+  size: 84, 111
+  orig: 84, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_37.png
+  rotate: false
+  xy: 1586, 129
+  size: 78, 125
+  orig: 78, 125
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_38.png
+  rotate: false
+  xy: 924, 116
+  size: 90, 138
+  orig: 90, 138
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_39.png
+  rotate: false
+  xy: 621, 99
+  size: 95, 155
+  orig: 95, 155
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_4.png
+  rotate: false
+  xy: 808, 2
+  size: 43, 112
+  orig: 43, 112
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_40.png
+  rotate: false
+  xy: 258, 84
+  size: 111, 170
+  orig: 111, 170
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_41.png
+  rotate: false
+  xy: 718, 117
+  size: 101, 137
+  orig: 101, 137
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_42.png
+  rotate: false
+  xy: 371, 98
+  size: 123, 156
+  orig: 123, 156
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_43.png
+  rotate: false
+  xy: 2, 81
+  size: 126, 173
+  orig: 126, 173
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_44.png
+  rotate: false
+  xy: 1226, 143
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_45.png
+  rotate: false
+  xy: 1412, 146
+  size: 86, 108
+  orig: 86, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_46.png
+  rotate: false
+  xy: 1016, 129
+  size: 99, 125
+  orig: 99, 125
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_47.png
+  rotate: false
+  xy: 821, 118
+  size: 101, 136
+  orig: 101, 136
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_48.png
+  rotate: false
+  xy: 496, 99
+  size: 123, 155
+  orig: 123, 155
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_49.png
+  rotate: false
+  xy: 130, 83
+  size: 126, 171
+  orig: 126, 171
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_5.png
+  rotate: false
+  xy: 3680, 143
+  size: 54, 111
+  orig: 54, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_51.png
+  rotate: false
+  xy: 2182, 143
+  size: 62, 111
+  orig: 62, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_52.png
+  rotate: false
+  xy: 2562, 146
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_53.png
+  rotate: false
+  xy: 3129, 149
+  size: 62, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_55.png
+  rotate: false
+  xy: 2383, 36
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_56.png
+  rotate: false
+  xy: 2068, 33
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_57.png
+  rotate: false
+  xy: 2023, 33
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_58.png
+  rotate: false
+  xy: 1123, 29
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_6.png
+  rotate: false
+  xy: 2626, 146
+  size: 61, 108
+  orig: 61, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_61.png
+  rotate: false
+  xy: 1978, 39
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_66.png
+  rotate: false
+  xy: 1798, 39
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_67.png
+  rotate: false
+  xy: 1033, 16
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_68.png
+  rotate: false
+  xy: 1078, 16
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_69.png
+  rotate: false
+  xy: 1843, 39
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_7.png
+  rotate: false
+  xy: 3193, 149
+  size: 61, 105
+  orig: 61, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_70.png
+  rotate: false
+  xy: 2293, 33
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_71.png
+  rotate: false
+  xy: 1303, 30
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_72.png
+  rotate: false
+  xy: 2248, 33
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_73.png
+  rotate: false
+  xy: 2428, 36
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_74.png
+  rotate: false
+  xy: 2338, 33
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_75.png
+  rotate: false
+  xy: 3791, 143
+  size: 53, 111
+  orig: 53, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_76.png
+  rotate: false
+  xy: 3901, 146
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_77.png
+  rotate: false
+  xy: 3956, 149
+  size: 53, 105
+  orig: 53, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_78.png
+  rotate: false
+  xy: 3846, 146
+  size: 53, 108
+  orig: 53, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_79.png
+  rotate: false
+  xy: 4011, 149
+  size: 44, 105
+  orig: 44, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_8.png
+  rotate: false
+  xy: 2689, 146
+  size: 61, 108
+  orig: 61, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_80.png
+  rotate: false
+  xy: 2113, 33
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_81.png
+  rotate: false
+  xy: 1168, 29
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_82.png
+  rotate: false
+  xy: 1213, 29
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_83.png
+  rotate: false
+  xy: 3505, 143
+  size: 58, 111
+  orig: 58, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_84.png
+  rotate: false
+  xy: 2372, 143
+  size: 60, 111
+  orig: 60, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_85.png
+  rotate: false
+  xy: 3565, 143
+  size: 57, 111
+  orig: 57, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_86.png
+  rotate: false
+  xy: 3736, 143
+  size: 53, 111
+  orig: 53, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_87.png
+  rotate: false
+  xy: 1258, 30
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_88.png
+  rotate: false
+  xy: 2203, 33
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_89.png
+  rotate: false
+  xy: 2158, 33
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_9.png
+  rotate: false
+  xy: 2246, 143
+  size: 61, 111
+  orig: 61, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_93.png
+  rotate: false
+  xy: 1753, 39
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_95.png
+  rotate: false
+  xy: 1528, 33
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_96.png
+  rotate: false
+  xy: 898, 3
+  size: 43, 111
+  orig: 43, 111
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_97.png
+  rotate: false
+  xy: 1438, 36
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_98.png
+  rotate: false
+  xy: 1483, 36
+  size: 43, 105
+  orig: 43, 105
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_c_0_99.png
+  rotate: false
+  xy: 1618, 19
+  size: 43, 108
+  orig: 43, 108
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_64_sd_0_0.png
+  rotate: false
+  xy: 432, 79
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+hween15_evilraider_hween15_evilraider_icon_a.png
+  rotate: false
+  xy: 4057, 224
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

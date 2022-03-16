@@ -1,0 +1,90 @@
+
+tokyo_r18_koikite.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_r18_koikite_tokyo_r18_koikite_64_a_0_0.png
+  rotate: false
+  xy: 2, 76
+  size: 15, 178
+  orig: 15, 178
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_b_0_0.png
+  rotate: false
+  xy: 91, 137
+  size: 70, 117
+  orig: 70, 117
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_b_0_1.png
+  rotate: false
+  xy: 19, 17
+  size: 68, 116
+  orig: 68, 116
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_b_0_2.png
+  rotate: false
+  xy: 89, 13
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_b_0_3.png
+  rotate: false
+  xy: 19, 135
+  size: 70, 119
+  orig: 70, 119
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_b_0_4.png
+  rotate: false
+  xy: 163, 138
+  size: 69, 116
+  orig: 69, 116
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_c_0_0.png
+  rotate: false
+  xy: 234, 189
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_c_0_1.png
+  rotate: false
+  xy: 2, 41
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_d_0_0.png
+  rotate: false
+  xy: 234, 206
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_d_0_1.png
+  rotate: false
+  xy: 2, 58
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+tokyo_r18_koikite_tokyo_r18_koikite_icon_a.png
+  rotate: false
+  xy: 234, 224
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

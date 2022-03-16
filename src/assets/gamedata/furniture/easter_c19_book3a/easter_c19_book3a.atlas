@@ -1,0 +1,27 @@
+
+easter_c19_book3a.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c19_book3a_easter_c19_book3a_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+easter_c19_book3a_easter_c19_book3a_64_sd_0_0.png
+  rotate: false
+  xy: 67, 11
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+easter_c19_book3a_easter_c19_book3a_icon_a.png
+  rotate: false
+  xy: 131, 24
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1

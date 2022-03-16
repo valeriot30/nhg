@@ -1,0 +1,20 @@
+
+present_gen6.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+present_gen6_present_gen6_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+present_gen6_present_gen6_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

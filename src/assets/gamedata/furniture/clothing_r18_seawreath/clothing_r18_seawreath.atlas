@@ -1,0 +1,20 @@
+
+clothing_r18_seawreath.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r18_seawreath_clothing_r18_seawreath_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+clothing_r18_seawreath_clothing_r18_seawreath_icon_a.png
+  rotate: false
+  xy: 40, 19
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

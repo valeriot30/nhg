@@ -1,0 +1,20 @@
+
+clothing_flaredtrench.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_flaredtrench_clothing_flaredtrench_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 36, 100
+  orig: 36, 100
+  offset: 0, 0
+  index: -1
+clothing_flaredtrench_clothing_flaredtrench_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

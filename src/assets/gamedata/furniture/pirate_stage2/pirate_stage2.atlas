@@ -1,0 +1,223 @@
+
+pirate_stage2.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_stage2_pirate_stage2_64_a_0_0.png
+  rotate: false
+  xy: 380, 74
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_a_1_0.png
+  rotate: false
+  xy: 303, 49
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_a_2_0.png
+  rotate: false
+  xy: 386, 72
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_a_3_0.png
+  rotate: false
+  xy: 505, 119
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_a_4_0.png
+  rotate: false
+  xy: 310, 45
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_a_5_0.png
+  rotate: false
+  xy: 220, 59
+  size: 8, 1
+  orig: 8, 1
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_a_6_0.png
+  rotate: false
+  xy: 380, 40
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_b_0_0.png
+  rotate: false
+  xy: 2, 58
+  size: 78, 68
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_b_1_0.png
+  rotate: false
+  xy: 160, 62
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_b_2_0.png
+  rotate: false
+  xy: 303, 15
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_b_3_0.png
+  rotate: false
+  xy: 82, 62
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_b_4_0.png
+  rotate: false
+  xy: 380, 26
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_b_5_0.png
+  rotate: false
+  xy: 271, 3
+  size: 30, 53
+  orig: 30, 53
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_b_6_0.png
+  rotate: false
+  xy: 2, 4
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_b_7_0.png
+  rotate: false
+  xy: 70, 2
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_c_1_0.png
+  rotate: false
+  xy: 220, 10
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_c_2_0.png
+  rotate: false
+  xy: 238, 81
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_c_3_0.png
+  rotate: false
+  xy: 101, 8
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_c_4_0.png
+  rotate: false
+  xy: 152, 30
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_c_5_0.png
+  rotate: false
+  xy: 462, 33
+  size: 10, 67
+  orig: 10, 67
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_c_7_0.png
+  rotate: false
+  xy: 450, 3
+  size: 10, 67
+  orig: 10, 67
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_d_0_0.png
+  rotate: false
+  xy: 383, 74
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_d_0_1.png
+  rotate: false
+  xy: 310, 103
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_d_1_1.png
+  rotate: false
+  xy: 310, 77
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_d_2_1.png
+  rotate: false
+  xy: 238, 58
+  size: 70, 21
+  orig: 70, 21
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_d_3_1.png
+  rotate: false
+  xy: 390, 102
+  size: 74, 24
+  orig: 74, 24
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_d_4_1.png
+  rotate: false
+  xy: 82, 56
+  size: 66, 4
+  orig: 66, 4
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_d_5_1.png
+  rotate: false
+  xy: 380, 4
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_d_6_1.png
+  rotate: false
+  xy: 152, 8
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_64_d_7_1.png
+  rotate: false
+  xy: 466, 106
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+pirate_stage2_pirate_stage2_icon_a.png
+  rotate: false
+  xy: 359, 13
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

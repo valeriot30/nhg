@@ -1,0 +1,41 @@
+
+ny2013_wall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ny2013_wall_ny2013_wall_64_a_2_0.png
+  rotate: false
+  xy: 209, 35
+  size: 2, 193
+  orig: 2, 193
+  offset: 0, 0
+  index: -1
+ny2013_wall_ny2013_wall_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 226
+  orig: 67, 226
+  offset: 0, 0
+  index: -1
+ny2013_wall_ny2013_wall_64_b_2_1.png
+  rotate: false
+  xy: 71, 2
+  size: 67, 226
+  orig: 67, 226
+  offset: 0, 0
+  index: -1
+ny2013_wall_ny2013_wall_64_b_2_2.png
+  rotate: false
+  xy: 140, 2
+  size: 67, 226
+  orig: 67, 226
+  offset: 0, 0
+  index: -1
+ny2013_wall_ny2013_wall_icon_a.png
+  rotate: false
+  xy: 213, 198
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

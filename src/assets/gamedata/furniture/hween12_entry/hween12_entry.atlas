@@ -1,0 +1,377 @@
+
+hween12_entry.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween12_entry_hween12_entry_32_c_0_0.png
+  rotate: false
+  xy: 555, 52
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_32_c_0_0.png
+  rotate: false
+  xy: 1304, 165
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_32_c_0_0.png
+  rotate: false
+  xy: 1304, 162
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_a_0_0.png
+  rotate: false
+  xy: 499, 50
+  size: 54, 204
+  orig: 54, 204
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_b_0_1.png
+  rotate: false
+  xy: 1131, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_b_0_2.png
+  rotate: false
+  xy: 1083, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_b_0_3.png
+  rotate: false
+  xy: 1227, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_b_0_4.png
+  rotate: false
+  xy: 1179, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_b_0_5.png
+  rotate: false
+  xy: 987, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_b_0_6.png
+  rotate: false
+  xy: 1035, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_b_0_7.png
+  rotate: false
+  xy: 939, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_c_0_1.png
+  rotate: false
+  xy: 420, 91
+  size: 77, 163
+  orig: 77, 163
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_c_0_2.png
+  rotate: false
+  xy: 341, 91
+  size: 77, 163
+  orig: 77, 163
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_d_0_0.png
+  rotate: false
+  xy: 2, 50
+  size: 107, 204
+  orig: 107, 204
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_e_0_0.png
+  rotate: false
+  xy: 341, 88
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_e_0_1.png
+  rotate: false
+  xy: 891, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_e_0_2.png
+  rotate: false
+  xy: 699, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_e_0_3.png
+  rotate: false
+  xy: 747, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_e_0_4.png
+  rotate: false
+  xy: 795, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_e_0_5.png
+  rotate: false
+  xy: 843, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_e_0_6.png
+  rotate: false
+  xy: 555, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_e_0_7.png
+  rotate: false
+  xy: 603, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_e_0_8.png
+  rotate: false
+  xy: 651, 101
+  size: 46, 153
+  orig: 46, 153
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_f_0_1.png
+  rotate: false
+  xy: 226, 80
+  size: 113, 174
+  orig: 113, 174
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_f_0_2.png
+  rotate: false
+  xy: 111, 80
+  size: 113, 174
+  orig: 113, 174
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_1.png
+  rotate: false
+  xy: 118, 22
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_10.png
+  rotate: false
+  xy: 1493, 229
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_11.png
+  rotate: false
+  xy: 1342, 179
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_12.png
+  rotate: false
+  xy: 1371, 218
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_13.png
+  rotate: false
+  xy: 555, 55
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_14.png
+  rotate: false
+  xy: 1316, 212
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_15.png
+  rotate: false
+  xy: 1315, 165
+  size: 25, 45
+  orig: 25, 45
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_16.png
+  rotate: false
+  xy: 59, 13
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_17.png
+  rotate: false
+  xy: 636, 75
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_18.png
+  rotate: false
+  xy: 682, 82
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_19.png
+  rotate: false
+  xy: 203, 65
+  size: 31, 13
+  orig: 31, 13
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_2.png
+  rotate: false
+  xy: 100, 15
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_20.png
+  rotate: false
+  xy: 1275, 104
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_21.png
+  rotate: false
+  xy: 723, 89
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_23.png
+  rotate: false
+  xy: 1466, 225
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_24.png
+  rotate: false
+  xy: 1275, 168
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_25.png
+  rotate: false
+  xy: 1275, 212
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_26.png
+  rotate: false
+  xy: 596, 57
+  size: 38, 42
+  orig: 38, 42
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_28.png
+  rotate: false
+  xy: 1515, 229
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_3.png
+  rotate: false
+  xy: 1275, 118
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_4.png
+  rotate: false
+  xy: 1344, 211
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_5.png
+  rotate: false
+  xy: 1403, 218
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_6.png
+  rotate: false
+  xy: 111, 51
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_7.png
+  rotate: false
+  xy: 156, 56
+  size: 45, 22
+  orig: 45, 22
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_8.png
+  rotate: false
+  xy: 636, 59
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_g_0_9.png
+  rotate: false
+  xy: 100, 2
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_64_sd_0_0.png
+  rotate: false
+  xy: 2, 7
+  size: 55, 41
+  orig: 55, 41
+  offset: 0, 0
+  index: -1
+hween12_entry_hween12_entry_icon_a.png
+  rotate: false
+  xy: 1435, 226
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

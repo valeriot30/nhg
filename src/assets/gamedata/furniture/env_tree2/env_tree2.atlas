@@ -1,0 +1,69 @@
+
+env_tree2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+env_tree2_env_tree2_32_b_2_0.png
+  rotate: false
+  xy: 234, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+env_tree2_env_tree2_64_a_2_0.png
+  rotate: false
+  xy: 2, 95
+  size: 91, 159
+  orig: 91, 159
+  offset: 0, 0
+  index: -1
+env_tree2_env_tree2_64_a_6_0.png
+  rotate: false
+  xy: 2, 53
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+env_tree2_env_tree2_64_b_6_0.png
+  rotate: false
+  xy: 95, 98
+  size: 78, 156
+  orig: 78, 156
+  offset: 0, 0
+  index: -1
+env_tree2_env_tree2_64_c_2_0.png
+  rotate: false
+  xy: 175, 126
+  size: 57, 128
+  orig: 57, 128
+  offset: 0, 0
+  index: -1
+env_tree2_env_tree2_64_c_6_0.png
+  rotate: false
+  xy: 175, 2
+  size: 57, 122
+  orig: 57, 122
+  offset: 0, 0
+  index: -1
+env_tree2_env_tree2_64_sd_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 62, 15
+  orig: 62, 15
+  offset: 0, 0
+  index: -1
+env_tree2_env_tree2_64_sd_6_0.png
+  rotate: false
+  xy: 95, 82
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+env_tree2_env_tree2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

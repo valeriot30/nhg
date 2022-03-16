@@ -1,0 +1,20 @@
+
+clothing_gentcap.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_gentcap_clothing_gentcap_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 46
+  orig: 41, 46
+  offset: 0, 0
+  index: -1
+clothing_gentcap_clothing_gentcap_icon_a.png
+  rotate: false
+  xy: 45, 18
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

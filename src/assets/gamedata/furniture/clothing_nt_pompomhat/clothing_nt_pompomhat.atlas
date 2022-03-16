@@ -1,0 +1,20 @@
+
+clothing_nt_pompomhat.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_nt_pompomhat_clothing_nt_pompomhat_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+clothing_nt_pompomhat_clothing_nt_pompomhat_icon_a.png
+  rotate: false
+  xy: 37, 24
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

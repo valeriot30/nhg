@@ -1,0 +1,48 @@
+
+lc_anemone.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lc_anemone_lc_anemone_64_a_0_0.png
+  rotate: false
+  xy: 55, 36
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+lc_anemone_lc_anemone_64_a_0_1.png
+  rotate: false
+  xy: 2, 36
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+lc_anemone_lc_anemone_64_a_0_2.png
+  rotate: false
+  xy: 161, 36
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+lc_anemone_lc_anemone_64_a_0_3.png
+  rotate: false
+  xy: 108, 36
+  size: 51, 68
+  orig: 51, 68
+  offset: 0, 0
+  index: -1
+lc_anemone_lc_anemone_64_sd_0_0.png
+  rotate: false
+  xy: 214, 85
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+lc_anemone_lc_anemone_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

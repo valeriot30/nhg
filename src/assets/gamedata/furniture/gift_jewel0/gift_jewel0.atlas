@@ -1,0 +1,55 @@
+
+gift_jewel0.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gift_jewel0_gift_jewel0_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+gift_jewel0_gift_jewel0_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gift_jewel0_gift_jewel0_64_b_0_1.png
+  rotate: false
+  xy: 77, 17
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+gift_jewel0_gift_jewel0_64_b_0_2.png
+  rotate: false
+  xy: 99, 19
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+gift_jewel0_gift_jewel0_64_b_0_3.png
+  rotate: false
+  xy: 88, 19
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+gift_jewel0_gift_jewel0_64_b_0_4.png
+  rotate: false
+  xy: 77, 10
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+gift_jewel0_gift_jewel0_icon_a.png
+  rotate: false
+  xy: 46, 9
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

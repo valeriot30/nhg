@@ -1,0 +1,62 @@
+
+xmas_c17_tree.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_tree_xmas_c17_tree_64_a_0_0.png
+  rotate: false
+  xy: 333, 45
+  size: 19, 81
+  orig: 19, 81
+  offset: 0, 0
+  index: -1
+xmas_c17_tree_xmas_c17_tree_64_b_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 115, 92
+  orig: 115, 92
+  offset: 0, 0
+  index: -1
+xmas_c17_tree_xmas_c17_tree_64_c_0_0.png
+  rotate: false
+  xy: 354, 94
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+xmas_c17_tree_xmas_c17_tree_64_d_0_0.png
+  rotate: false
+  xy: 119, 35
+  size: 114, 91
+  orig: 114, 91
+  offset: 0, 0
+  index: -1
+xmas_c17_tree_xmas_c17_tree_64_d_0_1.png
+  rotate: false
+  xy: 25, 31
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_tree_xmas_c17_tree_64_e_0_0.png
+  rotate: false
+  xy: 235, 38
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+xmas_c17_tree_xmas_c17_tree_64_sd_0_0.png
+  rotate: false
+  xy: 235, 56
+  size: 96, 70
+  orig: 96, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_tree_xmas_c17_tree_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

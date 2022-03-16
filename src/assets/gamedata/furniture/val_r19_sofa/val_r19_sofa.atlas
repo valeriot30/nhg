@@ -1,0 +1,251 @@
+
+val_r19_sofa.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_r19_sofa_val_r19_sofa_64_a_2_0.png
+  rotate: false
+  xy: 2, 54
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_a_6_0.png
+  rotate: false
+  xy: 2, 18
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_b_2_0.png
+  rotate: false
+  xy: 146, 3
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_b_6_0.png
+  rotate: false
+  xy: 170, 74
+  size: 81, 52
+  orig: 81, 52
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_c_2_0.png
+  rotate: false
+  xy: 43, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_c_6_0.png
+  rotate: false
+  xy: 39, 18
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_d_2_0.png
+  rotate: false
+  xy: 215, 34
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_d_6_0.png
+  rotate: false
+  xy: 75, 23
+  size: 69, 54
+  orig: 69, 54
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_e_6_2.png
+  rotate: false
+  xy: 39, 43
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_e_6_3.png
+  rotate: false
+  xy: 2, 7
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_e_6_4.png
+  rotate: false
+  xy: 13, 7
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_e_6_5.png
+  rotate: false
+  xy: 50, 43
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_e_6_6.png
+  rotate: false
+  xy: 39, 32
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_f_6_5.png
+  rotate: false
+  xy: 46, 10
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_f_6_6.png
+  rotate: false
+  xy: 57, 10
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_f_6_7.png
+  rotate: false
+  xy: 61, 21
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_f_6_8.png
+  rotate: false
+  xy: 35, 7
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_f_6_9.png
+  rotate: false
+  xy: 61, 32
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_g_2_2.png
+  rotate: false
+  xy: 39, 21
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_g_2_3.png
+  rotate: false
+  xy: 50, 32
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_g_2_4.png
+  rotate: false
+  xy: 61, 43
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_g_2_5.png
+  rotate: false
+  xy: 24, 7
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_g_2_6.png
+  rotate: false
+  xy: 50, 21
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_i_2_1.png
+  rotate: false
+  xy: 84, 15
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_i_2_4.png
+  rotate: false
+  xy: 54, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_i_2_5.png
+  rotate: false
+  xy: 62, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_i_2_6.png
+  rotate: false
+  xy: 68, 13
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_i_2_7.png
+  rotate: false
+  xy: 76, 15
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_j_2_3.png
+  rotate: false
+  xy: 247, 26
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_j_2_4.png
+  rotate: false
+  xy: 247, 18
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_j_2_5.png
+  rotate: false
+  xy: 247, 10
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_j_2_6.png
+  rotate: false
+  xy: 247, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_j_2_7.png
+  rotate: false
+  xy: 46, 2
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_64_sd_6_0.png
+  rotate: false
+  xy: 75, 79
+  size: 93, 47
+  orig: 93, 47
+  offset: 0, 0
+  index: -1
+val_r19_sofa_val_r19_sofa_icon_a.png
+  rotate: false
+  xy: 215, 6
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+pirate_grate.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_grate_pirate_grate_64_a_0_0.png
+  rotate: false
+  xy: 1142, 21
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_a_0_1.png
+  rotate: false
+  xy: 1070, 21
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_a_0_2.png
+  rotate: false
+  xy: 854, 20
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_a_0_3.png
+  rotate: false
+  xy: 998, 21
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_a_0_4.png
+  rotate: false
+  xy: 926, 21
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_a_0_5.png
+  rotate: false
+  xy: 782, 20
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_b_0_0.png
+  rotate: false
+  xy: 522, 21
+  size: 128, 35
+  orig: 128, 35
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_b_0_1.png
+  rotate: false
+  xy: 392, 21
+  size: 128, 35
+  orig: 128, 35
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_b_0_2.png
+  rotate: false
+  xy: 262, 21
+  size: 128, 35
+  orig: 128, 35
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_b_0_3.png
+  rotate: false
+  xy: 132, 21
+  size: 128, 35
+  orig: 128, 35
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_b_0_4.png
+  rotate: false
+  xy: 652, 22
+  size: 128, 34
+  orig: 128, 34
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_b_0_5.png
+  rotate: false
+  xy: 2, 21
+  size: 128, 35
+  orig: 128, 35
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_c_0_0.png
+  rotate: false
+  xy: 1418, 20
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_c_0_1.png
+  rotate: false
+  xy: 1350, 20
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_c_0_2.png
+  rotate: false
+  xy: 1282, 20
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_c_0_3.png
+  rotate: false
+  xy: 1214, 20
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_c_0_4.png
+  rotate: false
+  xy: 1554, 20
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_64_c_0_5.png
+  rotate: false
+  xy: 1486, 20
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+pirate_grate_pirate_grate_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1

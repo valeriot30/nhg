@@ -1,0 +1,62 @@
+
+hblooza14_hedgediv.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_hedgediv_hblooza14_hedgediv_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+hblooza14_hedgediv_hblooza14_hedgediv_64_a_2_1.png
+  rotate: false
+  xy: 2, 70
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+hblooza14_hedgediv_hblooza14_hedgediv_64_a_2_2.png
+  rotate: false
+  xy: 2, 138
+  size: 59, 66
+  orig: 59, 66
+  offset: 0, 0
+  index: -1
+hblooza14_hedgediv_hblooza14_hedgediv_64_b_2_0.png
+  rotate: false
+  xy: 63, 140
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+hblooza14_hedgediv_hblooza14_hedgediv_64_b_2_1.png
+  rotate: false
+  xy: 63, 8
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+hblooza14_hedgediv_hblooza14_hedgediv_64_b_2_2.png
+  rotate: false
+  xy: 63, 74
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+hblooza14_hedgediv_hblooza14_hedgediv_64_sd_2_0.png
+  rotate: false
+  xy: 2, 206
+  size: 86, 43
+  orig: 86, 43
+  offset: 0, 0
+  index: -1
+hblooza14_hedgediv_hblooza14_hedgediv_icon_a.png
+  rotate: false
+  xy: 90, 222
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

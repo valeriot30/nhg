@@ -1,0 +1,160 @@
+
+wildwest_wagon.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_wagon_wildwest_wagon_32_a_0_1.png
+  rotate: false
+  xy: 446, 124
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_32_a_0_1.png
+  rotate: false
+  xy: 446, 121
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_a_4_0.png
+  rotate: false
+  xy: 449, 36
+  size: 67, 89
+  orig: 67, 89
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_a_4_1.png
+  rotate: false
+  xy: 380, 2
+  size: 67, 89
+  orig: 67, 89
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_b_0_0.png
+  rotate: false
+  xy: 586, 44
+  size: 66, 81
+  orig: 66, 81
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_b_0_1.png
+  rotate: false
+  xy: 518, 44
+  size: 66, 81
+  orig: 66, 81
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_b_4_0.png
+  rotate: false
+  xy: 232, 9
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_b_4_1.png
+  rotate: false
+  xy: 306, 9
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_c_0_0.png
+  rotate: false
+  xy: 654, 40
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_c_0_1.png
+  rotate: false
+  xy: 713, 52
+  size: 57, 85
+  orig: 57, 85
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_c_4_0.png
+  rotate: false
+  xy: 232, 93
+  size: 105, 144
+  orig: 105, 144
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_c_4_1.png
+  rotate: false
+  xy: 339, 93
+  size: 105, 144
+  orig: 105, 144
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_d_0_0.png
+  rotate: false
+  xy: 686, 139
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_d_0_1.png
+  rotate: false
+  xy: 789, 139
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_d_4_0.png
+  rotate: false
+  xy: 2, 54
+  size: 113, 183
+  orig: 113, 183
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_d_4_1.png
+  rotate: false
+  xy: 117, 54
+  size: 113, 183
+  orig: 113, 183
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_e_0_0.png
+  rotate: false
+  xy: 446, 127
+  size: 118, 110
+  orig: 118, 110
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_e_0_1.png
+  rotate: false
+  xy: 566, 127
+  size: 118, 110
+  orig: 118, 110
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_e_4_0.png
+  rotate: false
+  xy: 449, 8
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_e_4_1.png
+  rotate: false
+  xy: 2, 26
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_64_sd_4_0.png
+  rotate: false
+  xy: 892, 172
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+wildwest_wagon_wildwest_wagon_icon_a.png
+  rotate: false
+  xy: 892, 142
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

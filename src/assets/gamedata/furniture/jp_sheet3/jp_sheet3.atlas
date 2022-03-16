@@ -1,0 +1,20 @@
+
+jp_sheet3.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jp_sheet3_jp_sheet3_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 115
+  orig: 39, 115
+  offset: 0, 0
+  index: -1
+jp_sheet3_jp_sheet3_icon_a.png
+  rotate: false
+  xy: 43, 87
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+birds_r18_crane.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+birds_r18_crane_birds_r18_crane_64_a_0_0.png
+  rotate: false
+  xy: 331, 79
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+birds_r18_crane_birds_r18_crane_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+birds_r18_crane_birds_r18_crane_64_b_0_10.png
+  rotate: false
+  xy: 57, 11
+  size: 53, 114
+  orig: 53, 114
+  offset: 0, 0
+  index: -1
+birds_r18_crane_birds_r18_crane_64_b_0_11.png
+  rotate: false
+  xy: 2, 5
+  size: 53, 120
+  orig: 53, 120
+  offset: 0, 0
+  index: -1
+birds_r18_crane_birds_r18_crane_64_b_0_3.png
+  rotate: false
+  xy: 280, 33
+  size: 49, 92
+  orig: 49, 92
+  offset: 0, 0
+  index: -1
+birds_r18_crane_birds_r18_crane_64_b_0_6.png
+  rotate: false
+  xy: 112, 29
+  size: 56, 96
+  orig: 56, 96
+  offset: 0, 0
+  index: -1
+birds_r18_crane_birds_r18_crane_64_b_0_7.png
+  rotate: false
+  xy: 170, 35
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+birds_r18_crane_birds_r18_crane_64_b_0_8.png
+  rotate: false
+  xy: 228, 33
+  size: 50, 92
+  orig: 50, 92
+  offset: 0, 0
+  index: -1
+birds_r18_crane_birds_r18_crane_64_sd_0_0.png
+  rotate: false
+  xy: 331, 56
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+birds_r18_crane_birds_r18_crane_icon_a.png
+  rotate: false
+  xy: 423, 95
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

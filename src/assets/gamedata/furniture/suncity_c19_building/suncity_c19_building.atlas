@@ -1,0 +1,153 @@
+
+suncity_c19_building.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_building_suncity_c19_building_64_a_2_0.png
+  rotate: false
+  xy: 1129, 71
+  size: 35, 165
+  orig: 35, 165
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_a_4_0.png
+  rotate: false
+  xy: 1092, 71
+  size: 35, 165
+  orig: 35, 165
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_b_2_0.png
+  rotate: false
+  xy: 894, 56
+  size: 64, 180
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_b_2_1.png
+  rotate: false
+  xy: 1026, 56
+  size: 64, 180
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_b_2_2.png
+  rotate: false
+  xy: 629, 55
+  size: 65, 181
+  orig: 65, 181
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_b_2_3.png
+  rotate: false
+  xy: 562, 55
+  size: 65, 181
+  orig: 65, 181
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_b_4_0.png
+  rotate: false
+  xy: 960, 56
+  size: 64, 180
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_b_4_1.png
+  rotate: false
+  xy: 762, 56
+  size: 64, 180
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_b_4_2.png
+  rotate: false
+  xy: 696, 56
+  size: 64, 180
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_b_4_3.png
+  rotate: false
+  xy: 828, 56
+  size: 64, 180
+  orig: 64, 180
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_c_2_0.png
+  rotate: false
+  xy: 72, 54
+  size: 68, 182
+  orig: 68, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_c_2_1.png
+  rotate: false
+  xy: 2, 54
+  size: 68, 182
+  orig: 68, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_c_2_2.png
+  rotate: false
+  xy: 422, 54
+  size: 68, 182
+  orig: 68, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_c_2_3.png
+  rotate: false
+  xy: 282, 54
+  size: 68, 182
+  orig: 68, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_c_4_0.png
+  rotate: false
+  xy: 492, 54
+  size: 68, 182
+  orig: 68, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_c_4_1.png
+  rotate: false
+  xy: 352, 54
+  size: 68, 182
+  orig: 68, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_c_4_2.png
+  rotate: false
+  xy: 212, 54
+  size: 68, 182
+  orig: 68, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_c_4_3.png
+  rotate: false
+  xy: 142, 54
+  size: 68, 182
+  orig: 68, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_64_sd_4_0.png
+  rotate: false
+  xy: 1166, 186
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+suncity_c19_building_suncity_c19_building_icon_a.png
+  rotate: false
+  xy: 102, 22
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

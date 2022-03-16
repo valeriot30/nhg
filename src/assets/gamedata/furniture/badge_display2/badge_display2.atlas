@@ -1,0 +1,55 @@
+
+badge_display2.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+badge_display2_badge_display2_64_a_2_0.png
+  rotate: false
+  xy: 2, 361
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+badge_display2_badge_display2_64_a_4_0.png
+  rotate: false
+  xy: 2, 231
+  size: 112, 128
+  orig: 112, 128
+  offset: 0, 0
+  index: -1
+badge_display2_badge_display2_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+badge_display2_badge_display2_64_c_2_0.png
+  rotate: false
+  xy: 2, 81
+  size: 78, 89
+  orig: 78, 89
+  offset: 0, 0
+  index: -1
+badge_display2_badge_display2_64_d_2_0.png
+  rotate: false
+  xy: 2, 44
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+badge_display2_badge_display2_64_sd_2_0.png
+  rotate: false
+  xy: 2, 172
+  size: 116, 57
+  orig: 116, 57
+  offset: 0, 0
+  index: -1
+badge_display2_badge_display2_icon_a.png
+  rotate: false
+  xy: 82, 138
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1

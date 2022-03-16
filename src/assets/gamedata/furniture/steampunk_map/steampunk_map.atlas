@@ -1,0 +1,20 @@
+
+steampunk_map.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+steampunk_map_steampunk_map_64_a_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 112, 126
+  orig: 112, 126
+  offset: 0, 0
+  index: -1
+steampunk_map_steampunk_map_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,517 @@
+
+hblooza14_dance.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_dance_hblooza14_dance_64_a_4_0.png
+  rotate: false
+  xy: 2, 123
+  size: 79, 131
+  orig: 79, 131
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_b_4_0.png
+  rotate: false
+  xy: 83, 128
+  size: 74, 126
+  orig: 74, 126
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_c_4_0.png
+  rotate: false
+  xy: 155, 64
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_c_4_1.png
+  rotate: false
+  xy: 491, 235
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_c_4_4.png
+  rotate: false
+  xy: 2, 81
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_c_4_5.png
+  rotate: false
+  xy: 159, 214
+  size: 44, 40
+  orig: 44, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_c_4_6.png
+  rotate: false
+  xy: 321, 113
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_c_4_7.png
+  rotate: false
+  xy: 427, 175
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_d_4_0.png
+  rotate: false
+  xy: 492, 161
+  size: 8, 40
+  orig: 8, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_d_4_1.png
+  rotate: false
+  xy: 447, 106
+  size: 8, 40
+  orig: 8, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_d_4_2.png
+  rotate: false
+  xy: 437, 106
+  size: 8, 40
+  orig: 8, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_d_4_3.png
+  rotate: false
+  xy: 192, 80
+  size: 8, 40
+  orig: 8, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_d_4_4.png
+  rotate: false
+  xy: 502, 161
+  size: 8, 40
+  orig: 8, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_d_4_5.png
+  rotate: false
+  xy: 502, 119
+  size: 8, 40
+  orig: 8, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_d_4_6.png
+  rotate: false
+  xy: 492, 119
+  size: 8, 40
+  orig: 8, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_0.png
+  rotate: false
+  xy: 241, 206
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_1.png
+  rotate: false
+  xy: 348, 209
+  size: 34, 45
+  orig: 34, 45
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_10.png
+  rotate: false
+  xy: 419, 212
+  size: 34, 42
+  orig: 34, 42
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_11.png
+  rotate: false
+  xy: 230, 124
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_12.png
+  rotate: false
+  xy: 277, 207
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_2.png
+  rotate: false
+  xy: 205, 210
+  size: 34, 44
+  orig: 34, 44
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_3.png
+  rotate: false
+  xy: 156, 81
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_4.png
+  rotate: false
+  xy: 194, 124
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_5.png
+  rotate: false
+  xy: 38, 39
+  size: 34, 39
+  orig: 34, 39
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_6.png
+  rotate: false
+  xy: 356, 174
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_7.png
+  rotate: false
+  xy: 455, 213
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_8.png
+  rotate: false
+  xy: 194, 210
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_e_4_9.png
+  rotate: false
+  xy: 2, 29
+  size: 34, 50
+  orig: 34, 50
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_f_4_0.png
+  rotate: false
+  xy: 2, 7
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_0.png
+  rotate: false
+  xy: 492, 107
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_1.png
+  rotate: false
+  xy: 172, 63
+  size: 7, 16
+  orig: 7, 16
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_10.png
+  rotate: false
+  xy: 74, 55
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_11.png
+  rotate: false
+  xy: 83, 45
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_12.png
+  rotate: false
+  xy: 137, 67
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_13.png
+  rotate: false
+  xy: 457, 129
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_14.png
+  rotate: false
+  xy: 457, 107
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_15.png
+  rotate: false
+  xy: 321, 136
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_16.png
+  rotate: false
+  xy: 265, 118
+  size: 24, 46
+  orig: 24, 46
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_18.png
+  rotate: false
+  xy: 194, 166
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_19.png
+  rotate: false
+  xy: 392, 175
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_2.png
+  rotate: false
+  xy: 313, 208
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_20.png
+  rotate: false
+  xy: 321, 171
+  size: 33, 35
+  orig: 33, 35
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_21.png
+  rotate: false
+  xy: 384, 209
+  size: 33, 45
+  orig: 33, 45
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_22.png
+  rotate: false
+  xy: 121, 84
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_23.png
+  rotate: false
+  xy: 229, 166
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_24.png
+  rotate: false
+  xy: 159, 162
+  size: 33, 50
+  orig: 33, 50
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_25.png
+  rotate: false
+  xy: 86, 84
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_26.png
+  rotate: false
+  xy: 457, 181
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_27.png
+  rotate: false
+  xy: 402, 111
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_28.png
+  rotate: false
+  xy: 74, 44
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_3.png
+  rotate: false
+  xy: 51, 80
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_4.png
+  rotate: false
+  xy: 232, 102
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_5.png
+  rotate: false
+  xy: 430, 148
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_6.png
+  rotate: false
+  xy: 264, 166
+  size: 25, 38
+  orig: 25, 38
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_7.png
+  rotate: false
+  xy: 159, 122
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_8.png
+  rotate: false
+  xy: 367, 111
+  size: 33, 27
+  orig: 33, 27
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_g_4_9.png
+  rotate: false
+  xy: 457, 151
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_h_4_1.png
+  rotate: false
+  xy: 501, 109
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_h_4_2.png
+  rotate: false
+  xy: 91, 59
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_h_4_3.png
+  rotate: false
+  xy: 181, 71
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_h_4_4.png
+  rotate: false
+  xy: 237, 77
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_h_4_5.png
+  rotate: false
+  xy: 137, 57
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_h_4_6.png
+  rotate: false
+  xy: 114, 59
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_i_4_0.png
+  rotate: false
+  xy: 38, 2
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_i_4_1.png
+  rotate: false
+  xy: 393, 141
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_i_4_2.png
+  rotate: false
+  xy: 356, 140
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_i_4_3.png
+  rotate: false
+  xy: 259, 109
+  size: 1, 13
+  orig: 1, 13
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_j_4_0.png
+  rotate: false
+  xy: 202, 96
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_j_4_1.png
+  rotate: false
+  xy: 427, 178
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_j_4_2.png
+  rotate: false
+  xy: 291, 160
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_j_4_3.png
+  rotate: false
+  xy: 291, 115
+  size: 28, 43
+  orig: 28, 43
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_64_sd_4_0.png
+  rotate: false
+  xy: 202, 77
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+hblooza14_dance_hblooza14_dance_icon_a.png
+  rotate: false
+  xy: 492, 203
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+hween12_wolf.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween12_wolf_hween12_wolf_64_a_0_0.png
+  rotate: false
+  xy: 326, 27
+  size: 61, 90
+  orig: 61, 90
+  offset: 0, 0
+  index: -1
+hween12_wolf_hween12_wolf_64_a_0_1.png
+  rotate: false
+  xy: 389, 27
+  size: 61, 90
+  orig: 61, 90
+  offset: 0, 0
+  index: -1
+hween12_wolf_hween12_wolf_64_a_0_2.png
+  rotate: false
+  xy: 263, 26
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+hween12_wolf_hween12_wolf_64_a_0_3.png
+  rotate: false
+  xy: 68, 27
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+hween12_wolf_hween12_wolf_64_a_0_4.png
+  rotate: false
+  xy: 134, 28
+  size: 63, 89
+  orig: 63, 89
+  offset: 0, 0
+  index: -1
+hween12_wolf_hween12_wolf_64_a_0_5.png
+  rotate: false
+  xy: 199, 29
+  size: 62, 88
+  orig: 62, 88
+  offset: 0, 0
+  index: -1
+hween12_wolf_hween12_wolf_64_a_0_6.png
+  rotate: false
+  xy: 452, 30
+  size: 60, 87
+  orig: 60, 87
+  offset: 0, 0
+  index: -1
+hween12_wolf_hween12_wolf_64_a_0_7.png
+  rotate: false
+  xy: 2, 27
+  size: 64, 90
+  orig: 64, 90
+  offset: 0, 0
+  index: -1
+hween12_wolf_hween12_wolf_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+hween12_wolf_hween12_wolf_icon_a.png
+  rotate: false
+  xy: 514, 87
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

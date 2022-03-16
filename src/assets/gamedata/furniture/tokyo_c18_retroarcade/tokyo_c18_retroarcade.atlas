@@ -1,0 +1,111 @@
+
+tokyo_c18_retroarcade.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_2_0.png
+  rotate: false
+  xy: 677, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_2_2.png
+  rotate: false
+  xy: 602, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_2_3.png
+  rotate: false
+  xy: 527, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_2_6.png
+  rotate: false
+  xy: 452, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_2_7.png
+  rotate: false
+  xy: 377, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_4_0.png
+  rotate: false
+  xy: 2, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_4_1.png
+  rotate: false
+  xy: 77, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_4_2.png
+  rotate: false
+  xy: 152, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_4_5.png
+  rotate: false
+  xy: 302, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_a_4_8.png
+  rotate: false
+  xy: 227, 93
+  size: 73, 131
+  orig: 73, 131
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_b_2_0.png
+  rotate: false
+  xy: 752, 135
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 76, 89
+  orig: 76, 89
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_sd_2_0.png
+  rotate: false
+  xy: 752, 97
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_64_sd_4_0.png
+  rotate: false
+  xy: 80, 55
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+tokyo_c18_retroarcade_tokyo_c18_retroarcade_icon_a.png
+  rotate: false
+  xy: 830, 195
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1

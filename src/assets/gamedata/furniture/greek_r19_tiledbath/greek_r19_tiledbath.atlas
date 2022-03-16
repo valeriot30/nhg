@@ -1,0 +1,167 @@
+
+greek_r19_tiledbath.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_r19_tiledbath_greek_r19_tiledbath_64_a_0_0.png
+  rotate: false
+  xy: 164, 2
+  size: 75, 42
+  orig: 75, 42
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_b_0_0.png
+  rotate: false
+  xy: 1336, 88
+  size: 121, 38
+  orig: 121, 38
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_c_0_0.png
+  rotate: false
+  xy: 1336, 62
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_d_0_0.png
+  rotate: false
+  xy: 323, 51
+  size: 157, 75
+  orig: 157, 75
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_e_0_0.png
+  rotate: false
+  xy: 1459, 56
+  size: 82, 70
+  orig: 82, 70
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_f_0_0.png
+  rotate: false
+  xy: 1385, 74
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_f_0_1.png
+  rotate: false
+  xy: 1543, 94
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_f_0_2.png
+  rotate: false
+  xy: 1057, 36
+  size: 29, 11
+  orig: 29, 11
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_g_0_0.png
+  rotate: false
+  xy: 2, 20
+  size: 79, 18
+  orig: 79, 18
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_g_0_1.png
+  rotate: false
+  xy: 241, 25
+  size: 73, 19
+  orig: 73, 19
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_g_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 77, 16
+  orig: 77, 16
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_h_0_0.png
+  rotate: false
+  xy: 83, 27
+  size: 24, 11
+  orig: 24, 11
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_h_0_1.png
+  rotate: false
+  xy: 1336, 52
+  size: 25, 8
+  orig: 25, 8
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_h_0_2.png
+  rotate: false
+  xy: 241, 13
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_i_0_0.png
+  rotate: false
+  xy: 1057, 49
+  size: 138, 77
+  orig: 138, 77
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_i_0_1.png
+  rotate: false
+  xy: 640, 50
+  size: 148, 76
+  orig: 148, 76
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_i_0_2.png
+  rotate: false
+  xy: 482, 51
+  size: 156, 75
+  orig: 156, 75
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_i_0_3.png
+  rotate: false
+  xy: 2, 40
+  size: 160, 86
+  orig: 160, 86
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_i_0_4.png
+  rotate: false
+  xy: 930, 31
+  size: 125, 95
+  orig: 125, 95
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_i_0_5.png
+  rotate: false
+  xy: 790, 32
+  size: 138, 94
+  orig: 138, 94
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_i_0_6.png
+  rotate: false
+  xy: 1197, 49
+  size: 137, 77
+  orig: 137, 77
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_64_sd_0_0.png
+  rotate: false
+  xy: 164, 46
+  size: 157, 80
+  orig: 157, 80
+  offset: 0, 0
+  index: -1
+greek_r19_tiledbath_greek_r19_tiledbath_icon_a.png
+  rotate: false
+  xy: 1543, 102
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

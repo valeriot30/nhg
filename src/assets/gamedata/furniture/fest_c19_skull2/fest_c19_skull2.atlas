@@ -1,0 +1,27 @@
+
+fest_c19_skull2.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_skull2_fest_c19_skull2_64_a_0_0.png
+  rotate: false
+  xy: 2, 53
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+fest_c19_skull2_fest_c19_skull2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+fest_c19_skull2_fest_c19_skull2_icon_a.png
+  rotate: false
+  xy: 2, 21
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

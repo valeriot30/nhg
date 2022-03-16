@@ -1,0 +1,27 @@
+
+xm09_firwall.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm09_firwall_xm09_firwall_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 79, 144
+  orig: 79, 144
+  offset: 0, 0
+  index: -1
+xm09_firwall_xm09_firwall_64_b_2_0.png
+  rotate: false
+  xy: 2, 148
+  size: 147, 268
+  orig: 147, 268
+  offset: 0, 0
+  index: -1
+xm09_firwall_xm09_firwall_icon_a.png
+  rotate: false
+  xy: 151, 385
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1

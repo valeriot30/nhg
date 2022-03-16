@@ -1,0 +1,27 @@
+
+ads_nokia_x6.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_nokia_x6_ads_nokia_x6_64_a_2_0.png
+  rotate: false
+  xy: 2, 53
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+ads_nokia_x6_ads_nokia_x6_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 49
+  orig: 10, 49
+  offset: 0, 0
+  index: -1
+ads_nokia_x6_ads_nokia_x6_icon_a.png
+  rotate: false
+  xy: 14, 21
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

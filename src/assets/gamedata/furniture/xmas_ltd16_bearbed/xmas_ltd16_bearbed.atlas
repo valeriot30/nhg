@@ -1,0 +1,153 @@
+
+xmas_ltd16_bearbed.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_a_0_0.png
+  rotate: false
+  xy: 92, 36
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_a_0_1.png
+  rotate: false
+  xy: 82, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_a_0_2.png
+  rotate: false
+  xy: 160, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_a_0_3.png
+  rotate: false
+  xy: 121, 2
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_a_0_4.png
+  rotate: false
+  xy: 131, 36
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_b_0_0.png
+  rotate: false
+  xy: 92, 124
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_b_0_1.png
+  rotate: false
+  xy: 82, 60
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_b_0_2.png
+  rotate: false
+  xy: 103, 124
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_c_0_0.png
+  rotate: false
+  xy: 181, 89
+  size: 53, 43
+  orig: 53, 43
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_c_0_1.png
+  rotate: false
+  xy: 59, 137
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_c_0_2.png
+  rotate: false
+  xy: 2, 136
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_d_0_0.png
+  rotate: false
+  xy: 172, 34
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_d_0_1.png
+  rotate: false
+  xy: 2, 18
+  size: 78, 53
+  orig: 78, 53
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_d_0_2.png
+  rotate: false
+  xy: 92, 68
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_e_0_0.png
+  rotate: false
+  xy: 182, 134
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_e_0_1.png
+  rotate: false
+  xy: 116, 129
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_e_0_2.png
+  rotate: false
+  xy: 182, 189
+  size: 63, 54
+  orig: 63, 54
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_f_0_0.png
+  rotate: false
+  xy: 2, 184
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_f_0_1.png
+  rotate: false
+  xy: 2, 73
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_64_f_0_2.png
+  rotate: false
+  xy: 92, 184
+  size: 88, 59
+  orig: 88, 59
+  offset: 0, 0
+  index: -1
+xmas_ltd16_bearbed_xmas_ltd16_bearbed_icon_a.png
+  rotate: false
+  xy: 199, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

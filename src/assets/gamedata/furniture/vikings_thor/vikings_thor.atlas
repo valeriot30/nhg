@@ -1,0 +1,111 @@
+
+vikings_thor.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_thor_vikings_thor_32_icon_4_0.png
+  rotate: false
+  xy: 34, 23
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_a_4_0.png
+  rotate: false
+  xy: 46, 179
+  size: 57, 75
+  orig: 57, 75
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_0.png
+  rotate: false
+  xy: 105, 182
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_1.png
+  rotate: false
+  xy: 34, 64
+  size: 43, 46
+  orig: 43, 46
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_10.png
+  rotate: false
+  xy: 46, 112
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_2.png
+  rotate: false
+  xy: 2, 23
+  size: 30, 92
+  orig: 30, 92
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_3.png
+  rotate: false
+  xy: 2, 117
+  size: 42, 137
+  orig: 42, 137
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_4.png
+  rotate: false
+  xy: 105, 185
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_5.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_6.png
+  rotate: false
+  xy: 86, 160
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_7.png
+  rotate: false
+  xy: 221, 209
+  size: 19, 13
+  orig: 19, 13
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_8.png
+  rotate: false
+  xy: 141, 189
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_b_4_9.png
+  rotate: false
+  xy: 181, 189
+  size: 38, 65
+  orig: 38, 65
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_64_sd_4_0.png
+  rotate: false
+  xy: 34, 38
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+vikings_thor_vikings_thor_icon_a.png
+  rotate: false
+  xy: 221, 224
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

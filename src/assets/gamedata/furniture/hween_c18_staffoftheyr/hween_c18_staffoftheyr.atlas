@@ -1,0 +1,76 @@
+
+hween_c18_staffoftheyr.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_64_a_0_0.png
+  rotate: false
+  xy: 177, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_64_a_0_1.png
+  rotate: false
+  xy: 142, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_64_a_0_2.png
+  rotate: false
+  xy: 107, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_64_a_0_3.png
+  rotate: false
+  xy: 72, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_64_a_0_4.png
+  rotate: false
+  xy: 37, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_64_a_0_5.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_64_a_0_6.png
+  rotate: false
+  xy: 247, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_64_a_0_7.png
+  rotate: false
+  xy: 212, 2
+  size: 33, 57
+  orig: 33, 57
+  offset: 0, 0
+  index: -1
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_64_sd_0_0.png
+  rotate: false
+  xy: 302, 43
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+hween_c18_staffoftheyr_hween_c18_staffoftheyr_icon_a.png
+  rotate: false
+  xy: 282, 30
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1

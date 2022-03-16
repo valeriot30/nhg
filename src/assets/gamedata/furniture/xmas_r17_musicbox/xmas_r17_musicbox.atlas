@@ -1,0 +1,188 @@
+
+xmas_r17_musicbox.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_0.png
+  rotate: false
+  xy: 380, 152
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_1.png
+  rotate: false
+  xy: 434, 203
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_10.png
+  rotate: false
+  xy: 218, 179
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_11.png
+  rotate: false
+  xy: 164, 179
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_2.png
+  rotate: false
+  xy: 326, 123
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_3.png
+  rotate: false
+  xy: 326, 182
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_4.png
+  rotate: false
+  xy: 110, 29
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_5.png
+  rotate: false
+  xy: 164, 104
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_6.png
+  rotate: false
+  xy: 56, 29
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_7.png
+  rotate: false
+  xy: 110, 104
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_8.png
+  rotate: false
+  xy: 56, 104
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_2_9.png
+  rotate: false
+  xy: 110, 179
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_0.png
+  rotate: false
+  xy: 380, 203
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_1.png
+  rotate: false
+  xy: 326, 72
+  size: 52, 49
+  orig: 52, 49
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_10.png
+  rotate: false
+  xy: 2, 104
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_11.png
+  rotate: false
+  xy: 2, 179
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_2.png
+  rotate: false
+  xy: 272, 48
+  size: 52, 57
+  orig: 52, 57
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_3.png
+  rotate: false
+  xy: 272, 107
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_4.png
+  rotate: false
+  xy: 56, 179
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_5.png
+  rotate: false
+  xy: 2, 29
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_6.png
+  rotate: false
+  xy: 164, 29
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_7.png
+  rotate: false
+  xy: 218, 104
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_8.png
+  rotate: false
+  xy: 272, 179
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_a_4_9.png
+  rotate: false
+  xy: 218, 29
+  size: 52, 73
+  orig: 52, 73
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 25
+  orig: 51, 25
+  offset: 0, 0
+  index: -1
+xmas_r17_musicbox_xmas_r17_musicbox_icon_a.png
+  rotate: false
+  xy: 380, 119
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

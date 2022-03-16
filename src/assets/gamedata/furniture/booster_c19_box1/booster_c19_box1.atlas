@@ -1,0 +1,111 @@
+
+booster_c19_box1.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+booster_c19_box1_booster_c19_box1_64_a_0_0.png
+  rotate: false
+  xy: 1222, 65
+  size: 49, 52
+  orig: 49, 52
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_1.png
+  rotate: false
+  xy: 1161, 55
+  size: 59, 62
+  orig: 59, 62
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_10.png
+  rotate: false
+  xy: 2, 5
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_11.png
+  rotate: false
+  xy: 343, 7
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_12.png
+  rotate: false
+  xy: 456, 6
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_13.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_2.png
+  rotate: false
+  xy: 1068, 26
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_3.png
+  rotate: false
+  xy: 975, 26
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_4.png
+  rotate: false
+  xy: 882, 26
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_5.png
+  rotate: false
+  xy: 782, 19
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_6.png
+  rotate: false
+  xy: 676, 13
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_7.png
+  rotate: false
+  xy: 566, 9
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_8.png
+  rotate: false
+  xy: 230, 6
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_64_a_0_9.png
+  rotate: false
+  xy: 116, 6
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+booster_c19_box1_booster_c19_box1_icon_a.png
+  rotate: false
+  xy: 1273, 87
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

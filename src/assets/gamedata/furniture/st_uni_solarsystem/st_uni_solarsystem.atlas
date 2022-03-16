@@ -1,0 +1,69 @@
+
+st_uni_solarsystem.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_uni_solarsystem_st_uni_solarsystem_64_a_4_0.png
+  rotate: false
+  xy: 2, 90
+  size: 91, 151
+  orig: 91, 151
+  offset: 0, 0
+  index: -1
+st_uni_solarsystem_st_uni_solarsystem_64_b_4_0.png
+  rotate: false
+  xy: 95, 140
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+st_uni_solarsystem_st_uni_solarsystem_64_b_4_1.png
+  rotate: false
+  xy: 186, 140
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+st_uni_solarsystem_st_uni_solarsystem_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+st_uni_solarsystem_st_uni_solarsystem_64_c_4_1.png
+  rotate: false
+  xy: 277, 155
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+st_uni_solarsystem_st_uni_solarsystem_64_c_4_2.png
+  rotate: false
+  xy: 365, 155
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+st_uni_solarsystem_st_uni_solarsystem_64_c_4_3.png
+  rotate: false
+  xy: 95, 52
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+st_uni_solarsystem_st_uni_solarsystem_64_sd_4_0.png
+  rotate: false
+  xy: 453, 217
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+st_uni_solarsystem_st_uni_solarsystem_icon_a.png
+  rotate: false
+  xy: 183, 114
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1

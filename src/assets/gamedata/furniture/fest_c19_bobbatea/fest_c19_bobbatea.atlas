@@ -1,0 +1,27 @@
+
+fest_c19_bobbatea.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_bobbatea_fest_c19_bobbatea_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+fest_c19_bobbatea_fest_c19_bobbatea_64_sd_0_0.png
+  rotate: false
+  xy: 71, 78
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+fest_c19_bobbatea_fest_c19_bobbatea_icon_a.png
+  rotate: false
+  xy: 71, 46
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

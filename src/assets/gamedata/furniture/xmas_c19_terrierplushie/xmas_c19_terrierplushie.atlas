@@ -1,0 +1,27 @@
+
+xmas_c19_terrierplushie.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_terrierplushie_xmas_c19_terrierplushie_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+xmas_c19_terrierplushie_xmas_c19_terrierplushie_64_sd_0_0.png
+  rotate: false
+  xy: 77, 37
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+xmas_c19_terrierplushie_xmas_c19_terrierplushie_icon_a.png
+  rotate: false
+  xy: 51, 27
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1

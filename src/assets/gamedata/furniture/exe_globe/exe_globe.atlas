@@ -1,0 +1,90 @@
+
+exe_globe.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exe_globe_exe_globe_32_d_0_0.png
+  rotate: false
+  xy: 506, 118
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_a_0_0.png
+  rotate: false
+  xy: 90, 28
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_b_0_1.png
+  rotate: false
+  xy: 350, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_b_0_2.png
+  rotate: false
+  xy: 298, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_b_0_3.png
+  rotate: false
+  xy: 454, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_b_0_4.png
+  rotate: false
+  xy: 402, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_c_0_1.png
+  rotate: false
+  xy: 90, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_c_0_2.png
+  rotate: false
+  xy: 194, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_c_0_3.png
+  rotate: false
+  xy: 142, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_c_0_4.png
+  rotate: false
+  xy: 246, 69
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_64_d_0_1.png
+  rotate: false
+  xy: 2, 33
+  size: 86, 86
+  orig: 86, 86
+  offset: 0, 0
+  index: -1
+exe_globe_exe_globe_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+zengarden_c18_divider.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c18_divider_zengarden_c18_divider_64_a_0_0.png
+  rotate: false
+  xy: 112, 46
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+zengarden_c18_divider_zengarden_c18_divider_64_a_6_0.png
+  rotate: false
+  xy: 74, 46
+  size: 36, 69
+  orig: 36, 69
+  offset: 0, 0
+  index: -1
+zengarden_c18_divider_zengarden_c18_divider_64_b_0_0.png
+  rotate: false
+  xy: 2, 39
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+zengarden_c18_divider_zengarden_c18_divider_64_b_2_0.png
+  rotate: false
+  xy: 38, 39
+  size: 34, 76
+  orig: 34, 76
+  offset: 0, 0
+  index: -1
+zengarden_c18_divider_zengarden_c18_divider_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+zengarden_c18_divider_zengarden_c18_divider_64_sd_4_0.png
+  rotate: false
+  xy: 74, 9
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+zengarden_c18_divider_zengarden_c18_divider_icon_a.png
+  rotate: false
+  xy: 150, 87
+  size: 24, 28
+  orig: 24, 28
+  offset: 0, 0
+  index: -1

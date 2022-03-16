@@ -1,0 +1,48 @@
+
+chess_b_bishop.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess_b_bishop_chess_b_bishop_64_a_0_0.png
+  rotate: false
+  xy: 102, 30
+  size: 48, 137
+  orig: 48, 137
+  offset: 0, 0
+  index: -1
+chess_b_bishop_chess_b_bishop_64_a_2_0.png
+  rotate: false
+  xy: 52, 29
+  size: 48, 138
+  orig: 48, 138
+  offset: 0, 0
+  index: -1
+chess_b_bishop_chess_b_bishop_64_a_4_0.png
+  rotate: false
+  xy: 2, 29
+  size: 48, 138
+  orig: 48, 138
+  offset: 0, 0
+  index: -1
+chess_b_bishop_chess_b_bishop_64_a_6_0.png
+  rotate: false
+  xy: 152, 30
+  size: 48, 137
+  orig: 48, 137
+  offset: 0, 0
+  index: -1
+chess_b_bishop_chess_b_bishop_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+chess_b_bishop_chess_b_bishop_icon_a.png
+  rotate: false
+  xy: 202, 139
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1

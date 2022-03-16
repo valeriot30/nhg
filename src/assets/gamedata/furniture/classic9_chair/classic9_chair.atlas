@@ -1,0 +1,55 @@
+
+classic9_chair.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic9_chair_classic9_chair_64_a_2_0.png
+  rotate: false
+  xy: 2, 62
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+classic9_chair_classic9_chair_64_a_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+classic9_chair_classic9_chair_64_b_2_0.png
+  rotate: false
+  xy: 128, 45
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+classic9_chair_classic9_chair_64_b_6_0.png
+  rotate: false
+  xy: 65, 65
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+classic9_chair_classic9_chair_64_sd_2_0.png
+  rotate: false
+  xy: 128, 93
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+classic9_chair_classic9_chair_64_sd_6_0.png
+  rotate: false
+  xy: 65, 32
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+classic9_chair_classic9_chair_icon_a.png
+  rotate: false
+  xy: 190, 93
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

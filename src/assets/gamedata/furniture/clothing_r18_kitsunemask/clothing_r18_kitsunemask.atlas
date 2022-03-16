@@ -1,0 +1,20 @@
+
+clothing_r18_kitsunemask.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r18_kitsunemask_clothing_r18_kitsunemask_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+clothing_r18_kitsunemask_clothing_r18_kitsunemask_icon_a.png
+  rotate: false
+  xy: 37, 24
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

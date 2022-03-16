@@ -1,0 +1,76 @@
+
+penguin_suit.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_suit_penguin_suit_64_a_4_0.png
+  rotate: false
+  xy: 41, 2
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+penguin_suit_penguin_suit_64_a_4_1.png
+  rotate: false
+  xy: 78, 2
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+penguin_suit_penguin_suit_64_a_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 59
+  orig: 37, 59
+  offset: 0, 0
+  index: -1
+penguin_suit_penguin_suit_64_a_4_3.png
+  rotate: false
+  xy: 226, 2
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+penguin_suit_penguin_suit_64_a_4_4.png
+  rotate: false
+  xy: 189, 2
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+penguin_suit_penguin_suit_64_a_4_5.png
+  rotate: false
+  xy: 263, 4
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+penguin_suit_penguin_suit_64_a_4_6.png
+  rotate: false
+  xy: 115, 2
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+penguin_suit_penguin_suit_64_a_4_7.png
+  rotate: false
+  xy: 152, 2
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+penguin_suit_penguin_suit_64_sd_4_0.png
+  rotate: false
+  xy: 320, 45
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+penguin_suit_penguin_suit_icon_a.png
+  rotate: false
+  xy: 300, 31
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

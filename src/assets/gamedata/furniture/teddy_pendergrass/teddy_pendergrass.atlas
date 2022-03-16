@@ -1,0 +1,34 @@
+
+teddy_pendergrass.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teddy_pendergrass_teddy_pendergrass_64_a_2_0.png
+  rotate: false
+  xy: 2, 62
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+teddy_pendergrass_teddy_pendergrass_64_a_2_1.png
+  rotate: false
+  xy: 2, 130
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+teddy_pendergrass_teddy_pendergrass_64_sd_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+teddy_pendergrass_teddy_pendergrass_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+easter_c19_ancientbook2.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c19_ancientbook2_easter_c19_ancientbook2_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+easter_c19_ancientbook2_easter_c19_ancientbook2_64_sd_0_0.png
+  rotate: false
+  xy: 67, 13
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+easter_c19_ancientbook2_easter_c19_ancientbook2_icon_a.png
+  rotate: false
+  xy: 129, 24
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+cine_pstr_10.png
+size: 128,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cine_pstr_10_cine_pstr_10_64_a_2_0.png
+  rotate: false
+  xy: 2, 484
+  size: 70, 429
+  orig: 70, 429
+  offset: 0, 0
+  index: -1
+cine_pstr_10_cine_pstr_10_64_a_4_0.png
+  rotate: false
+  xy: 2, 53
+  size: 70, 429
+  orig: 70, 429
+  offset: 0, 0
+  index: -1
+cine_pstr_10_cine_pstr_10_64_b_2_0.png
+  rotate: false
+  xy: 74, 864
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+cine_pstr_10_cine_pstr_10_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+cine_pstr_10_cine_pstr_10_icon_a.png
+  rotate: false
+  xy: 74, 834
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1

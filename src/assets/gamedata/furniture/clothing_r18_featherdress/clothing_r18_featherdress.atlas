@@ -1,0 +1,13 @@
+
+clothing_r18_featherdress.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r18_featherdress_clothing_r18_featherdress_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 100
+  orig: 48, 100
+  offset: 0, 0
+  index: -1

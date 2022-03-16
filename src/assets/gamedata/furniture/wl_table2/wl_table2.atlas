@@ -1,0 +1,55 @@
+
+wl_table2.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wl_table2_wl_table2_64_a_0_0.png
+  rotate: false
+  xy: 249, 14
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+wl_table2_wl_table2_64_a_2_0.png
+  rotate: false
+  xy: 186, 14
+  size: 61, 44
+  orig: 61, 44
+  offset: 0, 0
+  index: -1
+wl_table2_wl_table2_64_b_0_0.png
+  rotate: false
+  xy: 373, 2
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+wl_table2_wl_table2_64_b_2_0.png
+  rotate: false
+  xy: 312, 2
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+wl_table2_wl_table2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 13
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+wl_table2_wl_table2_64_sd_2_0.png
+  rotate: false
+  xy: 94, 13
+  size: 90, 45
+  orig: 90, 45
+  offset: 0, 0
+  index: -1
+wl_table2_wl_table2_icon_a.png
+  rotate: false
+  xy: 434, 30
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1

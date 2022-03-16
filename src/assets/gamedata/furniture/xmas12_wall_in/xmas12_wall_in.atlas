@@ -1,0 +1,41 @@
+
+xmas12_wall_in.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas12_wall_in_xmas12_wall_in_64_a_2_0.png
+  rotate: false
+  xy: 431, 34
+  size: 133, 379
+  orig: 133, 379
+  offset: 0, 0
+  index: -1
+xmas12_wall_in_xmas12_wall_in_64_a_2_1.png
+  rotate: false
+  xy: 149, 34
+  size: 145, 379
+  orig: 145, 379
+  offset: 0, 0
+  index: -1
+xmas12_wall_in_xmas12_wall_in_64_a_4_0.png
+  rotate: false
+  xy: 296, 34
+  size: 133, 379
+  orig: 133, 379
+  offset: 0, 0
+  index: -1
+xmas12_wall_in_xmas12_wall_in_64_a_4_1.png
+  rotate: false
+  xy: 2, 34
+  size: 145, 379
+  orig: 145, 379
+  offset: 0, 0
+  index: -1
+xmas12_wall_in_xmas12_wall_in_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

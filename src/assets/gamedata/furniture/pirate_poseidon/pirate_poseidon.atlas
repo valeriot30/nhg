@@ -1,0 +1,27 @@
+
+pirate_poseidon.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_poseidon_pirate_poseidon_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 82, 143
+  orig: 82, 143
+  offset: 0, 0
+  index: -1
+pirate_poseidon_pirate_poseidon_64_a_0_1.png
+  rotate: false
+  xy: 86, 34
+  size: 82, 143
+  orig: 82, 143
+  offset: 0, 0
+  index: -1
+pirate_poseidon_pirate_poseidon_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

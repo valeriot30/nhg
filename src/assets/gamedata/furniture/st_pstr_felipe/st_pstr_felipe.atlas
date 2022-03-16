@@ -1,0 +1,27 @@
+
+st_pstr_felipe.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_pstr_felipe_st_pstr_felipe_64_a_2_0.png
+  rotate: false
+  xy: 69, 32
+  size: 65, 141
+  orig: 65, 141
+  offset: 0, 0
+  index: -1
+st_pstr_felipe_st_pstr_felipe_64_a_4_0.png
+  rotate: false
+  xy: 2, 32
+  size: 65, 141
+  orig: 65, 141
+  offset: 0, 0
+  index: -1
+st_pstr_felipe_st_pstr_felipe_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1

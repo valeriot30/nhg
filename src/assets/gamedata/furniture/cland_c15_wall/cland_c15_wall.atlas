@@ -1,0 +1,27 @@
+
+cland_c15_wall.png
+size: 128,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cland_c15_wall_cland_c15_wall_64_a_4_0.png
+  rotate: false
+  xy: 2, 379
+  size: 73, 375
+  orig: 73, 375
+  offset: 0, 0
+  index: -1
+cland_c15_wall_cland_c15_wall_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 69, 375
+  orig: 69, 375
+  offset: 0, 0
+  index: -1
+cland_c15_wall_cland_c15_wall_icon_a.png
+  rotate: false
+  xy: 77, 724
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

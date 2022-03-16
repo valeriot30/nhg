@@ -1,0 +1,20 @@
+
+buildarea_sign.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+buildarea_sign_buildarea_sign_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 54, 117
+  orig: 54, 117
+  offset: 0, 0
+  index: -1
+buildarea_sign_buildarea_sign_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+xmas_c17_chestnutstall.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_a_4_0.png
+  rotate: false
+  xy: 2, 62
+  size: 89, 64
+  orig: 89, 64
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_b_4_0.png
+  rotate: false
+  xy: 133, 28
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_c_4_0.png
+  rotate: false
+  xy: 77, 24
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_c_4_1.png
+  rotate: false
+  xy: 167, 32
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_c_4_2.png
+  rotate: false
+  xy: 156, 32
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_c_4_3.png
+  rotate: false
+  xy: 66, 24
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_c_4_4.png
+  rotate: false
+  xy: 178, 35
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_c_4_5.png
+  rotate: false
+  xy: 60, 11
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_d_4_0.png
+  rotate: false
+  xy: 241, 81
+  size: 10, 45
+  orig: 10, 45
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_d_4_1.png
+  rotate: false
+  xy: 227, 77
+  size: 12, 49
+  orig: 12, 49
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_d_4_2.png
+  rotate: false
+  xy: 212, 73
+  size: 13, 53
+  orig: 13, 53
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_d_4_3.png
+  rotate: false
+  xy: 192, 12
+  size: 11, 42
+  orig: 11, 42
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_d_4_4.png
+  rotate: false
+  xy: 234, 41
+  size: 10, 34
+  orig: 10, 34
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_e_4_0.png
+  rotate: false
+  xy: 192, 56
+  size: 18, 70
+  orig: 18, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_e_4_1.png
+  rotate: false
+  xy: 173, 48
+  size: 17, 78
+  orig: 17, 78
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_e_4_2.png
+  rotate: false
+  xy: 133, 41
+  size: 17, 85
+  orig: 17, 85
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_e_4_3.png
+  rotate: false
+  xy: 114, 29
+  size: 17, 97
+  orig: 17, 97
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_e_4_4.png
+  rotate: false
+  xy: 152, 45
+  size: 19, 81
+  orig: 19, 81
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_e_4_5.png
+  rotate: false
+  xy: 93, 32
+  size: 19, 94
+  orig: 19, 94
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_f_4_0.png
+  rotate: false
+  xy: 66, 37
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_f_4_1.png
+  rotate: false
+  xy: 212, 51
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_f_4_2.png
+  rotate: false
+  xy: 35, 4
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_64_sd_4_0.png
+  rotate: false
+  xy: 2, 29
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+xmas_c17_chestnutstall_xmas_c17_chestnutstall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1

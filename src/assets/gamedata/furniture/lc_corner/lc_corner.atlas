@@ -1,0 +1,55 @@
+
+lc_corner.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lc_corner_lc_corner_64_a_0_0.png
+  rotate: false
+  xy: 58, 6
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+lc_corner_lc_corner_64_a_2_0.png
+  rotate: false
+  xy: 114, 2
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+lc_corner_lc_corner_64_a_4_0.png
+  rotate: false
+  xy: 2, 6
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1
+lc_corner_lc_corner_64_a_6_0.png
+  rotate: false
+  xy: 158, 2
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+lc_corner_lc_corner_64_sd_2_0.png
+  rotate: false
+  xy: 202, 22
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+lc_corner_lc_corner_64_sd_4_0.png
+  rotate: false
+  xy: 246, 32
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+lc_corner_lc_corner_icon_a.png
+  rotate: false
+  xy: 296, 27
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1

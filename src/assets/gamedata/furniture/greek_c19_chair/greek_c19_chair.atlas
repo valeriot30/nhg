@@ -1,0 +1,27 @@
+
+greek_c19_chair.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_c19_chair_greek_c19_chair_64_a_0_0.png
+  rotate: false
+  xy: 2, 7
+  size: 56, 47
+  orig: 56, 47
+  offset: 0, 0
+  index: -1
+greek_c19_chair_greek_c19_chair_64_sd_0_0.png
+  rotate: false
+  xy: 60, 29
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+greek_c19_chair_greek_c19_chair_icon_a.png
+  rotate: false
+  xy: 60, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1

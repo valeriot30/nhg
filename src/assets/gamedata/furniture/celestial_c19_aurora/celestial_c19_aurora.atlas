@@ -1,0 +1,160 @@
+
+celestial_c19_aurora.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+celestial_c19_aurora_celestial_c19_aurora_64_a_0_0.png
+  rotate: false
+  xy: 216, 43
+  size: 27, 78
+  orig: 27, 78
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_a_2_0.png
+  rotate: false
+  xy: 245, 43
+  size: 27, 78
+  orig: 27, 78
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_b_4_0.png
+  rotate: false
+  xy: 119, 40
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_b_6_0.png
+  rotate: false
+  xy: 80, 40
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_c_4_0.png
+  rotate: false
+  xy: 187, 41
+  size: 27, 80
+  orig: 27, 80
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_c_6_0.png
+  rotate: false
+  xy: 158, 41
+  size: 27, 80
+  orig: 27, 80
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_d_4_0.png
+  rotate: false
+  xy: 2, 39
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_d_6_0.png
+  rotate: false
+  xy: 41, 39
+  size: 37, 82
+  orig: 37, 82
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_e_2_0.png
+  rotate: false
+  xy: 361, 28
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_e_2_1.png
+  rotate: false
+  xy: 384, 28
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_e_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_e_4_0.png
+  rotate: false
+  xy: 468, 80
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_e_4_1.png
+  rotate: false
+  xy: 338, 28
+  size: 21, 41
+  orig: 21, 41
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_f_0_1.png
+  rotate: false
+  xy: 274, 37
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_f_2_0.png
+  rotate: false
+  xy: 306, 37
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_f_2_1.png
+  rotate: false
+  xy: 340, 71
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_f_4_0.png
+  rotate: false
+  xy: 372, 71
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_f_6_0.png
+  rotate: false
+  xy: 404, 71
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_f_6_1.png
+  rotate: false
+  xy: 436, 71
+  size: 30, 50
+  orig: 30, 50
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_sd_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_64_sd_6_0.png
+  rotate: false
+  xy: 274, 89
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+celestial_c19_aurora_celestial_c19_aurora_icon_a.png
+  rotate: false
+  xy: 407, 41
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

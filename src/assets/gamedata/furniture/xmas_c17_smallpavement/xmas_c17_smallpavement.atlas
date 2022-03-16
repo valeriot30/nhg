@@ -1,0 +1,118 @@
+
+xmas_c17_smallpavement.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_a_2_1.png
+  rotate: false
+  xy: 2, 5
+  size: 66, 16
+  orig: 66, 16
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_a_2_2.png
+  rotate: false
+  xy: 818, 94
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_a_2_3.png
+  rotate: false
+  xy: 614, 78
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_a_2_4.png
+  rotate: false
+  xy: 410, 62
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_0_0.png
+  rotate: false
+  xy: 750, 87
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_0_1.png
+  rotate: false
+  xy: 546, 71
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_0_2.png
+  rotate: false
+  xy: 342, 55
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_0_3.png
+  rotate: false
+  xy: 206, 39
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_0_4.png
+  rotate: false
+  xy: 70, 23
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_2_0.png
+  rotate: false
+  xy: 682, 87
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_2_1.png
+  rotate: false
+  xy: 478, 71
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_2_2.png
+  rotate: false
+  xy: 274, 55
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_2_3.png
+  rotate: false
+  xy: 138, 39
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_64_b_2_4.png
+  rotate: false
+  xy: 2, 23
+  size: 66, 103
+  orig: 66, 103
+  offset: 0, 0
+  index: -1
+xmas_c17_smallpavement_xmas_c17_smallpavement_icon_a.png
+  rotate: false
+  xy: 886, 99
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

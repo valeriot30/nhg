@@ -1,0 +1,83 @@
+
+xmas11_yetifeet.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas11_yetifeet_xmas11_yetifeet_64_a_0_0.png
+  rotate: false
+  xy: 43, 33
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_64_a_0_1.png
+  rotate: false
+  xy: 2, 35
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_64_a_1_0.png
+  rotate: false
+  xy: 119, 37
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_64_a_1_1.png
+  rotate: false
+  xy: 43, 7
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_64_a_2_0.png
+  rotate: false
+  xy: 2, 7
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_64_a_2_1.png
+  rotate: false
+  xy: 81, 33
+  size: 36, 28
+  orig: 36, 28
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_64_a_3_0.png
+  rotate: false
+  xy: 186, 32
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_64_a_3_1.png
+  rotate: false
+  xy: 211, 32
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_64_a_7_0.png
+  rotate: false
+  xy: 85, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_64_a_7_1.png
+  rotate: false
+  xy: 161, 32
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+xmas11_yetifeet_xmas11_yetifeet_icon_a.png
+  rotate: false
+  xy: 119, 20
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

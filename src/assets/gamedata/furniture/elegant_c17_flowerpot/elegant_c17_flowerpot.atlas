@@ -1,0 +1,27 @@
+
+elegant_c17_flowerpot.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+elegant_c17_flowerpot_elegant_c17_flowerpot_64_a_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 48, 88
+  orig: 48, 88
+  offset: 0, 0
+  index: -1
+elegant_c17_flowerpot_elegant_c17_flowerpot_64_sd_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+elegant_c17_flowerpot_elegant_c17_flowerpot_icon_a.png
+  rotate: false
+  xy: 45, 2
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1

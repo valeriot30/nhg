@@ -1,0 +1,20 @@
+
+clothing_tailedcoat.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_tailedcoat_clothing_tailedcoat_64_a_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+clothing_tailedcoat_clothing_tailedcoat_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

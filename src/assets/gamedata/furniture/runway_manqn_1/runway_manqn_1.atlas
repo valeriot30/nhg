@@ -1,0 +1,55 @@
+
+runway_manqn_1.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runway_manqn_1_runway_manqn_1_64_a_4_0.png
+  rotate: false
+  xy: 2, 167
+  size: 24, 77
+  orig: 24, 77
+  offset: 0, 0
+  index: -1
+runway_manqn_1_runway_manqn_1_64_b_4_0.png
+  rotate: false
+  xy: 2, 84
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+runway_manqn_1_runway_manqn_1_64_b_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+runway_manqn_1_runway_manqn_1_64_b_4_2.png
+  rotate: false
+  xy: 2, 125
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+runway_manqn_1_runway_manqn_1_64_b_4_3.png
+  rotate: false
+  xy: 28, 203
+  size: 28, 41
+  orig: 28, 41
+  offset: 0, 0
+  index: -1
+runway_manqn_1_runway_manqn_1_64_b_4_4.png
+  rotate: false
+  xy: 2, 43
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+runway_manqn_1_runway_manqn_1_icon_a.png
+  rotate: false
+  xy: 28, 171
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

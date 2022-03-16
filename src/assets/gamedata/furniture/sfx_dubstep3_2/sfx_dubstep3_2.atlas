@@ -1,0 +1,55 @@
+
+sfx_dubstep3_2.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sfx_dubstep3_2_sfx_dubstep3_2_64_a_0_0.png
+  rotate: false
+  xy: 138, 21
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+sfx_dubstep3_2_sfx_dubstep3_2_64_a_0_1.png
+  rotate: false
+  xy: 2, 16
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+sfx_dubstep3_2_sfx_dubstep3_2_64_a_0_2.png
+  rotate: false
+  xy: 206, 21
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+sfx_dubstep3_2_sfx_dubstep3_2_64_a_0_3.png
+  rotate: false
+  xy: 274, 21
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+sfx_dubstep3_2_sfx_dubstep3_2_64_a_0_4.png
+  rotate: false
+  xy: 70, 20
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+sfx_dubstep3_2_sfx_dubstep3_2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+sfx_dubstep3_2_sfx_dubstep3_2_icon_a.png
+  rotate: false
+  xy: 342, 54
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

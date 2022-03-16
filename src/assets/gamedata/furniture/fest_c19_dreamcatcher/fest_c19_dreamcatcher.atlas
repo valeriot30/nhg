@@ -1,0 +1,27 @@
+
+fest_c19_dreamcatcher.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_dreamcatcher_fest_c19_dreamcatcher_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 53, 100
+  orig: 53, 100
+  offset: 0, 0
+  index: -1
+fest_c19_dreamcatcher_fest_c19_dreamcatcher_64_sd_4_0.png
+  rotate: false
+  xy: 28, 15
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+fest_c19_dreamcatcher_fest_c19_dreamcatcher_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

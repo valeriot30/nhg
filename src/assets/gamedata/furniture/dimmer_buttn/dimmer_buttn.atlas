@@ -1,0 +1,27 @@
+
+dimmer_buttn.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dimmer_buttn_dimmer_buttn_64_a_2_1.png
+  rotate: false
+  xy: 14, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+dimmer_buttn_dimmer_buttn_64_b_2_0.png
+  rotate: false
+  xy: 26, 3
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+dimmer_buttn_dimmer_buttn_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1

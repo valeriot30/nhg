@@ -1,0 +1,76 @@
+
+wildwest_minecart.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_minecart_wildwest_minecart_64_a_2_0.png
+  rotate: false
+  xy: 168, 90
+  size: 81, 75
+  orig: 81, 75
+  offset: 0, 0
+  index: -1
+wildwest_minecart_wildwest_minecart_64_a_2_1.png
+  rotate: false
+  xy: 85, 87
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+wildwest_minecart_wildwest_minecart_64_a_2_2.png
+  rotate: false
+  xy: 85, 7
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+wildwest_minecart_wildwest_minecart_64_a_2_3.png
+  rotate: false
+  xy: 168, 167
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+wildwest_minecart_wildwest_minecart_64_a_2_4.png
+  rotate: false
+  xy: 85, 167
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+wildwest_minecart_wildwest_minecart_64_a_2_5.png
+  rotate: false
+  xy: 2, 82
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+wildwest_minecart_wildwest_minecart_64_a_2_6.png
+  rotate: false
+  xy: 2, 2
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+wildwest_minecart_wildwest_minecart_64_a_2_7.png
+  rotate: false
+  xy: 2, 162
+  size: 81, 83
+  orig: 81, 83
+  offset: 0, 0
+  index: -1
+wildwest_minecart_wildwest_minecart_64_sd_2_0.png
+  rotate: false
+  xy: 168, 58
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+wildwest_minecart_wildwest_minecart_icon_a.png
+  rotate: false
+  xy: 168, 30
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1

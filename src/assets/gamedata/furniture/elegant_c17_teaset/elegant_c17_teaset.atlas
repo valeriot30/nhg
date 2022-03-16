@@ -1,0 +1,34 @@
+
+elegant_c17_teaset.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+elegant_c17_teaset_elegant_c17_teaset_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+elegant_c17_teaset_elegant_c17_teaset_64_a_0_1.png
+  rotate: false
+  xy: 62, 28
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+elegant_c17_teaset_elegant_c17_teaset_64_sd_0_0.png
+  rotate: false
+  xy: 62, 2
+  size: 56, 24
+  orig: 56, 24
+  offset: 0, 0
+  index: -1
+elegant_c17_teaset_elegant_c17_teaset_icon_a.png
+  rotate: false
+  xy: 122, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

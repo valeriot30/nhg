@@ -1,0 +1,27 @@
+
+elegant_c17_smalltable.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+elegant_c17_smalltable_elegant_c17_smalltable_64_a_0_0.png
+  rotate: false
+  xy: 2, 57
+  size: 43, 62
+  orig: 43, 62
+  offset: 0, 0
+  index: -1
+elegant_c17_smalltable_elegant_c17_smalltable_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+elegant_c17_smalltable_elegant_c17_smalltable_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

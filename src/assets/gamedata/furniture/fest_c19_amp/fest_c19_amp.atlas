@@ -1,0 +1,34 @@
+
+fest_c19_amp.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_amp_fest_c19_amp_64_a_4_0.png
+  rotate: false
+  xy: 70, 6
+  size: 66, 116
+  orig: 66, 116
+  offset: 0, 0
+  index: -1
+fest_c19_amp_fest_c19_amp_64_a_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 120
+  orig: 66, 120
+  offset: 0, 0
+  index: -1
+fest_c19_amp_fest_c19_amp_64_sd_0_0.png
+  rotate: false
+  xy: 138, 89
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+fest_c19_amp_fest_c19_amp_icon_a.png
+  rotate: false
+  xy: 138, 57
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

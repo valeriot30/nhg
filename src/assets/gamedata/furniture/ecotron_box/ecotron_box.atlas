@@ -1,0 +1,48 @@
+
+ecotron_box.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ecotron_box_ecotron_box_64_a_0_0.png
+  rotate: false
+  xy: 68, 25
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+ecotron_box_ecotron_box_64_a_2_0.png
+  rotate: false
+  xy: 2, 25
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+ecotron_box_ecotron_box_64_a_4_0.png
+  rotate: false
+  xy: 134, 25
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+ecotron_box_ecotron_box_64_a_6_0.png
+  rotate: false
+  xy: 200, 25
+  size: 64, 65
+  orig: 64, 65
+  offset: 0, 0
+  index: -1
+ecotron_box_ecotron_box_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 21
+  orig: 68, 21
+  offset: 0, 0
+  index: -1
+ecotron_box_ecotron_box_icon_a.png
+  rotate: false
+  xy: 266, 60
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

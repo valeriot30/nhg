@@ -1,0 +1,27 @@
+
+clothing_mushroomhat.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_mushroomhat_clothing_mushroomhat_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+clothing_mushroomhat_clothing_mushroomhat_64_sd_0_0.png
+  rotate: false
+  xy: 50, 5
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+clothing_mushroomhat_clothing_mushroomhat_icon_a.png
+  rotate: false
+  xy: 50, 21
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1

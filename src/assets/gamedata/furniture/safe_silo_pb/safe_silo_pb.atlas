@@ -1,0 +1,76 @@
+
+safe_silo_pb.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+safe_silo_pb_safe_silo_pb_64_a_4_0.png
+  rotate: false
+  xy: 69, 51
+  size: 53, 74
+  orig: 53, 74
+  offset: 0, 0
+  index: -1
+safe_silo_pb_safe_silo_pb_64_a_4_1.png
+  rotate: false
+  xy: 2, 51
+  size: 65, 74
+  orig: 65, 74
+  offset: 0, 0
+  index: -1
+safe_silo_pb_safe_silo_pb_64_b_4_0.png
+  rotate: false
+  xy: 124, 82
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+safe_silo_pb_safe_silo_pb_64_b_4_1.png
+  rotate: false
+  xy: 2, 5
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+safe_silo_pb_safe_silo_pb_64_c_4_1.png
+  rotate: false
+  xy: 68, 5
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+safe_silo_pb_safe_silo_pb_64_d_4_0.png
+  rotate: false
+  xy: 177, 85
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+safe_silo_pb_safe_silo_pb_64_d_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+safe_silo_pb_safe_silo_pb_64_sd_2_0.png
+  rotate: false
+  xy: 124, 57
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+safe_silo_pb_safe_silo_pb_64_sd_4_0.png
+  rotate: false
+  xy: 177, 102
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+safe_silo_pb_safe_silo_pb_icon_a.png
+  rotate: false
+  xy: 226, 97
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

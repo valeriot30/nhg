@@ -1,0 +1,27 @@
+
+ads_idol_pchair.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_idol_pchair_ads_idol_pchair_64_a_0_0.png
+  rotate: false
+  xy: 2, 11
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+ads_idol_pchair_ads_idol_pchair_64_sd_0_0.png
+  rotate: false
+  xy: 56, 26
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+ads_idol_pchair_ads_idol_pchair_icon_a.png
+  rotate: false
+  xy: 56, 2
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1

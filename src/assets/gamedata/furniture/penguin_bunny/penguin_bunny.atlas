@@ -1,0 +1,118 @@
+
+penguin_bunny.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_bunny_penguin_bunny_64_a_4_0.png
+  rotate: false
+  xy: 697, 37
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_1.png
+  rotate: false
+  xy: 757, 37
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_10.png
+  rotate: false
+  xy: 195, 37
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_11.png
+  rotate: false
+  xy: 2, 34
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_12.png
+  rotate: false
+  xy: 323, 37
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_13.png
+  rotate: false
+  xy: 451, 37
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_2.png
+  rotate: false
+  xy: 515, 37
+  size: 60, 73
+  orig: 60, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_3.png
+  rotate: false
+  xy: 637, 37
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_4.png
+  rotate: false
+  xy: 577, 37
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_5.png
+  rotate: false
+  xy: 817, 39
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_6.png
+  rotate: false
+  xy: 387, 37
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_7.png
+  rotate: false
+  xy: 259, 37
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_8.png
+  rotate: false
+  xy: 131, 37
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_a_4_9.png
+  rotate: false
+  xy: 67, 37
+  size: 62, 73
+  orig: 62, 73
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_64_sd_4_0.png
+  rotate: false
+  xy: 877, 94
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+penguin_bunny_penguin_bunny_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

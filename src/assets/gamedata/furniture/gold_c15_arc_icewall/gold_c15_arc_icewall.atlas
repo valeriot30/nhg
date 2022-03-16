@@ -1,0 +1,90 @@
+
+gold_c15_arc_icewall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_a_2_0.png
+  rotate: false
+  xy: 78, 50
+  size: 36, 130
+  orig: 36, 130
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_a_2_1.png
+  rotate: false
+  xy: 116, 50
+  size: 36, 130
+  orig: 36, 130
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_a_2_2.png
+  rotate: false
+  xy: 2, 50
+  size: 36, 130
+  orig: 36, 130
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_a_2_3.png
+  rotate: false
+  xy: 40, 50
+  size: 36, 130
+  orig: 36, 130
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_b_2_0.png
+  rotate: false
+  xy: 15, 38
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_b_2_2.png
+  rotate: false
+  xy: 167, 175
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_b_2_3.png
+  rotate: false
+  xy: 154, 160
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_b_2_4.png
+  rotate: false
+  xy: 15, 41
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_b_2_5.png
+  rotate: false
+  xy: 2, 7
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_64_b_2_6.png
+  rotate: false
+  xy: 154, 169
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+gold_c15_arc_icewall_gold_c15_arc_icewall_icon_a.png
+  rotate: false
+  xy: 2, 18
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

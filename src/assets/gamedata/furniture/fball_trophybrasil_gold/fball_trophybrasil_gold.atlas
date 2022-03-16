@@ -1,0 +1,34 @@
+
+fball_trophybrasil_gold.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fball_trophybrasil_gold_fball_trophybrasil_gold_64_a_0_0.png
+  rotate: false
+  xy: 2, 85
+  size: 35, 75
+  orig: 35, 75
+  offset: 0, 0
+  index: -1
+fball_trophybrasil_gold_fball_trophybrasil_gold_64_b_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+fball_trophybrasil_gold_fball_trophybrasil_gold_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+fball_trophybrasil_gold_fball_trophybrasil_gold_icon_a.png
+  rotate: false
+  xy: 39, 133
+  size: 18, 27
+  orig: 18, 27
+  offset: 0, 0
+  index: -1

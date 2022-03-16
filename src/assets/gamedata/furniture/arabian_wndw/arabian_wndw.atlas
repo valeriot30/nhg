@@ -1,0 +1,20 @@
+
+arabian_wndw.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arabian_wndw_arabian_wndw_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 86
+  orig: 40, 86
+  offset: 0, 0
+  index: -1
+arabian_wndw_arabian_wndw_icon_a.png
+  rotate: false
+  xy: 44, 60
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+pcnc_tree.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pcnc_tree_pcnc_tree_64_a_0_0.png
+  rotate: false
+  xy: 2, 50
+  size: 223, 263
+  orig: 223, 263
+  offset: 0, 0
+  index: -1
+pcnc_tree_pcnc_tree_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 53, 14
+  orig: 53, 14
+  offset: 0, 0
+  index: -1
+pcnc_tree_pcnc_tree_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

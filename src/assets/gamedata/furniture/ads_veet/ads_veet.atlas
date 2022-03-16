@@ -1,0 +1,55 @@
+
+ads_veet.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_veet_ads_veet_64_a_2_0.png
+  rotate: false
+  xy: 339, 41
+  size: 63, 138
+  orig: 63, 138
+  offset: 0, 0
+  index: -1
+ads_veet_ads_veet_64_b_2_0.png
+  rotate: false
+  xy: 205, 37
+  size: 65, 142
+  orig: 65, 142
+  offset: 0, 0
+  index: -1
+ads_veet_ads_veet_64_b_2_1.png
+  rotate: false
+  xy: 71, 37
+  size: 65, 142
+  orig: 65, 142
+  offset: 0, 0
+  index: -1
+ads_veet_ads_veet_64_b_2_2.png
+  rotate: false
+  xy: 138, 37
+  size: 65, 142
+  orig: 65, 142
+  offset: 0, 0
+  index: -1
+ads_veet_ads_veet_64_b_2_3.png
+  rotate: false
+  xy: 272, 37
+  size: 65, 142
+  orig: 65, 142
+  offset: 0, 0
+  index: -1
+ads_veet_ads_veet_64_c_2_0.png
+  rotate: false
+  xy: 2, 35
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1
+ads_veet_ads_veet_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1

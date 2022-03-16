@@ -1,0 +1,97 @@
+
+classic9_wall.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic9_wall_classic9_wall_64_a_0_0.png
+  rotate: false
+  xy: 140, 751
+  size: 37, 255
+  orig: 37, 255
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_a_2_0.png
+  rotate: false
+  xy: 72, 479
+  size: 37, 255
+  orig: 37, 255
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_b_0_0.png
+  rotate: false
+  xy: 2, 188
+  size: 66, 270
+  orig: 66, 270
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_b_2_0.png
+  rotate: false
+  xy: 72, 736
+  size: 66, 270
+  orig: 66, 270
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_c_0_0.png
+  rotate: false
+  xy: 2, 460
+  size: 68, 272
+  orig: 68, 272
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_c_2_0.png
+  rotate: false
+  xy: 2, 734
+  size: 68, 272
+  orig: 68, 272
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_d_0_1.png
+  rotate: false
+  xy: 111, 563
+  size: 30, 171
+  orig: 30, 171
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_d_2_1.png
+  rotate: false
+  xy: 221, 835
+  size: 30, 171
+  orig: 30, 171
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_e_0_1.png
+  rotate: false
+  xy: 179, 822
+  size: 40, 184
+  orig: 40, 184
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_e_2_0.png
+  rotate: false
+  xy: 253, 1005
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_e_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 184
+  orig: 40, 184
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_64_sd_0_0.png
+  rotate: false
+  xy: 111, 511
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+classic9_wall_classic9_wall_icon_a.png
+  rotate: false
+  xy: 44, 156
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

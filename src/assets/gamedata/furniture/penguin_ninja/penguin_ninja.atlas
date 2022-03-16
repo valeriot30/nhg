@@ -1,0 +1,118 @@
+
+penguin_ninja.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_ninja_penguin_ninja_64_a_4_0.png
+  rotate: false
+  xy: 495, 45
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_1.png
+  rotate: false
+  xy: 426, 45
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_10.png
+  rotate: false
+  xy: 813, 32
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_11.png
+  rotate: false
+  xy: 2, 33
+  size: 72, 73
+  orig: 72, 73
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_12.png
+  rotate: false
+  xy: 755, 32
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_13.png
+  rotate: false
+  xy: 564, 45
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_2.png
+  rotate: false
+  xy: 357, 45
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_3.png
+  rotate: false
+  xy: 288, 45
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_4.png
+  rotate: false
+  xy: 219, 45
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_5.png
+  rotate: false
+  xy: 150, 45
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_6.png
+  rotate: false
+  xy: 871, 46
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_7.png
+  rotate: false
+  xy: 76, 46
+  size: 72, 60
+  orig: 72, 60
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_8.png
+  rotate: false
+  xy: 633, 39
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_a_4_9.png
+  rotate: false
+  xy: 697, 34
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_64_sd_4_0.png
+  rotate: false
+  xy: 929, 90
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+penguin_ninja_penguin_ninja_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

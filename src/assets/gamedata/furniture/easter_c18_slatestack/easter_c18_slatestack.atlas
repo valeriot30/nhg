@@ -1,0 +1,41 @@
+
+easter_c18_slatestack.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c18_slatestack_easter_c18_slatestack_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+easter_c18_slatestack_easter_c18_slatestack_64_a_0_1.png
+  rotate: false
+  xy: 148, 3
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+easter_c18_slatestack_easter_c18_slatestack_64_a_0_2.png
+  rotate: false
+  xy: 52, 2
+  size: 47, 26
+  orig: 47, 26
+  offset: 0, 0
+  index: -1
+easter_c18_slatestack_easter_c18_slatestack_64_a_0_3.png
+  rotate: false
+  xy: 101, 3
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+easter_c18_slatestack_easter_c18_slatestack_icon_a.png
+  rotate: false
+  xy: 194, 10
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1

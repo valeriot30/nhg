@@ -1,0 +1,160 @@
+
+val14_gate.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val14_gate_val14_gate_64_a_0_0.png
+  rotate: false
+  xy: 131, 49
+  size: 9, 87
+  orig: 9, 87
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 33, 100
+  orig: 33, 100
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_1.png
+  rotate: false
+  xy: 37, 7
+  size: 30, 98
+  orig: 30, 98
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_2.png
+  rotate: false
+  xy: 142, 140
+  size: 26, 96
+  orig: 26, 96
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_3.png
+  rotate: false
+  xy: 195, 142
+  size: 22, 94
+  orig: 22, 94
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_4.png
+  rotate: false
+  xy: 69, 13
+  size: 18, 92
+  orig: 18, 92
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_5.png
+  rotate: false
+  xy: 240, 146
+  size: 14, 90
+  orig: 14, 90
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_6.png
+  rotate: false
+  xy: 119, 48
+  size: 10, 88
+  orig: 10, 88
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_7.png
+  rotate: false
+  xy: 151, 52
+  size: 6, 86
+  orig: 6, 86
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_8.png
+  rotate: false
+  xy: 159, 53
+  size: 4, 85
+  orig: 4, 85
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_b_0_9.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_c_0_0.png
+  rotate: false
+  xy: 80, 136
+  size: 31, 100
+  orig: 31, 100
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_c_0_1.png
+  rotate: false
+  xy: 113, 138
+  size: 27, 98
+  orig: 27, 98
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_c_0_2.png
+  rotate: false
+  xy: 170, 140
+  size: 23, 96
+  orig: 23, 96
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_c_0_3.png
+  rotate: false
+  xy: 219, 142
+  size: 19, 94
+  orig: 19, 94
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_c_0_4.png
+  rotate: false
+  xy: 89, 42
+  size: 15, 92
+  orig: 15, 92
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_c_0_5.png
+  rotate: false
+  xy: 106, 44
+  size: 11, 90
+  orig: 11, 90
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_c_0_6.png
+  rotate: false
+  xy: 142, 50
+  size: 7, 88
+  orig: 7, 88
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_c_0_7.png
+  rotate: false
+  xy: 165, 52
+  size: 3, 86
+  orig: 3, 86
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_d_0_0.png
+  rotate: false
+  xy: 2, 107
+  size: 76, 129
+  orig: 76, 129
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_64_sd_0_0.png
+  rotate: false
+  xy: 170, 104
+  size: 62, 34
+  orig: 62, 34
+  offset: 0, 0
+  index: -1
+val14_gate_val14_gate_icon_a.png
+  rotate: false
+  xy: 234, 110
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

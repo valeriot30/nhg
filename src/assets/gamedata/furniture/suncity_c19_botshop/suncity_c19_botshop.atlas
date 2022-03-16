@@ -1,0 +1,55 @@
+
+suncity_c19_botshop.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_botshop_suncity_c19_botshop_64_a_2_0.png
+  rotate: false
+  xy: 290, 54
+  size: 35, 165
+  orig: 35, 165
+  offset: 0, 0
+  index: -1
+suncity_c19_botshop_suncity_c19_botshop_64_a_4_0.png
+  rotate: false
+  xy: 327, 54
+  size: 35, 165
+  orig: 35, 165
+  offset: 0, 0
+  index: -1
+suncity_c19_botshop_suncity_c19_botshop_64_b_2_0.png
+  rotate: false
+  xy: 156, 42
+  size: 65, 177
+  orig: 65, 177
+  offset: 0, 0
+  index: -1
+suncity_c19_botshop_suncity_c19_botshop_64_b_4_0.png
+  rotate: false
+  xy: 223, 43
+  size: 65, 176
+  orig: 65, 176
+  offset: 0, 0
+  index: -1
+suncity_c19_botshop_suncity_c19_botshop_64_c_2_0.png
+  rotate: false
+  xy: 79, 34
+  size: 75, 185
+  orig: 75, 185
+  offset: 0, 0
+  index: -1
+suncity_c19_botshop_suncity_c19_botshop_64_c_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 75, 185
+  orig: 75, 185
+  offset: 0, 0
+  index: -1
+suncity_c19_botshop_suncity_c19_botshop_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

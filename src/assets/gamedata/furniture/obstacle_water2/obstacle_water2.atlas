@@ -1,0 +1,216 @@
+
+obstacle_water2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+obstacle_water2_obstacle_water2_32_g_4_0.png
+  rotate: false
+  xy: 249, 210
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_a_4_0.png
+  rotate: false
+  xy: 2, 97
+  size: 144, 64
+  orig: 144, 64
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_b_4_0.png
+  rotate: false
+  xy: 54, 33
+  size: 62, 29
+  orig: 62, 29
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_c_4_0.png
+  rotate: false
+  xy: 54, 64
+  size: 63, 31
+  orig: 63, 31
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_d_4_0.png
+  rotate: false
+  xy: 2, 163
+  size: 164, 87
+  orig: 164, 87
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_e_4_0.png
+  rotate: false
+  xy: 189, 28
+  size: 41, 37
+  orig: 41, 37
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_e_4_1.png
+  rotate: false
+  xy: 145, 30
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_e_4_2.png
+  rotate: false
+  xy: 214, 213
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_e_4_3.png
+  rotate: false
+  xy: 211, 67
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_e_4_4.png
+  rotate: false
+  xy: 167, 113
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_f_4_0.png
+  rotate: false
+  xy: 122, 4
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_f_4_1.png
+  rotate: false
+  xy: 46, 6
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_f_4_2.png
+  rotate: false
+  xy: 84, 7
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_f_4_3.png
+  rotate: false
+  xy: 214, 151
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_f_4_4.png
+  rotate: false
+  xy: 2, 3
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_1.png
+  rotate: false
+  xy: 148, 86
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_10.png
+  rotate: false
+  xy: 118, 36
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_11.png
+  rotate: false
+  xy: 159, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_12.png
+  rotate: false
+  xy: 214, 179
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_13.png
+  rotate: false
+  xy: 212, 109
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_14.png
+  rotate: false
+  xy: 2, 44
+  size: 50, 40
+  orig: 50, 40
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_2.png
+  rotate: false
+  xy: 148, 109
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_3.png
+  rotate: false
+  xy: 148, 135
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_4.png
+  rotate: false
+  xy: 119, 62
+  size: 24, 33
+  orig: 24, 33
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_5.png
+  rotate: false
+  xy: 166, 69
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_6.png
+  rotate: false
+  xy: 168, 158
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_7.png
+  rotate: false
+  xy: 168, 204
+  size: 44, 46
+  orig: 44, 46
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_8.png
+  rotate: false
+  xy: 2, 87
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_64_g_4_9.png
+  rotate: false
+  xy: 145, 71
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+obstacle_water2_obstacle_water2_icon_a.png
+  rotate: false
+  xy: 189, 8
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1

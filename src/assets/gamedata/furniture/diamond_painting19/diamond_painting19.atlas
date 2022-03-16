@@ -1,0 +1,27 @@
+
+diamond_painting19.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diamond_painting19_diamond_painting19_64_a_2_0.png
+  rotate: false
+  xy: 2, 165
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+diamond_painting19_diamond_painting19_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 92, 161
+  orig: 92, 161
+  offset: 0, 0
+  index: -1
+diamond_painting19_diamond_painting19_icon_a.png
+  rotate: false
+  xy: 96, 294
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+hween10_card_1.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween10_card_1_hween10_card_1_64_a_4_0.png
+  rotate: false
+  xy: 2, 60
+  size: 53, 115
+  orig: 53, 115
+  offset: 0, 0
+  index: -1
+hween10_card_1_hween10_card_1_64_sd_4_0.png
+  rotate: false
+  xy: 2, 32
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+hween10_card_1_hween10_card_1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1

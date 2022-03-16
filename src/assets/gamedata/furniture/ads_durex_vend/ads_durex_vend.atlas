@@ -1,0 +1,41 @@
+
+ads_durex_vend.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_durex_vend_ads_durex_vend_64_a_2_0.png
+  rotate: false
+  xy: 192, 37
+  size: 56, 139
+  orig: 56, 139
+  offset: 0, 0
+  index: -1
+ads_durex_vend_ads_durex_vend_64_a_4_0.png
+  rotate: false
+  xy: 132, 36
+  size: 58, 140
+  orig: 58, 140
+  offset: 0, 0
+  index: -1
+ads_durex_vend_ads_durex_vend_64_b_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 64, 142
+  orig: 64, 142
+  offset: 0, 0
+  index: -1
+ads_durex_vend_ads_durex_vend_64_b_4_0.png
+  rotate: false
+  xy: 68, 35
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+ads_durex_vend_ads_durex_vend_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

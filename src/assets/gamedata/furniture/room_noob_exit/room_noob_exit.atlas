@@ -1,0 +1,27 @@
+
+room_noob_exit.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+room_noob_exit_room_noob_exit_64_a_4_0.png
+  rotate: false
+  xy: 39, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+room_noob_exit_room_noob_exit_64_a_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+room_noob_exit_room_noob_exit_icon_a.png
+  rotate: false
+  xy: 76, 5
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1

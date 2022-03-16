@@ -1,0 +1,181 @@
+
+market_c19_checkoutdesk.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_0_0.png
+  rotate: false
+  xy: 387, 120
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_0_1.png
+  rotate: false
+  xy: 327, 120
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_0_2.png
+  rotate: false
+  xy: 267, 120
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_0_3.png
+  rotate: false
+  xy: 207, 120
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_0_4.png
+  rotate: false
+  xy: 70, 52
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_2_0.png
+  rotate: false
+  xy: 134, 96
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_2_1.png
+  rotate: false
+  xy: 408, 190
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_2_2.png
+  rotate: false
+  xy: 341, 190
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_2_3.png
+  rotate: false
+  xy: 274, 190
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_a_2_4.png
+  rotate: false
+  xy: 207, 190
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_b_0_0.png
+  rotate: false
+  xy: 255, 102
+  size: 51, 16
+  orig: 51, 16
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_b_2_0.png
+  rotate: false
+  xy: 134, 162
+  size: 71, 92
+  orig: 71, 92
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_c_0_0.png
+  rotate: false
+  xy: 447, 110
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_d_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_d_2_0.png
+  rotate: false
+  xy: 201, 65
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_e_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_e_2_0.png
+  rotate: false
+  xy: 475, 190
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_e_2_1.png
+  rotate: false
+  xy: 475, 223
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_e_2_2.png
+  rotate: false
+  xy: 130, 63
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_e_2_3.png
+  rotate: false
+  xy: 255, 69
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_f_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 66, 84
+  orig: 66, 84
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_f_2_0.png
+  rotate: false
+  xy: 70, 2
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_sd_0_0.png
+  rotate: false
+  xy: 2, 189
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_64_sd_2_0.png
+  rotate: false
+  xy: 2, 122
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+market_c19_checkoutdesk_market_c19_checkoutdesk_icon_a.png
+  rotate: false
+  xy: 160, 69
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+hween_c17_tent.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_tent_hween_c17_tent_64_a_0_0.png
+  rotate: false
+  xy: 305, 38
+  size: 118, 87
+  orig: 118, 87
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_b_0_0.png
+  rotate: false
+  xy: 160, 67
+  size: 143, 58
+  orig: 143, 58
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 126, 40
+  orig: 126, 40
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_d_0_0.png
+  rotate: false
+  xy: 738, 31
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_e_0_0.png
+  rotate: false
+  xy: 425, 35
+  size: 117, 90
+  orig: 117, 90
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_f_0_0.png
+  rotate: false
+  xy: 738, 65
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_g_0_0.png
+  rotate: false
+  xy: 958, 32
+  size: 31, 93
+  orig: 31, 93
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_g_0_1.png
+  rotate: false
+  xy: 925, 32
+  size: 31, 93
+  orig: 31, 93
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_h_0_0.png
+  rotate: false
+  xy: 857, 6
+  size: 32, 119
+  orig: 32, 119
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_h_0_1.png
+  rotate: false
+  xy: 891, 6
+  size: 32, 119
+  orig: 32, 119
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_i_0_0.png
+  rotate: false
+  xy: 544, 15
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_i_0_1.png
+  rotate: false
+  xy: 641, 15
+  size: 95, 110
+  orig: 95, 110
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_64_sd_0_0.png
+  rotate: false
+  xy: 2, 44
+  size: 156, 81
+  orig: 156, 81
+  offset: 0, 0
+  index: -1
+hween_c17_tent_hween_c17_tent_icon_a.png
+  rotate: false
+  xy: 800, 36
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1

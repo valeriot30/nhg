@@ -1,0 +1,12 @@
+export type FigureDataComponent = {
+    index: number;
+    id: number;
+    colorable: boolean;
+    color: string | null;
+    type: string;
+};
+
+export type FigureDataPart = {
+    components: FigureDataComponent[]
+    hidden: string[]
+}

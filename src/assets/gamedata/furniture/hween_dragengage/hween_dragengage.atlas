@@ -1,0 +1,405 @@
+
+hween_dragengage.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_dragengage_hween_dragengage_64_a_0_0.png
+  rotate: false
+  xy: 910, 26
+  size: 13, 47
+  orig: 13, 47
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_a_0_1.png
+  rotate: false
+  xy: 974, 35
+  size: 15, 47
+  orig: 15, 47
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_a_0_2.png
+  rotate: false
+  xy: 666, 17
+  size: 18, 49
+  orig: 18, 49
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_a_0_3.png
+  rotate: false
+  xy: 144, 3
+  size: 21, 47
+  orig: 21, 47
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_a_0_4.png
+  rotate: false
+  xy: 721, 29
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_b_0_0.png
+  rotate: false
+  xy: 686, 29
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_d_0_0.png
+  rotate: false
+  xy: 747, 33
+  size: 31, 41
+  orig: 31, 41
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_e_0_0.png
+  rotate: false
+  xy: 991, 37
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_f_0_0.png
+  rotate: false
+  xy: 780, 32
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_g_0_0.png
+  rotate: false
+  xy: 628, 9
+  size: 36, 57
+  orig: 36, 57
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_i_0_0.png
+  rotate: false
+  xy: 342, 73
+  size: 77, 53
+  orig: 77, 53
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_j_0_1.png
+  rotate: false
+  xy: 414, 2
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_j_0_2.png
+  rotate: false
+  xy: 457, 2
+  size: 40, 64
+  orig: 40, 64
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_j_0_3.png
+  rotate: false
+  xy: 499, 4
+  size: 39, 62
+  orig: 39, 62
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_j_0_4.png
+  rotate: false
+  xy: 925, 15
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_j_0_5.png
+  rotate: false
+  xy: 285, 2
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_j_0_6.png
+  rotate: false
+  xy: 328, 2
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_j_0_7.png
+  rotate: false
+  xy: 371, 2
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_k_0_0.png
+  rotate: false
+  xy: 881, 75
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_k_0_1.png
+  rotate: false
+  xy: 584, 12
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_k_0_2.png
+  rotate: false
+  xy: 540, 10
+  size: 42, 56
+  orig: 42, 56
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_k_0_3.png
+  rotate: false
+  xy: 837, 75
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_k_0_4.png
+  rotate: false
+  xy: 793, 75
+  size: 42, 51
+  orig: 42, 51
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_k_0_5.png
+  rotate: false
+  xy: 241, 2
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_0.png
+  rotate: false
+  xy: 540, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_1.png
+  rotate: false
+  xy: 850, 2
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_2.png
+  rotate: false
+  xy: 669, 68
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_3.png
+  rotate: false
+  xy: 991, 63
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_4.png
+  rotate: false
+  xy: 747, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_5.png
+  rotate: false
+  xy: 850, 8
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_6.png
+  rotate: false
+  xy: 817, 7
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_7.png
+  rotate: false
+  xy: 844, 40
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_8.png
+  rotate: false
+  xy: 877, 40
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_l_0_9.png
+  rotate: false
+  xy: 811, 40
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_1.png
+  rotate: false
+  xy: 249, 61
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_10.png
+  rotate: false
+  xy: 607, 68
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_11.png
+  rotate: false
+  xy: 545, 68
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_2.png
+  rotate: false
+  xy: 720, 7
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_3.png
+  rotate: false
+  xy: 686, 3
+  size: 32, 24
+  orig: 32, 24
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_4.png
+  rotate: false
+  xy: 776, 2
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_5.png
+  rotate: false
+  xy: 977, 93
+  size: 43, 33
+  orig: 43, 33
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_6.png
+  rotate: false
+  xy: 925, 84
+  size: 50, 42
+  orig: 50, 42
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_7.png
+  rotate: false
+  xy: 731, 76
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_8.png
+  rotate: false
+  xy: 483, 68
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_m_0_9.png
+  rotate: false
+  xy: 421, 68
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_n_0_0.png
+  rotate: false
+  xy: 78, 41
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_n_0_1.png
+  rotate: false
+  xy: 35, 3
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_n_0_2.png
+  rotate: false
+  xy: 925, 38
+  size: 47, 44
+  orig: 47, 44
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_n_0_3.png
+  rotate: false
+  xy: 88, 2
+  size: 54, 48
+  orig: 54, 48
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_n_0_4.png
+  rotate: false
+  xy: 669, 74
+  size: 60, 52
+  orig: 60, 52
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_n_0_5.png
+  rotate: false
+  xy: 174, 2
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_n_0_6.png
+  rotate: false
+  xy: 174, 61
+  size: 73, 65
+  orig: 73, 65
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_n_0_7.png
+  rotate: false
+  xy: 88, 52
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_n_0_8.png
+  rotate: false
+  xy: 2, 44
+  size: 84, 82
+  orig: 84, 82
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_64_sd_0_0.png
+  rotate: false
+  xy: 249, 80
+  size: 91, 46
+  orig: 91, 46
+  offset: 0, 0
+  index: -1
+hween_dragengage_hween_dragengage_icon_a.png
+  rotate: false
+  xy: 882, 8
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

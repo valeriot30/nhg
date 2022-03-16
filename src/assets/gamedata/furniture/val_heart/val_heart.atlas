@@ -1,0 +1,41 @@
+
+val_heart.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_heart_val_heart_64_a_2_0.png
+  rotate: false
+  xy: 138, 58
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+val_heart_val_heart_64_a_2_1.png
+  rotate: false
+  xy: 80, 52
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+val_heart_val_heart_64_b_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 76, 81
+  orig: 76, 81
+  offset: 0, 0
+  index: -1
+val_heart_val_heart_64_b_2_1.png
+  rotate: false
+  xy: 80, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val_heart_val_heart_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1

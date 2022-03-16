@@ -1,0 +1,20 @@
+
+carpet_armas.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+carpet_armas_carpet_armas_64_a_0_0.png
+  rotate: false
+  xy: 2, 19
+  size: 173, 87
+  orig: 173, 87
+  offset: 0, 0
+  index: -1
+carpet_armas_carpet_armas_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

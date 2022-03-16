@@ -1,0 +1,20 @@
+
+summer_sunset_wall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+summer_sunset_wall_summer_sunset_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 199, 228
+  orig: 199, 228
+  offset: 0, 0
+  index: -1
+summer_sunset_wall_summer_sunset_wall_icon_a.png
+  rotate: false
+  xy: 203, 200
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

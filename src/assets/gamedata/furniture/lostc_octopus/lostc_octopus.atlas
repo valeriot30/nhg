@@ -1,0 +1,62 @@
+
+lostc_octopus.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lostc_octopus_lostc_octopus_64_a_4_0.png
+  rotate: false
+  xy: 208, 2
+  size: 40, 105
+  orig: 40, 105
+  offset: 0, 0
+  index: -1
+lostc_octopus_lostc_octopus_64_a_4_1.png
+  rotate: false
+  xy: 208, 109
+  size: 40, 138
+  orig: 40, 138
+  offset: 0, 0
+  index: -1
+lostc_octopus_lostc_octopus_64_b_4_0.png
+  rotate: false
+  xy: 2, 7
+  size: 82, 124
+  orig: 82, 124
+  offset: 0, 0
+  index: -1
+lostc_octopus_lostc_octopus_64_b_4_1.png
+  rotate: false
+  xy: 126, 92
+  size: 80, 155
+  orig: 80, 155
+  offset: 0, 0
+  index: -1
+lostc_octopus_lostc_octopus_64_c_4_0.png
+  rotate: false
+  xy: 250, 246
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lostc_octopus_lostc_octopus_64_c_4_1.png
+  rotate: false
+  xy: 2, 133
+  size: 122, 114
+  orig: 122, 114
+  offset: 0, 0
+  index: -1
+lostc_octopus_lostc_octopus_64_sd_4_0.png
+  rotate: false
+  xy: 86, 57
+  size: 99, 33
+  orig: 99, 33
+  offset: 0, 0
+  index: -1
+lostc_octopus_lostc_octopus_icon_a.png
+  rotate: false
+  xy: 86, 24
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1

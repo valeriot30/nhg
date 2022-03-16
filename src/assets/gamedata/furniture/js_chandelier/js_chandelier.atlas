@@ -1,0 +1,48 @@
+
+js_chandelier.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+js_chandelier_js_chandelier_64_a_0_0.png
+  rotate: false
+  xy: 416, 37
+  size: 73, 323
+  orig: 73, 323
+  offset: 0, 0
+  index: -1
+js_chandelier_js_chandelier_64_a_0_1.png
+  rotate: false
+  xy: 317, 37
+  size: 97, 323
+  orig: 97, 323
+  offset: 0, 0
+  index: -1
+js_chandelier_js_chandelier_64_a_0_2.png
+  rotate: false
+  xy: 214, 37
+  size: 101, 323
+  orig: 101, 323
+  offset: 0, 0
+  index: -1
+js_chandelier_js_chandelier_64_a_0_3.png
+  rotate: false
+  xy: 2, 37
+  size: 104, 323
+  orig: 104, 323
+  offset: 0, 0
+  index: -1
+js_chandelier_js_chandelier_64_a_0_5.png
+  rotate: false
+  xy: 108, 37
+  size: 104, 323
+  orig: 104, 323
+  offset: 0, 0
+  index: -1
+js_chandelier_js_chandelier_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1

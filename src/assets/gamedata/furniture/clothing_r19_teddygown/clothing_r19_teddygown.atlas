@@ -1,0 +1,20 @@
+
+clothing_r19_teddygown.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r19_teddygown_clothing_r19_teddygown_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 39, 110
+  orig: 39, 110
+  offset: 0, 0
+  index: -1
+clothing_r19_teddygown_clothing_r19_teddygown_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

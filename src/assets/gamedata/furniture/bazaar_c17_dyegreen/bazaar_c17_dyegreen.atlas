@@ -1,0 +1,27 @@
+
+bazaar_c17_dyegreen.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_dyegreen_bazaar_c17_dyegreen_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 59
+  orig: 26, 59
+  offset: 0, 0
+  index: -1
+bazaar_c17_dyegreen_bazaar_c17_dyegreen_64_sd_0_0.png
+  rotate: false
+  xy: 30, 17
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+bazaar_c17_dyegreen_bazaar_c17_dyegreen_icon_a.png
+  rotate: false
+  xy: 30, 31
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

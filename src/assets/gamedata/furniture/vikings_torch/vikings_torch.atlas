@@ -1,0 +1,125 @@
+
+vikings_torch.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_torch_vikings_torch_32_b_2_6.png
+  rotate: false
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_32_b_2_6.png
+  rotate: false
+  xy: 49, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_a_2_0.png
+  rotate: false
+  xy: 77, 5
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_b_2_0.png
+  rotate: false
+  xy: 140, 39
+  size: 24, 38
+  orig: 24, 38
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_b_2_1.png
+  rotate: false
+  xy: 49, 19
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_b_2_2.png
+  rotate: false
+  xy: 113, 37
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_b_2_3.png
+  rotate: false
+  xy: 192, 55
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_b_2_4.png
+  rotate: false
+  xy: 113, 2
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_b_2_5.png
+  rotate: false
+  xy: 166, 44
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_c_2_0.png
+  rotate: false
+  xy: 50, 75
+  size: 43, 49
+  orig: 43, 49
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_c_2_1.png
+  rotate: false
+  xy: 2, 67
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_c_2_2.png
+  rotate: false
+  xy: 2, 14
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_c_2_3.png
+  rotate: false
+  xy: 187, 85
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_c_2_4.png
+  rotate: false
+  xy: 141, 80
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_c_2_5.png
+  rotate: false
+  xy: 95, 79
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_64_sd_2_0.png
+  rotate: false
+  xy: 192, 40
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+vikings_torch_vikings_torch_icon_a.png
+  rotate: false
+  xy: 234, 94
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

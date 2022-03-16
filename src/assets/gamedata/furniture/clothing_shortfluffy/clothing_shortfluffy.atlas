@@ -1,0 +1,20 @@
+
+clothing_shortfluffy.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_shortfluffy_clothing_shortfluffy_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+clothing_shortfluffy_clothing_shortfluffy_icon_a.png
+  rotate: false
+  xy: 36, 19
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

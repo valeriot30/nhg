@@ -1,0 +1,41 @@
+
+country_forestwall.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+country_forestwall_country_forestwall_64_a_2_0.png
+  rotate: false
+  xy: 2, 35
+  size: 87, 149
+  orig: 87, 149
+  offset: 0, 0
+  index: -1
+country_forestwall_country_forestwall_64_a_4_0.png
+  rotate: false
+  xy: 304, 295
+  size: 87, 149
+  orig: 87, 149
+  offset: 0, 0
+  index: -1
+country_forestwall_country_forestwall_64_b_2_0.png
+  rotate: false
+  xy: 2, 186
+  size: 149, 258
+  orig: 149, 258
+  offset: 0, 0
+  index: -1
+country_forestwall_country_forestwall_64_b_4_0.png
+  rotate: false
+  xy: 153, 186
+  size: 149, 258
+  orig: 149, 258
+  offset: 0, 0
+  index: -1
+country_forestwall_country_forestwall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 31
+  orig: 17, 31
+  offset: 0, 0
+  index: -1

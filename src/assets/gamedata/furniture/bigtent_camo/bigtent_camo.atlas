@@ -1,0 +1,132 @@
+
+bigtent_camo.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bigtent_camo_bigtent_camo_64_a_0_0.png
+  rotate: false
+  xy: 1052, 243
+  size: 62, 152
+  orig: 62, 152
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_b_0_0.png
+  rotate: false
+  xy: 511, 66
+  size: 127, 145
+  orig: 127, 145
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_c_0_0.png
+  rotate: false
+  xy: 316, 82
+  size: 193, 129
+  orig: 193, 129
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_d_0_0.png
+  rotate: false
+  xy: 1443, 389
+  size: 258, 113
+  orig: 258, 113
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_e_0_0.png
+  rotate: false
+  xy: 792, 397
+  size: 324, 105
+  orig: 324, 105
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_f_0_0.png
+  rotate: false
+  xy: 397, 378
+  size: 393, 124
+  orig: 393, 124
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_f_0_1.png
+  rotate: false
+  xy: 2, 246
+  size: 393, 256
+  orig: 393, 256
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_g_0_0.png
+  rotate: false
+  xy: 397, 213
+  size: 323, 163
+  orig: 323, 163
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_g_0_1.png
+  rotate: false
+  xy: 1118, 424
+  size: 323, 78
+  orig: 323, 78
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_h_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 312, 213
+  orig: 312, 213
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_h_0_1.png
+  rotate: false
+  xy: 1703, 436
+  size: 259, 66
+  orig: 259, 66
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_i_0_0.png
+  rotate: false
+  xy: 855, 136
+  size: 195, 259
+  orig: 195, 259
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_i_0_1.png
+  rotate: false
+  xy: 1703, 376
+  size: 195, 58
+  orig: 195, 58
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_j_0_0.png
+  rotate: false
+  xy: 722, 44
+  size: 131, 332
+  orig: 131, 332
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_j_0_1.png
+  rotate: false
+  xy: 855, 69
+  size: 131, 65
+  orig: 131, 65
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_k_0_0.png
+  rotate: false
+  xy: 640, 118
+  size: 73, 93
+  orig: 73, 93
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_64_k_0_1.png
+  rotate: false
+  xy: 1964, 450
+  size: 73, 52
+  orig: 73, 52
+  offset: 0, 0
+  index: -1
+bigtent_camo_bigtent_camo_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+vikings_basket2.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_basket2_vikings_basket2_32_a_0_0.png
+  rotate: false
+  xy: 44, 5
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+vikings_basket2_vikings_basket2_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+vikings_basket2_vikings_basket2_64_sd_0_0.png
+  rotate: false
+  xy: 44, 31
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

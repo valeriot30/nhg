@@ -1,0 +1,27 @@
+
+clothing_flowerponytail.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_flowerponytail_clothing_flowerponytail_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 56
+  orig: 41, 56
+  offset: 0, 0
+  index: -1
+clothing_flowerponytail_clothing_flowerponytail_64_sd_0_0.png
+  rotate: false
+  xy: 45, 12
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+clothing_flowerponytail_clothing_flowerponytail_icon_a.png
+  rotate: false
+  xy: 45, 28
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

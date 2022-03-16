@@ -1,0 +1,132 @@
+
+easter_r16_throne.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_r16_throne_easter_r16_throne_64_a_0_0.png
+  rotate: false
+  xy: 2, 111
+  size: 81, 143
+  orig: 81, 143
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_b_0_0.png
+  rotate: false
+  xy: 233, 214
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_b_0_1.png
+  rotate: false
+  xy: 212, 213
+  size: 19, 41
+  orig: 19, 41
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_b_0_2.png
+  rotate: false
+  xy: 212, 171
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_b_0_3.png
+  rotate: false
+  xy: 129, 9
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_c_0_0.png
+  rotate: false
+  xy: 190, 119
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_c_0_1.png
+  rotate: false
+  xy: 177, 2
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_c_0_2.png
+  rotate: false
+  xy: 190, 141
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_c_0_3.png
+  rotate: false
+  xy: 175, 25
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_d_0_1.png
+  rotate: false
+  xy: 100, 6
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_d_0_2.png
+  rotate: false
+  xy: 183, 166
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_d_0_3.png
+  rotate: false
+  xy: 183, 211
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_e_0_0.png
+  rotate: false
+  xy: 253, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_e_0_1.png
+  rotate: false
+  xy: 100, 51
+  size: 88, 98
+  orig: 88, 98
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_e_0_2.png
+  rotate: false
+  xy: 85, 151
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_e_0_3.png
+  rotate: false
+  xy: 2, 6
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_64_sd_0_0.png
+  rotate: false
+  xy: 149, 2
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+easter_r16_throne_easter_r16_throne_icon_a.png
+  rotate: false
+  xy: 149, 19
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

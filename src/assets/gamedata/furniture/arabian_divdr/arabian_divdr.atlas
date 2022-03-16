@@ -1,0 +1,55 @@
+
+arabian_divdr.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+arabian_divdr_arabian_divdr_64_a_0_0.png
+  rotate: false
+  xy: 74, 3
+  size: 38, 115
+  orig: 38, 115
+  offset: 0, 0
+  index: -1
+arabian_divdr_arabian_divdr_64_a_4_0.png
+  rotate: false
+  xy: 39, 2
+  size: 33, 116
+  orig: 33, 116
+  offset: 0, 0
+  index: -1
+arabian_divdr_arabian_divdr_64_b_0_0.png
+  rotate: false
+  xy: 73, 120
+  size: 38, 130
+  orig: 38, 130
+  offset: 0, 0
+  index: -1
+arabian_divdr_arabian_divdr_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 116
+  orig: 35, 116
+  offset: 0, 0
+  index: -1
+arabian_divdr_arabian_divdr_64_sd_0_0.png
+  rotate: false
+  xy: 2, 214
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+arabian_divdr_arabian_divdr_64_sd_4_0.png
+  rotate: false
+  xy: 2, 192
+  size: 65, 20
+  orig: 65, 20
+  offset: 0, 0
+  index: -1
+arabian_divdr_arabian_divdr_icon_a.png
+  rotate: false
+  xy: 2, 162
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1

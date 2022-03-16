@@ -1,0 +1,41 @@
+
+anc_bones.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anc_bones_anc_bones_64_a_4_0.png
+  rotate: false
+  xy: 2, 35
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+anc_bones_anc_bones_64_a_4_1.png
+  rotate: false
+  xy: 66, 35
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+anc_bones_anc_bones_64_a_4_2.png
+  rotate: false
+  xy: 127, 35
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+anc_bones_anc_bones_64_a_4_3.png
+  rotate: false
+  xy: 188, 35
+  size: 42, 63
+  orig: 42, 63
+  offset: 0, 0
+  index: -1
+anc_bones_anc_bones_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+flag_tunisia.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+flag_tunisia_flag_tunisia_64_a_2_0.png
+  rotate: false
+  xy: 2, 104
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+flag_tunisia_flag_tunisia_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+flag_tunisia_flag_tunisia_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+ads_clfloor.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_clfloor_ads_clfloor_64_a_0_0.png
+  rotate: false
+  xy: 266, 19
+  size: 262, 129
+  orig: 262, 129
+  offset: 0, 0
+  index: -1
+ads_clfloor_ads_clfloor_64_a_2_0.png
+  rotate: false
+  xy: 2, 19
+  size: 262, 129
+  orig: 262, 129
+  offset: 0, 0
+  index: -1
+ads_clfloor_ads_clfloor_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

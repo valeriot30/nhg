@@ -1,0 +1,300 @@
+
+hween_c17_handstrap.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_handstrap_hween_c17_handstrap_64_a_0_0.png
+  rotate: false
+  xy: 2, 28
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_b_0_1.png
+  rotate: false
+  xy: 273, 33
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_b_0_2.png
+  rotate: false
+  xy: 346, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_b_0_3.png
+  rotate: false
+  xy: 406, 42
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_b_0_4.png
+  rotate: false
+  xy: 34, 8
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_b_0_5.png
+  rotate: false
+  xy: 376, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_c_0_1.png
+  rotate: false
+  xy: 255, 33
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_c_0_2.png
+  rotate: false
+  xy: 361, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_c_0_3.png
+  rotate: false
+  xy: 20, 6
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_c_0_4.png
+  rotate: false
+  xy: 420, 44
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_c_0_5.png
+  rotate: false
+  xy: 391, 37
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_d_0_1.png
+  rotate: false
+  xy: 104, 26
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_d_0_2.png
+  rotate: false
+  xy: 127, 27
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_d_0_3.png
+  rotate: false
+  xy: 235, 31
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_d_0_4.png
+  rotate: false
+  xy: 310, 37
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_d_0_5.png
+  rotate: false
+  xy: 328, 39
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_d_0_6.png
+  rotate: false
+  xy: 149, 31
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_e_0_1.png
+  rotate: false
+  xy: 171, 32
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_e_0_2.png
+  rotate: false
+  xy: 215, 33
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_e_0_3.png
+  rotate: false
+  xy: 291, 36
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_e_0_4.png
+  rotate: false
+  xy: 2, 3
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_e_0_5.png
+  rotate: false
+  xy: 193, 34
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_f_0_1.png
+  rotate: false
+  xy: 87, 15
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_f_0_2.png
+  rotate: false
+  xy: 491, 53
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_f_0_3.png
+  rotate: false
+  xy: 68, 2
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_f_0_4.png
+  rotate: false
+  xy: 434, 52
+  size: 17, 10
+  orig: 17, 10
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_f_0_5.png
+  rotate: false
+  xy: 96, 2
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_g_0_1.png
+  rotate: false
+  xy: 472, 53
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_g_0_2.png
+  rotate: false
+  xy: 149, 20
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_g_0_3.png
+  rotate: false
+  xy: 69, 14
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_g_0_4.png
+  rotate: false
+  xy: 453, 53
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_g_0_5.png
+  rotate: false
+  xy: 105, 15
+  size: 15, 9
+  orig: 15, 9
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_h_0_1.png
+  rotate: false
+  xy: 48, 17
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_h_0_2.png
+  rotate: false
+  xy: 48, 8
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_h_0_3.png
+  rotate: false
+  xy: 434, 41
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_h_0_4.png
+  rotate: false
+  xy: 70, 26
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_i_0_0.png
+  rotate: false
+  xy: 101, 33
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_i_0_1.png
+  rotate: false
+  xy: 89, 26
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_i_0_2.png
+  rotate: false
+  xy: 166, 21
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_i_0_3.png
+  rotate: false
+  xy: 113, 5
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_64_i_0_4.png
+  rotate: false
+  xy: 86, 2
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+hween_c17_handstrap_hween_c17_handstrap_icon_a.png
+  rotate: false
+  xy: 70, 36
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1

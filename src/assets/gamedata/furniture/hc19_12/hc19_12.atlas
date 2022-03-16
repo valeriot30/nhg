@@ -1,0 +1,34 @@
+
+hc19_12.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc19_12_hc19_12_64_a_2_0.png
+  rotate: false
+  xy: 2, 142
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+hc19_12_hc19_12_64_a_4_0.png
+  rotate: false
+  xy: 2, 64
+  size: 54, 76
+  orig: 54, 76
+  offset: 0, 0
+  index: -1
+hc19_12_hc19_12_64_sd_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+hc19_12_hc19_12_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

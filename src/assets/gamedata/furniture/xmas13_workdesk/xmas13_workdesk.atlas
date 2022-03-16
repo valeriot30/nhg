@@ -1,0 +1,48 @@
+
+xmas13_workdesk.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas13_workdesk_xmas13_workdesk_64_a_2_0.png
+  rotate: false
+  xy: 235, 46
+  size: 61, 76
+  orig: 61, 76
+  offset: 0, 0
+  index: -1
+xmas13_workdesk_xmas13_workdesk_64_a_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+xmas13_workdesk_xmas13_workdesk_64_b_2_0.png
+  rotate: false
+  xy: 102, 42
+  size: 65, 80
+  orig: 65, 80
+  offset: 0, 0
+  index: -1
+xmas13_workdesk_xmas13_workdesk_64_b_6_0.png
+  rotate: false
+  xy: 169, 44
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+xmas13_workdesk_xmas13_workdesk_64_sd_2_0.png
+  rotate: false
+  xy: 2, 73
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+xmas13_workdesk_xmas13_workdesk_icon_a.png
+  rotate: false
+  xy: 67, 41
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

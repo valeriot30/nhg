@@ -1,0 +1,97 @@
+
+easter_c19_babyent2.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_0.png
+  rotate: false
+  xy: 92, 2
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_1.png
+  rotate: false
+  xy: 62, 2
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_10.png
+  rotate: false
+  xy: 269, 4
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_2.png
+  rotate: false
+  xy: 152, 3
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_3.png
+  rotate: false
+  xy: 298, 4
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_4.png
+  rotate: false
+  xy: 211, 3
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_5.png
+  rotate: false
+  xy: 182, 3
+  size: 27, 50
+  orig: 27, 50
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_6.png
+  rotate: false
+  xy: 32, 2
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_7.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 51
+  orig: 28, 51
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_8.png
+  rotate: false
+  xy: 122, 3
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_a_0_9.png
+  rotate: false
+  xy: 240, 4
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_64_sd_0_0.png
+  rotate: false
+  xy: 348, 35
+  size: 25, 18
+  orig: 25, 18
+  offset: 0, 0
+  index: -1
+easter_c19_babyent2_easter_c19_babyent2_icon_a.png
+  rotate: false
+  xy: 327, 23
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

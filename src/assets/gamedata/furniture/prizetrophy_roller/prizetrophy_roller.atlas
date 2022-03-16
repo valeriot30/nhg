@@ -1,0 +1,34 @@
+
+prizetrophy_roller.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prizetrophy_roller_prizetrophy_roller_64_a_0_0.png
+  rotate: false
+  xy: 2, 48
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+prizetrophy_roller_prizetrophy_roller_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+prizetrophy_roller_prizetrophy_roller_64_c_0_0.png
+  rotate: false
+  xy: 2, 109
+  size: 32, 83
+  orig: 32, 83
+  offset: 0, 0
+  index: -1
+prizetrophy_roller_prizetrophy_roller_icon_a.png
+  rotate: false
+  xy: 36, 166
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ads_twi_paint.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_twi_paint_ads_twi_paint_64_a_2_0.png
+  rotate: false
+  xy: 162, 75
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+ads_twi_paint_ads_twi_paint_64_a_4_0.png
+  rotate: false
+  xy: 162, 24
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+ads_twi_paint_ads_twi_paint_64_b_2_0.png
+  rotate: false
+  xy: 82, 34
+  size: 78, 90
+  orig: 78, 90
+  offset: 0, 0
+  index: -1
+ads_twi_paint_ads_twi_paint_64_b_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 78, 90
+  orig: 78, 90
+  offset: 0, 0
+  index: -1
+ads_twi_paint_ads_twi_paint_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

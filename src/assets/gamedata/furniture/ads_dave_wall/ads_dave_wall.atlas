@@ -1,0 +1,27 @@
+
+ads_dave_wall.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_dave_wall_ads_dave_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 116
+  size: 39, 112
+  orig: 39, 112
+  offset: 0, 0
+  index: -1
+ads_dave_wall_ads_dave_wall_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 112
+  orig: 39, 112
+  offset: 0, 0
+  index: -1
+ads_dave_wall_ads_dave_wall_icon_a.png
+  rotate: false
+  xy: 43, 199
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1

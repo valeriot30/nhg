@@ -1,0 +1,90 @@
+
+wf_maze.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wf_maze_wf_maze_64_a_0_0.png
+  rotate: false
+  xy: 319, 2
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_0_1.png
+  rotate: false
+  xy: 560, 2
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_0_2.png
+  rotate: false
+  xy: 66, 2
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_0_3.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_2_0.png
+  rotate: false
+  xy: 380, 2
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_2_1.png
+  rotate: false
+  xy: 194, 4
+  size: 62, 42
+  orig: 62, 42
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_2_3.png
+  rotate: false
+  xy: 130, 2
+  size: 62, 44
+  orig: 62, 44
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_4_1.png
+  rotate: false
+  xy: 610, 2
+  size: 48, 44
+  orig: 48, 44
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_4_3.png
+  rotate: false
+  xy: 441, 2
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_6_1.png
+  rotate: false
+  xy: 502, 10
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_64_a_6_3.png
+  rotate: false
+  xy: 258, 2
+  size: 59, 44
+  orig: 59, 44
+  offset: 0, 0
+  index: -1
+wf_maze_wf_maze_icon_a.png
+  rotate: false
+  xy: 660, 25
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

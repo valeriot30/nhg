@@ -1,0 +1,27 @@
+
+hc2_cart.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc2_cart_hc2_cart_64_a_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 71, 79
+  orig: 71, 79
+  offset: 0, 0
+  index: -1
+hc2_cart_hc2_cart_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+hc2_cart_hc2_cart_icon_a.png
+  rotate: false
+  xy: 75, 71
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1

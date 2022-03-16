@@ -1,0 +1,27 @@
+
+bazaar_c17_chillies.png
+size: 32,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_chillies_bazaar_c17_chillies_64_a_0_0.png
+  rotate: false
+  xy: 2, 46
+  size: 23, 112
+  orig: 23, 112
+  offset: 0, 0
+  index: -1
+bazaar_c17_chillies_bazaar_c17_chillies_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+bazaar_c17_chillies_bazaar_c17_chillies_icon_a.png
+  rotate: false
+  xy: 2, 14
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

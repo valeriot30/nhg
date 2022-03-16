@@ -1,0 +1,160 @@
+
+tokyo_c18_bigbillboard.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_0.png
+  rotate: false
+  xy: 548, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_1.png
+  rotate: false
+  xy: 639, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_10.png
+  rotate: false
+  xy: 275, 39
+  size: 89, 166
+  orig: 89, 166
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_12.png
+  rotate: false
+  xy: 457, 39
+  size: 89, 166
+  orig: 89, 166
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_13.png
+  rotate: false
+  xy: 366, 39
+  size: 89, 166
+  orig: 89, 166
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_15.png
+  rotate: false
+  xy: 184, 39
+  size: 89, 166
+  orig: 89, 166
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_16.png
+  rotate: false
+  xy: 93, 39
+  size: 89, 166
+  orig: 89, 166
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_17.png
+  rotate: false
+  xy: 2, 39
+  size: 89, 166
+  orig: 89, 166
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_2.png
+  rotate: false
+  xy: 730, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_3.png
+  rotate: false
+  xy: 821, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_4.png
+  rotate: false
+  xy: 912, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_5.png
+  rotate: false
+  xy: 1003, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_6.png
+  rotate: false
+  xy: 1094, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_7.png
+  rotate: false
+  xy: 1185, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_8.png
+  rotate: false
+  xy: 1276, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_a_2_9.png
+  rotate: false
+  xy: 1367, 41
+  size: 89, 164
+  orig: 89, 164
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_b_2_0.png
+  rotate: false
+  xy: 1610, 53
+  size: 60, 152
+  orig: 60, 152
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_c_2_0.png
+  rotate: false
+  xy: 1672, 53
+  size: 58, 152
+  orig: 58, 152
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_d_2_0.png
+  rotate: false
+  xy: 1534, 39
+  size: 74, 166
+  orig: 74, 166
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_d_2_1.png
+  rotate: false
+  xy: 1458, 39
+  size: 74, 166
+  orig: 74, 166
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+tokyo_c18_bigbillboard_tokyo_c18_bigbillboard_icon_a.png
+  rotate: false
+  xy: 1732, 175
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

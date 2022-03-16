@@ -1,0 +1,20 @@
+
+clothing_r19_messybangs.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r19_messybangs_clothing_r19_messybangs_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+clothing_r19_messybangs_clothing_r19_messybangs_icon_a.png
+  rotate: false
+  xy: 35, 21
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

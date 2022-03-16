@@ -1,0 +1,559 @@
+
+easter_c16_house.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c16_house_easter_c16_house_64_a_4_1.png
+  rotate: false
+  xy: 2876, 80
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_b_4_0.png
+  rotate: false
+  xy: 2092, 2
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_b_4_1.png
+  rotate: false
+  xy: 2, 4
+  size: 131, 59
+  orig: 131, 59
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_c_4_0.png
+  rotate: false
+  xy: 2092, 32
+  size: 152, 174
+  orig: 152, 174
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_c_4_1.png
+  rotate: false
+  xy: 135, 4
+  size: 130, 59
+  orig: 130, 59
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_d_4_0.png
+  rotate: false
+  xy: 193, 84
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_d_4_1.png
+  rotate: false
+  xy: 2489, 4
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_e_4_0.png
+  rotate: false
+  xy: 3229, 97
+  size: 78, 157
+  orig: 78, 157
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_e_4_1.png
+  rotate: false
+  xy: 2945, 79
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_f_4_1.png
+  rotate: false
+  xy: 1579, 188
+  size: 124, 66
+  orig: 124, 66
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_0.png
+  rotate: false
+  xy: 193, 87
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_1.png
+  rotate: false
+  xy: 2741, 5
+  size: 122, 54
+  orig: 122, 54
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_10.png
+  rotate: false
+  xy: 858, 9
+  size: 200, 121
+  orig: 200, 121
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_11.png
+  rotate: false
+  xy: 1239, 31
+  size: 149, 140
+  orig: 149, 140
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_12.png
+  rotate: false
+  xy: 193, 90
+  size: 198, 164
+  orig: 198, 164
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_2.png
+  rotate: false
+  xy: 1705, 187
+  size: 117, 67
+  orig: 117, 67
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_3.png
+  rotate: false
+  xy: 1957, 204
+  size: 120, 50
+  orig: 120, 50
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_4.png
+  rotate: false
+  xy: 2079, 208
+  size: 124, 46
+  orig: 124, 46
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_5.png
+  rotate: false
+  xy: 1824, 201
+  size: 131, 53
+  orig: 131, 53
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_6.png
+  rotate: false
+  xy: 2618, 2
+  size: 121, 57
+  orig: 121, 57
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_7.png
+  rotate: false
+  xy: 801, 132
+  size: 205, 122
+  orig: 205, 122
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_8.png
+  rotate: false
+  xy: 597, 117
+  size: 202, 137
+  orig: 202, 137
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_g_4_9.png
+  rotate: false
+  xy: 393, 97
+  size: 202, 157
+  orig: 202, 157
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_h_4_1.png
+  rotate: false
+  xy: 2876, 131
+  size: 105, 41
+  orig: 105, 41
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_h_4_2.png
+  rotate: false
+  xy: 2865, 37
+  size: 109, 40
+  orig: 109, 40
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_h_4_3.png
+  rotate: false
+  xy: 2205, 215
+  size: 114, 39
+  orig: 114, 39
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_h_4_4.png
+  rotate: false
+  xy: 2321, 219
+  size: 110, 35
+  orig: 110, 35
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_h_4_5.png
+  rotate: false
+  xy: 720, 13
+  size: 136, 102
+  orig: 136, 102
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_h_4_6.png
+  rotate: false
+  xy: 2489, 150
+  size: 132, 104
+  orig: 132, 104
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_h_4_7.png
+  rotate: false
+  xy: 2489, 42
+  size: 127, 106
+  orig: 127, 106
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_h_4_8.png
+  rotate: false
+  xy: 2618, 61
+  size: 127, 87
+  orig: 127, 87
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_1.png
+  rotate: false
+  xy: 267, 4
+  size: 147, 84
+  orig: 147, 84
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_10.png
+  rotate: false
+  xy: 1569, 10
+  size: 170, 175
+  orig: 170, 175
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_11.png
+  rotate: false
+  xy: 1390, 7
+  size: 177, 171
+  orig: 177, 171
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_12.png
+  rotate: false
+  xy: 1916, 6
+  size: 174, 193
+  orig: 174, 193
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_2.png
+  rotate: false
+  xy: 1008, 158
+  size: 144, 96
+  orig: 144, 96
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_3.png
+  rotate: false
+  xy: 567, 17
+  size: 151, 78
+  orig: 151, 78
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_4.png
+  rotate: false
+  xy: 1300, 180
+  size: 149, 74
+  orig: 149, 74
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_5.png
+  rotate: false
+  xy: 1154, 173
+  size: 144, 81
+  orig: 144, 81
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_6.png
+  rotate: false
+  xy: 416, 7
+  size: 149, 88
+  orig: 149, 88
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_7.png
+  rotate: false
+  xy: 1060, 6
+  size: 177, 150
+  orig: 177, 150
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_8.png
+  rotate: false
+  xy: 1741, 15
+  size: 173, 170
+  orig: 173, 170
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_i_4_9.png
+  rotate: false
+  xy: 2, 65
+  size: 189, 189
+  orig: 189, 189
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_j_4_1.png
+  rotate: false
+  xy: 2976, 2
+  size: 29, 75
+  orig: 29, 75
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_j_4_2.png
+  rotate: false
+  xy: 3481, 5
+  size: 41, 97
+  orig: 41, 97
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_1.png
+  rotate: false
+  xy: 2985, 190
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_10.png
+  rotate: false
+  xy: 3575, 129
+  size: 44, 125
+  orig: 44, 125
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_11.png
+  rotate: false
+  xy: 3530, 105
+  size: 43, 149
+  orig: 43, 149
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_12.png
+  rotate: false
+  xy: 3436, 78
+  size: 43, 176
+  orig: 43, 176
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_2.png
+  rotate: false
+  xy: 2882, 178
+  size: 31, 76
+  orig: 31, 76
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_3.png
+  rotate: false
+  xy: 3019, 196
+  size: 33, 58
+  orig: 33, 58
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_4.png
+  rotate: false
+  xy: 2983, 135
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_5.png
+  rotate: false
+  xy: 2915, 194
+  size: 35, 60
+  orig: 35, 60
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_6.png
+  rotate: false
+  xy: 2952, 188
+  size: 31, 66
+  orig: 31, 66
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_7.png
+  rotate: false
+  xy: 3621, 123
+  size: 40, 131
+  orig: 40, 131
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_8.png
+  rotate: false
+  xy: 3481, 104
+  size: 47, 150
+  orig: 47, 150
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_k_4_9.png
+  rotate: false
+  xy: 3385, 83
+  size: 49, 171
+  orig: 49, 171
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_l_4_1.png
+  rotate: false
+  xy: 3030, 98
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_l_4_2.png
+  rotate: false
+  xy: 3020, 147
+  size: 25, 47
+  orig: 25, 47
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_l_4_3.png
+  rotate: false
+  xy: 3000, 88
+  size: 28, 45
+  orig: 28, 45
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_l_4_4.png
+  rotate: false
+  xy: 3047, 153
+  size: 24, 41
+  orig: 24, 41
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_l_4_5.png
+  rotate: false
+  xy: 3042, 10
+  size: 31, 86
+  orig: 31, 86
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_l_4_6.png
+  rotate: false
+  xy: 3575, 21
+  size: 32, 106
+  orig: 32, 106
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_l_4_7.png
+  rotate: false
+  xy: 3524, 6
+  size: 35, 96
+  orig: 35, 96
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_l_4_8.png
+  rotate: false
+  xy: 3007, 3
+  size: 33, 83
+  orig: 33, 83
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_1.png
+  rotate: false
+  xy: 2747, 66
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_10.png
+  rotate: false
+  xy: 3073, 98
+  size: 76, 156
+  orig: 76, 156
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_11.png
+  rotate: false
+  xy: 3151, 75
+  size: 76, 179
+  orig: 76, 179
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_12.png
+  rotate: false
+  xy: 2329, 10
+  size: 76, 207
+  orig: 76, 207
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_2.png
+  rotate: false
+  xy: 2623, 151
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_3.png
+  rotate: false
+  xy: 2811, 79
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_4.png
+  rotate: false
+  xy: 2816, 174
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_5.png
+  rotate: false
+  xy: 2751, 166
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_6.png
+  rotate: false
+  xy: 2686, 159
+  size: 63, 95
+  orig: 63, 95
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_7.png
+  rotate: false
+  xy: 3309, 92
+  size: 74, 162
+  orig: 74, 162
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_8.png
+  rotate: false
+  xy: 2407, 36
+  size: 80, 181
+  orig: 80, 181
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_m_4_9.png
+  rotate: false
+  xy: 2246, 12
+  size: 81, 201
+  orig: 81, 201
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_64_sd_4_0.png
+  rotate: false
+  xy: 1451, 187
+  size: 126, 67
+  orig: 126, 67
+  offset: 0, 0
+  index: -1
+easter_c16_house_easter_c16_house_icon_a.png
+  rotate: false
+  xy: 2407, 4
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

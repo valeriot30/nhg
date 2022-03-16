@@ -1,0 +1,27 @@
+
+pastel_c19_cupboard.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastel_c19_cupboard_pastel_c19_cupboard_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 116
+  orig: 62, 116
+  offset: 0, 0
+  index: -1
+pastel_c19_cupboard_pastel_c19_cupboard_64_sd_0_0.png
+  rotate: false
+  xy: 66, 87
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+pastel_c19_cupboard_pastel_c19_cupboard_icon_a.png
+  rotate: false
+  xy: 66, 55
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

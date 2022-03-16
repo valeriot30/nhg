@@ -1,0 +1,34 @@
+
+badge_display3.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+badge_display3_badge_display3_64_a_2_0.png
+  rotate: false
+  xy: 2, 4
+  size: 64, 99
+  orig: 64, 99
+  offset: 0, 0
+  index: -1
+badge_display3_badge_display3_64_b_2_0.png
+  rotate: false
+  xy: 68, 36
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+badge_display3_badge_display3_64_sd_2_0.png
+  rotate: false
+  xy: 68, 78
+  size: 58, 25
+  orig: 58, 25
+  offset: 0, 0
+  index: -1
+badge_display3_badge_display3_icon_a.png
+  rotate: false
+  xy: 68, 2
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

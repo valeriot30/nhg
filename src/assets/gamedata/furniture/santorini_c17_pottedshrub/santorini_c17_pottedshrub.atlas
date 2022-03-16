@@ -1,0 +1,34 @@
+
+santorini_c17_pottedshrub.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+santorini_c17_pottedshrub_santorini_c17_pottedshrub_64_a_0_0.png
+  rotate: false
+  xy: 2, 96
+  size: 46, 128
+  orig: 46, 128
+  offset: 0, 0
+  index: -1
+santorini_c17_pottedshrub_santorini_c17_pottedshrub_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 92
+  orig: 42, 92
+  offset: 0, 0
+  index: -1
+santorini_c17_pottedshrub_santorini_c17_pottedshrub_64_sd_0_0.png
+  rotate: false
+  xy: 50, 207
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+santorini_c17_pottedshrub_santorini_c17_pottedshrub_icon_a.png
+  rotate: false
+  xy: 50, 175
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

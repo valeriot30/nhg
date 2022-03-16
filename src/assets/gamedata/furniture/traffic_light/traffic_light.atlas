@@ -1,0 +1,55 @@
+
+traffic_light.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+traffic_light_traffic_light_64_a_2_0.png
+  rotate: false
+  xy: 2, 83
+  size: 38, 102
+  orig: 38, 102
+  offset: 0, 0
+  index: -1
+traffic_light_traffic_light_64_b_2_0.png
+  rotate: false
+  xy: 2, 47
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+traffic_light_traffic_light_64_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+traffic_light_traffic_light_64_c_2_1.png
+  rotate: false
+  xy: 2, 23
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+traffic_light_traffic_light_64_sd_0_0.png
+  rotate: false
+  xy: 28, 64
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+traffic_light_traffic_light_icon_a.png
+  rotate: false
+  xy: 42, 154
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+traffic_light_traffic_light_icon_b.png
+  rotate: false
+  xy: 28, 52
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1

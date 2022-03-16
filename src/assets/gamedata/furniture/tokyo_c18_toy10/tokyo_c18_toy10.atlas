@@ -1,0 +1,27 @@
+
+tokyo_c18_toy10.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_toy10_tokyo_c18_toy10_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 57
+  orig: 44, 57
+  offset: 0, 0
+  index: -1
+tokyo_c18_toy10_tokyo_c18_toy10_64_sd_0_0.png
+  rotate: false
+  xy: 74, 45
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+tokyo_c18_toy10_tokyo_c18_toy10_icon_a.png
+  rotate: false
+  xy: 48, 29
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

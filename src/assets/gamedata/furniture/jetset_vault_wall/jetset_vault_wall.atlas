@@ -1,0 +1,41 @@
+
+jetset_vault_wall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jetset_vault_wall_jetset_vault_wall_64_a_0_0.png
+  rotate: false
+  xy: 54, 32
+  size: 50, 152
+  orig: 50, 152
+  offset: 0, 0
+  index: -1
+jetset_vault_wall_jetset_vault_wall_64_a_0_1.png
+  rotate: false
+  xy: 2, 32
+  size: 50, 152
+  orig: 50, 152
+  offset: 0, 0
+  index: -1
+jetset_vault_wall_jetset_vault_wall_64_b_0_0.png
+  rotate: false
+  xy: 158, 33
+  size: 50, 151
+  orig: 50, 151
+  offset: 0, 0
+  index: -1
+jetset_vault_wall_jetset_vault_wall_64_b_0_1.png
+  rotate: false
+  xy: 106, 33
+  size: 50, 151
+  orig: 50, 151
+  offset: 0, 0
+  index: -1
+jetset_vault_wall_jetset_vault_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1

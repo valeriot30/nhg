@@ -1,0 +1,48 @@
+
+lidowall1.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lidowall1_lidowall1_64_a_2_0.png
+  rotate: false
+  xy: 170, 69
+  size: 31, 303
+  orig: 31, 303
+  offset: 0, 0
+  index: -1
+lidowall1_lidowall1_64_b_2_0.png
+  rotate: false
+  xy: 135, 51
+  size: 33, 321
+  orig: 33, 321
+  offset: 0, 0
+  index: -1
+lidowall1_lidowall1_64_c_2_0.png
+  rotate: false
+  xy: 101, 36
+  size: 32, 336
+  orig: 32, 336
+  offset: 0, 0
+  index: -1
+lidowall1_lidowall1_64_d_2_0.png
+  rotate: false
+  xy: 67, 36
+  size: 32, 336
+  orig: 32, 336
+  offset: 0, 0
+  index: -1
+lidowall1_lidowall1_64_e_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 63, 336
+  orig: 63, 336
+  offset: 0, 0
+  index: -1
+lidowall1_lidowall1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,433 @@
+
+bb_dragon.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bb_dragon_bb_dragon_32_f_0_0.png
+  rotate: false
+  xy: 183, 106
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_32_f_0_0.png
+  rotate: false
+  xy: 186, 106
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_32_f_0_0.png
+  rotate: false
+  xy: 189, 106
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_32_f_0_0.png
+  rotate: false
+  xy: 57, 8
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_a_0_0.png
+  rotate: false
+  xy: 471, 53
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_a_0_1.png
+  rotate: false
+  xy: 130, 106
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_a_0_2.png
+  rotate: false
+  xy: 524, 42
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_a_0_3.png
+  rotate: false
+  xy: 778, 106
+  size: 51, 49
+  orig: 51, 49
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_a_0_7.png
+  rotate: false
+  xy: 886, 161
+  size: 48, 92
+  orig: 48, 92
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_a_0_8.png
+  rotate: false
+  xy: 728, 146
+  size: 48, 107
+  orig: 48, 107
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_a_0_9.png
+  rotate: false
+  xy: 2, 122
+  size: 59, 131
+  orig: 59, 131
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_0.png
+  rotate: false
+  xy: 318, 103
+  size: 57, 54
+  orig: 57, 54
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_1.png
+  rotate: false
+  xy: 936, 112
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_2.png
+  rotate: false
+  xy: 420, 61
+  size: 49, 57
+  orig: 49, 57
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_3.png
+  rotate: false
+  xy: 886, 61
+  size: 35, 57
+  orig: 35, 57
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_4.png
+  rotate: false
+  xy: 611, 30
+  size: 37, 57
+  orig: 37, 57
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_5.png
+  rotate: false
+  xy: 278, 32
+  size: 38, 76
+  orig: 38, 76
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_6.png
+  rotate: false
+  xy: 57, 11
+  size: 40, 93
+  orig: 40, 93
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_7.png
+  rotate: false
+  xy: 560, 147
+  size: 57, 106
+  orig: 57, 106
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_8.png
+  rotate: false
+  xy: 619, 140
+  size: 53, 113
+  orig: 53, 113
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_b_0_9.png
+  rotate: false
+  xy: 2, 2
+  size: 53, 118
+  orig: 53, 118
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_c_0_0.png
+  rotate: false
+  xy: 613, 89
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_c_0_1.png
+  rotate: false
+  xy: 553, 93
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_c_0_2.png
+  rotate: false
+  xy: 493, 103
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_c_0_3.png
+  rotate: false
+  xy: 134, 30
+  size: 58, 74
+  orig: 58, 74
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_c_0_4.png
+  rotate: false
+  xy: 500, 167
+  size: 58, 86
+  orig: 58, 86
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_c_0_5.png
+  rotate: false
+  xy: 778, 157
+  size: 52, 96
+  orig: 52, 96
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_c_0_6.png
+  rotate: false
+  xy: 674, 147
+  size: 52, 106
+  orig: 52, 106
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_c_0_7.png
+  rotate: false
+  xy: 832, 158
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_c_0_8.png
+  rotate: false
+  xy: 832, 103
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_d_0_1.png
+  rotate: false
+  xy: 994, 175
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_d_0_2.png
+  rotate: false
+  xy: 994, 190
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_d_0_3.png
+  rotate: false
+  xy: 987, 49
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_d_0_4.png
+  rotate: false
+  xy: 471, 105
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_d_0_6.png
+  rotate: false
+  xy: 99, 11
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_d_0_7.png
+  rotate: false
+  xy: 385, 36
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_e_0_1.png
+  rotate: false
+  xy: 577, 31
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_e_0_2.png
+  rotate: false
+  xy: 236, 28
+  size: 40, 79
+  orig: 40, 79
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_e_0_3.png
+  rotate: false
+  xy: 99, 24
+  size: 33, 80
+  orig: 33, 80
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_e_0_4.png
+  rotate: false
+  xy: 318, 31
+  size: 33, 70
+  orig: 33, 70
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_e_0_5.png
+  rotate: false
+  xy: 955, 45
+  size: 30, 65
+  orig: 30, 65
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_e_0_6.png
+  rotate: false
+  xy: 923, 46
+  size: 30, 64
+  orig: 30, 64
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_e_0_7.png
+  rotate: false
+  xy: 353, 35
+  size: 30, 66
+  orig: 30, 66
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_e_0_8.png
+  rotate: false
+  xy: 385, 54
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_f_0_1.png
+  rotate: false
+  xy: 412, 145
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_f_0_2.png
+  rotate: false
+  xy: 987, 77
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_f_0_3.png
+  rotate: false
+  xy: 377, 122
+  size: 33, 36
+  orig: 33, 36
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_f_0_4.png
+  rotate: false
+  xy: 886, 120
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_f_0_5.png
+  rotate: false
+  xy: 427, 120
+  size: 64, 46
+  orig: 64, 46
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_f_0_6.png
+  rotate: false
+  xy: 183, 109
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_f_0_7.png
+  rotate: false
+  xy: 63, 106
+  size: 65, 49
+  orig: 65, 49
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_f_0_8.png
+  rotate: false
+  xy: 250, 110
+  size: 64, 47
+  orig: 64, 47
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_g_0_1.png
+  rotate: false
+  xy: 650, 28
+  size: 31, 59
+  orig: 31, 59
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_g_0_2.png
+  rotate: false
+  xy: 194, 28
+  size: 40, 79
+  orig: 40, 79
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_g_0_3.png
+  rotate: false
+  xy: 936, 171
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_g_0_4.png
+  rotate: false
+  xy: 427, 168
+  size: 71, 85
+  orig: 71, 85
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_g_0_5.png
+  rotate: false
+  xy: 247, 159
+  size: 89, 94
+  orig: 89, 94
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_g_0_6.png
+  rotate: false
+  xy: 155, 159
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_g_0_7.png
+  rotate: false
+  xy: 63, 157
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_64_g_0_8.png
+  rotate: false
+  xy: 338, 160
+  size: 87, 93
+  orig: 87, 93
+  offset: 0, 0
+  index: -1
+bb_dragon_bb_dragon_icon_a.png
+  rotate: false
+  xy: 994, 223
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

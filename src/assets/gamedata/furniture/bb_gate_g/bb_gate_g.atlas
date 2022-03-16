@@ -1,0 +1,83 @@
+
+bb_gate_g.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bb_gate_g_bb_gate_g_64_a_2_0.png
+  rotate: false
+  xy: 111, 113
+  size: 37, 139
+  orig: 37, 139
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 106
+  orig: 42, 106
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_64_c_2_0.png
+  rotate: false
+  xy: 2, 110
+  size: 58, 142
+  orig: 58, 142
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_64_d_2_0.png
+  rotate: false
+  xy: 62, 113
+  size: 47, 139
+  orig: 47, 139
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_64_e_2_0.png
+  rotate: false
+  xy: 150, 182
+  size: 16, 70
+  orig: 16, 70
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_64_e_2_1.png
+  rotate: false
+  xy: 46, 38
+  size: 14, 70
+  orig: 14, 70
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_64_e_2_2.png
+  rotate: false
+  xy: 78, 41
+  size: 14, 70
+  orig: 14, 70
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_64_e_2_3.png
+  rotate: false
+  xy: 184, 182
+  size: 14, 70
+  orig: 14, 70
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_64_e_2_4.png
+  rotate: false
+  xy: 62, 41
+  size: 14, 70
+  orig: 14, 70
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_64_e_2_5.png
+  rotate: false
+  xy: 168, 182
+  size: 14, 70
+  orig: 14, 70
+  offset: 0, 0
+  index: -1
+bb_gate_g_bb_gate_g_icon_a.png
+  rotate: false
+  xy: 150, 152
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1

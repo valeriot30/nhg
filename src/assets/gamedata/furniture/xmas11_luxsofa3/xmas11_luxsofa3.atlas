@@ -1,0 +1,69 @@
+
+xmas11_luxsofa3.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas11_luxsofa3_xmas11_luxsofa3_64_a_2_0.png
+  rotate: false
+  xy: 2, 51
+  size: 83, 72
+  orig: 83, 72
+  offset: 0, 0
+  index: -1
+xmas11_luxsofa3_xmas11_luxsofa3_64_a_6_0.png
+  rotate: false
+  xy: 2, 10
+  size: 80, 39
+  orig: 80, 39
+  offset: 0, 0
+  index: -1
+xmas11_luxsofa3_xmas11_luxsofa3_64_b_2_0.png
+  rotate: false
+  xy: 87, 55
+  size: 76, 68
+  orig: 76, 68
+  offset: 0, 0
+  index: -1
+xmas11_luxsofa3_xmas11_luxsofa3_64_b_6_0.png
+  rotate: false
+  xy: 84, 4
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+xmas11_luxsofa3_xmas11_luxsofa3_64_c_2_0.png
+  rotate: false
+  xy: 177, 10
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+xmas11_luxsofa3_xmas11_luxsofa3_64_c_6_0.png
+  rotate: false
+  xy: 165, 67
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+xmas11_luxsofa3_xmas11_luxsofa3_64_d_2_0.png
+  rotate: false
+  xy: 2, 7
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+xmas11_luxsofa3_xmas11_luxsofa3_64_d_6_0.png
+  rotate: false
+  xy: 124, 2
+  size: 51, 51
+  orig: 51, 51
+  offset: 0, 0
+  index: -1
+xmas11_luxsofa3_xmas11_luxsofa3_icon_a.png
+  rotate: false
+  xy: 84, 25
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1

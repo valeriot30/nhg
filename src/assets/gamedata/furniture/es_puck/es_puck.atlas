@@ -1,0 +1,13 @@
+
+es_puck.png
+size: 32,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+es_puck_es_puck_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1

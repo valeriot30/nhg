@@ -1,0 +1,62 @@
+
+ads_frankb.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_frankb_ads_frankb_64_a_4_0.png
+  rotate: false
+  xy: 2, 70
+  size: 24, 54
+  orig: 24, 54
+  offset: 0, 0
+  index: -1
+ads_frankb_ads_frankb_64_b_4_0.png
+  rotate: false
+  xy: 2, 21
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+ads_frankb_ads_frankb_64_c_4_0.png
+  rotate: false
+  xy: 2, 126
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+ads_frankb_ads_frankb_64_d_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_frankb_ads_frankb_64_e_4_0.png
+  rotate: false
+  xy: 49, 249
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_frankb_ads_frankb_64_e_4_1.png
+  rotate: false
+  xy: 2, 181
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+ads_frankb_ads_frankb_64_sd_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+ads_frankb_ads_frankb_icon_a.png
+  rotate: false
+  xy: 28, 107
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1

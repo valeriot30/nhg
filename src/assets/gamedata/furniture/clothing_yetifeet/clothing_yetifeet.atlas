@@ -1,0 +1,27 @@
+
+clothing_yetifeet.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_yetifeet_clothing_yetifeet_64_a_0_0.png
+  rotate: false
+  xy: 2, 17
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+clothing_yetifeet_clothing_yetifeet_64_sd_0_0.png
+  rotate: false
+  xy: 52, 31
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+clothing_yetifeet_clothing_yetifeet_icon_a.png
+  rotate: false
+  xy: 52, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

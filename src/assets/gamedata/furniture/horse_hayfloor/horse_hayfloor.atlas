@@ -1,0 +1,41 @@
+
+horse_hayfloor.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+horse_hayfloor_horse_hayfloor_64_a_0_0.png
+  rotate: false
+  xy: 137, 54
+  size: 131, 71
+  orig: 131, 71
+  offset: 0, 0
+  index: -1
+horse_hayfloor_horse_hayfloor_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+horse_hayfloor_horse_hayfloor_64_b_0_0.png
+  rotate: false
+  xy: 2, 52
+  size: 133, 73
+  orig: 133, 73
+  offset: 0, 0
+  index: -1
+horse_hayfloor_horse_hayfloor_64_b_0_1.png
+  rotate: false
+  xy: 270, 75
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+horse_hayfloor_horse_sawdustfloor_icon_a.png
+  rotate: false
+  xy: 270, 55
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+jetset_vault_door.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jetset_vault_door_jetset_vault_door_64_a_0_0.png
+  rotate: false
+  xy: 2, 27
+  size: 64, 167
+  orig: 64, 167
+  offset: 0, 0
+  index: -1
+jetset_vault_door_jetset_vault_door_64_b_0_0.png
+  rotate: false
+  xy: 211, 45
+  size: 46, 149
+  orig: 46, 149
+  offset: 0, 0
+  index: -1
+jetset_vault_door_jetset_vault_door_64_b_0_1.png
+  rotate: false
+  xy: 115, 45
+  size: 46, 149
+  orig: 46, 149
+  offset: 0, 0
+  index: -1
+jetset_vault_door_jetset_vault_door_64_b_0_3.png
+  rotate: false
+  xy: 163, 45
+  size: 46, 149
+  orig: 46, 149
+  offset: 0, 0
+  index: -1
+jetset_vault_door_jetset_vault_door_64_c_0_0.png
+  rotate: false
+  xy: 306, 47
+  size: 43, 147
+  orig: 43, 147
+  offset: 0, 0
+  index: -1
+jetset_vault_door_jetset_vault_door_64_c_0_1.png
+  rotate: false
+  xy: 259, 46
+  size: 45, 148
+  orig: 45, 148
+  offset: 0, 0
+  index: -1
+jetset_vault_door_jetset_vault_door_64_c_0_3.png
+  rotate: false
+  xy: 68, 42
+  size: 45, 152
+  orig: 45, 152
+  offset: 0, 0
+  index: -1
+jetset_vault_door_jetset_vault_door_64_d_0_0.png
+  rotate: false
+  xy: 351, 55
+  size: 25, 139
+  orig: 25, 139
+  offset: 0, 0
+  index: -1
+jetset_vault_door_jetset_vault_door_64_d_0_1.png
+  rotate: false
+  xy: 378, 55
+  size: 25, 139
+  orig: 25, 139
+  offset: 0, 0
+  index: -1
+jetset_vault_door_jetset_vault_door_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+uni_libraryshelf.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_libraryshelf_uni_libraryshelf_64_a_2_0.png
+  rotate: false
+  xy: 377, 38
+  size: 73, 210
+  orig: 73, 210
+  offset: 0, 0
+  index: -1
+uni_libraryshelf_uni_libraryshelf_64_a_2_1.png
+  rotate: false
+  xy: 77, 36
+  size: 73, 212
+  orig: 73, 212
+  offset: 0, 0
+  index: -1
+uni_libraryshelf_uni_libraryshelf_64_a_2_2.png
+  rotate: false
+  xy: 302, 38
+  size: 73, 210
+  orig: 73, 210
+  offset: 0, 0
+  index: -1
+uni_libraryshelf_uni_libraryshelf_64_a_4_0.png
+  rotate: false
+  xy: 227, 38
+  size: 73, 210
+  orig: 73, 210
+  offset: 0, 0
+  index: -1
+uni_libraryshelf_uni_libraryshelf_64_a_4_1.png
+  rotate: false
+  xy: 2, 36
+  size: 73, 212
+  orig: 73, 212
+  offset: 0, 0
+  index: -1
+uni_libraryshelf_uni_libraryshelf_64_a_4_2.png
+  rotate: false
+  xy: 152, 38
+  size: 73, 210
+  orig: 73, 210
+  offset: 0, 0
+  index: -1
+uni_libraryshelf_uni_libraryshelf_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1

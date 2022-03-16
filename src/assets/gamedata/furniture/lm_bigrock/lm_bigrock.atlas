@@ -1,0 +1,55 @@
+
+lm_bigrock.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lm_bigrock_lm_bigrock_64_a_0_0.png
+  rotate: false
+  xy: 255, 24
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+lm_bigrock_lm_bigrock_64_a_0_1.png
+  rotate: false
+  xy: 192, 24
+  size: 61, 94
+  orig: 61, 94
+  offset: 0, 0
+  index: -1
+lm_bigrock_lm_bigrock_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 93, 116
+  orig: 93, 116
+  offset: 0, 0
+  index: -1
+lm_bigrock_lm_bigrock_64_b_0_1.png
+  rotate: false
+  xy: 97, 2
+  size: 93, 116
+  orig: 93, 116
+  offset: 0, 0
+  index: -1
+lm_bigrock_lm_bigrock_64_c_0_0.png
+  rotate: false
+  xy: 318, 58
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+lm_bigrock_lm_bigrock_64_c_0_1.png
+  rotate: false
+  xy: 376, 58
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+lm_bigrock_lm_bigrock_icon_a.png
+  rotate: false
+  xy: 318, 26
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

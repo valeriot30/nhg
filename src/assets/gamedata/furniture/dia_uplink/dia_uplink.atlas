@@ -1,0 +1,209 @@
+
+dia_uplink.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dia_uplink_dia_uplink_32_d_0_0.png
+  rotate: false
+  xy: 509, 244
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_32_d_0_0.png
+  rotate: false
+  xy: 509, 241
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_a_0_0.png
+  rotate: false
+  xy: 334, 148
+  size: 37, 97
+  orig: 37, 97
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_b_0_0.png
+  rotate: false
+  xy: 28, 2
+  size: 11, 62
+  orig: 11, 62
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_b_0_1.png
+  rotate: false
+  xy: 457, 183
+  size: 11, 62
+  orig: 11, 62
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_b_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 62
+  orig: 11, 62
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_b_0_3.png
+  rotate: false
+  xy: 470, 183
+  size: 11, 62
+  orig: 11, 62
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_b_0_4.png
+  rotate: false
+  xy: 15, 2
+  size: 11, 62
+  orig: 11, 62
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_b_0_5.png
+  rotate: false
+  xy: 41, 2
+  size: 11, 62
+  orig: 11, 62
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_b_0_6.png
+  rotate: false
+  xy: 483, 183
+  size: 11, 62
+  orig: 11, 62
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_b_0_7.png
+  rotate: false
+  xy: 496, 183
+  size: 11, 62
+  orig: 11, 62
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_c_0_0.png
+  rotate: false
+  xy: 447, 166
+  size: 8, 79
+  orig: 8, 79
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_c_0_1.png
+  rotate: false
+  xy: 405, 156
+  size: 16, 89
+  orig: 16, 89
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_c_0_2.png
+  rotate: false
+  xy: 423, 159
+  size: 12, 86
+  orig: 12, 86
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_d_0_1.png
+  rotate: false
+  xy: 477, 165
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_d_0_2.png
+  rotate: false
+  xy: 92, 109
+  size: 17, 18
+  orig: 17, 18
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_d_0_3.png
+  rotate: false
+  xy: 70, 77
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_d_0_4.png
+  rotate: false
+  xy: 70, 100
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_d_0_5.png
+  rotate: false
+  xy: 457, 165
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_e_0_0.png
+  rotate: false
+  xy: 2, 66
+  size: 66, 179
+  orig: 66, 179
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_f_0_0.png
+  rotate: false
+  xy: 437, 157
+  size: 8, 88
+  orig: 8, 88
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_f_0_1.png
+  rotate: false
+  xy: 373, 142
+  size: 16, 103
+  orig: 16, 103
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_f_0_2.png
+  rotate: false
+  xy: 391, 145
+  size: 12, 100
+  orig: 12, 100
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_g_0_1.png
+  rotate: false
+  xy: 175, 131
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_g_0_2.png
+  rotate: false
+  xy: 70, 129
+  size: 49, 116
+  orig: 49, 116
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_g_0_3.png
+  rotate: false
+  xy: 279, 150
+  size: 53, 95
+  orig: 53, 95
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_g_0_4.png
+  rotate: false
+  xy: 224, 144
+  size: 53, 101
+  orig: 53, 101
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_64_g_0_5.png
+  rotate: false
+  xy: 121, 135
+  size: 52, 110
+  orig: 52, 110
+  offset: 0, 0
+  index: -1
+dia_uplink_dia_uplink_icon_a.png
+  rotate: false
+  xy: 54, 34
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

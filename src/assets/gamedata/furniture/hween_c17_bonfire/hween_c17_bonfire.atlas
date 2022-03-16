@@ -1,0 +1,356 @@
+
+hween_c17_bonfire.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_bonfire_hween_c17_bonfire_64_a_0_0.png
+  rotate: false
+  xy: 546, 61
+  size: 128, 65
+  orig: 128, 65
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_b_0_0.png
+  rotate: false
+  xy: 1867, 90
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_b_0_1.png
+  rotate: false
+  xy: 1730, 88
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_b_0_2.png
+  rotate: false
+  xy: 1754, 85
+  size: 22, 41
+  orig: 22, 41
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_b_0_3.png
+  rotate: false
+  xy: 238, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_c_0_0.png
+  rotate: false
+  xy: 1012, 84
+  size: 106, 42
+  orig: 106, 42
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_c_0_1.png
+  rotate: false
+  xy: 789, 81
+  size: 109, 45
+  orig: 109, 45
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_c_0_2.png
+  rotate: false
+  xy: 676, 75
+  size: 111, 51
+  orig: 111, 51
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_c_0_3.png
+  rotate: false
+  xy: 900, 86
+  size: 110, 40
+  orig: 110, 40
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_d_0_0.png
+  rotate: false
+  xy: 285, 2
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_d_0_1.png
+  rotate: false
+  xy: 1889, 98
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_d_0_2.png
+  rotate: false
+  xy: 1675, 93
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_d_0_3.png
+  rotate: false
+  xy: 1550, 90
+  size: 29, 36
+  orig: 29, 36
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_e_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_e_0_1.png
+  rotate: false
+  xy: 370, 6
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_e_0_2.png
+  rotate: false
+  xy: 1821, 89
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_e_0_3.png
+  rotate: false
+  xy: 1844, 89
+  size: 21, 37
+  orig: 21, 37
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_f_0_0.png
+  rotate: false
+  xy: 1961, 101
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_f_0_1.png
+  rotate: false
+  xy: 1939, 94
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_f_0_2.png
+  rotate: false
+  xy: 1800, 86
+  size: 19, 40
+  orig: 19, 40
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_f_0_3.png
+  rotate: false
+  xy: 1778, 75
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_g_0_0.png
+  rotate: false
+  xy: 1484, 88
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_g_0_1.png
+  rotate: false
+  xy: 1289, 88
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_g_0_2.png
+  rotate: false
+  xy: 1211, 79
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_g_0_3.png
+  rotate: false
+  xy: 1251, 76
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_h_0_0.png
+  rotate: false
+  xy: 1916, 98
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_h_0_1.png
+  rotate: false
+  xy: 1703, 91
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_h_0_2.png
+  rotate: false
+  xy: 1449, 89
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_h_0_3.png
+  rotate: false
+  xy: 1518, 89
+  size: 30, 37
+  orig: 30, 37
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_i_0_0.png
+  rotate: false
+  xy: 210, 2
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_i_0_1.png
+  rotate: false
+  xy: 1645, 93
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_i_0_2.png
+  rotate: false
+  xy: 1581, 93
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_i_0_3.png
+  rotate: false
+  xy: 1614, 93
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_j_0_0.png
+  rotate: false
+  xy: 512, 6
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_j_0_1.png
+  rotate: false
+  xy: 140, 2
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_j_0_2.png
+  rotate: false
+  xy: 1371, 99
+  size: 39, 27
+  orig: 39, 27
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_j_0_3.png
+  rotate: false
+  xy: 1412, 98
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_k_0_0.png
+  rotate: false
+  xy: 340, 6
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_k_0_1.png
+  rotate: false
+  xy: 307, 6
+  size: 31, 25
+  orig: 31, 25
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_k_0_2.png
+  rotate: false
+  xy: 176, 2
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_k_0_3.png
+  rotate: false
+  xy: 1170, 89
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_l_0_0.png
+  rotate: false
+  xy: 1325, 98
+  size: 44, 28
+  orig: 44, 28
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_l_0_1.png
+  rotate: false
+  xy: 465, 3
+  size: 45, 30
+  orig: 45, 30
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_l_0_2.png
+  rotate: false
+  xy: 414, 2
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_l_0_3.png
+  rotate: false
+  xy: 1120, 89
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_m_0_0.png
+  rotate: false
+  xy: 414, 35
+  size: 130, 91
+  orig: 130, 91
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_m_0_1.png
+  rotate: false
+  xy: 279, 33
+  size: 133, 93
+  orig: 133, 93
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_m_0_2.png
+  rotate: false
+  xy: 140, 30
+  size: 137, 96
+  orig: 137, 96
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_64_m_0_3.png
+  rotate: false
+  xy: 2, 25
+  size: 136, 101
+  orig: 136, 101
+  offset: 0, 0
+  index: -1
+hween_c17_bonfire_hween_c17_bonfire_icon_a.png
+  rotate: false
+  xy: 263, 2
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

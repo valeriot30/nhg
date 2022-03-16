@@ -1,0 +1,27 @@
+
+rare_venusstatue.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_venusstatue_rare_venusstatue_64_a_0_0.png
+  rotate: false
+  xy: 2, 63
+  size: 54, 106
+  orig: 54, 106
+  offset: 0, 0
+  index: -1
+rare_venusstatue_rare_venusstatue_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+rare_venusstatue_rare_venusstatue_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

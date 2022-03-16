@@ -1,0 +1,20 @@
+
+wallmirror.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wallmirror_wallmirror_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 60
+  orig: 34, 60
+  offset: 0, 0
+  index: -1
+wallmirror_wallmirror_icon_a.png
+  rotate: false
+  xy: 38, 32
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+clothing_mini_bowlerhat_cream.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_mini_bowlerhat_cream_clothing_mini_bowlerhat_cream_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 54
+  orig: 26, 54
+  offset: 0, 0
+  index: -1
+clothing_mini_bowlerhat_cream_clothing_mini_bowlerhat_cream_64_sd_0_0.png
+  rotate: false
+  xy: 30, 13
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+clothing_mini_bowlerhat_cream_clothing_mini_bowlerhat_cream_icon_a.png
+  rotate: false
+  xy: 30, 28
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

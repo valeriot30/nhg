@@ -1,0 +1,118 @@
+
+loyalty_mouse.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+loyalty_mouse_loyalty_mouse_32_b_4_0.png
+  rotate: false
+  xy: 335, 164
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_32_b_4_0.png
+  rotate: false
+  xy: 506, 251
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_a_4_0.png
+  rotate: false
+  xy: 2, 114
+  size: 98, 138
+  orig: 98, 138
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_b_4_1.png
+  rotate: false
+  xy: 104, 66
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_b_4_2.png
+  rotate: false
+  xy: 132, 10
+  size: 25, 54
+  orig: 25, 54
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_b_4_3.png
+  rotate: false
+  xy: 105, 9
+  size: 25, 55
+  orig: 25, 55
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_b_4_4.png
+  rotate: false
+  xy: 78, 2
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_b_4_5.png
+  rotate: false
+  xy: 78, 55
+  size: 24, 57
+  orig: 24, 57
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_c_4_1.png
+  rotate: false
+  xy: 180, 159
+  size: 76, 93
+  orig: 76, 93
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_c_4_2.png
+  rotate: false
+  xy: 335, 167
+  size: 73, 85
+  orig: 73, 85
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_c_4_3.png
+  rotate: false
+  xy: 102, 158
+  size: 76, 94
+  orig: 76, 94
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_c_4_4.png
+  rotate: false
+  xy: 258, 160
+  size: 75, 92
+  orig: 75, 92
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_c_4_5.png
+  rotate: false
+  xy: 2, 16
+  size: 74, 96
+  orig: 74, 96
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_d_4_0.png
+  rotate: false
+  xy: 410, 179
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_64_sd_4_0.png
+  rotate: false
+  xy: 410, 204
+  size: 94, 48
+  orig: 94, 48
+  offset: 0, 0
+  index: -1
+loyalty_mouse_loyalty_mouse_icon_a.png
+  rotate: false
+  xy: 102, 124
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

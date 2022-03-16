@@ -1,0 +1,48 @@
+
+st_wildwest_goldpick.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_wildwest_goldpick_st_wildwest_goldpick_64_a_4_0.png
+  rotate: false
+  xy: 2, 175
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+st_wildwest_goldpick_st_wildwest_goldpick_64_a_4_1.png
+  rotate: false
+  xy: 2, 126
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+st_wildwest_goldpick_st_wildwest_goldpick_64_a_4_2.png
+  rotate: false
+  xy: 2, 94
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+st_wildwest_goldpick_st_wildwest_goldpick_64_a_4_3.png
+  rotate: false
+  xy: 2, 62
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+st_wildwest_goldpick_st_wildwest_goldpick_64_sd_4_0.png
+  rotate: false
+  xy: 2, 30
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+st_wildwest_goldpick_st_wildwest_goldpick_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1

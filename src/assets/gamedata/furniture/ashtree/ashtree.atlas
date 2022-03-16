@@ -1,0 +1,27 @@
+
+ashtree.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ashtree_ashtree_64_a_2_0.png
+  rotate: false
+  xy: 2, 49
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
+ashtree_ashtree_64_sd_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+ashtree_ashtree_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1

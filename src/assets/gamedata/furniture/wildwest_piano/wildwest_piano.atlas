@@ -1,0 +1,153 @@
+
+wildwest_piano.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_piano_wildwest_piano_32_d_4_5.png
+  rotate: false
+  xy: 129, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_32_d_4_5.png
+  rotate: false
+  xy: 132, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_a_4_0.png
+  rotate: false
+  xy: 76, 13
+  size: 74, 113
+  orig: 74, 113
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_b_4_0.png
+  rotate: false
+  xy: 2, 7
+  size: 72, 119
+  orig: 72, 119
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_c_4_1.png
+  rotate: false
+  xy: 115, 4
+  size: 12, 7
+  orig: 12, 7
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_c_4_2.png
+  rotate: false
+  xy: 188, 67
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_e_4_0.png
+  rotate: false
+  xy: 202, 67
+  size: 6, 6
+  orig: 6, 6
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_e_4_1.png
+  rotate: false
+  xy: 200, 58
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_f_4_0.png
+  rotate: false
+  xy: 164, 38
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_f_4_1.png
+  rotate: false
+  xy: 188, 57
+  size: 10, 8
+  orig: 10, 8
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_f_4_2.png
+  rotate: false
+  xy: 103, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_g_4_0.png
+  rotate: false
+  xy: 152, 35
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_g_4_1.png
+  rotate: false
+  xy: 152, 23
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_g_4_2.png
+  rotate: false
+  xy: 90, 2
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_g_4_3.png
+  rotate: false
+  xy: 177, 62
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_g_4_4.png
+  rotate: false
+  xy: 177, 52
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_g_4_5.png
+  rotate: false
+  xy: 76, 2
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_g_4_6.png
+  rotate: false
+  xy: 129, 5
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_g_4_7.png
+  rotate: false
+  xy: 152, 13
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_64_sd_4_0.png
+  rotate: false
+  xy: 152, 75
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+wildwest_piano_wildwest_piano_icon_a.png
+  rotate: false
+  xy: 152, 48
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1

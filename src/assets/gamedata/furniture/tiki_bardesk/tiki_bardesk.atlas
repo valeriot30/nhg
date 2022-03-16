@@ -1,0 +1,41 @@
+
+tiki_bardesk.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiki_bardesk_tiki_bardesk_64_a_0_0.png
+  rotate: false
+  xy: 63, 34
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+tiki_bardesk_tiki_bardesk_64_a_2_0.png
+  rotate: false
+  xy: 124, 34
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+tiki_bardesk_tiki_bardesk_64_a_4_0.png
+  rotate: false
+  xy: 183, 34
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+tiki_bardesk_tiki_bardesk_64_a_6_0.png
+  rotate: false
+  xy: 2, 34
+  size: 59, 63
+  orig: 59, 63
+  offset: 0, 0
+  index: -1
+tiki_bardesk_tiki_bardesk_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

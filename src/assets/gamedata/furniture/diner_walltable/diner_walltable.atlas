@@ -1,0 +1,20 @@
+
+diner_walltable.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diner_walltable_diner_walltable_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 74, 45
+  orig: 74, 45
+  offset: 0, 0
+  index: -1
+diner_walltable_diner_walltable_icon_a.png
+  rotate: false
+  xy: 78, 29
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1

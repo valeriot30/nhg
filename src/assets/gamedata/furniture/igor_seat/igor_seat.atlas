@@ -1,0 +1,90 @@
+
+igor_seat.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+igor_seat_igor_seat_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_a_6_1.png
+  rotate: false
+  xy: 41, 10
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_b_2_0.png
+  rotate: false
+  xy: 172, 82
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_c_2_3.png
+  rotate: false
+  xy: 36, 53
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_d_2_0.png
+  rotate: false
+  xy: 112, 16
+  size: 33, 64
+  orig: 33, 64
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_d_6_0.png
+  rotate: false
+  xy: 2, 45
+  size: 32, 80
+  orig: 32, 80
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_e_0_0.png
+  rotate: false
+  xy: 147, 12
+  size: 15, 68
+  orig: 15, 68
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_e_2_0.png
+  rotate: false
+  xy: 253, 124
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_e_6_0.png
+  rotate: false
+  xy: 95, 29
+  size: 15, 68
+  orig: 15, 68
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_f_2_0.png
+  rotate: false
+  xy: 118, 82
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_64_sd_2_0.png
+  rotate: false
+  xy: 36, 99
+  size: 80, 26
+  orig: 80, 26
+  offset: 0, 0
+  index: -1
+igor_seat_igor_seat_icon_a.png
+  rotate: false
+  xy: 226, 94
+  size: 25, 31
+  orig: 25, 31
+  offset: 0, 0
+  index: -1

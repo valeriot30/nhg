@@ -1,0 +1,111 @@
+
+jetset_yacht_back.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jetset_yacht_back_jetset_yacht_back_64_a_0_0.png
+  rotate: false
+  xy: 129, 689
+  size: 62, 108
+  orig: 62, 108
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_b_0_0.png
+  rotate: false
+  xy: 2, 163
+  size: 126, 139
+  orig: 126, 139
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_c_0_0.png
+  rotate: false
+  xy: 2, 78
+  size: 166, 83
+  orig: 166, 83
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 20
+  orig: 78, 20
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_e_0_0.png
+  rotate: false
+  xy: 129, 682
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_f_0_0.png
+  rotate: false
+  xy: 2, 799
+  size: 195, 219
+  orig: 195, 219
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_g_0_0.png
+  rotate: false
+  xy: 2, 534
+  size: 125, 263
+  orig: 125, 263
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_h_0_0.png
+  rotate: false
+  xy: 2, 304
+  size: 62, 228
+  orig: 62, 228
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_i_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 190, 25
+  orig: 190, 25
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_i_0_1.png
+  rotate: false
+  xy: 2, 51
+  size: 190, 25
+  orig: 190, 25
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_j_0_0.png
+  rotate: false
+  xy: 66, 507
+  size: 132, 25
+  orig: 132, 25
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_j_0_1.png
+  rotate: false
+  xy: 66, 480
+  size: 132, 25
+  orig: 132, 25
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_k_0_0.png
+  rotate: false
+  xy: 82, 12
+  size: 66, 10
+  orig: 66, 10
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_64_k_0_1.png
+  rotate: false
+  xy: 66, 468
+  size: 66, 10
+  orig: 66, 10
+  offset: 0, 0
+  index: -1
+jetset_yacht_back_jetset_yacht_back_icon_a.png
+  rotate: false
+  xy: 199, 986
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

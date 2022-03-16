@@ -1,0 +1,27 @@
+
+pixel_clock_red.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pixel_clock_red_pixel_clock_red_32_a_2_0.png
+  rotate: false
+  xy: 76, 27
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+pixel_clock_red_pixel_clock_red_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+pixel_clock_red_pixel_clock_red_64_sd_2_0.png
+  rotate: false
+  xy: 42, 24
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1

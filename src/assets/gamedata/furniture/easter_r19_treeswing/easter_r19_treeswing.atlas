@@ -1,0 +1,69 @@
+
+easter_r19_treeswing.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_r19_treeswing_easter_r19_treeswing_64_a_4_0.png
+  rotate: false
+  xy: 151, 2
+  size: 147, 249
+  orig: 147, 249
+  offset: 0, 0
+  index: -1
+easter_r19_treeswing_easter_r19_treeswing_64_a_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 147, 249
+  orig: 147, 249
+  offset: 0, 0
+  index: -1
+easter_r19_treeswing_easter_r19_treeswing_64_b_4_0.png
+  rotate: false
+  xy: 300, 61
+  size: 103, 190
+  orig: 103, 190
+  offset: 0, 0
+  index: -1
+easter_r19_treeswing_easter_r19_treeswing_64_b_6_0.png
+  rotate: false
+  xy: 405, 61
+  size: 103, 190
+  orig: 103, 190
+  offset: 0, 0
+  index: -1
+easter_r19_treeswing_easter_r19_treeswing_64_c_4_0.png
+  rotate: false
+  xy: 671, 144
+  size: 4, 107
+  orig: 4, 107
+  offset: 0, 0
+  index: -1
+easter_r19_treeswing_easter_r19_treeswing_64_c_6_0.png
+  rotate: false
+  xy: 677, 144
+  size: 4, 107
+  orig: 4, 107
+  offset: 0, 0
+  index: -1
+easter_r19_treeswing_easter_r19_treeswing_64_sd_4_0.png
+  rotate: false
+  xy: 510, 164
+  size: 159, 87
+  orig: 159, 87
+  offset: 0, 0
+  index: -1
+easter_r19_treeswing_easter_r19_treeswing_64_sd_6_0.png
+  rotate: false
+  xy: 510, 75
+  size: 159, 87
+  orig: 159, 87
+  offset: 0, 0
+  index: -1
+easter_r19_treeswing_easter_r19_treeswing_icon_a.png
+  rotate: false
+  xy: 300, 29
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

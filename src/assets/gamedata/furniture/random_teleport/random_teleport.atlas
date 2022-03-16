@@ -1,0 +1,48 @@
+
+random_teleport.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+random_teleport_random_teleport_64_a_4_0.png
+  rotate: false
+  xy: 72, 102
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+random_teleport_random_teleport_64_a_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+random_teleport_random_teleport_64_b_4_0.png
+  rotate: false
+  xy: 72, 105
+  size: 60, 131
+  orig: 60, 131
+  offset: 0, 0
+  index: -1
+random_teleport_random_teleport_64_b_4_1.png
+  rotate: false
+  xy: 134, 105
+  size: 60, 131
+  orig: 60, 131
+  offset: 0, 0
+  index: -1
+random_teleport_random_teleport_64_c_4_1.png
+  rotate: false
+  xy: 2, 97
+  size: 68, 139
+  orig: 68, 139
+  offset: 0, 0
+  index: -1
+random_teleport_random_teleport_icon_a.png
+  rotate: false
+  xy: 196, 206
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,206 @@
+{
+    "lang": "it",
+    "landscapeMessageRotation": "Ruota il tuo dispositivo",
+
+    "errorscreen": {
+        "title": "Ooops, si è verificato un problema!",
+        "reload": "Ricarica"
+    },
+
+    "loadingscreen": {
+        "loading": "Caricamento..."
+    },
+    
+    "menu": {
+      "navigator": "Navigatore",
+      "catalog": "Catalogo",
+      "inventory": "Inventario",
+      "look": "Cambia Aspetto",
+      "friends": "Amici",
+      "chat_history": "Cronologia",
+      "room_info": "Info Stanza"
+    },
+    "roomInfo": {
+      "settings": "Impostazioni",
+      "zoom": "Zoom"
+    },
+    "chat_history": {
+      "title": "Cronologia Chat",
+      "room_name": "Nome stanza:",
+      "room_owner": "Proprietario:"
+    },
+    "alert": {
+      "error_item_place": "Non puoi spostare qui quell'oggetto",
+      "error_cant_place_not_owner": "Non hai i permessi per posare qui il tuo oggetto!",
+      "error_trade_user_not_found": "L'utente selezionato non si trova in questa stanza o non esiste",
+      "error_trade_user_cant_trade": "Questo utente ha gli scambi disabilitati",
+      "error_trade_item_not_found": "Errore durante lo scambio: oggetto non trovato",
+      "error_trade_already_started": "Non puoi iniziare un nuovo scambio quando ne hai un altro gi&agrave; attivo",
+      "error_trade_user_is_trading": "Questo utente sta gi&agrave; commerciando con qualcun altro",
+      "error_trade_self_trade": "Non puoi scambiare con te stesso",
+      "error_trade_declined": "Lo scambio &egrave; stato annullato",
+      "error_title": "Errore",
+      "special_error_wrong_catalog_item_amount": "Oops! Hai provato a comprare {0} volte. Credo tu abbia sbagliato qualcosa.",
+      "errorCatalogPurchaseFailedServerError": "Oops! Qualcosa è andato storto durante l'acquisto, riprova!",
+      "errorCatalogPurchaseUnavailableIllegal": "Non ti è permesso fare questa azione!"
+    },
+    "chat": {
+      "title": "Chat",
+      "empty_input_message": "Scrivi qui per parlare..",
+      "button_send_message": "Invia",
+      "usersChat": "Chat Utenti",
+      "groupsChat": "Chat Gruppi"
+    },
+    "inventory": {
+      "title": "Inventario",
+      "floor_items": "Oggetti Pavimento",
+      "wall_items": "Oggetti Muro",
+      "place": "Posiziona",
+      "trade": "Scambia",
+      "trade_all": "Scambia tutti",
+      "tradeMyOffert": "Le mie offerte",
+      "tradeAccept": "Accetta",
+      "tradeCancel": "Annulla"
+    },
+    "navigator": {
+      "title": "Navigatore",
+      "public_rooms": "Pubbliche",
+      "all_rooms": "Tutte le stanze",
+      "my_rooms": "Le mie stanze",
+      "enter_room_button": "Entra",
+      "create_room": "Crea stanza",
+      "more_rooms": "Piu stanze?"
+    },
+    "profile": {
+      "title": "Profilo",
+      "smallButton": "Profilo",
+      "addFriend": "Aggiungi Amico",
+      "sendMessage": "Invia Messaggio",
+      "badges": "Distintivi",
+      "goals": "Obbiettivi",
+      "rooms": "Stanze",
+      "level": "Livello",
+      "motto": "Motto",
+      "exp": "EXP"
+    },
+    "friends": {
+      "title": "Amici",
+      "friendsOnline": "Amici online",
+      "friendsOffline": "Amici offline",
+      "searchFriends": "Cerca amici",
+      "friends": "Amici",
+      "friendsRequest": "Richieste di amicizia",
+      "friendRequestNotification": "L' utente %username% ti ha inviato una richiesta di amicizia",
+      "searchInputPlaceholder": "Cerca",
+      "searchButton": "Cerca",
+      "noFriendsFound": "Nessun amico trovato",
+      "noOthersUsersFound": "Nessun altro utente trovato",
+      "noUsersFound": "Nessun utente trovato",
+      "friendsFoundTitle": "Amici",
+      "othersUsersFoundTitle": "Altri utenti",
+      "friendRequestAlertTitle": "Richiesta di amicizia inviata",
+      "friendRequestAlertMessage": "La richiesta di amicizia è stata inviata se l'utente accetterà comparirà automaticamente nella tua lista amici.",
+      "friendRequestErrorAlertTitle": "Errore nell'invio della richiesta di amicizia",
+      "friendRequestErrorAlertMessageErrorCode_1_USER_NOT_FOUND": "Utente non trovato o la tua richiesta è già stata inviata!",
+      "friendRequestErrorAlertMessageErrorCode_2_FRIEND_LIST_FULL": "Hai raggiunto il massimo numero di amici consentito",
+      "friendRequestErrorAlertMessageErrorCode_3_REQUEST_ALREADY_SENT": "La tua richiesta è già stata inviata!",
+      "friendFollowErrorAlertTitle": "Errore",
+      "friendFollowErrorNotInFriendList": "L'utente non è tuo amico!",
+      "friendFollowErrorFriendOffline": "Il tuo amico è offline!",
+      "friendFollowErrorFriendNotInRoom": "Il tuo amico non è in nessuna stanza!"
+    },
+    "previewBoxItems": {
+      "useItem": "Usa",
+      "pickItem": "Prendi",
+      "moveItem": "Sposta",
+      "rotateItem": "Ruota"
+    },
+    "previewBoxUsers": {
+      "trade": "Scambia",
+      "giveRights": "Dai diritti",
+      "removeRights": "Togli diritti",
+      "changeLook": "Cambia look"
+    },
+    "catalog": {
+      "title": "Catalogo",
+      "buyButton": "Compra",
+      "coinsName": "Crediti",
+      "qty": "Quantità",
+      "price": "Prezzo"
+    },
+    "confirmPurchase": {
+      "title": "Conferma acquisto",
+      "price": "Prezzo:",
+      "cancel": "Cancella",
+      "buy": "Compra"
+    },
+    "serverMessage": {
+      "msg_diagonal_move_disabled": "Movimenti diagonali disabilitati",
+      "msg_diagonal_move_enabled": "Movimenti diagonali abilitati",
+      "msg_walkthrough_disabled": "Passaggio attraverso gli utenti disabiliatato",
+      "msg_walkthrough_enabled": "Passaggio attraverso gli utenti abilitato",
+      "msg_whisper_yourself": "Non puoi sussurrare a te stesso!",
+      "msg_whisper_invalidusername": "Non puoi sussurrare ad un utente che non è in stanza!",
+      "msg_trade_enabled": "Scambio abilitato",
+      "msg_trade_disabled": "Scambio disabilitato",
+      "msg_givecredits_succesfull": "Crediti aggiunti con successo!",
+      "msg_teleport_enabled": "Teletrasporto abilitato!",
+      "msg_teleport_disabled": "Teletrasporto disabilitato!"
+    },
+    "roomCreator": {
+      "title": "Creazione Stanza",
+      "chooseStyle": "Scegli stile:",
+      "roomNameLabel": "Nome della stanza:",
+      "roomNamePlaceHolder": "Nome stanza",
+      "roomNameDescriptionLabel": "Descrizione della stanza:",
+      "roomNameDescriptionPlaceHolder": "Descrizione stanza",
+      "createButton": "Crea stanza",
+      "cancelButton": "Cancella",
+      "roomMaxUsers": "Utenti massimi:",
+      "tiles": "caselle"
+    },
+    "notification": {
+      "oneItemAddedToInventory": "Un oggetto è stato aggiunto al tuo inventario!",
+      "moreItemsAddedToInventory": "Tutti gli oggetti sono stati aggiunti al tuo inventario!"
+    },
+    "roomInfoPanel": {
+      "title": "Informazioni Stanza",
+      "ownerLabel": "Proprietario:",
+      "settingsButton": "Impostazioni Stanza"
+    },
+    "roomEditInfoPanel": {
+      "title": "Impostazioni Stanza",
+      "roomNameLabel": "Nome della stanza:",
+      "roomNamePlaceHolder": "Nome stanza",
+      "roomNameDescriptionLabel": "Descrizione della stanza:",
+      "roomNameDescriptionPlaceHolder": "Descrizione stanza",
+      "roomMaxUsers": "Utenti massimi:",
+      "basicLabel": "Generale",
+      "rightsLabel": "Diritti",
+      "allowWalkThrough": "Blocco caselle"
+    },
+    "roomlight": {
+      "title": "Impostazioni colore",
+      "save": "Save",
+      "reset": "Reset"
+    },
+    "devterminal": {
+      "title": "DevTerminal",
+      "save": "Salva"
+    },
+    "flood": {
+      "floodMessage": "Stai flooddando, sei stato mutato per ",
+      "floodSeconds": " secondi"
+    },
+    "changeLook": {
+      "title": "Cambia Look",
+      "faceAndBody": "Faccia e Corpo",
+      "head": "Testa",
+      "torso": "Busto",
+      "legs": "Gambe",
+      "boy": "Ragazzo",
+      "girl": "Ragazza",
+      "save": "Salva"
+    }
+  }
+  

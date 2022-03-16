@@ -1,0 +1,34 @@
+
+pixel_painting_red.png
+size: 32,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pixel_painting_red_pixel_painting_red_64_a_2_0.png
+  rotate: false
+  xy: 2, 106
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+pixel_painting_red_pixel_painting_red_64_a_2_1.png
+  rotate: false
+  xy: 2, 65
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+pixel_painting_red_pixel_painting_red_64_a_2_2.png
+  rotate: false
+  xy: 2, 24
+  size: 26, 39
+  orig: 26, 39
+  offset: 0, 0
+  index: -1
+pixel_painting_red_pixel_painting_red_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1

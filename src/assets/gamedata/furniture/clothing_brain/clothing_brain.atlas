@@ -1,0 +1,20 @@
+
+clothing_brain.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_brain_clothing_brain_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+clothing_brain_clothing_brain_icon_a.png
+  rotate: false
+  xy: 31, 17
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

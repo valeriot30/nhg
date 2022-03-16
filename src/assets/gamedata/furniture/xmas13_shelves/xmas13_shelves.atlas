@@ -1,0 +1,62 @@
+
+xmas13_shelves.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas13_shelves_xmas13_shelves_64_a_2_0.png
+  rotate: false
+  xy: 272, 54
+  size: 64, 142
+  orig: 64, 142
+  offset: 0, 0
+  index: -1
+xmas13_shelves_xmas13_shelves_64_a_2_1.png
+  rotate: false
+  xy: 338, 54
+  size: 64, 142
+  orig: 64, 142
+  offset: 0, 0
+  index: -1
+xmas13_shelves_xmas13_shelves_64_a_2_2.png
+  rotate: false
+  xy: 206, 54
+  size: 64, 142
+  orig: 64, 142
+  offset: 0, 0
+  index: -1
+xmas13_shelves_xmas13_shelves_64_b_2_0.png
+  rotate: false
+  xy: 2, 53
+  size: 66, 143
+  orig: 66, 143
+  offset: 0, 0
+  index: -1
+xmas13_shelves_xmas13_shelves_64_b_2_1.png
+  rotate: false
+  xy: 70, 53
+  size: 66, 143
+  orig: 66, 143
+  offset: 0, 0
+  index: -1
+xmas13_shelves_xmas13_shelves_64_b_2_2.png
+  rotate: false
+  xy: 138, 53
+  size: 66, 143
+  orig: 66, 143
+  offset: 0, 0
+  index: -1
+xmas13_shelves_xmas13_shelves_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+xmas13_shelves_xmas13_shelves_icon_a.png
+  rotate: false
+  xy: 404, 166
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

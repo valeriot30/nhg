@@ -1,0 +1,27 @@
+
+ads_r7logo.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_r7logo_ads_r7logo_64_a_2_0.png
+  rotate: false
+  xy: 2, 53
+  size: 95, 132
+  orig: 95, 132
+  offset: 0, 0
+  index: -1
+ads_r7logo_ads_r7logo_64_a_2_sd.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 49
+  orig: 78, 49
+  offset: 0, 0
+  index: -1
+ads_r7logo_ads_r7logo_icon_a.png
+  rotate: false
+  xy: 99, 168
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1

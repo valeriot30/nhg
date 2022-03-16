@@ -1,0 +1,237 @@
+
+wildwest_vulture.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_vulture_wildwest_vulture_64_a_0_1.png
+  rotate: false
+  xy: 592, 54
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_10.png
+  rotate: false
+  xy: 400, 55
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_11.png
+  rotate: false
+  xy: 528, 54
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_12.png
+  rotate: false
+  xy: 464, 54
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_13.png
+  rotate: false
+  xy: 784, 57
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_14.png
+  rotate: false
+  xy: 336, 55
+  size: 62, 71
+  orig: 62, 71
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_15.png
+  rotate: false
+  xy: 848, 57
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_18.png
+  rotate: false
+  xy: 1244, 50
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_2.png
+  rotate: false
+  xy: 720, 54
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_20.png
+  rotate: false
+  xy: 1191, 50
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_21.png
+  rotate: false
+  xy: 1403, 51
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_22.png
+  rotate: false
+  xy: 1350, 51
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_23.png
+  rotate: false
+  xy: 1509, 52
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_24.png
+  rotate: false
+  xy: 1297, 51
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_25.png
+  rotate: false
+  xy: 1456, 52
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_26.png
+  rotate: false
+  xy: 1032, 51
+  size: 51, 75
+  orig: 51, 75
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_27.png
+  rotate: false
+  xy: 1085, 50
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_28.png
+  rotate: false
+  xy: 1138, 50
+  size: 51, 76
+  orig: 51, 76
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_29.png
+  rotate: false
+  xy: 976, 54
+  size: 54, 72
+  orig: 54, 72
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_3.png
+  rotate: false
+  xy: 656, 54
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_4.png
+  rotate: false
+  xy: 203, 54
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_5.png
+  rotate: false
+  xy: 69, 53
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_6.png
+  rotate: false
+  xy: 2, 53
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_7.png
+  rotate: false
+  xy: 136, 54
+  size: 65, 72
+  orig: 65, 72
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_8.png
+  rotate: false
+  xy: 270, 55
+  size: 64, 71
+  orig: 64, 71
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_a_0_9.png
+  rotate: false
+  xy: 912, 57
+  size: 62, 69
+  orig: 62, 69
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_b_0_0.png
+  rotate: false
+  xy: 1562, 107
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_b_0_1.png
+  rotate: false
+  xy: 1583, 107
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_b_0_2.png
+  rotate: false
+  xy: 1562, 65
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_b_0_3.png
+  rotate: false
+  xy: 1562, 86
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_b_0_4.png
+  rotate: false
+  xy: 784, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_64_sd_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+wildwest_vulture_wildwest_vulture_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

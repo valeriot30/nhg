@@ -1,0 +1,69 @@
+
+romantique_chair.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+romantique_chair_romantique_chair_64_a_0_0.png
+  rotate: false
+  xy: 62, 57
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+romantique_chair_romantique_chair_64_a_4_0.png
+  rotate: false
+  xy: 2, 45
+  size: 58, 72
+  orig: 58, 72
+  offset: 0, 0
+  index: -1
+romantique_chair_romantique_chair_64_b_0_0.png
+  rotate: false
+  xy: 186, 82
+  size: 46, 35
+  orig: 46, 35
+  offset: 0, 0
+  index: -1
+romantique_chair_romantique_chair_64_b_4_0.png
+  rotate: false
+  xy: 234, 83
+  size: 19, 34
+  orig: 19, 34
+  offset: 0, 0
+  index: -1
+romantique_chair_romantique_chair_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+romantique_chair_romantique_chair_64_c_4_0.png
+  rotate: false
+  xy: 148, 44
+  size: 24, 40
+  orig: 24, 40
+  offset: 0, 0
+  index: -1
+romantique_chair_romantique_chair_64_sd_0_0.png
+  rotate: false
+  xy: 122, 86
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+romantique_chair_romantique_chair_icon_a.png
+  rotate: false
+  xy: 122, 54
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1
+romantique_chair_romantique_chair_icon_b.png
+  rotate: false
+  xy: 52, 31
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1

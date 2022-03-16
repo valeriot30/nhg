@@ -1,0 +1,48 @@
+
+wintercabin_c19_antlerlight.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wintercabin_c19_antlerlight_wintercabin_c19_antlerlight_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 90, 116
+  orig: 90, 116
+  offset: 0, 0
+  index: -1
+wintercabin_c19_antlerlight_wintercabin_c19_antlerlight_64_a_0_1.png
+  rotate: false
+  xy: 94, 5
+  size: 90, 116
+  orig: 90, 116
+  offset: 0, 0
+  index: -1
+wintercabin_c19_antlerlight_wintercabin_c19_antlerlight_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wintercabin_c19_antlerlight_wintercabin_c19_antlerlight_64_b_0_1.png
+  rotate: false
+  xy: 186, 40
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+wintercabin_c19_antlerlight_wintercabin_c19_antlerlight_64_sd_0_0.png
+  rotate: false
+  xy: 279, 71
+  size: 94, 50
+  orig: 94, 50
+  offset: 0, 0
+  index: -1
+wintercabin_c19_antlerlight_wintercabin_c19_antlerlight_icon_a.png
+  rotate: false
+  xy: 186, 9
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

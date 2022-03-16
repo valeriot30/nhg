@@ -1,0 +1,27 @@
+
+sf_roller.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sf_roller_sf_roller_64_a_0_0.png
+  rotate: false
+  xy: 67, 2
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+sf_roller_sf_roller_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+sf_roller_sf_roller_icon_a.png
+  rotate: false
+  xy: 132, 25
+  size: 31, 21
+  orig: 31, 21
+  offset: 0, 0
+  index: -1

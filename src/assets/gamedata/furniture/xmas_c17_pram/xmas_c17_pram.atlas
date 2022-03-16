@@ -1,0 +1,83 @@
+
+xmas_c17_pram.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_pram_xmas_c17_pram_64_a_4_0.png
+  rotate: false
+  xy: 358, 19
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_64_a_4_1.png
+  rotate: false
+  xy: 358, 72
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_64_a_6_0.png
+  rotate: false
+  xy: 448, 5
+  size: 29, 38
+  orig: 29, 38
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_64_a_6_1.png
+  rotate: false
+  xy: 405, 2
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_64_b_4_0.png
+  rotate: false
+  xy: 2, 17
+  size: 87, 108
+  orig: 87, 108
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_64_b_4_1.png
+  rotate: false
+  xy: 269, 39
+  size: 87, 86
+  orig: 87, 86
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_64_b_6_0.png
+  rotate: false
+  xy: 91, 18
+  size: 87, 107
+  orig: 87, 107
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_64_b_6_1.png
+  rotate: false
+  xy: 180, 36
+  size: 87, 89
+  orig: 87, 89
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_64_sd_4_0.png
+  rotate: false
+  xy: 426, 45
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_64_sd_6_0.png
+  rotate: false
+  xy: 426, 86
+  size: 77, 39
+  orig: 77, 39
+  offset: 0, 0
+  index: -1
+xmas_c17_pram_xmas_c17_pram_icon_a.png
+  rotate: false
+  xy: 180, 4
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

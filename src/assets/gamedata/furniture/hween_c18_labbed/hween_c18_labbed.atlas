@@ -1,0 +1,69 @@
+
+hween_c18_labbed.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_labbed_hween_c18_labbed_64_a_0_0.png
+  rotate: false
+  xy: 189, 9
+  size: 60, 51
+  orig: 60, 51
+  offset: 0, 0
+  index: -1
+hween_c18_labbed_hween_c18_labbed_64_b_0_0.png
+  rotate: false
+  xy: 115, 9
+  size: 72, 51
+  orig: 72, 51
+  offset: 0, 0
+  index: -1
+hween_c18_labbed_hween_c18_labbed_64_c_0_0.png
+  rotate: false
+  xy: 251, 12
+  size: 58, 48
+  orig: 58, 48
+  offset: 0, 0
+  index: -1
+hween_c18_labbed_hween_c18_labbed_64_d_0_0.png
+  rotate: false
+  xy: 354, 32
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+hween_c18_labbed_hween_c18_labbed_64_d_0_1.png
+  rotate: false
+  xy: 311, 26
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+hween_c18_labbed_hween_c18_labbed_64_e_0_0.png
+  rotate: false
+  xy: 446, 34
+  size: 41, 26
+  orig: 41, 26
+  offset: 0, 0
+  index: -1
+hween_c18_labbed_hween_c18_labbed_64_e_0_1.png
+  rotate: false
+  xy: 403, 28
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+hween_c18_labbed_hween_c18_labbed_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+hween_c18_labbed_hween_c18_labbed_icon_a.png
+  rotate: false
+  xy: 311, 2
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1

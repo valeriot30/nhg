@@ -1,0 +1,48 @@
+
+dessertcafe_c17_creamrolls.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dessertcafe_c17_creamrolls_dessertcafe_c17_creamrolls_64_a_0_0.png
+  rotate: false
+  xy: 41, 32
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_creamrolls_dessertcafe_c17_creamrolls_64_a_0_1.png
+  rotate: false
+  xy: 2, 31
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_creamrolls_dessertcafe_c17_creamrolls_64_a_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_creamrolls_dessertcafe_c17_creamrolls_64_a_0_3.png
+  rotate: false
+  xy: 41, 2
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_creamrolls_dessertcafe_c17_creamrolls_64_sd_0_0.png
+  rotate: false
+  xy: 80, 10
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_creamrolls_dessertcafe_c17_creamrolls_icon_a.png
+  rotate: false
+  xy: 80, 32
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

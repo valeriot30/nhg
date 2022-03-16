@@ -1,0 +1,951 @@
+
+xmas_c18_stagewindow.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_a_2_0.png
+  rotate: false
+  xy: 212, 86
+  size: 18, 167
+  orig: 18, 167
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_a_4_0.png
+  rotate: false
+  xy: 232, 86
+  size: 18, 167
+  orig: 18, 167
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_b_2_0.png
+  rotate: false
+  xy: 161, 71
+  size: 49, 182
+  orig: 49, 182
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_b_4_0.png
+  rotate: false
+  xy: 110, 71
+  size: 49, 182
+  orig: 49, 182
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_c_2_0.png
+  rotate: false
+  xy: 2, 69
+  size: 52, 184
+  orig: 52, 184
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_c_4_0.png
+  rotate: false
+  xy: 56, 69
+  size: 52, 184
+  orig: 52, 184
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_1.png
+  rotate: false
+  xy: 327, 146
+  size: 23, 107
+  orig: 23, 107
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_10.png
+  rotate: false
+  xy: 1202, 158
+  size: 23, 95
+  orig: 23, 95
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_11.png
+  rotate: false
+  xy: 427, 146
+  size: 22, 107
+  orig: 22, 107
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_12.png
+  rotate: false
+  xy: 1302, 157
+  size: 22, 96
+  orig: 22, 96
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_13.png
+  rotate: false
+  xy: 748, 112
+  size: 23, 97
+  orig: 23, 97
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_14.png
+  rotate: false
+  xy: 377, 147
+  size: 23, 106
+  orig: 23, 106
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_15.png
+  rotate: false
+  xy: 252, 145
+  size: 23, 108
+  orig: 23, 108
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_16.png
+  rotate: false
+  xy: 1033, 153
+  size: 22, 100
+  orig: 22, 100
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_17.png
+  rotate: false
+  xy: 723, 113
+  size: 23, 96
+  orig: 23, 96
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_18.png
+  rotate: false
+  xy: 224, 10
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_19.png
+  rotate: false
+  xy: 252, 69
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_2.png
+  rotate: false
+  xy: 622, 68
+  size: 22, 77
+  orig: 22, 77
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_20.png
+  rotate: false
+  xy: 965, 75
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_21.png
+  rotate: false
+  xy: 820, 79
+  size: 23, 69
+  orig: 23, 69
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_22.png
+  rotate: false
+  xy: 1694, 160
+  size: 22, 93
+  orig: 22, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_23.png
+  rotate: false
+  xy: 1252, 158
+  size: 23, 95
+  orig: 23, 95
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_24.png
+  rotate: false
+  xy: 673, 150
+  size: 23, 103
+  orig: 23, 103
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_25.png
+  rotate: false
+  xy: 549, 148
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_26.png
+  rotate: false
+  xy: 1570, 160
+  size: 23, 93
+  orig: 23, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_27.png
+  rotate: false
+  xy: 1422, 159
+  size: 23, 94
+  orig: 23, 94
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_28.png
+  rotate: false
+  xy: 1766, 153
+  size: 21, 100
+  orig: 21, 100
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_29.png
+  rotate: false
+  xy: 1996, 163
+  size: 23, 90
+  orig: 23, 90
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_3.png
+  rotate: false
+  xy: 1152, 155
+  size: 23, 98
+  orig: 23, 98
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_30.png
+  rotate: false
+  xy: 1545, 160
+  size: 23, 93
+  orig: 23, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_31.png
+  rotate: false
+  xy: 1520, 160
+  size: 23, 93
+  orig: 23, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_4.png
+  rotate: false
+  xy: 524, 148
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_5.png
+  rotate: false
+  xy: 327, 64
+  size: 23, 80
+  orig: 23, 80
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_6.png
+  rotate: false
+  xy: 526, 64
+  size: 22, 82
+  orig: 22, 82
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_7.png
+  rotate: false
+  xy: 1971, 162
+  size: 23, 91
+  orig: 23, 91
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_8.png
+  rotate: false
+  xy: 1718, 160
+  size: 22, 93
+  orig: 22, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_2_9.png
+  rotate: false
+  xy: 1742, 158
+  size: 22, 95
+  orig: 22, 95
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_1.png
+  rotate: false
+  xy: 302, 146
+  size: 23, 107
+  orig: 23, 107
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_10.png
+  rotate: false
+  xy: 1227, 158
+  size: 23, 95
+  orig: 23, 95
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_11.png
+  rotate: false
+  xy: 451, 146
+  size: 22, 107
+  orig: 22, 107
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_12.png
+  rotate: false
+  xy: 1350, 157
+  size: 22, 96
+  orig: 22, 96
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_13.png
+  rotate: false
+  xy: 773, 112
+  size: 23, 97
+  orig: 23, 97
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_14.png
+  rotate: false
+  xy: 402, 147
+  size: 23, 106
+  orig: 23, 106
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_15.png
+  rotate: false
+  xy: 277, 145
+  size: 23, 108
+  orig: 23, 108
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_16.png
+  rotate: false
+  xy: 1057, 153
+  size: 22, 100
+  orig: 22, 100
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_17.png
+  rotate: false
+  xy: 1177, 157
+  size: 23, 96
+  orig: 23, 96
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_18.png
+  rotate: false
+  xy: 941, 75
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_19.png
+  rotate: false
+  xy: 277, 69
+  size: 23, 74
+  orig: 23, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_2.png
+  rotate: false
+  xy: 598, 68
+  size: 22, 77
+  orig: 22, 77
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_20.png
+  rotate: false
+  xy: 989, 75
+  size: 22, 74
+  orig: 22, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_21.png
+  rotate: false
+  xy: 845, 79
+  size: 23, 69
+  orig: 23, 69
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_22.png
+  rotate: false
+  xy: 1874, 160
+  size: 22, 93
+  orig: 22, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_23.png
+  rotate: false
+  xy: 1277, 158
+  size: 23, 95
+  orig: 23, 95
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_24.png
+  rotate: false
+  xy: 820, 150
+  size: 23, 103
+  orig: 23, 103
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_25.png
+  rotate: false
+  xy: 574, 148
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_26.png
+  rotate: false
+  xy: 1595, 160
+  size: 23, 93
+  orig: 23, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_27.png
+  rotate: false
+  xy: 1447, 159
+  size: 23, 94
+  orig: 23, 94
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_28.png
+  rotate: false
+  xy: 1789, 153
+  size: 21, 100
+  orig: 21, 100
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_29.png
+  rotate: false
+  xy: 2021, 163
+  size: 23, 90
+  orig: 23, 90
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_3.png
+  rotate: false
+  xy: 1127, 155
+  size: 23, 98
+  orig: 23, 98
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_30.png
+  rotate: false
+  xy: 1620, 160
+  size: 23, 93
+  orig: 23, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_31.png
+  rotate: false
+  xy: 1645, 160
+  size: 23, 93
+  orig: 23, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_4.png
+  rotate: false
+  xy: 499, 148
+  size: 23, 105
+  orig: 23, 105
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_5.png
+  rotate: false
+  xy: 302, 64
+  size: 23, 80
+  orig: 23, 80
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_6.png
+  rotate: false
+  xy: 502, 64
+  size: 22, 82
+  orig: 22, 82
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_7.png
+  rotate: false
+  xy: 1946, 162
+  size: 23, 91
+  orig: 23, 91
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_8.png
+  rotate: false
+  xy: 1670, 160
+  size: 22, 93
+  orig: 22, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_d_4_9.png
+  rotate: false
+  xy: 1398, 158
+  size: 22, 95
+  orig: 22, 95
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_1.png
+  rotate: false
+  xy: 987, 151
+  size: 21, 102
+  orig: 21, 102
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_10.png
+  rotate: false
+  xy: 1232, 85
+  size: 12, 71
+  orig: 12, 71
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_11.png
+  rotate: false
+  xy: 1164, 80
+  size: 11, 73
+  orig: 11, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_12.png
+  rotate: false
+  xy: 1150, 80
+  size: 12, 73
+  orig: 12, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_13.png
+  rotate: false
+  xy: 1081, 153
+  size: 21, 100
+  orig: 21, 100
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_14.png
+  rotate: false
+  xy: 893, 74
+  size: 22, 73
+  orig: 22, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_15.png
+  rotate: false
+  xy: 1326, 157
+  size: 22, 96
+  orig: 22, 96
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_16.png
+  rotate: false
+  xy: 646, 53
+  size: 11, 92
+  orig: 11, 92
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_17.png
+  rotate: false
+  xy: 1898, 161
+  size: 22, 92
+  orig: 22, 92
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_18.png
+  rotate: false
+  xy: 440, 48
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_19.png
+  rotate: false
+  xy: 939, 151
+  size: 22, 102
+  orig: 22, 102
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_2.png
+  rotate: false
+  xy: 476, 40
+  size: 11, 104
+  orig: 11, 104
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_20.png
+  rotate: false
+  xy: 916, 149
+  size: 21, 104
+  orig: 21, 104
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_21.png
+  rotate: false
+  xy: 869, 150
+  size: 22, 103
+  orig: 22, 103
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_22.png
+  rotate: false
+  xy: 420, 50
+  size: 18, 94
+  orig: 18, 94
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_23.png
+  rotate: false
+  xy: 1496, 159
+  size: 22, 94
+  orig: 22, 94
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_24.png
+  rotate: false
+  xy: 396, 55
+  size: 22, 90
+  orig: 22, 90
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_25.png
+  rotate: false
+  xy: 157, 4
+  size: 21, 65
+  orig: 21, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_26.png
+  rotate: false
+  xy: 202, 4
+  size: 20, 65
+  orig: 20, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_27.png
+  rotate: false
+  xy: 134, 4
+  size: 21, 65
+  orig: 21, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_29.png
+  rotate: false
+  xy: 1852, 156
+  size: 20, 97
+  orig: 20, 97
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_3.png
+  rotate: false
+  xy: 1036, 80
+  size: 22, 71
+  orig: 22, 71
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_30.png
+  rotate: false
+  xy: 1136, 79
+  size: 12, 74
+  orig: 12, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_31.png
+  rotate: false
+  xy: 1013, 75
+  size: 21, 74
+  orig: 21, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_4.png
+  rotate: false
+  xy: 1084, 73
+  size: 17, 78
+  orig: 17, 78
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_5.png
+  rotate: false
+  xy: 550, 66
+  size: 22, 80
+  orig: 22, 80
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_6.png
+  rotate: false
+  xy: 693, 68
+  size: 19, 80
+  orig: 19, 80
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_7.png
+  rotate: false
+  xy: 623, 147
+  size: 22, 106
+  orig: 22, 106
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_8.png
+  rotate: false
+  xy: 1832, 149
+  size: 18, 104
+  orig: 18, 104
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_2_9.png
+  rotate: false
+  xy: 1218, 83
+  size: 12, 73
+  orig: 12, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_1.png
+  rotate: false
+  xy: 1010, 151
+  size: 21, 102
+  orig: 21, 102
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_10.png
+  rotate: false
+  xy: 1246, 85
+  size: 12, 71
+  orig: 12, 71
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_11.png
+  rotate: false
+  xy: 1191, 82
+  size: 11, 73
+  orig: 11, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_12.png
+  rotate: false
+  xy: 1177, 82
+  size: 12, 73
+  orig: 12, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_13.png
+  rotate: false
+  xy: 1104, 153
+  size: 21, 100
+  orig: 21, 100
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_14.png
+  rotate: false
+  xy: 917, 74
+  size: 22, 73
+  orig: 22, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_15.png
+  rotate: false
+  xy: 1374, 157
+  size: 22, 96
+  orig: 22, 96
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_16.png
+  rotate: false
+  xy: 659, 56
+  size: 11, 92
+  orig: 11, 92
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_17.png
+  rotate: false
+  xy: 1922, 161
+  size: 22, 92
+  orig: 22, 92
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_18.png
+  rotate: false
+  xy: 458, 48
+  size: 16, 96
+  orig: 16, 96
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_19.png
+  rotate: false
+  xy: 963, 151
+  size: 22, 102
+  orig: 22, 102
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_2.png
+  rotate: false
+  xy: 489, 40
+  size: 11, 104
+  orig: 11, 104
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_20.png
+  rotate: false
+  xy: 893, 149
+  size: 21, 104
+  orig: 21, 104
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_21.png
+  rotate: false
+  xy: 845, 150
+  size: 22, 103
+  orig: 22, 103
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_22.png
+  rotate: false
+  xy: 376, 50
+  size: 18, 94
+  orig: 18, 94
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_23.png
+  rotate: false
+  xy: 1472, 159
+  size: 22, 94
+  orig: 22, 94
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_24.png
+  rotate: false
+  xy: 352, 54
+  size: 22, 90
+  orig: 22, 90
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_25.png
+  rotate: false
+  xy: 111, 4
+  size: 21, 65
+  orig: 21, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_26.png
+  rotate: false
+  xy: 180, 4
+  size: 20, 65
+  orig: 20, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_27.png
+  rotate: false
+  xy: 88, 2
+  size: 21, 65
+  orig: 21, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_29.png
+  rotate: false
+  xy: 798, 112
+  size: 20, 97
+  orig: 20, 97
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_3.png
+  rotate: false
+  xy: 1060, 80
+  size: 22, 71
+  orig: 22, 71
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_30.png
+  rotate: false
+  xy: 1122, 77
+  size: 12, 74
+  orig: 12, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_31.png
+  rotate: false
+  xy: 870, 74
+  size: 21, 74
+  orig: 21, 74
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_4.png
+  rotate: false
+  xy: 1103, 73
+  size: 17, 78
+  orig: 17, 78
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_5.png
+  rotate: false
+  xy: 574, 66
+  size: 22, 80
+  orig: 22, 80
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_6.png
+  rotate: false
+  xy: 672, 68
+  size: 19, 80
+  orig: 19, 80
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_7.png
+  rotate: false
+  xy: 599, 147
+  size: 22, 106
+  orig: 22, 106
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_8.png
+  rotate: false
+  xy: 1812, 149
+  size: 18, 104
+  orig: 18, 104
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_e_4_9.png
+  rotate: false
+  xy: 1204, 83
+  size: 12, 73
+  orig: 12, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_f_2_0.png
+  rotate: false
+  xy: 698, 150
+  size: 23, 103
+  orig: 23, 103
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_f_4_0.png
+  rotate: false
+  xy: 647, 150
+  size: 24, 103
+  orig: 24, 103
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_g_2_0.png
+  rotate: false
+  xy: 352, 146
+  size: 23, 107
+  orig: 23, 107
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_g_4_0.png
+  rotate: false
+  xy: 475, 146
+  size: 22, 107
+  orig: 22, 107
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_sd_2_0.png
+  rotate: false
+  xy: 2, 25
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_64_sd_4_0.png
+  rotate: false
+  xy: 723, 211
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+xmas_c18_stagewindow_xmas_c18_stagewindow_icon_a.png
+  rotate: false
+  xy: 1260, 126
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

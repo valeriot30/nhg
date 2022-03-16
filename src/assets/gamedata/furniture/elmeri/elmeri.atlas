@@ -1,0 +1,27 @@
+
+elmeri.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+elmeri_elmeri_64_a_2_0.png
+  rotate: false
+  xy: 2, 60
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+elmeri_elmeri_64_sd_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+elmeri_elmeri_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

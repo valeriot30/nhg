@@ -1,0 +1,20 @@
+
+clothing_piglethat.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_piglethat_clothing_piglethat_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+clothing_piglethat_clothing_piglethat_icon_a.png
+  rotate: false
+  xy: 41, 24
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

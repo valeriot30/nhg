@@ -1,0 +1,48 @@
+
+xmas_c16_painting.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c16_painting_xmas_c16_painting_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+xmas_c16_painting_xmas_c16_painting_64_a_2_1.png
+  rotate: false
+  xy: 64, 2
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+xmas_c16_painting_xmas_c16_painting_64_a_2_2.png
+  rotate: false
+  xy: 84, 145
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+xmas_c16_painting_xmas_c16_painting_64_a_2_3.png
+  rotate: false
+  xy: 146, 145
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+xmas_c16_painting_xmas_c16_painting_64_b_2_0.png
+  rotate: false
+  xy: 2, 113
+  size: 80, 141
+  orig: 80, 141
+  offset: 0, 0
+  index: -1
+xmas_c16_painting_xmas_c16_painting_icon_a.png
+  rotate: false
+  xy: 84, 113
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

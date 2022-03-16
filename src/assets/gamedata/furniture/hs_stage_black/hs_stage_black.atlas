@@ -1,0 +1,48 @@
+
+hs_stage_black.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hs_stage_black_hs_stage_black_64_a_0_0.png
+  rotate: false
+  xy: 146, 61
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+hs_stage_black_hs_stage_black_64_a_0_1.png
+  rotate: false
+  xy: 74, 41
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+hs_stage_black_hs_stage_black_64_a_0_2.png
+  rotate: false
+  xy: 2, 21
+  size: 70, 96
+  orig: 70, 96
+  offset: 0, 0
+  index: -1
+hs_stage_black_hs_stage_black_64_b_0_0.png
+  rotate: false
+  xy: 74, 2
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+hs_stage_black_hs_stage_black_64_sd_0_0.png
+  rotate: false
+  xy: 146, 26
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+hs_stage_black_hs_stage_black_icon_a.png
+  rotate: false
+  xy: 218, 90
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

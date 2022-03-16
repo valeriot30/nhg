@@ -1,0 +1,27 @@
+
+CF_1000_goldenkey.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+CF_1000_goldenkey_CF_1000_goldenkey_64_a_0_0.png
+  rotate: false
+  xy: 2, 20
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+CF_1000_goldenkey_CF_1000_goldenkey_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 16
+  orig: 45, 16
+  offset: 0, 0
+  index: -1
+CF_1000_goldenkey_CF_1000_goldenkey_icon_a.png
+  rotate: false
+  xy: 50, 21
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

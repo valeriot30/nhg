@@ -1,0 +1,41 @@
+
+gothic_st_glass.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gothic_st_glass_gothic_st_glass_64_a_2_0.png
+  rotate: false
+  xy: 108, 18
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+gothic_st_glass_gothic_st_glass_64_a_2_1.png
+  rotate: false
+  xy: 158, 18
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+gothic_st_glass_gothic_st_glass_64_b_2_0.png
+  rotate: false
+  xy: 208, 18
+  size: 48, 102
+  orig: 48, 102
+  offset: 0, 0
+  index: -1
+gothic_st_glass_gothic_st_glass_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 104, 118
+  orig: 104, 118
+  offset: 0, 0
+  index: -1
+gothic_st_glass_gothic_st_glass_icon_a.png
+  rotate: false
+  xy: 258, 90
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

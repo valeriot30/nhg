@@ -1,0 +1,174 @@
+
+telescopetest.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+telescopetest_telescopetest_32_d_6_0.png
+  rotate: false
+  xy: 136, 42
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_32_d_6_0.png
+  rotate: false
+  xy: 598, 113
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_32_d_6_0.png
+  rotate: false
+  xy: 606, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_32_d_6_0.png
+  rotate: false
+  xy: 36, 24
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_32_d_6_0.png
+  rotate: false
+  xy: 45, 35
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_32_d_6_0.png
+  rotate: false
+  xy: 402, 30
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_32_d_6_0.png
+  rotate: false
+  xy: 411, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_32_d_6_0.png
+  rotate: false
+  xy: 436, 64
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_a_0_0.png
+  rotate: false
+  xy: 270, 2
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_a_2_0.png
+  rotate: false
+  xy: 466, 48
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_a_4_0.png
+  rotate: false
+  xy: 532, 48
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_a_6_0.png
+  rotate: false
+  xy: 336, 2
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_b_0_0.png
+  rotate: false
+  xy: 2, 38
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_b_2_0.png
+  rotate: false
+  xy: 203, 45
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_b_4_0.png
+  rotate: false
+  xy: 136, 45
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_b_6_0.png
+  rotate: false
+  xy: 69, 38
+  size: 65, 88
+  orig: 65, 88
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_c_4_1.png
+  rotate: false
+  xy: 402, 33
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_c_4_2.png
+  rotate: false
+  xy: 436, 67
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_c_4_3.png
+  rotate: false
+  xy: 36, 27
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_c_4_4.png
+  rotate: false
+  xy: 598, 116
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_d_2_1.png
+  rotate: false
+  xy: 2, 4
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_sd_0_0.png
+  rotate: false
+  xy: 270, 77
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_64_sd_2_0.png
+  rotate: false
+  xy: 368, 77
+  size: 96, 49
+  orig: 96, 49
+  offset: 0, 0
+  index: -1
+telescopetest_telescopetest_icon_a.png
+  rotate: false
+  xy: 402, 43
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

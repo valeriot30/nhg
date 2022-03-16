@@ -1,0 +1,125 @@
+
+hblooza14_tent.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_tent_hblooza14_tent_64_a_0_0.png
+  rotate: false
+  xy: 858, 75
+  size: 64, 153
+  orig: 64, 153
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_b_0_0.png
+  rotate: false
+  xy: 326, 2
+  size: 128, 144
+  orig: 128, 144
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_c_0_0.png
+  rotate: false
+  xy: 338, 148
+  size: 192, 128
+  orig: 192, 128
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_d_0_0.png
+  rotate: false
+  xy: 664, 230
+  size: 256, 113
+  orig: 256, 113
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_e_0_0.png
+  rotate: false
+  xy: 338, 278
+  size: 324, 105
+  orig: 324, 105
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_f_0_0.png
+  rotate: false
+  xy: 338, 385
+  size: 334, 121
+  orig: 334, 121
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_f_0_1.png
+  rotate: false
+  xy: 2, 251
+  size: 334, 255
+  orig: 334, 255
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_g_0_0.png
+  rotate: false
+  xy: 674, 345
+  size: 256, 161
+  orig: 256, 161
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_g_0_1.png
+  rotate: false
+  xy: 2, 51
+  size: 256, 35
+  orig: 256, 35
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_h_0_0.png
+  rotate: false
+  xy: 664, 20
+  size: 192, 208
+  orig: 192, 208
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_h_0_1.png
+  rotate: false
+  xy: 2, 18
+  size: 192, 31
+  orig: 192, 31
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_i_0_0.png
+  rotate: false
+  xy: 532, 20
+  size: 130, 256
+  orig: 130, 256
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_i_0_1.png
+  rotate: false
+  xy: 858, 42
+  size: 130, 31
+  orig: 130, 31
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_j_0_0.png
+  rotate: false
+  xy: 932, 186
+  size: 64, 320
+  orig: 64, 320
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_j_0_1.png
+  rotate: false
+  xy: 260, 53
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_64_sd_0_0.png
+  rotate: false
+  xy: 2, 88
+  size: 322, 161
+  orig: 322, 161
+  offset: 0, 0
+  index: -1
+hblooza14_tent_hblooza14_tent_icon_a.png
+  rotate: false
+  xy: 196, 23
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+fest_r19_gemowl.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_r19_gemowl_fest_r19_gemowl_64_a_0_0.png
+  rotate: false
+  xy: 2, 138
+  size: 50, 77
+  orig: 50, 77
+  offset: 0, 0
+  index: -1
+fest_r19_gemowl_fest_r19_gemowl_64_a_0_1.png
+  rotate: false
+  xy: 2, 61
+  size: 48, 75
+  orig: 48, 75
+  offset: 0, 0
+  index: -1
+fest_r19_gemowl_fest_r19_gemowl_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+fest_r19_gemowl_fest_r19_gemowl_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

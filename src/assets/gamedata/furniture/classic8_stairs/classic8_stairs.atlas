@@ -1,0 +1,83 @@
+
+classic8_stairs.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic8_stairs_classic8_stairs_64_a_2_0.png
+  rotate: false
+  xy: 204, 79
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_a_6_0.png
+  rotate: false
+  xy: 116, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_b_2_0.png
+  rotate: false
+  xy: 134, 75
+  size: 34, 49
+  orig: 34, 49
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_b_6_0.png
+  rotate: false
+  xy: 134, 61
+  size: 6, 12
+  orig: 6, 12
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_c_2_0.png
+  rotate: false
+  xy: 170, 76
+  size: 32, 48
+  orig: 32, 48
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_c_6_0.png
+  rotate: false
+  xy: 116, 20
+  size: 14, 39
+  orig: 14, 39
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_d_2_0.png
+  rotate: false
+  xy: 69, 61
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_e_2_0.png
+  rotate: false
+  xy: 2, 60
+  size: 65, 64
+  orig: 65, 64
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_f_6_0.png
+  rotate: false
+  xy: 69, 4
+  size: 45, 55
+  orig: 45, 55
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_64_g_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 56
+  orig: 65, 56
+  offset: 0, 0
+  index: -1
+classic8_stairs_classic8_stairs_icon_a.png
+  rotate: false
+  xy: 204, 97
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+easter_c19_flowertea.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c19_flowertea_easter_c19_flowertea_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+easter_c19_flowertea_easter_c19_flowertea_64_a_0_1.png
+  rotate: false
+  xy: 59, 15
+  size: 50, 36
+  orig: 50, 36
+  offset: 0, 0
+  index: -1
+easter_c19_flowertea_easter_c19_flowertea_icon_a.png
+  rotate: false
+  xy: 111, 23
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

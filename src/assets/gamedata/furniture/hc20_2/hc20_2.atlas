@@ -1,0 +1,62 @@
+
+hc20_2.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc20_2_hc20_2_64_a_2_0.png
+  rotate: false
+  xy: 216, 51
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+hc20_2_hc20_2_64_a_4_0.png
+  rotate: false
+  xy: 194, 51
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+hc20_2_hc20_2_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+hc20_2_hc20_2_64_b_4_0.png
+  rotate: false
+  xy: 74, 2
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+hc20_2_hc20_2_64_c_2_0.png
+  rotate: false
+  xy: 146, 52
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+hc20_2_hc20_2_64_c_4_0.png
+  rotate: false
+  xy: 170, 52
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+hc20_2_hc20_2_64_sd_4_0.png
+  rotate: false
+  xy: 194, 82
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+hc20_2_hc20_2_icon_a.png
+  rotate: false
+  xy: 146, 20
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

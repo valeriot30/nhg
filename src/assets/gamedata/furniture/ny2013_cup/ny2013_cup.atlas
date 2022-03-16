@@ -1,0 +1,13 @@
+
+ny2013_cup.png
+size: 32,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ny2013_cup_ny2013_cup_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1

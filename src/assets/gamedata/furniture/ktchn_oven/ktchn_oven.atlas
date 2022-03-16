@@ -1,0 +1,34 @@
+
+ktchn_oven.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ktchn_oven_ktchn_oven_64_a_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+ktchn_oven_ktchn_oven_64_a_2_1.png
+  rotate: false
+  xy: 74, 32
+  size: 70, 91
+  orig: 70, 91
+  offset: 0, 0
+  index: -1
+ktchn_oven_ktchn_oven_64_b_2_0.png
+  rotate: false
+  xy: 146, 88
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+ktchn_oven_ktchn_oven_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1

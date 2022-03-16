@@ -1,0 +1,83 @@
+
+school_toilet_wall.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+school_toilet_wall_school_toilet_wall_64_a_2_0.png
+  rotate: false
+  xy: 215, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_64_a_2_1.png
+  rotate: false
+  xy: 144, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_64_a_2_2.png
+  rotate: false
+  xy: 73, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_64_a_2_3.png
+  rotate: false
+  xy: 2, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_64_a_2_4.png
+  rotate: false
+  xy: 641, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_64_a_4_0.png
+  rotate: false
+  xy: 357, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_64_a_4_1.png
+  rotate: false
+  xy: 286, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_64_a_4_2.png
+  rotate: false
+  xy: 570, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_64_a_4_3.png
+  rotate: false
+  xy: 499, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_64_a_4_4.png
+  rotate: false
+  xy: 428, 36
+  size: 69, 183
+  orig: 69, 183
+  offset: 0, 0
+  index: -1
+school_toilet_wall_school_toilet_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1

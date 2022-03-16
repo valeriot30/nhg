@@ -1,0 +1,41 @@
+
+hween13_castlespike.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween13_castlespike_hween13_castlespike_64_a_0_0.png
+  rotate: false
+  xy: 2, 113
+  size: 38, 61
+  orig: 38, 61
+  offset: 0, 0
+  index: -1
+hween13_castlespike_hween13_castlespike_64_a_0_1.png
+  rotate: false
+  xy: 2, 63
+  size: 40, 48
+  orig: 40, 48
+  offset: 0, 0
+  index: -1
+hween13_castlespike_hween13_castlespike_64_a_0_2.png
+  rotate: false
+  xy: 2, 23
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+hween13_castlespike_hween13_castlespike_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+hween13_castlespike_hween13_castlespike_icon_a.png
+  rotate: false
+  xy: 42, 144
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

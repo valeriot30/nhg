@@ -1,0 +1,104 @@
+
+hween_c17_zombiegrunt.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_a_0_0.png
+  rotate: false
+  xy: 2, 10
+  size: 22, 89
+  orig: 22, 89
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_a_0_1.png
+  rotate: false
+  xy: 62, 9
+  size: 17, 90
+  orig: 17, 90
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_b_0_0.png
+  rotate: false
+  xy: 26, 22
+  size: 34, 77
+  orig: 34, 77
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_c_0_0.png
+  rotate: false
+  xy: 145, 56
+  size: 30, 43
+  orig: 30, 43
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_c_0_1.png
+  rotate: false
+  xy: 81, 52
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_c_0_2.png
+  rotate: false
+  xy: 113, 53
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_c_0_3.png
+  rotate: false
+  xy: 177, 57
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_d_0_0.png
+  rotate: false
+  xy: 62, 4
+  size: 10, 3
+  orig: 10, 3
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_d_0_1.png
+  rotate: false
+  xy: 81, 16
+  size: 10, 2
+  orig: 10, 2
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_d_0_2.png
+  rotate: false
+  xy: 145, 53
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_e_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_e_0_2.png
+  rotate: false
+  xy: 209, 93
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_64_sd_0_0.png
+  rotate: false
+  xy: 26, 3
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+hween_c17_zombiegrunt_hween_c17_zombiegrunt_icon_a.png
+  rotate: false
+  xy: 81, 20
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

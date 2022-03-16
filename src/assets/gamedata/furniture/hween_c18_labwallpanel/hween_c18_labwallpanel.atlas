@@ -1,0 +1,55 @@
+
+hween_c18_labwallpanel.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_labwallpanel_hween_c18_labwallpanel_64_a_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 70, 218
+  orig: 70, 218
+  offset: 0, 0
+  index: -1
+hween_c18_labwallpanel_hween_c18_labwallpanel_64_a_2_1.png
+  rotate: false
+  xy: 218, 59
+  size: 70, 195
+  orig: 70, 195
+  offset: 0, 0
+  index: -1
+hween_c18_labwallpanel_hween_c18_labwallpanel_64_a_2_2.png
+  rotate: false
+  xy: 146, 59
+  size: 70, 195
+  orig: 70, 195
+  offset: 0, 0
+  index: -1
+hween_c18_labwallpanel_hween_c18_labwallpanel_64_a_4_0.png
+  rotate: false
+  xy: 74, 36
+  size: 70, 218
+  orig: 70, 218
+  offset: 0, 0
+  index: -1
+hween_c18_labwallpanel_hween_c18_labwallpanel_64_a_4_1.png
+  rotate: false
+  xy: 362, 59
+  size: 70, 195
+  orig: 70, 195
+  offset: 0, 0
+  index: -1
+hween_c18_labwallpanel_hween_c18_labwallpanel_64_a_4_2.png
+  rotate: false
+  xy: 290, 59
+  size: 70, 195
+  orig: 70, 195
+  offset: 0, 0
+  index: -1
+hween_c18_labwallpanel_hween_c18_labwallpanel_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1

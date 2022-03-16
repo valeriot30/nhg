@@ -1,0 +1,223 @@
+
+cannon.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cannon_cannon_32_c_0_0.png
+  rotate: false
+  xy: 830, 152
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cannon_cannon_32_c_0_0.png
+  rotate: false
+  xy: 513, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_a_0_1.png
+  rotate: false
+  xy: 298, 5
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_a_0_2.png
+  rotate: false
+  xy: 943, 113
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_a_0_3.png
+  rotate: false
+  xy: 943, 183
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_b_0_0.png
+  rotate: false
+  xy: 419, 2
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_b_0_1.png
+  rotate: false
+  xy: 732, 66
+  size: 96, 87
+  orig: 96, 87
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_b_0_2.png
+  rotate: false
+  xy: 830, 56
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_c_0_1.png
+  rotate: false
+  xy: 845, 148
+  size: 96, 105
+  orig: 96, 105
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_c_0_2.png
+  rotate: false
+  xy: 593, 114
+  size: 137, 139
+  orig: 137, 139
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_c_0_3.png
+  rotate: false
+  xy: 419, 95
+  size: 172, 158
+  orig: 172, 158
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_c_0_4.png
+  rotate: false
+  xy: 215, 74
+  size: 202, 179
+  orig: 202, 179
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_c_0_5.png
+  rotate: false
+  xy: 2, 61
+  size: 211, 192
+  orig: 211, 192
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_c_0_6.png
+  rotate: false
+  xy: 732, 155
+  size: 111, 98
+  orig: 111, 98
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_c_0_7.png
+  rotate: false
+  xy: 925, 38
+  size: 82, 73
+  orig: 82, 73
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_c_0_8.png
+  rotate: false
+  xy: 98, 14
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_c_0_9.png
+  rotate: false
+  xy: 601, 7
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_d_0_0.png
+  rotate: false
+  xy: 1014, 245
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_d_0_1.png
+  rotate: false
+  xy: 693, 38
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_d_0_2.png
+  rotate: false
+  xy: 191, 39
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_d_0_3.png
+  rotate: false
+  xy: 693, 59
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_d_0_4.png
+  rotate: false
+  xy: 366, 27
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_d_0_5.png
+  rotate: false
+  xy: 601, 27
+  size: 90, 85
+  orig: 90, 85
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_d_0_6.png
+  rotate: false
+  xy: 513, 5
+  size: 86, 88
+  orig: 86, 88
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_d_0_7.png
+  rotate: false
+  xy: 215, 2
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_e_0_0.png
+  rotate: false
+  xy: 166, 33
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_e_0_2.png
+  rotate: false
+  xy: 925, 126
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_e_0_3.png
+  rotate: false
+  xy: 389, 51
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_e_0_4.png
+  rotate: false
+  xy: 366, 49
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+cannon_cannon_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 94, 57
+  orig: 94, 57
+  offset: 0, 0
+  index: -1
+cannon_cannon_icon_a.png
+  rotate: false
+  xy: 693, 82
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

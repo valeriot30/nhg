@@ -1,0 +1,349 @@
+
+hween12_orb.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween12_orb_hween12_orb_32_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_0.png
+  rotate: false
+  xy: 118, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_1.png
+  rotate: false
+  xy: 143, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_10.png
+  rotate: false
+  xy: 193, 16
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_11.png
+  rotate: false
+  xy: 368, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_12.png
+  rotate: false
+  xy: 393, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_13.png
+  rotate: false
+  xy: 418, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_14.png
+  rotate: false
+  xy: 443, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_15.png
+  rotate: false
+  xy: 468, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_16.png
+  rotate: false
+  xy: 118, 16
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_17.png
+  rotate: false
+  xy: 143, 16
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_18.png
+  rotate: false
+  xy: 168, 16
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_2.png
+  rotate: false
+  xy: 168, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_3.png
+  rotate: false
+  xy: 193, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_4.png
+  rotate: false
+  xy: 218, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_5.png
+  rotate: false
+  xy: 243, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_6.png
+  rotate: false
+  xy: 268, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_7.png
+  rotate: false
+  xy: 293, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_8.png
+  rotate: false
+  xy: 318, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_a_0_9.png
+  rotate: false
+  xy: 343, 40
+  size: 23, 22
+  orig: 23, 22
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_b_0_0.png
+  rotate: false
+  xy: 2, 11
+  size: 35, 51
+  orig: 35, 51
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_b_0_1.png
+  rotate: false
+  xy: 39, 15
+  size: 35, 47
+  orig: 35, 47
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_b_0_2.png
+  rotate: false
+  xy: 76, 22
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_1.png
+  rotate: false
+  xy: 14, 5
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_10.png
+  rotate: false
+  xy: 249, 29
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_11.png
+  rotate: false
+  xy: 313, 29
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_12.png
+  rotate: false
+  xy: 375, 32
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_2.png
+  rotate: false
+  xy: 25, 5
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_3.png
+  rotate: false
+  xy: 321, 30
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_4.png
+  rotate: false
+  xy: 347, 28
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_5.png
+  rotate: false
+  xy: 273, 30
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_6.png
+  rotate: false
+  xy: 218, 19
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_7.png
+  rotate: false
+  xy: 295, 29
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_8.png
+  rotate: false
+  xy: 2, 5
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_c_0_9.png
+  rotate: false
+  xy: 361, 30
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_1.png
+  rotate: false
+  xy: 88, 16
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_10.png
+  rotate: false
+  xy: 261, 29
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_11.png
+  rotate: false
+  xy: 339, 29
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_12.png
+  rotate: false
+  xy: 382, 32
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_2.png
+  rotate: false
+  xy: 99, 16
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_3.png
+  rotate: false
+  xy: 330, 30
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_4.png
+  rotate: false
+  xy: 354, 28
+  size: 5, 10
+  orig: 5, 10
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_5.png
+  rotate: false
+  xy: 284, 30
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_6.png
+  rotate: false
+  xy: 235, 29
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_7.png
+  rotate: false
+  xy: 304, 29
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_8.png
+  rotate: false
+  xy: 76, 16
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_d_0_9.png
+  rotate: false
+  xy: 368, 30
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_64_sd_0_0.png
+  rotate: false
+  xy: 218, 30
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+hween12_orb_hween12_orb_icon_a.png
+  rotate: false
+  xy: 493, 38
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1

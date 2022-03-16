@@ -1,0 +1,20 @@
+
+clothing_loosekimono.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_loosekimono_clothing_loosekimono_64_a_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+clothing_loosekimono_clothing_loosekimono_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

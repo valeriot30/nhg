@@ -1,0 +1,48 @@
+
+chess_b_king.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chess_b_king_chess_b_king_64_a_0_0.png
+  rotate: false
+  xy: 2, 63
+  size: 56, 170
+  orig: 56, 170
+  offset: 0, 0
+  index: -1
+chess_b_king_chess_b_king_64_a_2_0.png
+  rotate: false
+  xy: 118, 63
+  size: 56, 170
+  orig: 56, 170
+  offset: 0, 0
+  index: -1
+chess_b_king_chess_b_king_64_a_4_0.png
+  rotate: false
+  xy: 60, 63
+  size: 56, 170
+  orig: 56, 170
+  offset: 0, 0
+  index: -1
+chess_b_king_chess_b_king_64_a_6_0.png
+  rotate: false
+  xy: 176, 63
+  size: 56, 170
+  orig: 56, 170
+  offset: 0, 0
+  index: -1
+chess_b_king_chess_b_king_64_sd_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+chess_b_king_chess_b_king_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1

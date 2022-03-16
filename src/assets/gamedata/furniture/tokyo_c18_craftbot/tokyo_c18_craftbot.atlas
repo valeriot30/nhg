@@ -1,0 +1,104 @@
+
+tokyo_c18_craftbot.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_a_0_0.png
+  rotate: false
+  xy: 170, 20
+  size: 81, 99
+  orig: 81, 99
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_a_0_1.png
+  rotate: false
+  xy: 419, 21
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_a_0_2.png
+  rotate: false
+  xy: 498, 24
+  size: 77, 95
+  orig: 77, 95
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_a_0_3.png
+  rotate: false
+  xy: 337, 21
+  size: 80, 98
+  orig: 80, 98
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_a_0_4.png
+  rotate: false
+  xy: 253, 22
+  size: 82, 97
+  orig: 82, 97
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_a_0_5.png
+  rotate: false
+  xy: 2, 20
+  size: 82, 99
+  orig: 82, 99
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_a_0_6.png
+  rotate: false
+  xy: 86, 20
+  size: 82, 99
+  orig: 82, 99
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_b_0_5.png
+  rotate: false
+  xy: 577, 65
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_c_0_5.png
+  rotate: false
+  xy: 577, 76
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_d_0_0.png
+  rotate: false
+  xy: 607, 110
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_d_0_1.png
+  rotate: false
+  xy: 595, 79
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_d_0_2.png
+  rotate: false
+  xy: 36, 9
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+tokyo_c18_craftbot_tokyo_c18_craftbot_icon_a.png
+  rotate: false
+  xy: 577, 89
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

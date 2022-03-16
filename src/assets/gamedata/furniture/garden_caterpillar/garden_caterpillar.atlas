@@ -1,0 +1,146 @@
+
+garden_caterpillar.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+garden_caterpillar_garden_caterpillar_64_a_2_0.png
+  rotate: false
+  xy: 65, 2
+  size: 61, 125
+  orig: 61, 125
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 125
+  orig: 61, 125
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_a_2_2.png
+  rotate: false
+  xy: 128, 67
+  size: 61, 124
+  orig: 61, 124
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_a_2_3.png
+  rotate: false
+  xy: 317, 74
+  size: 61, 122
+  orig: 61, 122
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_a_2_4.png
+  rotate: false
+  xy: 254, 58
+  size: 61, 122
+  orig: 61, 122
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_a_2_5.png
+  rotate: false
+  xy: 191, 63
+  size: 61, 117
+  orig: 61, 117
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_b_2_0.png
+  rotate: false
+  xy: 185, 10
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_b_2_1.png
+  rotate: false
+  xy: 128, 14
+  size: 55, 51
+  orig: 55, 51
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_c_2_0.png
+  rotate: false
+  xy: 391, 214
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_c_2_1.png
+  rotate: false
+  xy: 242, 17
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_c_2_2.png
+  rotate: false
+  xy: 391, 173
+  size: 72, 39
+  orig: 72, 39
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_c_2_3.png
+  rotate: false
+  xy: 380, 132
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_c_2_4.png
+  rotate: false
+  xy: 380, 50
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_c_2_5.png
+  rotate: false
+  xy: 380, 91
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_d_2_0.png
+  rotate: false
+  xy: 191, 190
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_d_2_1.png
+  rotate: false
+  xy: 2, 129
+  size: 82, 124
+  orig: 82, 124
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_e_2_1.png
+  rotate: false
+  xy: 226, 182
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_f_2_1.png
+  rotate: false
+  xy: 309, 198
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_64_sd_2_0.png
+  rotate: false
+  xy: 86, 193
+  size: 138, 60
+  orig: 138, 60
+  offset: 0, 0
+  index: -1
+garden_caterpillar_garden_caterpillar_icon_a.png
+  rotate: false
+  xy: 86, 161
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,216 @@
+
+vikings_outdoorstove.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_outdoorstove_vikings_outdoorstove_64_a_0_0.png
+  rotate: false
+  xy: 2, 47
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_a_0_1.png
+  rotate: false
+  xy: 102, 176
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_a_0_2.png
+  rotate: false
+  xy: 2, 125
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_b_0_0.png
+  rotate: false
+  xy: 148, 132
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_b_0_1.png
+  rotate: false
+  xy: 68, 54
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_b_0_2.png
+  rotate: false
+  xy: 148, 93
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_c_0_0.png
+  rotate: false
+  xy: 147, 55
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_c_0_1.png
+  rotate: false
+  xy: 131, 14
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_c_0_2.png
+  rotate: false
+  xy: 56, 5
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_c_0_3.png
+  rotate: false
+  xy: 92, 12
+  size: 37, 40
+  orig: 37, 40
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_c_0_4.png
+  rotate: false
+  xy: 208, 174
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_c_0_5.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_c_0_6.png
+  rotate: false
+  xy: 208, 215
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_c_0_7.png
+  rotate: false
+  xy: 198, 137
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_d_0_0.png
+  rotate: false
+  xy: 108, 94
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_d_0_1.png
+  rotate: false
+  xy: 168, 172
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_d_0_2.png
+  rotate: false
+  xy: 68, 94
+  size: 38, 80
+  orig: 38, 80
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_e_0_0.png
+  rotate: false
+  xy: 190, 55
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_e_0_1.png
+  rotate: false
+  xy: 212, 55
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_e_0_2.png
+  rotate: false
+  xy: 234, 56
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_f_0_0.png
+  rotate: false
+  xy: 229, 25
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_f_0_1.png
+  rotate: false
+  xy: 201, 22
+  size: 26, 31
+  orig: 26, 31
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_f_0_2.png
+  rotate: false
+  xy: 230, 105
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_f_0_3.png
+  rotate: false
+  xy: 226, 77
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_f_0_4.png
+  rotate: false
+  xy: 68, 177
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_f_0_5.png
+  rotate: false
+  xy: 198, 107
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_f_0_6.png
+  rotate: false
+  xy: 170, 16
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_f_0_7.png
+  rotate: false
+  xy: 118, 60
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_64_sd_0_0.png
+  rotate: false
+  xy: 2, 203
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+vikings_outdoorstove_vikings_outdoorstove_icon_a.png
+  rotate: false
+  xy: 198, 76
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

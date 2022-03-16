@@ -1,0 +1,111 @@
+
+roombg_stars.png
+size: 2048,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roombg_stars_roombg_stars_64_a_0_0.png
+  rotate: false
+  xy: 2, 47
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_b_0_0.png
+  rotate: false
+  xy: 2, 82
+  size: 1660, 1499
+  orig: 1660, 1499
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_0.png
+  rotate: false
+  xy: 1721, 1580
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_1.png
+  rotate: false
+  xy: 1698, 1556
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_10.png
+  rotate: false
+  xy: 70, 49
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_11.png
+  rotate: false
+  xy: 1689, 1545
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_2.png
+  rotate: false
+  xy: 1664, 1515
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_3.png
+  rotate: false
+  xy: 30, 33
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_4.png
+  rotate: false
+  xy: 1664, 1524
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_5.png
+  rotate: false
+  xy: 70, 54
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_6.png
+  rotate: false
+  xy: 2, 19
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_7.png
+  rotate: false
+  xy: 1698, 1560
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_8.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_64_c_0_9.png
+  rotate: false
+  xy: 98, 73
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+roombg_stars_roombg_stars_icon_a.png
+  rotate: false
+  xy: 1664, 1549
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

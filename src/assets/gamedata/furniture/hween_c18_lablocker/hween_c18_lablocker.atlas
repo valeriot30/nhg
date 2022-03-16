@@ -1,0 +1,48 @@
+
+hween_c18_lablocker.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_lablocker_hween_c18_lablocker_64_a_0_0.png
+  rotate: false
+  xy: 121, 15
+  size: 37, 99
+  orig: 37, 99
+  offset: 0, 0
+  index: -1
+hween_c18_lablocker_hween_c18_lablocker_64_b_0_0.png
+  rotate: false
+  xy: 62, 2
+  size: 57, 112
+  orig: 57, 112
+  offset: 0, 0
+  index: -1
+hween_c18_lablocker_hween_c18_lablocker_64_b_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 58, 112
+  orig: 58, 112
+  offset: 0, 0
+  index: -1
+hween_c18_lablocker_hween_c18_lablocker_64_c_0_0.png
+  rotate: false
+  xy: 160, 18
+  size: 27, 96
+  orig: 27, 96
+  offset: 0, 0
+  index: -1
+hween_c18_lablocker_hween_c18_lablocker_64_sd_0_0.png
+  rotate: false
+  xy: 189, 85
+  size: 57, 29
+  orig: 57, 29
+  offset: 0, 0
+  index: -1
+hween_c18_lablocker_hween_c18_lablocker_icon_a.png
+  rotate: false
+  xy: 189, 54
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1

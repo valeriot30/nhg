@@ -1,0 +1,118 @@
+
+hc_luggage.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_luggage_hc_luggage_64_a_0_0.png
+  rotate: false
+  xy: 186, 73
+  size: 51, 52
+  orig: 51, 52
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_a_0_1.png
+  rotate: false
+  xy: 2, 40
+  size: 61, 85
+  orig: 61, 85
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_b_0_0.png
+  rotate: false
+  xy: 130, 72
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_b_0_1.png
+  rotate: false
+  xy: 65, 43
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_c_0_0.png
+  rotate: false
+  xy: 65, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_c_0_1.png
+  rotate: false
+  xy: 130, 43
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_c_0_2.png
+  rotate: false
+  xy: 474, 101
+  size: 35, 24
+  orig: 35, 24
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_c_0_3.png
+  rotate: false
+  xy: 239, 60
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_c_0_4.png
+  rotate: false
+  xy: 382, 71
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_c_0_5.png
+  rotate: false
+  xy: 382, 98
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_d_0_1.png
+  rotate: false
+  xy: 333, 91
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_d_0_2.png
+  rotate: false
+  xy: 426, 104
+  size: 46, 21
+  orig: 46, 21
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_d_0_3.png
+  rotate: false
+  xy: 286, 89
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_d_0_4.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 36
+  orig: 45, 36
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_64_d_0_5.png
+  rotate: false
+  xy: 239, 87
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+hc_luggage_hc_luggage_icon_a.png
+  rotate: false
+  xy: 426, 79
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1

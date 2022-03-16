@@ -1,0 +1,146 @@
+
+pirate_mast2.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_mast2_pirate_mast2_64_a_0_0.png
+  rotate: false
+  xy: 321, 39
+  size: 99, 196
+  orig: 99, 196
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_a_0_1.png
+  rotate: false
+  xy: 220, 39
+  size: 99, 196
+  orig: 99, 196
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 107, 201
+  orig: 107, 201
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_a_4_1.png
+  rotate: false
+  xy: 111, 34
+  size: 107, 201
+  orig: 107, 201
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_b_0_0.png
+  rotate: false
+  xy: 479, 22
+  size: 55, 213
+  orig: 55, 213
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_b_0_1.png
+  rotate: false
+  xy: 422, 22
+  size: 55, 213
+  orig: 55, 213
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_b_4_0.png
+  rotate: false
+  xy: 593, 22
+  size: 55, 213
+  orig: 55, 213
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_b_4_1.png
+  rotate: false
+  xy: 536, 22
+  size: 55, 213
+  orig: 55, 213
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_c_0_0.png
+  rotate: false
+  xy: 786, 53
+  size: 31, 182
+  orig: 31, 182
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_c_0_1.png
+  rotate: false
+  xy: 819, 53
+  size: 31, 182
+  orig: 31, 182
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_c_4_0.png
+  rotate: false
+  xy: 683, 45
+  size: 31, 190
+  orig: 31, 190
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_c_4_1.png
+  rotate: false
+  xy: 650, 45
+  size: 31, 190
+  orig: 31, 190
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_d_0_0.png
+  rotate: false
+  xy: 751, 53
+  size: 33, 182
+  orig: 33, 182
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_d_0_1.png
+  rotate: false
+  xy: 716, 53
+  size: 33, 182
+  orig: 33, 182
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_d_4_0.png
+  rotate: false
+  xy: 852, 62
+  size: 33, 173
+  orig: 33, 173
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_d_4_1.png
+  rotate: false
+  xy: 887, 62
+  size: 33, 173
+  orig: 33, 173
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_e_0_0.png
+  rotate: false
+  xy: 922, 71
+  size: 28, 164
+  orig: 28, 164
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_e_0_1.png
+  rotate: false
+  xy: 952, 71
+  size: 28, 164
+  orig: 28, 164
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_64_e_4_1.png
+  rotate: false
+  xy: 982, 80
+  size: 12, 155
+  orig: 12, 155
+  offset: 0, 0
+  index: -1
+pirate_mast2_pirate_mast2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

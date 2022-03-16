@@ -1,0 +1,90 @@
+
+mnstr_compost.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mnstr_compost_mnstr_compost_64_a_0_0.png
+  rotate: false
+  xy: 79, 6
+  size: 74, 49
+  orig: 74, 49
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_b_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 75, 50
+  orig: 75, 50
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_c_0_1.png
+  rotate: false
+  xy: 225, 13
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_c_0_2.png
+  rotate: false
+  xy: 602, 18
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_c_0_3.png
+  rotate: false
+  xy: 435, 18
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_c_0_4.png
+  rotate: false
+  xy: 495, 9
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_c_0_5.png
+  rotate: false
+  xy: 548, 20
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_c_0_6.png
+  rotate: false
+  xy: 295, 13
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_c_0_7.png
+  rotate: false
+  xy: 155, 7
+  size: 68, 48
+  orig: 68, 48
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_64_c_0_8.png
+  rotate: false
+  xy: 365, 13
+  size: 68, 42
+  orig: 68, 42
+  offset: 0, 0
+  index: -1
+mnstr_compost_mnstr_compost_icon_a.png
+  rotate: false
+  xy: 647, 35
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1

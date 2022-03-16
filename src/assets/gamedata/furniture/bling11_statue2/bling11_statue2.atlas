@@ -1,0 +1,90 @@
+
+bling11_statue2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bling11_statue2_bling11_statue2_64_a_0_0.png
+  rotate: false
+  xy: 2, 47
+  size: 114, 197
+  orig: 114, 197
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_d_0_1.png
+  rotate: false
+  xy: 154, 160
+  size: 10, 84
+  orig: 10, 84
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_d_0_2.png
+  rotate: false
+  xy: 134, 155
+  size: 18, 89
+  orig: 18, 89
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_d_0_3.png
+  rotate: false
+  xy: 118, 148
+  size: 14, 96
+  orig: 14, 96
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_d_0_4.png
+  rotate: false
+  xy: 118, 55
+  size: 12, 91
+  orig: 12, 91
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_e_0_0.png
+  rotate: false
+  xy: 132, 145
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_e_0_1.png
+  rotate: false
+  xy: 118, 50
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_e_0_15.png
+  rotate: false
+  xy: 166, 229
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_e_0_2.png
+  rotate: false
+  xy: 134, 148
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_e_0_3.png
+  rotate: false
+  xy: 26, 38
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_64_e_0_4.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+bling11_statue2_bling11_statue2_icon_a.png
+  rotate: false
+  xy: 2, 15
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

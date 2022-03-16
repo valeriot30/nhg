@@ -1,0 +1,41 @@
+
+steampunk_gear_1.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+steampunk_gear_1_steampunk_gear_1_64_a_0_0.png
+  rotate: false
+  xy: 126, 23
+  size: 59, 39
+  orig: 59, 39
+  offset: 0, 0
+  index: -1
+steampunk_gear_1_steampunk_gear_1_64_a_0_1.png
+  rotate: false
+  xy: 64, 23
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+steampunk_gear_1_steampunk_gear_1_64_a_0_2.png
+  rotate: false
+  xy: 187, 25
+  size: 60, 37
+  orig: 60, 37
+  offset: 0, 0
+  index: -1
+steampunk_gear_1_steampunk_gear_1_64_a_0_3.png
+  rotate: false
+  xy: 2, 23
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+steampunk_gear_1_steampunk_gear_1_icon_a.png
+  rotate: false
+  xy: 187, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

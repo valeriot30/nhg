@@ -1,0 +1,76 @@
+
+ads_vpiggy_flag.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_vpiggy_flag_ads_vpiggy_flag_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 69, 144
+  orig: 69, 144
+  offset: 0, 0
+  index: -1
+ads_vpiggy_flag_ads_vpiggy_flag_64_a_0_1.png
+  rotate: false
+  xy: 73, 35
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+ads_vpiggy_flag_ads_vpiggy_flag_64_a_0_2.png
+  rotate: false
+  xy: 215, 36
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+ads_vpiggy_flag_ads_vpiggy_flag_64_a_0_3.png
+  rotate: false
+  xy: 357, 37
+  size: 69, 141
+  orig: 69, 141
+  offset: 0, 0
+  index: -1
+ads_vpiggy_flag_ads_vpiggy_flag_64_a_0_4.png
+  rotate: false
+  xy: 428, 38
+  size: 69, 140
+  orig: 69, 140
+  offset: 0, 0
+  index: -1
+ads_vpiggy_flag_ads_vpiggy_flag_64_a_0_5.png
+  rotate: false
+  xy: 499, 38
+  size: 69, 140
+  orig: 69, 140
+  offset: 0, 0
+  index: -1
+ads_vpiggy_flag_ads_vpiggy_flag_64_a_0_6.png
+  rotate: false
+  xy: 286, 37
+  size: 69, 141
+  orig: 69, 141
+  offset: 0, 0
+  index: -1
+ads_vpiggy_flag_ads_vpiggy_flag_64_a_0_7.png
+  rotate: false
+  xy: 144, 36
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+ads_vpiggy_flag_ads_vpiggy_flag_64_sd_0_0.png
+  rotate: false
+  xy: 570, 170
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+ads_vpiggy_flag_ads_vpiggy_flag_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

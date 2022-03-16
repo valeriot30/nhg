@@ -1,0 +1,13 @@
+
+pstack.png
+size: 32,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pstack_pstack_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1

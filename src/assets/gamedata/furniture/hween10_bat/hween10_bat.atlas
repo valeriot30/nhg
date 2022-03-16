@@ -1,0 +1,90 @@
+
+hween10_bat.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween10_bat_hween10_bat_64_a_0_0.png
+  rotate: false
+  xy: 406, 34
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_a_0_1.png
+  rotate: false
+  xy: 444, 34
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_a_0_2.png
+  rotate: false
+  xy: 147, 34
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_a_0_3.png
+  rotate: false
+  xy: 192, 34
+  size: 43, 66
+  orig: 43, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_a_0_4.png
+  rotate: false
+  xy: 325, 34
+  size: 39, 66
+  orig: 39, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_a_0_5.png
+  rotate: false
+  xy: 101, 34
+  size: 44, 66
+  orig: 44, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_a_0_6.png
+  rotate: false
+  xy: 2, 34
+  size: 48, 66
+  orig: 48, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_a_0_7.png
+  rotate: false
+  xy: 281, 34
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_a_0_8.png
+  rotate: false
+  xy: 237, 34
+  size: 42, 66
+  orig: 42, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_a_0_9.png
+  rotate: false
+  xy: 52, 34
+  size: 47, 66
+  orig: 47, 66
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_64_b_0_0.png
+  rotate: false
+  xy: 366, 27
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+hween10_bat_hween10_bat_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

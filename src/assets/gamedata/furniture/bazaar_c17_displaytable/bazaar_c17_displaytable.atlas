@@ -1,0 +1,62 @@
+
+bazaar_c17_displaytable.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_displaytable_bazaar_c17_displaytable_64_a_2_0.png
+  rotate: false
+  xy: 302, 75
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+bazaar_c17_displaytable_bazaar_c17_displaytable_64_a_2_1.png
+  rotate: false
+  xy: 234, 71
+  size: 66, 45
+  orig: 66, 45
+  offset: 0, 0
+  index: -1
+bazaar_c17_displaytable_bazaar_c17_displaytable_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+bazaar_c17_displaytable_bazaar_c17_displaytable_64_b_2_0.png
+  rotate: false
+  xy: 370, 76
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+bazaar_c17_displaytable_bazaar_c17_displaytable_64_b_2_1.png
+  rotate: false
+  xy: 102, 59
+  size: 64, 57
+  orig: 64, 57
+  offset: 0, 0
+  index: -1
+bazaar_c17_displaytable_bazaar_c17_displaytable_64_b_2_2.png
+  rotate: false
+  xy: 168, 41
+  size: 64, 75
+  orig: 64, 75
+  offset: 0, 0
+  index: -1
+bazaar_c17_displaytable_bazaar_c17_displaytable_64_sd_2_0.png
+  rotate: false
+  xy: 2, 67
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+bazaar_c17_displaytable_bazaar_c17_displaytable_icon_a.png
+  rotate: false
+  xy: 70, 41
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

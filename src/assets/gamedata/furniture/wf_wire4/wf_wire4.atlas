@@ -1,0 +1,69 @@
+
+wf_wire4.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wf_wire4_wf_wire4_64_a_2_0.png
+  rotate: false
+  xy: 304, 3
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+wf_wire4_wf_wire4_64_a_2_1.png
+  rotate: false
+  xy: 353, 3
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+wf_wire4_wf_wire4_64_a_2_2.png
+  rotate: false
+  xy: 206, 3
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+wf_wire4_wf_wire4_64_a_2_3.png
+  rotate: false
+  xy: 255, 3
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+wf_wire4_wf_wire4_64_a_6_0.png
+  rotate: false
+  xy: 53, 2
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+wf_wire4_wf_wire4_64_a_6_1.png
+  rotate: false
+  xy: 2, 2
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+wf_wire4_wf_wire4_64_a_6_2.png
+  rotate: false
+  xy: 155, 2
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+wf_wire4_wf_wire4_64_a_6_3.png
+  rotate: false
+  xy: 104, 2
+  size: 49, 25
+  orig: 49, 25
+  offset: 0, 0
+  index: -1
+wf_wire4_wf_wire4_icon_a.png
+  rotate: false
+  xy: 402, 13
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1

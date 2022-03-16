@@ -1,0 +1,27 @@
+
+gift_joystick.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gift_joystick_gift_joystick_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 32
+  orig: 36, 32
+  offset: 0, 0
+  index: -1
+gift_joystick_gift_joystick_64_a_2_0.png
+  rotate: false
+  xy: 40, 7
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+gift_joystick_gift_joystick_icon_a.png
+  rotate: false
+  xy: 78, 4
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

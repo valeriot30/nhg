@@ -1,0 +1,27 @@
+
+rare_prize19_xmas.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_prize19_xmas_rare_prize19_xmas_64_a_0_0.png
+  rotate: false
+  xy: 2, 64
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+rare_prize19_xmas_rare_prize19_xmas_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 54, 28
+  orig: 54, 28
+  offset: 0, 0
+  index: -1
+rare_prize19_xmas_rare_prize19_xmas_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

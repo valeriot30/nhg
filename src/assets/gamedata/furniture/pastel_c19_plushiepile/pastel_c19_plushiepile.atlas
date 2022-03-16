@@ -1,0 +1,27 @@
+
+pastel_c19_plushiepile.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastel_c19_plushiepile_pastel_c19_plushiepile_64_a_0_0.png
+  rotate: false
+  xy: 2, 15
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+pastel_c19_plushiepile_pastel_c19_plushiepile_64_sd_0_0.png
+  rotate: false
+  xy: 53, 31
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+pastel_c19_plushiepile_pastel_c19_plushiepile_icon_a.png
+  rotate: false
+  xy: 53, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

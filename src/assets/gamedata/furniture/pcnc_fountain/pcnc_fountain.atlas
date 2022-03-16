@@ -1,0 +1,139 @@
+
+pcnc_fountain.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pcnc_fountain_pcnc_fountain_64_a_0_0.png
+  rotate: false
+  xy: 194, 45
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_b_0_0.png
+  rotate: false
+  xy: 2, 75
+  size: 190, 48
+  orig: 190, 48
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_c_0_0.png
+  rotate: false
+  xy: 2, 42
+  size: 190, 31
+  orig: 190, 31
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_d_0_0.png
+  rotate: false
+  xy: 194, 92
+  size: 180, 31
+  orig: 180, 31
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_e_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 126, 26
+  orig: 126, 26
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_f_0_0.png
+  rotate: false
+  xy: 326, 79
+  size: 42, 11
+  orig: 42, 11
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_g_0_0.png
+  rotate: false
+  xy: 1136, 59
+  size: 9, 64
+  orig: 9, 64
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_g_0_1.png
+  rotate: false
+  xy: 1158, 59
+  size: 8, 64
+  orig: 8, 64
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_g_0_2.png
+  rotate: false
+  xy: 1147, 59
+  size: 9, 64
+  orig: 9, 64
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_g_0_3.png
+  rotate: false
+  xy: 1168, 59
+  size: 8, 64
+  orig: 8, 64
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_h_0_0.png
+  rotate: false
+  xy: 693, 2
+  size: 93, 121
+  orig: 93, 121
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_h_0_1.png
+  rotate: false
+  xy: 497, 2
+  size: 97, 121
+  orig: 97, 121
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_h_0_2.png
+  rotate: false
+  xy: 596, 2
+  size: 95, 121
+  orig: 95, 121
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_i_0_0.png
+  rotate: false
+  xy: 962, 4
+  size: 85, 119
+  orig: 85, 119
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_i_0_1.png
+  rotate: false
+  xy: 1049, 4
+  size: 85, 119
+  orig: 85, 119
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_i_0_2.png
+  rotate: false
+  xy: 788, 4
+  size: 85, 119
+  orig: 85, 119
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_i_0_3.png
+  rotate: false
+  xy: 875, 4
+  size: 85, 119
+  orig: 85, 119
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_64_j_0_0.png
+  rotate: false
+  xy: 376, 4
+  size: 119, 119
+  orig: 119, 119
+  offset: 0, 0
+  index: -1
+pcnc_fountain_pcnc_fountain_icon_a.png
+  rotate: false
+  xy: 130, 19
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1

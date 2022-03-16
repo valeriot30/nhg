@@ -1,0 +1,20 @@
+
+clothing_highfade.png
+size: 32,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_highfade_clothing_highfade_64_a_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 27, 49
+  orig: 27, 49
+  offset: 0, 0
+  index: -1
+clothing_highfade_clothing_highfade_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1

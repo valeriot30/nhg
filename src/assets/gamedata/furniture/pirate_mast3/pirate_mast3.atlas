@@ -1,0 +1,125 @@
+
+pirate_mast3.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_mast3_pirate_mast3_64_a_0_0.png
+  rotate: false
+  xy: 281, 43
+  size: 81, 157
+  orig: 81, 157
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_a_0_1.png
+  rotate: false
+  xy: 198, 43
+  size: 81, 157
+  orig: 81, 157
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 96, 166
+  orig: 96, 166
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_a_4_1.png
+  rotate: false
+  xy: 100, 34
+  size: 96, 166
+  orig: 96, 166
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_b_0_0.png
+  rotate: false
+  xy: 416, 33
+  size: 50, 167
+  orig: 50, 167
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_b_0_1.png
+  rotate: false
+  xy: 364, 33
+  size: 50, 167
+  orig: 50, 167
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_b_4_0.png
+  rotate: false
+  xy: 468, 11
+  size: 48, 189
+  orig: 48, 189
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_b_4_1.png
+  rotate: false
+  xy: 518, 11
+  size: 48, 189
+  orig: 48, 189
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_c_0_0.png
+  rotate: false
+  xy: 744, 63
+  size: 32, 137
+  orig: 32, 137
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_c_0_1.png
+  rotate: false
+  xy: 710, 63
+  size: 32, 137
+  orig: 32, 137
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_c_4_0.png
+  rotate: false
+  xy: 676, 59
+  size: 32, 141
+  orig: 32, 141
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_c_4_1.png
+  rotate: false
+  xy: 642, 59
+  size: 32, 141
+  orig: 32, 141
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_d_0_0.png
+  rotate: false
+  xy: 605, 61
+  size: 35, 139
+  orig: 35, 139
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_d_0_1.png
+  rotate: false
+  xy: 568, 61
+  size: 35, 139
+  orig: 35, 139
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_d_4_0.png
+  rotate: false
+  xy: 778, 70
+  size: 19, 130
+  orig: 19, 130
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_64_d_4_1.png
+  rotate: false
+  xy: 799, 70
+  size: 19, 130
+  orig: 19, 130
+  offset: 0, 0
+  index: -1
+pirate_mast3_pirate_mast3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

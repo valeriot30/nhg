@@ -1,0 +1,97 @@
+
+celestial_c19_constellations.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+celestial_c19_constellations_celestial_c19_constellations_64_a_2_0.png
+  rotate: false
+  xy: 419, 16
+  size: 21, 39
+  orig: 21, 39
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_a_2_1.png
+  rotate: false
+  xy: 397, 8
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_a_2_2.png
+  rotate: false
+  xy: 302, 15
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_a_2_3.png
+  rotate: false
+  xy: 266, 12
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_a_2_4.png
+  rotate: false
+  xy: 225, 9
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_a_2_5.png
+  rotate: false
+  xy: 183, 10
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_b_2_0.png
+  rotate: false
+  xy: 340, 10
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_b_2_1.png
+  rotate: false
+  xy: 369, 2
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_b_2_2.png
+  rotate: false
+  xy: 139, 9
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_b_2_3.png
+  rotate: false
+  xy: 97, 6
+  size: 40, 49
+  orig: 40, 49
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_b_2_4.png
+  rotate: false
+  xy: 2, 3
+  size: 45, 52
+  orig: 45, 52
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_64_b_2_5.png
+  rotate: false
+  xy: 49, 4
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+celestial_c19_constellations_celestial_c19_constellations_icon_a.png
+  rotate: false
+  xy: 442, 25
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

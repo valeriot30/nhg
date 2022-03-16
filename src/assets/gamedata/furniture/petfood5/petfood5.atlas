@@ -1,0 +1,76 @@
+
+petfood5.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+petfood5_petfood5_64_a_2_0.png
+  rotate: false
+  xy: 104, 9
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+petfood5_petfood5_64_a_2_1.png
+  rotate: false
+  xy: 135, 9
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+petfood5_petfood5_64_a_2_2.png
+  rotate: false
+  xy: 2, 9
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+petfood5_petfood5_64_a_2_3.png
+  rotate: false
+  xy: 33, 15
+  size: 35, 15
+  orig: 35, 15
+  offset: 0, 0
+  index: -1
+petfood5_petfood5_64_a_2_4.png
+  rotate: false
+  xy: 70, 12
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+petfood5_petfood5_64_b_2_0.png
+  rotate: false
+  xy: 228, 2
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+petfood5_petfood5_64_b_2_1.png
+  rotate: false
+  xy: 199, 2
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+petfood5_petfood5_64_b_2_2.png
+  rotate: false
+  xy: 234, 18
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+petfood5_petfood5_64_b_2_3.png
+  rotate: false
+  xy: 199, 18
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+petfood5_petfood5_64_b_2_4.png
+  rotate: false
+  xy: 166, 15
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1

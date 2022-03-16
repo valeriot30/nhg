@@ -1,0 +1,41 @@
+
+fest_c19_palm.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_palm_fest_c19_palm_64_a_0_0.png
+  rotate: false
+  xy: 2, 311
+  size: 143, 283
+  orig: 143, 283
+  offset: 0, 0
+  index: -1
+fest_c19_palm_fest_c19_palm_64_b_0_0.png
+  rotate: false
+  xy: 2, 84
+  size: 122, 225
+  orig: 122, 225
+  offset: 0, 0
+  index: -1
+fest_c19_palm_fest_c19_palm_64_b_0_1.png
+  rotate: false
+  xy: 126, 308
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fest_c19_palm_fest_c19_palm_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+fest_c19_palm_fest_c19_palm_icon_a.png
+  rotate: false
+  xy: 147, 565
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1

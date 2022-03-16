@@ -1,0 +1,27 @@
+
+xmas_c19_box3b.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_box3b_xmas_c19_box3b_64_a_0_0.png
+  rotate: false
+  xy: 2, 65
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+xmas_c19_box3b_xmas_c19_box3b_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 56, 29
+  orig: 56, 29
+  offset: 0, 0
+  index: -1
+xmas_c19_box3b_xmas_c19_box3b_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+garden_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+garden_wall_garden_wall_64_a_4_0.png
+  rotate: false
+  xy: 322, 111
+  size: 54, 103
+  orig: 54, 103
+  offset: 0, 0
+  index: -1
+garden_wall_garden_wall_64_a_4_1.png
+  rotate: false
+  xy: 260, 111
+  size: 60, 103
+  orig: 60, 103
+  offset: 0, 0
+  index: -1
+garden_wall_garden_wall_64_b_4_0.png
+  rotate: false
+  xy: 187, 63
+  size: 71, 151
+  orig: 71, 151
+  offset: 0, 0
+  index: -1
+garden_wall_garden_wall_64_b_4_1.png
+  rotate: false
+  xy: 114, 60
+  size: 71, 154
+  orig: 71, 154
+  offset: 0, 0
+  index: -1
+garden_wall_garden_wall_64_c_4_0.png
+  rotate: false
+  xy: 114, 57
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+garden_wall_garden_wall_64_c_4_1.png
+  rotate: false
+  xy: 2, 34
+  size: 110, 180
+  orig: 110, 180
+  offset: 0, 0
+  index: -1
+garden_wall_garden_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ktchn10_cabnt.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ktchn10_cabnt_ktchn10_cabnt_64_a_4_0.png
+  rotate: false
+  xy: 2, 175
+  size: 44, 76
+  orig: 44, 76
+  offset: 0, 0
+  index: -1
+ktchn10_cabnt_ktchn10_cabnt_64_b_4_0.png
+  rotate: false
+  xy: 2, 57
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+ktchn10_cabnt_ktchn10_cabnt_64_b_4_1.png
+  rotate: false
+  xy: 2, 104
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+ktchn10_cabnt_ktchn10_cabnt_64_sd_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+ktchn10_cabnt_ktchn10_cabnt_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+horse_stable_gate.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+horse_stable_gate_horse_stable_gate_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 66
+  orig: 35, 66
+  offset: 0, 0
+  index: -1
+horse_stable_gate_horse_stable_gate_64_a_4_1.png
+  rotate: false
+  xy: 95, 46
+  size: 10, 75
+  orig: 10, 75
+  offset: 0, 0
+  index: -1
+horse_stable_gate_horse_stable_gate_64_b_4_0.png
+  rotate: false
+  xy: 54, 60
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+horse_stable_gate_horse_stable_gate_64_b_4_1.png
+  rotate: false
+  xy: 2, 70
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+horse_stable_gate_horse_stable_gate_icon_a.png
+  rotate: false
+  xy: 39, 26
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1

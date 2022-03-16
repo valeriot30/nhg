@@ -1,0 +1,62 @@
+
+celestial_c19_floor.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+celestial_c19_floor_celestial_c19_floor_64_a_0_0.png
+  rotate: false
+  xy: 2, 47
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+celestial_c19_floor_celestial_c19_floor_64_b_0_0.png
+  rotate: false
+  xy: 138, 49
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+celestial_c19_floor_celestial_c19_floor_64_c_0_0.png
+  rotate: false
+  xy: 270, 29
+  size: 90, 40
+  orig: 90, 40
+  offset: 0, 0
+  index: -1
+celestial_c19_floor_celestial_c19_floor_64_c_0_1.png
+  rotate: false
+  xy: 367, 32
+  size: 90, 40
+  orig: 90, 40
+  offset: 0, 0
+  index: -1
+celestial_c19_floor_celestial_c19_floor_64_c_0_2.png
+  rotate: false
+  xy: 367, 74
+  size: 90, 40
+  orig: 90, 40
+  offset: 0, 0
+  index: -1
+celestial_c19_floor_celestial_c19_floor_64_c_0_3.png
+  rotate: false
+  xy: 270, 71
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+celestial_c19_floor_celestial_c19_floor_64_c_0_4.png
+  rotate: false
+  xy: 2, 2
+  size: 95, 43
+  orig: 95, 43
+  offset: 0, 0
+  index: -1
+celestial_c19_floor_celestial_c19_floor_icon_a.png
+  rotate: false
+  xy: 459, 97
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1

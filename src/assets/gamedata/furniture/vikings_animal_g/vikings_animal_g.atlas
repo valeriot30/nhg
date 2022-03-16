@@ -1,0 +1,27 @@
+
+vikings_animal_g.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_animal_g_vikings_animal_g_64_a_0_0.png
+  rotate: false
+  xy: 2, 49
+  size: 55, 124
+  orig: 55, 124
+  offset: 0, 0
+  index: -1
+vikings_animal_g_vikings_animal_g_64_sd_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 38, 15
+  orig: 38, 15
+  offset: 0, 0
+  index: -1
+vikings_animal_g_vikings_animal_g_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 28
+  orig: 14, 28
+  offset: 0, 0
+  index: -1

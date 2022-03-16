@@ -1,0 +1,34 @@
+
+hlympic_bear.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hlympic_bear_hlympic_bear_64_a_0_0.png
+  rotate: false
+  xy: 68, 2
+  size: 60, 101
+  orig: 60, 101
+  offset: 0, 0
+  index: -1
+hlympic_bear_hlympic_bear_64_a_0_1.png
+  rotate: false
+  xy: 130, 2
+  size: 57, 101
+  orig: 57, 101
+  offset: 0, 0
+  index: -1
+hlympic_bear_hlympic_bear_64_a_0_3.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 101
+  orig: 64, 101
+  offset: 0, 0
+  index: -1
+hlympic_bear_hlympic_bear_icon_a.png
+  rotate: false
+  xy: 189, 73
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

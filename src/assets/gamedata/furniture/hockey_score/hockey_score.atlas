@@ -1,0 +1,41 @@
+
+hockey_score.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hockey_score_hockey_score_64_a_2_0.png
+  rotate: false
+  xy: 2, 69
+  size: 48, 110
+  orig: 48, 110
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_64_b_2_0.png
+  rotate: false
+  xy: 2, 42
+  size: 42, 25
+  orig: 42, 25
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_64_e_2_0.png
+  rotate: false
+  xy: 52, 173
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_64_f_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+hockey_score_hockey_score_icon_a.png
+  rotate: false
+  xy: 2, 10
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

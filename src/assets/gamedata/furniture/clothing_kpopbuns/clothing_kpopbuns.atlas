@@ -1,0 +1,20 @@
+
+clothing_kpopbuns.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_kpopbuns_clothing_kpopbuns_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 54
+  orig: 34, 54
+  offset: 0, 0
+  index: -1
+clothing_kpopbuns_clothing_kpopbuns_icon_a.png
+  rotate: false
+  xy: 38, 26
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

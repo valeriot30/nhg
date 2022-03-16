@@ -1,0 +1,20 @@
+
+clothing_shades.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_shades_clothing_shades_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+clothing_shades_clothing_shades_icon_a.png
+  rotate: false
+  xy: 30, 16
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

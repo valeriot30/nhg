@@ -1,0 +1,132 @@
+
+hween12_duck.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween12_duck_hween12_duck_64_a_2_0.png
+  rotate: false
+  xy: 2, 40
+  size: 74, 86
+  orig: 74, 86
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_a_2_1.png
+  rotate: false
+  xy: 78, 42
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_b_2_0.png
+  rotate: false
+  xy: 154, 87
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_b_2_1.png
+  rotate: false
+  xy: 154, 46
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_0.png
+  rotate: false
+  xy: 201, 44
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_1.png
+  rotate: false
+  xy: 50, 2
+  size: 19, 11
+  orig: 19, 11
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_10.png
+  rotate: false
+  xy: 219, 92
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_11.png
+  rotate: false
+  xy: 235, 92
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_12.png
+  rotate: false
+  xy: 219, 56
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_2.png
+  rotate: false
+  xy: 222, 43
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_3.png
+  rotate: false
+  xy: 86, 26
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_4.png
+  rotate: false
+  xy: 68, 20
+  size: 16, 18
+  orig: 16, 18
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_5.png
+  rotate: false
+  xy: 50, 15
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_6.png
+  rotate: false
+  xy: 32, 9
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_7.png
+  rotate: false
+  xy: 201, 56
+  size: 16, 33
+  orig: 16, 33
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_8.png
+  rotate: false
+  xy: 201, 91
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_64_c_2_9.png
+  rotate: false
+  xy: 235, 56
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+hween12_duck_hween12_duck_icon_a.png
+  rotate: false
+  xy: 2, 6
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1

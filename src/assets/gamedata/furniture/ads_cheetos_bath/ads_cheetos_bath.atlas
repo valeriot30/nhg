@@ -1,0 +1,111 @@
+
+ads_cheetos_bath.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_cheetos_bath_ads_cheetos_bath_32_e_0_0.png
+  rotate: false
+  xy: 169, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_a_4_0.png
+  rotate: false
+  xy: 95, 79
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_b_4_0.png
+  rotate: false
+  xy: 72, 26
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_c_4_0.png
+  rotate: false
+  xy: 373, 94
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_d_4_0.png
+  rotate: false
+  xy: 2, 19
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_e_4_1.png
+  rotate: false
+  xy: 244, 90
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_f_4_1.png
+  rotate: false
+  xy: 416, 102
+  size: 46, 24
+  orig: 46, 24
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_g_4_1.png
+  rotate: false
+  xy: 169, 84
+  size: 73, 42
+  orig: 73, 42
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_h_4_1.png
+  rotate: false
+  xy: 307, 96
+  size: 64, 30
+  orig: 64, 30
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_i_0_0.png
+  rotate: false
+  xy: 488, 106
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_i_4_0.png
+  rotate: false
+  xy: 464, 106
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_j_0_0.png
+  rotate: false
+  xy: 110, 2
+  size: 14, 75
+  orig: 14, 75
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_j_4_0.png
+  rotate: false
+  xy: 126, 26
+  size: 4, 51
+  orig: 4, 51
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_64_sd_4_0.png
+  rotate: false
+  xy: 2, 75
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+ads_cheetos_bath_ads_cheetos_bath_icon_a.png
+  rotate: false
+  xy: 132, 47
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+hblooza14_flowerlight.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_flowerlight_hblooza14_flowerlight_64_a_0_0.png
+  rotate: false
+  xy: 2, 77
+  size: 47, 132
+  orig: 47, 132
+  offset: 0, 0
+  index: -1
+hblooza14_flowerlight_hblooza14_flowerlight_64_b_0_0.png
+  rotate: false
+  xy: 2, 12
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+hblooza14_flowerlight_hblooza14_flowerlight_64_b_0_1.png
+  rotate: false
+  xy: 80, 176
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hblooza14_flowerlight_hblooza14_flowerlight_64_c_0_0.png
+  rotate: false
+  xy: 51, 78
+  size: 27, 131
+  orig: 27, 131
+  offset: 0, 0
+  index: -1
+hblooza14_flowerlight_hblooza14_flowerlight_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 8
+  orig: 17, 8
+  offset: 0, 0
+  index: -1
+hblooza14_flowerlight_hblooza14_flowerlight_icon_a.png
+  rotate: false
+  xy: 80, 179
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

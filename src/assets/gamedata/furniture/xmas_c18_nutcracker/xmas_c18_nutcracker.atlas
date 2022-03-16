@@ -1,0 +1,55 @@
+
+xmas_c18_nutcracker.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_nutcracker_xmas_c18_nutcracker_64_a_2_0.png
+  rotate: false
+  xy: 136, 19
+  size: 54, 98
+  orig: 54, 98
+  offset: 0, 0
+  index: -1
+xmas_c18_nutcracker_xmas_c18_nutcracker_64_a_2_1.png
+  rotate: false
+  xy: 2, 20
+  size: 66, 97
+  orig: 66, 97
+  offset: 0, 0
+  index: -1
+xmas_c18_nutcracker_xmas_c18_nutcracker_64_a_2_2.png
+  rotate: false
+  xy: 70, 20
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+xmas_c18_nutcracker_xmas_c18_nutcracker_64_a_2_3.png
+  rotate: false
+  xy: 192, 19
+  size: 53, 98
+  orig: 53, 98
+  offset: 0, 0
+  index: -1
+xmas_c18_nutcracker_xmas_c18_nutcracker_64_a_2_4.png
+  rotate: false
+  xy: 247, 19
+  size: 53, 98
+  orig: 53, 98
+  offset: 0, 0
+  index: -1
+xmas_c18_nutcracker_xmas_c18_nutcracker_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+xmas_c18_nutcracker_xmas_c18_nutcracker_icon_a.png
+  rotate: false
+  xy: 302, 87
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

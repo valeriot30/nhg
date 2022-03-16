@@ -1,0 +1,69 @@
+
+ads_mall_winmus.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_mall_winmus_ads_mall_winmus_64_a_2_0.png
+  rotate: false
+  xy: 226, 116
+  size: 110, 130
+  orig: 110, 130
+  offset: 0, 0
+  index: -1
+ads_mall_winmus_ads_mall_winmus_64_a_4_0.png
+  rotate: false
+  xy: 338, 116
+  size: 110, 130
+  orig: 110, 130
+  offset: 0, 0
+  index: -1
+ads_mall_winmus_ads_mall_winmus_64_b_2_0.png
+  rotate: false
+  xy: 114, 116
+  size: 110, 130
+  orig: 110, 130
+  offset: 0, 0
+  index: -1
+ads_mall_winmus_ads_mall_winmus_64_b_4_0.png
+  rotate: false
+  xy: 2, 116
+  size: 110, 130
+  orig: 110, 130
+  offset: 0, 0
+  index: -1
+ads_mall_winmus_ads_mall_winmus_64_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+ads_mall_winmus_ads_mall_winmus_64_c_4_0.png
+  rotate: false
+  xy: 124, 2
+  size: 120, 112
+  orig: 120, 112
+  offset: 0, 0
+  index: -1
+ads_mall_winmus_ads_mall_winmus_64_d_2_0.png
+  rotate: false
+  xy: 368, 28
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+ads_mall_winmus_ads_mall_winmus_64_d_4_0.png
+  rotate: false
+  xy: 246, 28
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+ads_mall_winmus_ads_mall_winmus_icon_a.png
+  rotate: false
+  xy: 450, 217
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

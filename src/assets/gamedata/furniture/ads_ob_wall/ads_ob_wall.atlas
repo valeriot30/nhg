@@ -1,0 +1,55 @@
+
+ads_ob_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_ob_wall_ads_ob_wall_64_a_2_0.png
+  rotate: false
+  xy: 268, 141
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+ads_ob_wall_ads_ob_wall_64_a_4_0.png
+  rotate: false
+  xy: 106, 7
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+ads_ob_wall_ads_ob_wall_64_b_2_0.png
+  rotate: false
+  xy: 2, 110
+  size: 131, 137
+  orig: 131, 137
+  offset: 0, 0
+  index: -1
+ads_ob_wall_ads_ob_wall_64_b_4_0.png
+  rotate: false
+  xy: 135, 110
+  size: 131, 137
+  orig: 131, 137
+  offset: 0, 0
+  index: -1
+ads_ob_wall_ads_ob_wall_64_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 102, 106
+  orig: 102, 106
+  offset: 0, 0
+  index: -1
+ads_ob_wall_ads_ob_wall_64_c_4_0.png
+  rotate: false
+  xy: 372, 146
+  size: 100, 101
+  orig: 100, 101
+  offset: 0, 0
+  index: -1
+ads_ob_wall_ads_ob_wall_icon_a.png
+  rotate: false
+  xy: 268, 112
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

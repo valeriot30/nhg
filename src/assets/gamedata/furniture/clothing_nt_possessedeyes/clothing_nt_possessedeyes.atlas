@@ -1,0 +1,20 @@
+
+clothing_nt_possessedeyes.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_nt_possessedeyes_clothing_nt_possessedeyes_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 45
+  orig: 26, 45
+  offset: 0, 0
+  index: -1
+clothing_nt_possessedeyes_clothing_nt_possessedeyes_icon_a.png
+  rotate: false
+  xy: 30, 19
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+hc17_1.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc17_1_hc17_1_64_a_0_0.png
+  rotate: false
+  xy: 2, 28
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+hc17_1_hc17_1_64_sd_0_0.png
+  rotate: false
+  xy: 72, 90
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+hc17_1_hc17_1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xmas_c17_fencecorner.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_fencecorner_xmas_c17_fencecorner_64_a_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 54, 107
+  orig: 54, 107
+  offset: 0, 0
+  index: -1
+xmas_c17_fencecorner_xmas_c17_fencecorner_64_a_0_1.png
+  rotate: false
+  xy: 2, 145
+  size: 58, 108
+  orig: 58, 108
+  offset: 0, 0
+  index: -1
+xmas_c17_fencecorner_xmas_c17_fencecorner_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1

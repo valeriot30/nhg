@@ -1,0 +1,27 @@
+
+classic9_statue.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic9_statue_classic9_statue_64_a_0_0.png
+  rotate: false
+  xy: 2, 56
+  size: 40, 80
+  orig: 40, 80
+  offset: 0, 0
+  index: -1
+classic9_statue_classic9_statue_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+classic9_statue_classic9_statue_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

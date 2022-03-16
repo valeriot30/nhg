@@ -1,0 +1,104 @@
+
+jetset_yacht_front.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jetset_yacht_front_jetset_yacht_front_64_a_0_0.png
+  rotate: false
+  xy: 229, 114
+  size: 62, 58
+  orig: 62, 58
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_b_0_0.png
+  rotate: false
+  xy: 229, 174
+  size: 126, 73
+  orig: 126, 73
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_c_0_0.png
+  rotate: false
+  xy: 2, 96
+  size: 225, 151
+  orig: 225, 151
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 127, 92
+  orig: 127, 92
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_e_0_0.png
+  rotate: false
+  xy: 131, 3
+  size: 62, 91
+  orig: 62, 91
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_f_0_0.png
+  rotate: false
+  xy: 486, 225
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_g_0_0.png
+  rotate: false
+  xy: 293, 136
+  size: 37, 36
+  orig: 37, 36
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_h_0_0.png
+  rotate: false
+  xy: 435, 166
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_h_0_1.png
+  rotate: false
+  xy: 229, 59
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_i_0_0.png
+  rotate: false
+  xy: 357, 222
+  size: 127, 25
+  orig: 127, 25
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_i_0_1.png
+  rotate: false
+  xy: 357, 195
+  size: 127, 25
+  orig: 127, 25
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_j_0_0.png
+  rotate: false
+  xy: 229, 88
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_64_j_0_1.png
+  rotate: false
+  xy: 357, 169
+  size: 76, 24
+  orig: 76, 24
+  offset: 0, 0
+  index: -1
+jetset_yacht_front_jetset_yacht_front_icon_a.png
+  rotate: false
+  xy: 195, 68
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1

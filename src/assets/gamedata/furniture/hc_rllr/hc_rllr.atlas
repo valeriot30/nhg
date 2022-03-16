@@ -1,0 +1,55 @@
+
+hc_rllr.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_rllr_hc_rllr_64_a_0_0.png
+  rotate: false
+  xy: 136, 2
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+hc_rllr_hc_rllr_64_a_0_1.png
+  rotate: false
+  xy: 69, 2
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+hc_rllr_hc_rllr_64_a_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+hc_rllr_hc_rllr_64_a_2_0.png
+  rotate: false
+  xy: 270, 2
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+hc_rllr_hc_rllr_64_a_2_1.png
+  rotate: false
+  xy: 203, 2
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+hc_rllr_hc_rllr_64_a_2_2.png
+  rotate: false
+  xy: 337, 2
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+hc_rllr_hc_rllr_icon_a.png
+  rotate: false
+  xy: 404, 26
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1

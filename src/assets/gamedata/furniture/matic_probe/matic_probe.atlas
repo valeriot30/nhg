@@ -1,0 +1,391 @@
+
+matic_probe.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+matic_probe_matic_probe_32_b_0_0.png
+  rotate: false
+  xy: 26, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_32_b_0_0.png
+  rotate: false
+  xy: 26, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_32_b_0_0.png
+  rotate: false
+  xy: 26, 4
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_32_b_0_20.png
+  rotate: false
+  xy: 341, 2
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_a_0_0.png
+  rotate: false
+  xy: 204, 42
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_a_0_1.png
+  rotate: false
+  xy: 238, 7
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_a_0_2.png
+  rotate: false
+  xy: 80, 40
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_a_0_3.png
+  rotate: false
+  xy: 114, 5
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_a_0_4.png
+  rotate: false
+  xy: 142, 40
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_a_0_5.png
+  rotate: false
+  xy: 176, 5
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_10.png
+  rotate: false
+  xy: 724, 31
+  size: 30, 95
+  orig: 30, 95
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_11.png
+  rotate: false
+  xy: 690, 31
+  size: 32, 95
+  orig: 32, 95
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_12.png
+  rotate: false
+  xy: 656, 30
+  size: 32, 96
+  orig: 32, 96
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_13.png
+  rotate: false
+  xy: 621, 30
+  size: 33, 96
+  orig: 33, 96
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_14.png
+  rotate: false
+  xy: 2, 30
+  size: 37, 96
+  orig: 37, 96
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_15.png
+  rotate: false
+  xy: 585, 30
+  size: 34, 96
+  orig: 34, 96
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_16.png
+  rotate: false
+  xy: 788, 29
+  size: 28, 97
+  orig: 28, 97
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_17.png
+  rotate: false
+  xy: 301, 98
+  size: 42, 28
+  orig: 42, 28
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_18.png
+  rotate: false
+  xy: 52, 2
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_19.png
+  rotate: false
+  xy: 245, 95
+  size: 54, 31
+  orig: 54, 31
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_2.png
+  rotate: false
+  xy: 345, 65
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_20.png
+  rotate: false
+  xy: 403, 46
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_23.png
+  rotate: false
+  xy: 372, 24
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_26.png
+  rotate: false
+  xy: 341, 23
+  size: 29, 39
+  orig: 29, 39
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_29.png
+  rotate: false
+  xy: 431, 11
+  size: 30, 33
+  orig: 30, 33
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_3.png
+  rotate: false
+  xy: 41, 32
+  size: 37, 94
+  orig: 37, 94
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_30.png
+  rotate: false
+  xy: 521, 98
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_31.png
+  rotate: false
+  xy: 381, 84
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_32.png
+  rotate: false
+  xy: 465, 94
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_33.png
+  rotate: false
+  xy: 493, 97
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_34.png
+  rotate: false
+  xy: 437, 93
+  size: 26, 33
+  orig: 26, 33
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_35.png
+  rotate: false
+  xy: 306, 64
+  size: 37, 32
+  orig: 37, 32
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_36.png
+  rotate: false
+  xy: 300, 13
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_37.png
+  rotate: false
+  xy: 266, 52
+  size: 38, 41
+  orig: 38, 41
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_38.png
+  rotate: false
+  xy: 403, 3
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_39.png
+  rotate: false
+  xy: 435, 47
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_4.png
+  rotate: false
+  xy: 550, 25
+  size: 33, 101
+  orig: 33, 101
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_40.png
+  rotate: false
+  xy: 409, 85
+  size: 26, 41
+  orig: 26, 41
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_41.png
+  rotate: false
+  xy: 26, 13
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_5.png
+  rotate: false
+  xy: 910, 30
+  size: 25, 96
+  orig: 25, 96
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_6.png
+  rotate: false
+  xy: 880, 35
+  size: 28, 91
+  orig: 28, 91
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_7.png
+  rotate: false
+  xy: 818, 36
+  size: 30, 90
+  orig: 30, 90
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_8.png
+  rotate: false
+  xy: 756, 35
+  size: 30, 91
+  orig: 30, 91
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_b_0_9.png
+  rotate: false
+  xy: 483, 2
+  size: 30, 90
+  orig: 30, 90
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_c_0_1.png
+  rotate: false
+  xy: 360, 4
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_c_0_2.png
+  rotate: false
+  xy: 949, 89
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_c_0_3.png
+  rotate: false
+  xy: 205, 79
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_c_0_4.png
+  rotate: false
+  xy: 148, 77
+  size: 55, 49
+  orig: 55, 49
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_c_0_5.png
+  rotate: false
+  xy: 80, 75
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_d_0_1.png
+  rotate: false
+  xy: 949, 2
+  size: 2, 85
+  orig: 2, 85
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_d_0_2.png
+  rotate: false
+  xy: 937, 39
+  size: 10, 87
+  orig: 10, 87
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_d_0_3.png
+  rotate: false
+  xy: 463, 2
+  size: 18, 89
+  orig: 18, 89
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_d_0_4.png
+  rotate: false
+  xy: 850, 35
+  size: 28, 91
+  orig: 28, 91
+  offset: 0, 0
+  index: -1
+matic_probe_matic_probe_64_d_0_5.png
+  rotate: false
+  xy: 515, 3
+  size: 33, 92
+  orig: 33, 92
+  offset: 0, 0
+  index: -1

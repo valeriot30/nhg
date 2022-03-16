@@ -1,0 +1,41 @@
+
+wildwest_divdr.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_divdr_wildwest_divdr_64_a_2_0.png
+  rotate: false
+  xy: 136, 33
+  size: 46, 93
+  orig: 46, 93
+  offset: 0, 0
+  index: -1
+wildwest_divdr_wildwest_divdr_64_a_4_0.png
+  rotate: false
+  xy: 184, 33
+  size: 46, 93
+  orig: 46, 93
+  offset: 0, 0
+  index: -1
+wildwest_divdr_wildwest_divdr_64_b_2_0.png
+  rotate: false
+  xy: 69, 29
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+wildwest_divdr_wildwest_divdr_64_b_4_0.png
+  rotate: false
+  xy: 2, 29
+  size: 65, 97
+  orig: 65, 97
+  offset: 0, 0
+  index: -1
+wildwest_divdr_wildwest_divdr_icon_a.png
+  rotate: false
+  xy: 136, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

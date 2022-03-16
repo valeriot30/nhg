@@ -1,0 +1,104 @@
+
+ads_idol_drape.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_idol_drape_ads_idol_drape_32_c_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_a_0_0.png
+  rotate: false
+  xy: 259, 28
+  size: 9, 82
+  orig: 9, 82
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_b_0_0.png
+  rotate: false
+  xy: 201, 13
+  size: 27, 97
+  orig: 27, 97
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_b_0_1.png
+  rotate: false
+  xy: 245, 23
+  size: 12, 87
+  orig: 12, 87
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_c_0_0.png
+  rotate: false
+  xy: 167, 10
+  size: 32, 100
+  orig: 32, 100
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_d_0_0.png
+  rotate: false
+  xy: 133, 11
+  size: 32, 99
+  orig: 32, 99
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_d_0_1.png
+  rotate: false
+  xy: 230, 21
+  size: 13, 89
+  orig: 13, 89
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_e_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 37, 105
+  orig: 37, 105
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_f_0_0.png
+  rotate: false
+  xy: 41, 62
+  size: 90, 48
+  orig: 90, 48
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_f_0_1.png
+  rotate: false
+  xy: 41, 14
+  size: 90, 46
+  orig: 90, 46
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_g_0_0.png
+  rotate: false
+  xy: 270, 89
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_h_0_0.png
+  rotate: false
+  xy: 270, 68
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_64_sd_0_0.png
+  rotate: false
+  xy: 41, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_idol_drape_ads_idol_drape_icon_a.png
+  rotate: false
+  xy: 270, 39
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+bench_lego.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bench_lego_bench_lego_64_a_2_0.png
+  rotate: false
+  xy: 2, 22
+  size: 54, 29
+  orig: 54, 29
+  offset: 0, 0
+  index: -1
+bench_lego_bench_lego_64_c_2_0.png
+  rotate: false
+  xy: 144, 99
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+bench_lego_bench_lego_64_d_2_0.png
+  rotate: false
+  xy: 144, 63
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+bench_lego_bench_lego_64_sd_2_0.png
+  rotate: false
+  xy: 2, 53
+  size: 140, 73
+  orig: 140, 73
+  offset: 0, 0
+  index: -1
+bench_lego_bench_lego_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

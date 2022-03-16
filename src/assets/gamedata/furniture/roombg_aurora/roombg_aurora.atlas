@@ -1,0 +1,27 @@
+
+roombg_aurora.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roombg_aurora_roombg_aurora_32_b_0_0.png
+  rotate: false
+  xy: 2, 47
+  size: 1516, 784
+  orig: 1516, 784
+  offset: 0, 0
+  index: -1
+roombg_aurora_roombg_aurora_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+roombg_aurora_roombg_aurora_icon_a.png
+  rotate: false
+  xy: 1520, 807
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

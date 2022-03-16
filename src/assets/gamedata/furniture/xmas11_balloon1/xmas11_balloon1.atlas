@@ -1,0 +1,34 @@
+
+xmas11_balloon1.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas11_balloon1_xmas11_balloon1_64_a_0_0.png
+  rotate: false
+  xy: 39, 6
+  size: 35, 115
+  orig: 35, 115
+  offset: 0, 0
+  index: -1
+xmas11_balloon1_xmas11_balloon1_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 119
+  orig: 35, 119
+  offset: 0, 0
+  index: -1
+xmas11_balloon1_xmas11_balloon1_64_a_0_2.png
+  rotate: false
+  xy: 76, 14
+  size: 35, 107
+  orig: 35, 107
+  offset: 0, 0
+  index: -1
+xmas11_balloon1_xmas11_balloon1_icon_a.png
+  rotate: false
+  xy: 113, 91
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

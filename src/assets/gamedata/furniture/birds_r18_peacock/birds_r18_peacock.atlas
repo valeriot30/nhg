@@ -1,0 +1,83 @@
+
+birds_r18_peacock.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+birds_r18_peacock_birds_r18_peacock_64_a_0_0.png
+  rotate: false
+  xy: 295, 37
+  size: 85, 75
+  orig: 85, 75
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_64_a_0_1.png
+  rotate: false
+  xy: 382, 38
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_64_a_0_2.png
+  rotate: false
+  xy: 468, 42
+  size: 79, 70
+  orig: 79, 70
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_64_a_0_3.png
+  rotate: false
+  xy: 549, 39
+  size: 67, 73
+  orig: 67, 73
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_64_a_0_4.png
+  rotate: false
+  xy: 104, 5
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_64_a_0_5.png
+  rotate: false
+  xy: 2, 5
+  size: 100, 107
+  orig: 100, 107
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_64_a_0_6.png
+  rotate: false
+  xy: 206, 36
+  size: 87, 76
+  orig: 87, 76
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_64_b_0_1.png
+  rotate: false
+  xy: 206, 5
+  size: 52, 29
+  orig: 52, 29
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_64_sd_0_0.png
+  rotate: false
+  xy: 618, 89
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+birds_r18_peacock_birds_r18_peacock_icon_a.png
+  rotate: false
+  xy: 618, 57
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

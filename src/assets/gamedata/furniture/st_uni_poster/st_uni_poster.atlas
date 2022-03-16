@@ -1,0 +1,27 @@
+
+st_uni_poster.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_uni_poster_st_uni_poster_64_a_2_0.png
+  rotate: false
+  xy: 2, 106
+  size: 35, 102
+  orig: 35, 102
+  offset: 0, 0
+  index: -1
+st_uni_poster_st_uni_poster_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 102
+  orig: 35, 102
+  offset: 0, 0
+  index: -1
+st_uni_poster_st_uni_poster_icon_a.png
+  rotate: false
+  xy: 39, 184
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1

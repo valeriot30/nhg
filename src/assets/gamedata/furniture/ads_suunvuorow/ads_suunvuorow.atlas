@@ -1,0 +1,27 @@
+
+ads_suunvuorow.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_suunvuorow_ads_suunvuorow_64_a_2_0.png
+  rotate: false
+  xy: 70, 33
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+ads_suunvuorow_ads_suunvuorow_64_a_4_0.png
+  rotate: false
+  xy: 2, 33
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+ads_suunvuorow_ads_suunvuorow_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

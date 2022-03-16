@@ -1,0 +1,146 @@
+
+val12_shocker.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 58, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 61, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 64, 143
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 58, 140
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_32_f_0_0.png
+  rotate: false
+  xy: 61, 140
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_a_0_0.png
+  rotate: false
+  xy: 2, 139
+  size: 54, 115
+  orig: 54, 115
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_b_0_0.png
+  rotate: false
+  xy: 58, 146
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_c_0_0.png
+  rotate: false
+  xy: 139, 2
+  size: 17, 97
+  orig: 17, 97
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_d_0_1.png
+  rotate: false
+  xy: 205, 200
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_d_0_2.png
+  rotate: false
+  xy: 205, 228
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_f_0_1.png
+  rotate: false
+  xy: 91, 125
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_g_0_1.png
+  rotate: false
+  xy: 188, 48
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_g_0_2.png
+  rotate: false
+  xy: 188, 112
+  size: 61, 64
+  orig: 61, 64
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_g_0_3.png
+  rotate: false
+  xy: 2, 11
+  size: 60, 64
+  orig: 60, 64
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_g_0_4.png
+  rotate: false
+  xy: 2, 77
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_h_0_1.png
+  rotate: false
+  xy: 65, 24
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_h_0_2.png
+  rotate: false
+  xy: 58, 177
+  size: 72, 77
+  orig: 72, 77
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_h_0_3.png
+  rotate: false
+  xy: 132, 178
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_64_h_0_4.png
+  rotate: false
+  xy: 113, 101
+  size: 73, 74
+  orig: 73, 74
+  offset: 0, 0
+  index: -1
+val12_shocker_val12_shocker_icon_a.png
+  rotate: false
+  xy: 67, 115
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+gh_div_cor.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gh_div_cor_gh_div_cor_64_a_1_0.png
+  rotate: false
+  xy: 204, 97
+  size: 54, 146
+  orig: 54, 146
+  offset: 0, 0
+  index: -1
+gh_div_cor_gh_div_cor_64_a_3_0.png
+  rotate: false
+  xy: 2, 105
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+gh_div_cor_gh_div_cor_64_a_5_0.png
+  rotate: false
+  xy: 148, 97
+  size: 54, 146
+  orig: 54, 146
+  offset: 0, 0
+  index: -1
+gh_div_cor_gh_div_cor_64_a_7_0.png
+  rotate: false
+  xy: 260, 128
+  size: 62, 115
+  orig: 62, 115
+  offset: 0, 0
+  index: -1
+gh_div_cor_gh_div_cor_64_b_1_0.png
+  rotate: false
+  xy: 324, 200
+  size: 45, 43
+  orig: 45, 43
+  offset: 0, 0
+  index: -1
+gh_div_cor_gh_div_cor_64_b_3_0.png
+  rotate: false
+  xy: 74, 118
+  size: 72, 125
+  orig: 72, 125
+  offset: 0, 0
+  index: -1
+gh_div_cor_gh_div_cor_64_b_5_0.png
+  rotate: false
+  xy: 260, 103
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+gh_div_cor_gh_div_cor_64_b_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 101
+  orig: 64, 101
+  offset: 0, 0
+  index: -1
+gh_div_cor_gh_div_cor_icon_a.png
+  rotate: false
+  xy: 324, 169
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+zengarden_c18_roofcorner.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c18_roofcorner_zengarden_c18_roofcorner_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 10
+  orig: 52, 10
+  offset: 0, 0
+  index: -1
+zengarden_c18_roofcorner_zengarden_c18_roofcorner_64_a_2_0.png
+  rotate: false
+  xy: 56, 14
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+zengarden_c18_roofcorner_zengarden_c18_roofcorner_64_a_4_0.png
+  rotate: false
+  xy: 2, 14
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+zengarden_c18_roofcorner_zengarden_c18_roofcorner_64_a_6_0.png
+  rotate: false
+  xy: 88, 14
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+zengarden_c18_roofcorner_zengarden_c18_roofcorner_64_sd_2_0.png
+  rotate: false
+  xy: 155, 22
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+zengarden_c18_roofcorner_zengarden_c18_roofcorner_64_sd_4_0.png
+  rotate: false
+  xy: 190, 43
+  size: 46, 12
+  orig: 46, 12
+  offset: 0, 0
+  index: -1
+zengarden_c18_roofcorner_zengarden_c18_roofcorner_64_sd_6_0.png
+  rotate: false
+  xy: 120, 22
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+zengarden_c18_roofcorner_zengarden_c18_roofcorner_icon_a.png
+  rotate: false
+  xy: 190, 17
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+clothing_microbag.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_microbag_clothing_microbag_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+clothing_microbag_clothing_microbag_icon_a.png
+  rotate: false
+  xy: 56, 3
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

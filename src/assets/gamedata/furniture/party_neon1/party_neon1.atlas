@@ -1,0 +1,111 @@
+
+party_neon1.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+party_neon1_party_neon1_64_a_2_0.png
+  rotate: false
+  xy: 62, 2
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_a_4_0.png
+  rotate: false
+  xy: 2, 90
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_b_2_0.png
+  rotate: false
+  xy: 2, 48
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_b_4_0.png
+  rotate: false
+  xy: 2, 6
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_c_2_1.png
+  rotate: false
+  xy: 97, 128
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_c_2_4.png
+  rotate: false
+  xy: 62, 44
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_c_4_0.png
+  rotate: false
+  xy: 113, 237
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_c_4_3.png
+  rotate: false
+  xy: 97, 150
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_c_4_4.png
+  rotate: false
+  xy: 62, 86
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_d_2_0.png
+  rotate: false
+  xy: 110, 237
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_d_2_1.png
+  rotate: false
+  xy: 76, 206
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_d_2_4.png
+  rotate: false
+  xy: 2, 186
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_d_4_3.png
+  rotate: false
+  xy: 76, 172
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_64_d_4_4.png
+  rotate: false
+  xy: 2, 132
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+party_neon1_party_neon1_icon_a.png
+  rotate: false
+  xy: 76, 149
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1

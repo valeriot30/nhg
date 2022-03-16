@@ -1,0 +1,286 @@
+
+ny_c16_sign.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ny_c16_sign_ny_c16_sign_64_a_2_0.png
+  rotate: false
+  xy: 1134, 17
+  size: 44, 187
+  orig: 44, 187
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_1.png
+  rotate: false
+  xy: 904, 16
+  size: 44, 188
+  orig: 44, 188
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_10.png
+  rotate: false
+  xy: 766, 17
+  size: 44, 187
+  orig: 44, 187
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_11.png
+  rotate: false
+  xy: 720, 18
+  size: 44, 186
+  orig: 44, 186
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_12.png
+  rotate: false
+  xy: 674, 19
+  size: 44, 185
+  orig: 44, 185
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_14.png
+  rotate: false
+  xy: 1548, 19
+  size: 44, 185
+  orig: 44, 185
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_2.png
+  rotate: false
+  xy: 1180, 17
+  size: 44, 187
+  orig: 44, 187
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_4.png
+  rotate: false
+  xy: 1456, 19
+  size: 44, 185
+  orig: 44, 185
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_5.png
+  rotate: false
+  xy: 1594, 20
+  size: 44, 184
+  orig: 44, 184
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_6.png
+  rotate: false
+  xy: 1502, 19
+  size: 44, 185
+  orig: 44, 185
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_2_8.png
+  rotate: false
+  xy: 1226, 17
+  size: 44, 187
+  orig: 44, 187
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_0.png
+  rotate: false
+  xy: 1042, 16
+  size: 44, 188
+  orig: 44, 188
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_1.png
+  rotate: false
+  xy: 996, 15
+  size: 44, 189
+  orig: 44, 189
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_10.png
+  rotate: false
+  xy: 858, 16
+  size: 44, 188
+  orig: 44, 188
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_11.png
+  rotate: false
+  xy: 812, 17
+  size: 44, 187
+  orig: 44, 187
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_12.png
+  rotate: false
+  xy: 1272, 18
+  size: 44, 186
+  orig: 44, 186
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_13.png
+  rotate: false
+  xy: 1410, 19
+  size: 44, 185
+  orig: 44, 185
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_2.png
+  rotate: false
+  xy: 950, 16
+  size: 44, 188
+  orig: 44, 188
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_4.png
+  rotate: false
+  xy: 1364, 18
+  size: 44, 186
+  orig: 44, 186
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_6.png
+  rotate: false
+  xy: 1318, 18
+  size: 44, 186
+  orig: 44, 186
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_a_4_8.png
+  rotate: false
+  xy: 1088, 16
+  size: 44, 188
+  orig: 44, 188
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_b_2_0.png
+  rotate: false
+  xy: 1640, 5
+  size: 36, 199
+  orig: 36, 199
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_b_2_1.png
+  rotate: false
+  xy: 1791, 4
+  size: 35, 200
+  orig: 35, 200
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_b_2_2.png
+  rotate: false
+  xy: 1678, 3
+  size: 36, 201
+  orig: 36, 201
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_b_2_3.png
+  rotate: false
+  xy: 1754, 4
+  size: 35, 200
+  orig: 35, 200
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_b_4_0.png
+  rotate: false
+  xy: 1902, 5
+  size: 36, 199
+  orig: 36, 199
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_b_4_1.png
+  rotate: false
+  xy: 1865, 4
+  size: 35, 200
+  orig: 35, 200
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_b_4_2.png
+  rotate: false
+  xy: 1716, 3
+  size: 36, 201
+  orig: 36, 201
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_b_4_3.png
+  rotate: false
+  xy: 1828, 4
+  size: 35, 200
+  orig: 35, 200
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_c_2_0.png
+  rotate: false
+  xy: 253, 33
+  size: 81, 171
+  orig: 81, 171
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_c_2_1.png
+  rotate: false
+  xy: 590, 35
+  size: 82, 169
+  orig: 82, 169
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_c_2_2.png
+  rotate: false
+  xy: 336, 35
+  size: 83, 169
+  orig: 83, 169
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_c_2_3.png
+  rotate: false
+  xy: 2, 33
+  size: 82, 171
+  orig: 82, 171
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_c_4_0.png
+  rotate: false
+  xy: 170, 33
+  size: 81, 171
+  orig: 81, 171
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_c_4_1.png
+  rotate: false
+  xy: 506, 35
+  size: 82, 169
+  orig: 82, 169
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_c_4_2.png
+  rotate: false
+  xy: 421, 35
+  size: 83, 169
+  orig: 83, 169
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_c_4_3.png
+  rotate: false
+  xy: 86, 33
+  size: 82, 171
+  orig: 82, 171
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_sd_2_0.png
+  rotate: false
+  xy: 32, 15
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_64_sd_4_0.png
+  rotate: false
+  xy: 1940, 188
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+ny_c16_sign_ny_c16_sign_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+lt_lava.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lt_lava_lt_lava_64_a_0_0.png
+  rotate: false
+  xy: 270, 24
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_64_a_0_1.png
+  rotate: false
+  xy: 542, 26
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_64_a_0_4.png
+  rotate: false
+  xy: 410, 26
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_64_a_0_5.png
+  rotate: false
+  xy: 476, 26
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_64_b_0_0.png
+  rotate: false
+  xy: 340, 27
+  size: 68, 33
+  orig: 68, 33
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_64_b_0_1.png
+  rotate: false
+  xy: 126, 25
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_64_b_0_4.png
+  rotate: false
+  xy: 198, 25
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_64_b_0_5.png
+  rotate: false
+  xy: 54, 25
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_64_d_0_0.png
+  rotate: false
+  xy: 608, 6
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+lt_lava_lt_lava_icon_a.png
+  rotate: false
+  xy: 54, 6
+  size: 31, 17
+  orig: 31, 17
+  offset: 0, 0
+  index: -1

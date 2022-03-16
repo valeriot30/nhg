@@ -1,0 +1,69 @@
+
+urban_bsktbll.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+urban_bsktbll_urban_bsktbll_64_a_0_0.png
+  rotate: false
+  xy: 186, 85
+  size: 66, 152
+  orig: 66, 152
+  offset: 0, 0
+  index: -1
+urban_bsktbll_urban_bsktbll_64_a_2_0.png
+  rotate: false
+  xy: 2, 63
+  size: 56, 174
+  orig: 56, 174
+  offset: 0, 0
+  index: -1
+urban_bsktbll_urban_bsktbll_64_a_4_0.png
+  rotate: false
+  xy: 60, 63
+  size: 56, 174
+  orig: 56, 174
+  offset: 0, 0
+  index: -1
+urban_bsktbll_urban_bsktbll_64_a_6_0.png
+  rotate: false
+  xy: 118, 85
+  size: 66, 152
+  orig: 66, 152
+  offset: 0, 0
+  index: -1
+urban_bsktbll_urban_bsktbll_64_b_0_0.png
+  rotate: false
+  xy: 2, 9
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+urban_bsktbll_urban_bsktbll_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+urban_bsktbll_urban_bsktbll_64_b_4_0.png
+  rotate: false
+  xy: 118, 78
+  size: 6, 5
+  orig: 6, 5
+  offset: 0, 0
+  index: -1
+urban_bsktbll_urban_bsktbll_64_b_6_0.png
+  rotate: false
+  xy: 2, 36
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+urban_bsktbll_urban_bsktbll_icon_a.png
+  rotate: false
+  xy: 30, 29
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1

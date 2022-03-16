@@ -1,0 +1,160 @@
+
+easter14_gate.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter14_gate_easter14_gate_64_a_2_1.png
+  rotate: false
+  xy: 668, 126
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_a_2_2.png
+  rotate: false
+  xy: 581, 31
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_a_2_3.png
+  rotate: false
+  xy: 626, 126
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_a_2_4.png
+  rotate: false
+  xy: 497, 20
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_a_2_5.png
+  rotate: false
+  xy: 539, 20
+  size: 40, 128
+  orig: 40, 128
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_b_2_0.png
+  rotate: false
+  xy: 752, 207
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_b_2_1.png
+  rotate: false
+  xy: 38, 24
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_b_2_2.png
+  rotate: false
+  xy: 2, 6
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_c_2_0.png
+  rotate: false
+  xy: 566, 161
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_d_2_0.png
+  rotate: false
+  xy: 710, 177
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_e_2_0.png
+  rotate: false
+  xy: 2, 18
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_e_2_1.png
+  rotate: false
+  xy: 782, 238
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_e_2_2.png
+  rotate: false
+  xy: 710, 159
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_e_2_3.png
+  rotate: false
+  xy: 623, 158
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_f_2_0.png
+  rotate: false
+  xy: 497, 150
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_f_2_1.png
+  rotate: false
+  xy: 101, 36
+  size: 97, 218
+  orig: 97, 218
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_f_2_2.png
+  rotate: false
+  xy: 2, 36
+  size: 97, 218
+  orig: 97, 218
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_f_2_3.png
+  rotate: false
+  xy: 200, 36
+  size: 97, 218
+  orig: 97, 218
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_f_2_4.png
+  rotate: false
+  xy: 299, 36
+  size: 97, 218
+  orig: 97, 218
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_f_2_5.png
+  rotate: false
+  xy: 398, 36
+  size: 97, 218
+  orig: 97, 218
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_64_sd_2_0.png
+  rotate: false
+  xy: 710, 219
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+easter14_gate_easter14_gate_icon_a.png
+  rotate: false
+  xy: 581, 2
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1

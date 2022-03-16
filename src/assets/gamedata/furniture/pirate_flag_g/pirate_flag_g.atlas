@@ -1,0 +1,244 @@
+
+pirate_flag_g.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_flag_g_pirate_flag_g_64_a_0_0.png
+  rotate: false
+  xy: 1901, 134
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_0_1.png
+  rotate: false
+  xy: 1973, 134
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_0_2.png
+  rotate: false
+  xy: 1095, 2
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_0_3.png
+  rotate: false
+  xy: 1901, 14
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_0_4.png
+  rotate: false
+  xy: 882, 2
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_0_5.png
+  rotate: false
+  xy: 1973, 14
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_0_6.png
+  rotate: false
+  xy: 1024, 2
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_0_7.png
+  rotate: false
+  xy: 953, 2
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_4_0.png
+  rotate: false
+  xy: 667, 108
+  size: 69, 144
+  orig: 69, 144
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_4_1.png
+  rotate: false
+  xy: 1546, 109
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_4_2.png
+  rotate: false
+  xy: 738, 110
+  size: 70, 142
+  orig: 70, 142
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_4_3.png
+  rotate: false
+  xy: 810, 111
+  size: 70, 141
+  orig: 70, 141
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_4_4.png
+  rotate: false
+  xy: 1759, 112
+  size: 69, 140
+  orig: 69, 140
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_4_5.png
+  rotate: false
+  xy: 1830, 113
+  size: 69, 139
+  orig: 69, 139
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_4_6.png
+  rotate: false
+  xy: 1688, 111
+  size: 69, 141
+  orig: 69, 141
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_a_4_7.png
+  rotate: false
+  xy: 1617, 110
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_0_0.png
+  rotate: false
+  xy: 1463, 122
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_0_1.png
+  rotate: false
+  xy: 1380, 122
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_0_2.png
+  rotate: false
+  xy: 1297, 122
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_0_3.png
+  rotate: false
+  xy: 1048, 122
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_0_4.png
+  rotate: false
+  xy: 1131, 122
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_0_5.png
+  rotate: false
+  xy: 882, 122
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_0_6.png
+  rotate: false
+  xy: 965, 122
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_0_7.png
+  rotate: false
+  xy: 1214, 122
+  size: 81, 130
+  orig: 81, 130
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_4_0.png
+  rotate: false
+  xy: 2, 96
+  size: 81, 156
+  orig: 81, 156
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_4_1.png
+  rotate: false
+  xy: 168, 98
+  size: 81, 154
+  orig: 81, 154
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_4_2.png
+  rotate: false
+  xy: 251, 99
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_4_3.png
+  rotate: false
+  xy: 418, 100
+  size: 81, 152
+  orig: 81, 152
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_4_4.png
+  rotate: false
+  xy: 501, 101
+  size: 81, 151
+  orig: 81, 151
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_4_5.png
+  rotate: false
+  xy: 584, 101
+  size: 81, 151
+  orig: 81, 151
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_4_6.png
+  rotate: false
+  xy: 335, 99
+  size: 81, 153
+  orig: 81, 153
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_b_4_7.png
+  rotate: false
+  xy: 85, 98
+  size: 81, 154
+  orig: 81, 154
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_64_sd_0_0.png
+  rotate: false
+  xy: 1166, 112
+  size: 15, 8
+  orig: 15, 8
+  offset: 0, 0
+  index: -1
+pirate_flag_g_pirate_flag_g_icon_a.png
+  rotate: false
+  xy: 2, 64
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

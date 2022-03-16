@@ -1,0 +1,83 @@
+
+penguin_elf.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_elf_penguin_elf_64_a_4_0.png
+  rotate: false
+  xy: 233, 34
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_64_a_4_1.png
+  rotate: false
+  xy: 279, 34
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_64_a_4_2.png
+  rotate: false
+  xy: 141, 33
+  size: 44, 70
+  orig: 44, 70
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_64_a_4_3.png
+  rotate: false
+  xy: 187, 34
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_64_a_4_4.png
+  rotate: false
+  xy: 95, 34
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_64_a_4_5.png
+  rotate: false
+  xy: 371, 36
+  size: 44, 67
+  orig: 44, 67
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_64_a_4_6.png
+  rotate: false
+  xy: 2, 34
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_64_a_4_7.png
+  rotate: false
+  xy: 49, 34
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_64_a_4_8.png
+  rotate: false
+  xy: 325, 35
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_64_sd_4_0.png
+  rotate: false
+  xy: 417, 87
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+penguin_elf_penguin_elf_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

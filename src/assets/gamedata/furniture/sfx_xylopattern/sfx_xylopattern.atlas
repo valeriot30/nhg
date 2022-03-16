@@ -1,0 +1,48 @@
+
+sfx_xylopattern.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sfx_xylopattern_sfx_xylopattern_64_a_0_0.png
+  rotate: false
+  xy: 138, 34
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+sfx_xylopattern_sfx_xylopattern_64_a_0_1.png
+  rotate: false
+  xy: 70, 34
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+sfx_xylopattern_sfx_xylopattern_64_a_0_2.png
+  rotate: false
+  xy: 274, 34
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+sfx_xylopattern_sfx_xylopattern_64_a_0_3.png
+  rotate: false
+  xy: 206, 34
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+sfx_xylopattern_sfx_xylopattern_64_a_0_4.png
+  rotate: false
+  xy: 2, 34
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+sfx_xylopattern_sfx_xylopattern_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

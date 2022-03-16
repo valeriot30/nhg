@@ -1,0 +1,34 @@
+
+hween13_thorndiv1.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween13_thorndiv1_hween13_thorndiv1_64_a_0_0.png
+  rotate: false
+  xy: 100, 51
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+hween13_thorndiv1_hween13_thorndiv1_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 72, 68
+  orig: 72, 68
+  offset: 0, 0
+  index: -1
+hween13_thorndiv1_hween13_thorndiv1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 72
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+hween13_thorndiv1_hween13_thorndiv1_icon_a.png
+  rotate: false
+  xy: 167, 98
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1

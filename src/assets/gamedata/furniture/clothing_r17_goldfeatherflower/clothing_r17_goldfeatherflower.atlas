@@ -1,0 +1,20 @@
+
+clothing_r17_goldfeatherflower.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r17_goldfeatherflower_clothing_r17_goldfeatherflower_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+clothing_r17_goldfeatherflower_clothing_r17_goldfeatherflower_icon_a.png
+  rotate: false
+  xy: 46, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

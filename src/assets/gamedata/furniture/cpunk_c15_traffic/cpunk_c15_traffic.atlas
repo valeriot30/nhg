@@ -1,0 +1,328 @@
+
+cpunk_c15_traffic.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_0.png
+  rotate: false
+  xy: 770, 38
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_1.png
+  rotate: false
+  xy: 518, 35
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_10.png
+  rotate: false
+  xy: 476, 30
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_11.png
+  rotate: false
+  xy: 1452, 43
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_12.png
+  rotate: false
+  xy: 1106, 38
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_13.png
+  rotate: false
+  xy: 1022, 38
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_14.png
+  rotate: false
+  xy: 728, 35
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_15.png
+  rotate: false
+  xy: 434, 30
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_16.png
+  rotate: false
+  xy: 1064, 38
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_17.png
+  rotate: false
+  xy: 686, 35
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_18.png
+  rotate: false
+  xy: 392, 30
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_19.png
+  rotate: false
+  xy: 1410, 43
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_2.png
+  rotate: false
+  xy: 350, 30
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_20.png
+  rotate: false
+  xy: 854, 38
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_21.png
+  rotate: false
+  xy: 812, 38
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_22.png
+  rotate: false
+  xy: 560, 35
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_23.png
+  rotate: false
+  xy: 266, 30
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_3.png
+  rotate: false
+  xy: 1368, 43
+  size: 40, 83
+  orig: 40, 83
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_4.png
+  rotate: false
+  xy: 980, 38
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_5.png
+  rotate: false
+  xy: 938, 38
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_6.png
+  rotate: false
+  xy: 644, 35
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_7.png
+  rotate: false
+  xy: 308, 30
+  size: 40, 96
+  orig: 40, 96
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_8.png
+  rotate: false
+  xy: 896, 38
+  size: 40, 88
+  orig: 40, 88
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_a_4_9.png
+  rotate: false
+  xy: 602, 35
+  size: 40, 91
+  orig: 40, 91
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_0.png
+  rotate: false
+  xy: 1494, 58
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_1.png
+  rotate: false
+  xy: 1626, 58
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_10.png
+  rotate: false
+  xy: 2, 26
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_11.png
+  rotate: false
+  xy: 46, 26
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_12.png
+  rotate: false
+  xy: 90, 26
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_13.png
+  rotate: false
+  xy: 134, 26
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_14.png
+  rotate: false
+  xy: 178, 26
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_15.png
+  rotate: false
+  xy: 222, 26
+  size: 42, 100
+  orig: 42, 100
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_2.png
+  rotate: false
+  xy: 1670, 58
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_3.png
+  rotate: false
+  xy: 1538, 58
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_4.png
+  rotate: false
+  xy: 1582, 58
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_5.png
+  rotate: false
+  xy: 1280, 42
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_6.png
+  rotate: false
+  xy: 1324, 42
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_7.png
+  rotate: false
+  xy: 1192, 42
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_8.png
+  rotate: false
+  xy: 1236, 42
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_b_4_9.png
+  rotate: false
+  xy: 1148, 42
+  size: 42, 84
+  orig: 42, 84
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_c_4_0.png
+  rotate: false
+  xy: 1526, 49
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_c_4_1.png
+  rotate: false
+  xy: 38, 2
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_c_4_2.png
+  rotate: false
+  xy: 38, 13
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_c_4_3.png
+  rotate: false
+  xy: 1494, 43
+  size: 30, 13
+  orig: 30, 13
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_64_c_4_4.png
+  rotate: false
+  xy: 2, 9
+  size: 34, 15
+  orig: 34, 15
+  offset: 0, 0
+  index: -1
+cpunk_c15_traffic_cpunk_c15_traffic_icon_a.png
+  rotate: false
+  xy: 1714, 103
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1

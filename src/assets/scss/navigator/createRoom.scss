@@ -1,0 +1,190 @@
+#createRoomGui {
+    position: fixed;
+    height: 435px;
+    width: 320px;
+    background-color: #6794a7;
+    border-radius: 16px;
+    border: 1px solid #000;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.35);
+    left: 30vw;
+    top: 20vh;
+    overflow: hidden;
+    position: absolute;
+    font-family: Volter;
+    font-size: 9px;
+    pointer-events: all !important;
+  
+    .titleBar {
+      width: 100%;
+      height: 26px;
+      padding: 5px 15px;
+      position: relative;
+  
+      .titleBarBg {
+        background: url(
+                data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAQAAAAECAYAAACp8Z5+AAAAHElEQVQYV2P8////f0ZGRkYGKIAzMARgKjFUAABk3QgFeD0pTAAAAABJRU5ErkJggg==
+                  )
+          repeat;
+  
+        width: 100%;
+        height: 100%;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        align-items: center;
+        flex-direction: column;
+  
+        .title {
+          font-family: Volter;
+          font-size: 10px;
+          font-weight: bold;
+          color: #fff;
+          background-color: #6794a7;
+          padding-left: 6px;
+          padding-right: 6px;
+          margin-top: -2px;
+        }
+      }
+  
+      .closeIcon {
+        position: absolute;
+        right: 30px;
+        top: 6px;
+        color: #fff;
+        width: 13px;
+        height: 13px;
+        border: 1px solid #fff;
+        background-color: #6794a7;
+        cursor: pointer;
+        font-family: Volter;
+        font-size: 9px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    }
+  
+    .createRoomContainer {
+      background-color: #fff;
+      border-radius: 12px;
+      height: 400px;
+      padding: 2px 8px;
+      box-sizing: border-box;
+      border: 1px solid #567483;
+      border-top: none;
+      width: 100%;
+      margin-left: 7px;
+  
+      h2 {
+        font: inherit;
+        text-align: left;
+        font-weight: 700;
+        color: #000;
+        margin: 0;
+        margin-top: 3px;
+      }
+  
+      .roomGrid {
+        width: 100%;
+        height: 290px;
+        display: flex;
+        flex-wrap: wrap;
+        align-content: flex-start;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        margin-top: 5px;
+  
+        .roomDiv {
+          width: 133px;
+          height: 133px;
+          background: #cbcbcb;
+          border: 1px solid #979797;
+          border-radius: 5px;
+          box-sizing: border-box;
+          margin: 1px;
+          font: inherit;
+          position: relative;
+          overflow: hidden;
+          display: flex;
+  
+          &:hover,
+          &.selected {
+            background: #6e8184;
+          }
+  
+          img {
+            object-fit: none;
+            margin: auto;
+          }
+  
+          .tile_count {
+            position: absolute;
+            bottom: 3px;
+            display: flex;
+            width: 80%;
+  
+            img {
+              margin: auto;
+            }
+  
+            span {
+              margin: auto;
+            }
+          }
+        }
+      }
+  
+      .roomInfo {
+        display: block;
+        width: calc(100% - 10px);
+        margin-top: 5px;
+        margin-left: 5px;
+  
+        h2 {
+          font: inherit;
+          text-align: left;
+          font-weight: 700;
+          color: #000;
+          margin-top: 3px;
+        }
+  
+        input {
+          width: 100%;
+          background: none;
+          font: inherit;
+          margin-top: 5px;
+          height: 20px;
+          border: 1px solid #000;
+          box-sizing: border-box;
+          padding: 5px;
+  
+          &.error {
+            border: 1px solid #c62828;
+          }
+        }
+  
+        .button_container {
+          width: 100%;
+          display: flex;
+          margin-top: 7px;
+  
+          button {
+            margin: auto;
+            background: none;
+            border: 1px solid #000;
+            border-radius: 3px;
+            height: 20px;
+            font: inherit;
+            padding: 0 8px;
+            cursor: pointer;
+  
+            &:hover {
+              background-color: #cbcbcb;
+            }
+          }
+        }
+      }
+    }
+  }
+  

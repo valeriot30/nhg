@@ -1,0 +1,41 @@
+
+wintercabin_c19_items.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wintercabin_c19_items_wintercabin_c19_items_64_a_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+wintercabin_c19_items_wintercabin_c19_items_64_a_0_1.png
+  rotate: false
+  xy: 112, 9
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+wintercabin_c19_items_wintercabin_c19_items_64_a_0_2.png
+  rotate: false
+  xy: 63, 11
+  size: 47, 48
+  orig: 47, 48
+  offset: 0, 0
+  index: -1
+wintercabin_c19_items_wintercabin_c19_items_64_sd_0_0.png
+  rotate: false
+  xy: 150, 45
+  size: 24, 14
+  orig: 24, 14
+  offset: 0, 0
+  index: -1
+wintercabin_c19_items_wintercabin_c19_items_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+homework.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+homework_homework_64_a_0_0.png
+  rotate: false
+  xy: 53, 8
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+homework_homework_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+homework_homework_icon_a.png
+  rotate: false
+  xy: 95, 8
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1

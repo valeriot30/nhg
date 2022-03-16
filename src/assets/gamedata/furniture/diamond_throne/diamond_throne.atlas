@@ -1,0 +1,55 @@
+
+diamond_throne.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diamond_throne_diamond_throne_64_a_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+diamond_throne_diamond_throne_64_a_4_0.png
+  rotate: false
+  xy: 139, 166
+  size: 64, 41
+  orig: 64, 41
+  offset: 0, 0
+  index: -1
+diamond_throne_diamond_throne_64_b_0_0.png
+  rotate: false
+  xy: 139, 163
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+diamond_throne_diamond_throne_64_b_4_0.png
+  rotate: false
+  xy: 2, 84
+  size: 77, 123
+  orig: 77, 123
+  offset: 0, 0
+  index: -1
+diamond_throne_diamond_throne_64_c_0_0.png
+  rotate: false
+  xy: 81, 69
+  size: 56, 138
+  orig: 56, 138
+  offset: 0, 0
+  index: -1
+diamond_throne_diamond_throne_64_c_4_0.png
+  rotate: false
+  xy: 66, 81
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+diamond_throne_diamond_throne_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1

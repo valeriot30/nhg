@@ -1,0 +1,107 @@
+.bottomBar {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    height: 85px;
+    background-color: transparent;
+    z-index: 10000;
+
+    & .chatInput {
+        position: relative;
+        display: block;
+        padding: 10px 25px;
+        font-size: 1.2rem;
+        outline: 0;
+        margin: 0 auto;
+        background-color: #fff;
+        border-radius: 12px;
+        height: 53px;
+        margin-top: 15px;
+        max-width: 900px;
+        width: calc(80% - 630px);
+        border: 2px solid rgba(0,0,0,.2);
+        box-shadow: 2px 3px 0 rgba(0,0,0,.15);
+        pointer-events: all
+    }
+
+    .muted {
+        color: red;
+    }
+
+    & .rightOptions {
+        right: 80px;
+    }
+
+    & .leftOptions {
+        left: 10px;
+    }
+
+    & .rightOptions, .leftOptions {
+        position: absolute;
+        top:0;
+        min-width: 315px;
+        text-align: center;
+        margin-bottom: 30px;
+
+        & .menuButton {
+            height: 55px;
+            width: 55px;
+            display: inline-block;
+            margin:0 7px;
+            border-radius: 50%;
+            position: relative;
+            pointer-events:all;
+            text-align:center;
+            padding: 8px;
+            border: 2px solid rgb(52, 135, 199);
+            -webkit-box-shadow: 1px 4px 7px -4px rgba(0,0,0,0.59); 
+            box-shadow: 1px 4px 7px -4px rgba(0,0,0,0.59);
+
+            &:hover {
+                border-color: #4995d0;
+            }
+
+            & .img {
+                background-position: center;
+                background-repeat: no-repeat;
+                width:40px;
+                height:40px;
+                
+                filter:drop-shadow(2px 3px 0 rgba(0,0,0,.15))
+
+            }
+
+            &.navigator .img {
+                background-image: url('~@/assets/images/bottom-bar/navigator.png');
+            }
+
+            &.catalog .img {
+                background-image: url('~@/assets/images/bottom-bar/catalog.png');
+            }
+
+            &.inventory .img {
+                background-image: url('~@/assets/images/bottom-bar/inventory.png');
+            }
+
+            &.friends {
+                padding: 7px;
+                line-height: 4.1;
+            }
+
+            &.settings .img {
+                background-image: url('~@/assets/images/bottom-bar/settings.png');
+            }
+
+            &.avatar {
+               background-color: #fff;
+               height: 75px;
+               width: 75px;
+               padding-right: 5px;
+            }
+        }
+        
+    }
+
+
+}

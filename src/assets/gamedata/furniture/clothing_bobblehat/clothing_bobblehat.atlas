@@ -1,0 +1,20 @@
+
+clothing_bobblehat.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_bobblehat_clothing_bobblehat_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+clothing_bobblehat_clothing_bobblehat_icon_a.png
+  rotate: false
+  xy: 35, 21
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

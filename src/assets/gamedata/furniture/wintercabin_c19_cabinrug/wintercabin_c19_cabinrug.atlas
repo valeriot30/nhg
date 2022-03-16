@@ -1,0 +1,20 @@
+
+wintercabin_c19_cabinrug.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wintercabin_c19_cabinrug_wintercabin_c19_cabinrug_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 224, 114
+  orig: 224, 114
+  offset: 0, 0
+  index: -1
+wintercabin_c19_cabinrug_wintercabin_c19_cabinrug_icon_a.png
+  rotate: false
+  xy: 228, 100
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1

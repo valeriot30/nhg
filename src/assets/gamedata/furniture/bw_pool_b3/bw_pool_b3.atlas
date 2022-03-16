@@ -1,0 +1,97 @@
+
+bw_pool_b3.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bw_pool_b3_bw_pool_b3_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_a_2_0.png
+  rotate: false
+  xy: 208, 9
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_a_4_0.png
+  rotate: false
+  xy: 140, 9
+  size: 66, 51
+  orig: 66, 51
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_a_6_0.png
+  rotate: false
+  xy: 71, 2
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_b_0_0.png
+  rotate: false
+  xy: 584, 15
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_b_2_0.png
+  rotate: false
+  xy: 671, 22
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_b_4_0.png
+  rotate: false
+  xy: 629, 22
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_b_6_0.png
+  rotate: false
+  xy: 539, 15
+  size: 43, 45
+  orig: 43, 45
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_c_0_0.png
+  rotate: false
+  xy: 473, 9
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_c_2_0.png
+  rotate: false
+  xy: 408, 8
+  size: 63, 52
+  orig: 63, 52
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_c_4_0.png
+  rotate: false
+  xy: 342, 8
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_64_c_6_0.png
+  rotate: false
+  xy: 276, 9
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+bw_pool_b3_bw_pool_b3_icon_a.png
+  rotate: false
+  xy: 713, 36
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

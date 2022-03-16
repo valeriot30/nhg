@@ -1,0 +1,202 @@
+
+xmas_c17_man.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_man_xmas_c17_man_64_a_2_0.png
+  rotate: false
+  xy: 2, 63
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_b_2_0.png
+  rotate: false
+  xy: 102, 72
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_b_2_1.png
+  rotate: false
+  xy: 150, 72
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_b_2_2.png
+  rotate: false
+  xy: 126, 72
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_b_2_3.png
+  rotate: false
+  xy: 174, 72
+  size: 22, 17
+  orig: 22, 17
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_b_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_b_2_5.png
+  rotate: false
+  xy: 26, 2
+  size: 22, 21
+  orig: 22, 21
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_c_2_0.png
+  rotate: false
+  xy: 141, 91
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_c_2_1.png
+  rotate: false
+  xy: 102, 91
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_0.png
+  rotate: false
+  xy: 243, 96
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_1.png
+  rotate: false
+  xy: 236, 52
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_10.png
+  rotate: false
+  xy: 2, 23
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_11.png
+  rotate: false
+  xy: 201, 89
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_2.png
+  rotate: false
+  xy: 218, 57
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_3.png
+  rotate: false
+  xy: 24, 25
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_4.png
+  rotate: false
+  xy: 68, 83
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_5.png
+  rotate: false
+  xy: 34, 83
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_6.png
+  rotate: false
+  xy: 50, 6
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_7.png
+  rotate: false
+  xy: 77, 32
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_8.png
+  rotate: false
+  xy: 198, 64
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_d_2_9.png
+  rotate: false
+  xy: 179, 91
+  size: 20, 35
+  orig: 20, 35
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_e_2_0.png
+  rotate: false
+  xy: 115, 62
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_e_2_1.png
+  rotate: false
+  xy: 99, 60
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_f_2_0.png
+  rotate: false
+  xy: 41, 31
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_f_2_1.png
+  rotate: false
+  xy: 223, 88
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_f_2_2.png
+  rotate: false
+  xy: 59, 31
+  size: 16, 34
+  orig: 16, 34
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_64_sd_2_0.png
+  rotate: false
+  xy: 34, 67
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+xmas_c17_man_xmas_c17_man_icon_a.png
+  rotate: false
+  xy: 77, 53
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

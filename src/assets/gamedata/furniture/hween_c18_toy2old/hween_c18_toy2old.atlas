@@ -1,0 +1,27 @@
+
+hween_c18_toy2old.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_toy2old_hween_c18_toy2old_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+hween_c18_toy2old_hween_c18_toy2old_64_sd_0_0.png
+  rotate: false
+  xy: 2, 13
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+hween_c18_toy2old_hween_c18_toy2old_icon_a.png
+  rotate: false
+  xy: 39, 2
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

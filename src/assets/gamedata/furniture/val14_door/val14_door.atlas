@@ -1,0 +1,160 @@
+
+val14_door.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val14_door_val14_door_64_a_0_0.png
+  rotate: false
+  xy: 353, 31
+  size: 9, 87
+  orig: 9, 87
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_0_0.png
+  rotate: false
+  xy: 48, 18
+  size: 33, 100
+  orig: 33, 100
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_0_1.png
+  rotate: false
+  xy: 116, 20
+  size: 30, 98
+  orig: 30, 98
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_0_2.png
+  rotate: false
+  xy: 177, 22
+  size: 26, 96
+  orig: 26, 96
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_0_3.png
+  rotate: false
+  xy: 230, 24
+  size: 22, 94
+  orig: 22, 94
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_0_4.png
+  rotate: false
+  xy: 275, 26
+  size: 18, 92
+  orig: 18, 92
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_0_5.png
+  rotate: false
+  xy: 312, 28
+  size: 14, 90
+  orig: 14, 90
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_0_6.png
+  rotate: false
+  xy: 341, 30
+  size: 10, 88
+  orig: 10, 88
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_0_7.png
+  rotate: false
+  xy: 373, 32
+  size: 6, 86
+  orig: 6, 86
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_0_8.png
+  rotate: false
+  xy: 386, 33
+  size: 4, 85
+  orig: 4, 85
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_4_0.png
+  rotate: false
+  xy: 83, 18
+  size: 31, 100
+  orig: 31, 100
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_4_1.png
+  rotate: false
+  xy: 148, 20
+  size: 27, 98
+  orig: 27, 98
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_4_2.png
+  rotate: false
+  xy: 205, 22
+  size: 23, 96
+  orig: 23, 96
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_4_3.png
+  rotate: false
+  xy: 254, 24
+  size: 19, 94
+  orig: 19, 94
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_4_4.png
+  rotate: false
+  xy: 295, 26
+  size: 15, 92
+  orig: 15, 92
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_4_5.png
+  rotate: false
+  xy: 328, 28
+  size: 11, 90
+  orig: 11, 90
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_4_6.png
+  rotate: false
+  xy: 364, 30
+  size: 7, 88
+  orig: 7, 88
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_4_7.png
+  rotate: false
+  xy: 381, 32
+  size: 3, 86
+  orig: 3, 86
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_b_4_9.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_c_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 44, 113
+  orig: 44, 113
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_64_sd_0_0.png
+  rotate: false
+  xy: 392, 100
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+val14_door_val14_door_icon_a.png
+  rotate: false
+  xy: 392, 72
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1

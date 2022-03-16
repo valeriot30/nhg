@@ -1,0 +1,27 @@
+
+suncity_c19_plastic.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_plastic_suncity_c19_plastic_64_a_0_0.png
+  rotate: false
+  xy: 2, 13
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+suncity_c19_plastic_suncity_c19_plastic_64_sd_0_0.png
+  rotate: false
+  xy: 55, 32
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+suncity_c19_plastic_suncity_c19_plastic_icon_a.png
+  rotate: false
+  xy: 55, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

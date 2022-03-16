@@ -1,0 +1,20 @@
+
+clothing_exotictop.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_exotictop_clothing_exotictop_64_a_0_0.png
+  rotate: false
+  xy: 34, 8
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+clothing_exotictop_clothing_exotictop_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

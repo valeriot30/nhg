@@ -1,0 +1,48 @@
+
+tokyo_c18_sakura.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_sakura_tokyo_c18_sakura_64_a_0_0.png
+  rotate: false
+  xy: 2, 40
+  size: 88, 63
+  orig: 88, 63
+  offset: 0, 0
+  index: -1
+tokyo_c18_sakura_tokyo_c18_sakura_64_b_0_0.png
+  rotate: false
+  xy: 208, 38
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+tokyo_c18_sakura_tokyo_c18_sakura_64_b_0_1.png
+  rotate: false
+  xy: 169, 30
+  size: 37, 73
+  orig: 37, 73
+  offset: 0, 0
+  index: -1
+tokyo_c18_sakura_tokyo_c18_sakura_64_c_0_0.png
+  rotate: false
+  xy: 92, 40
+  size: 75, 63
+  orig: 75, 63
+  offset: 0, 0
+  index: -1
+tokyo_c18_sakura_tokyo_c18_sakura_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 36
+  orig: 70, 36
+  offset: 0, 0
+  index: -1
+tokyo_c18_sakura_tokyo_c18_sakura_icon_a.png
+  rotate: false
+  xy: 74, 8
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

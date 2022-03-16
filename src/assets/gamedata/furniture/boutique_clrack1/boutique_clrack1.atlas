@@ -1,0 +1,27 @@
+
+boutique_clrack1.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boutique_clrack1_boutique_clrack1_64_a_2_0.png
+  rotate: false
+  xy: 2, 158
+  size: 74, 154
+  orig: 74, 154
+  offset: 0, 0
+  index: -1
+boutique_clrack1_boutique_clrack1_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 72, 154
+  orig: 72, 154
+  offset: 0, 0
+  index: -1
+boutique_clrack1_boutique_clrack1_icon_a.png
+  rotate: false
+  xy: 78, 280
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1

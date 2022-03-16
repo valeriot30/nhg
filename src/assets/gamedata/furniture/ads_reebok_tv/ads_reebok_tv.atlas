@@ -1,0 +1,125 @@
+
+ads_reebok_tv.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_reebok_tv_ads_reebok_tv_64_a_2_0.png
+  rotate: false
+  xy: 482, 84
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_2_2.png
+  rotate: false
+  xy: 482, 139
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_2_3.png
+  rotate: false
+  xy: 82, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_2_4.png
+  rotate: false
+  xy: 562, 139
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_2_5.png
+  rotate: false
+  xy: 162, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_4_0.png
+  rotate: false
+  xy: 882, 178
+  size: 106, 53
+  orig: 106, 53
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_4_1.png
+  rotate: false
+  xy: 722, 139
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_4_2.png
+  rotate: false
+  xy: 242, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_4_3.png
+  rotate: false
+  xy: 642, 139
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_4_4.png
+  rotate: false
+  xy: 802, 139
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_a_4_5.png
+  rotate: false
+  xy: 322, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_b_2_0.png
+  rotate: false
+  xy: 126, 96
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_b_4_0.png
+  rotate: false
+  xy: 2, 96
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_c_2_0.png
+  rotate: false
+  xy: 366, 96
+  size: 114, 135
+  orig: 114, 135
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_64_c_4_0.png
+  rotate: false
+  xy: 250, 96
+  size: 114, 135
+  orig: 114, 135
+  offset: 0, 0
+  index: -1
+ads_reebok_tv_ads_reebok_tv_icon_a.png
+  rotate: false
+  xy: 882, 145
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

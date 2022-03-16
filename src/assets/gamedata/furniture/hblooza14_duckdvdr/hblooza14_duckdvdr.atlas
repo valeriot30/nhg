@@ -1,0 +1,55 @@
+
+hblooza14_duckdvdr.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_duckdvdr_hblooza14_duckdvdr_64_a_2_0.png
+  rotate: false
+  xy: 226, 3
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+hblooza14_duckdvdr_hblooza14_duckdvdr_64_a_4_0.png
+  rotate: false
+  xy: 262, 3
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+hblooza14_duckdvdr_hblooza14_duckdvdr_64_b_2_0.png
+  rotate: false
+  xy: 186, 2
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+hblooza14_duckdvdr_hblooza14_duckdvdr_64_b_4_0.png
+  rotate: false
+  xy: 146, 2
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+hblooza14_duckdvdr_hblooza14_duckdvdr_64_sd_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hblooza14_duckdvdr_hblooza14_duckdvdr_64_sd_4_0.png
+  rotate: false
+  xy: 74, 24
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hblooza14_duckdvdr_hblooza14_duckdvdr_icon_a.png
+  rotate: false
+  xy: 298, 30
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

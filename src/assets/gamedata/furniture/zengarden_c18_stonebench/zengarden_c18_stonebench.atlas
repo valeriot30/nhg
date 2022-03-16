@@ -1,0 +1,69 @@
+
+zengarden_c18_stonebench.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c18_stonebench_zengarden_c18_stonebench_64_a_4_0.png
+  rotate: false
+  xy: 190, 10
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+zengarden_c18_stonebench_zengarden_c18_stonebench_64_a_6_0.png
+  rotate: false
+  xy: 253, 10
+  size: 61, 36
+  orig: 61, 36
+  offset: 0, 0
+  index: -1
+zengarden_c18_stonebench_zengarden_c18_stonebench_64_b_4_0.png
+  rotate: false
+  xy: 438, 23
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+zengarden_c18_stonebench_zengarden_c18_stonebench_64_b_6_0.png
+  rotate: false
+  xy: 374, 23
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+zengarden_c18_stonebench_zengarden_c18_stonebench_64_c_4_0.png
+  rotate: false
+  xy: 316, 14
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+zengarden_c18_stonebench_zengarden_c18_stonebench_64_c_6_0.png
+  rotate: false
+  xy: 345, 14
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+zengarden_c18_stonebench_zengarden_c18_stonebench_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 92, 44
+  orig: 92, 44
+  offset: 0, 0
+  index: -1
+zengarden_c18_stonebench_zengarden_c18_stonebench_64_sd_6_0.png
+  rotate: false
+  xy: 96, 2
+  size: 92, 44
+  orig: 92, 44
+  offset: 0, 0
+  index: -1
+zengarden_c18_stonebench_zengarden_c18_stonebench_icon_a.png
+  rotate: false
+  xy: 406, 23
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

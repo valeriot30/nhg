@@ -1,0 +1,174 @@
+
+hween13_gate_1.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween13_gate_1_hween13_gate_1_64_a_2_0.png
+  rotate: false
+  xy: 2, 81
+  size: 43, 164
+  orig: 43, 164
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_0.png
+  rotate: false
+  xy: 47, 128
+  size: 31, 117
+  orig: 31, 117
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_1.png
+  rotate: false
+  xy: 80, 138
+  size: 31, 107
+  orig: 31, 107
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_10.png
+  rotate: false
+  xy: 163, 105
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_2.png
+  rotate: false
+  xy: 113, 148
+  size: 31, 97
+  orig: 31, 97
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_3.png
+  rotate: false
+  xy: 146, 158
+  size: 31, 87
+  orig: 31, 87
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 77
+  orig: 31, 77
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_5.png
+  rotate: false
+  xy: 52, 20
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_6.png
+  rotate: false
+  xy: 113, 89
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_7.png
+  rotate: false
+  xy: 80, 89
+  size: 31, 47
+  orig: 31, 47
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_8.png
+  rotate: false
+  xy: 47, 89
+  size: 31, 37
+  orig: 31, 37
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_b_2_9.png
+  rotate: false
+  xy: 163, 127
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_0.png
+  rotate: false
+  xy: 196, 136
+  size: 15, 109
+  orig: 15, 109
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_1.png
+  rotate: false
+  xy: 213, 146
+  size: 15, 99
+  orig: 15, 99
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_10.png
+  rotate: false
+  xy: 85, 24
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_2.png
+  rotate: false
+  xy: 179, 156
+  size: 15, 89
+  orig: 15, 89
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_3.png
+  rotate: false
+  xy: 230, 166
+  size: 15, 79
+  orig: 15, 79
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_4.png
+  rotate: false
+  xy: 35, 10
+  size: 15, 69
+  orig: 15, 69
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_5.png
+  rotate: false
+  xy: 146, 97
+  size: 15, 59
+  orig: 15, 59
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_6.png
+  rotate: false
+  xy: 85, 38
+  size: 15, 49
+  orig: 15, 49
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_7.png
+  rotate: false
+  xy: 213, 105
+  size: 15, 39
+  orig: 15, 39
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_8.png
+  rotate: false
+  xy: 196, 105
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_64_c_2_9.png
+  rotate: false
+  xy: 230, 145
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+hween13_gate_1_hween13_gate_1_icon_a.png
+  rotate: false
+  xy: 102, 57
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

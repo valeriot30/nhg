@@ -1,0 +1,125 @@
+
+hween14_bench.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween14_bench_hween14_bench_32_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_32_a_0_0.png
+  rotate: false
+  xy: 252, 251
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_a_0_1.png
+  rotate: false
+  xy: 65, 85
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_a_4_0.png
+  rotate: false
+  xy: 2, 79
+  size: 61, 80
+  orig: 61, 80
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_a_4_1.png
+  rotate: false
+  xy: 2, 161
+  size: 61, 91
+  orig: 61, 91
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_b_0_0.png
+  rotate: false
+  xy: 185, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_b_0_1.png
+  rotate: false
+  xy: 162, 39
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_b_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 53, 72
+  orig: 53, 72
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_b_4_1.png
+  rotate: false
+  xy: 65, 93
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_c_0_0.png
+  rotate: false
+  xy: 57, 9
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_c_0_1.png
+  rotate: false
+  xy: 162, 62
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_d_0_0.png
+  rotate: false
+  xy: 65, 176
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_d_0_1.png
+  rotate: false
+  xy: 137, 176
+  size: 70, 76
+  orig: 70, 76
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_d_4_0.png
+  rotate: false
+  xy: 209, 171
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_d_4_1.png
+  rotate: false
+  xy: 119, 49
+  size: 41, 81
+  orig: 41, 81
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_64_sd_4_0.png
+  rotate: false
+  xy: 119, 132
+  size: 84, 42
+  orig: 84, 42
+  offset: 0, 0
+  index: -1
+hween14_bench_hween14_bench_icon_a.png
+  rotate: false
+  xy: 205, 139
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

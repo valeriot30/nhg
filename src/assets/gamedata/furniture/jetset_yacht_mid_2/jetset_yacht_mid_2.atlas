@@ -1,0 +1,83 @@
+
+jetset_yacht_mid_2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_a_0_0.png
+  rotate: false
+  xy: 101, 91
+  size: 73, 155
+  orig: 73, 155
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_b_0_0.png
+  rotate: false
+  xy: 143, 61
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_b_0_1.png
+  rotate: false
+  xy: 98, 61
+  size: 43, 28
+  orig: 43, 28
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_c_0_0.png
+  rotate: false
+  xy: 176, 103
+  size: 62, 143
+  orig: 62, 143
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_d_0_0.png
+  rotate: false
+  xy: 42, 27
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_d_0_1.png
+  rotate: false
+  xy: 42, 2
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_e_0_0.png
+  rotate: false
+  xy: 2, 102
+  size: 97, 144
+  orig: 97, 144
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_f_0_0.png
+  rotate: false
+  xy: 2, 52
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_f_0_1.png
+  rotate: false
+  xy: 2, 77
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_64_g_0_0.png
+  rotate: false
+  xy: 2, 12
+  size: 38, 38
+  orig: 38, 38
+  offset: 0, 0
+  index: -1
+jetset_yacht_mid_2_jetset_yacht_mid_2_icon_a.png
+  rotate: false
+  xy: 71, 68
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

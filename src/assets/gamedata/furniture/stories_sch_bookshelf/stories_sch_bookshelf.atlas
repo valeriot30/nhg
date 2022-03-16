@@ -1,0 +1,83 @@
+
+stories_sch_bookshelf.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stories_sch_bookshelf_stories_sch_bookshelf_64_a_2_0.png
+  rotate: false
+  xy: 154, 109
+  size: 28, 144
+  orig: 28, 144
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_64_a_6_0.png
+  rotate: false
+  xy: 124, 109
+  size: 28, 144
+  orig: 28, 144
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_64_b_2_0.png
+  rotate: false
+  xy: 63, 94
+  size: 59, 159
+  orig: 59, 159
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_64_b_6_0.png
+  rotate: false
+  xy: 2, 85
+  size: 59, 168
+  orig: 59, 168
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_64_c_2_0.png
+  rotate: false
+  xy: 28, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_64_c_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 81
+  orig: 24, 81
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_64_c_2_2.png
+  rotate: false
+  xy: 184, 118
+  size: 20, 66
+  orig: 20, 66
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_64_d_2_1.png
+  rotate: false
+  xy: 184, 186
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_64_d_2_2.png
+  rotate: false
+  xy: 28, 16
+  size: 31, 67
+  orig: 31, 67
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_64_sd_2_0.png
+  rotate: false
+  xy: 124, 64
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+stories_sch_bookshelf_stories_sch_bookshelf_icon_a.png
+  rotate: false
+  xy: 217, 222
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1

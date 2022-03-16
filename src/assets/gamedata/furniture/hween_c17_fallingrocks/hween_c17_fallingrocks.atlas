@@ -1,0 +1,174 @@
+
+hween_c17_fallingrocks.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_0.png
+  rotate: false
+  xy: 654, 37
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_1.png
+  rotate: false
+  xy: 236, 27
+  size: 76, 35
+  orig: 76, 35
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_10.png
+  rotate: false
+  xy: 657, 34
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_2.png
+  rotate: false
+  xy: 158, 21
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_3.png
+  rotate: false
+  xy: 80, 10
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_4.png
+  rotate: false
+  xy: 2, 10
+  size: 76, 52
+  orig: 76, 52
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_5.png
+  rotate: false
+  xy: 314, 13
+  size: 60, 49
+  orig: 60, 49
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_7.png
+  rotate: false
+  xy: 781, 34
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_8.png
+  rotate: false
+  xy: 719, 34
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_a_0_9.png
+  rotate: false
+  xy: 710, 4
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_1.png
+  rotate: false
+  xy: 874, 30
+  size: 28, 32
+  orig: 28, 32
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_10.png
+  rotate: false
+  xy: 448, 40
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_11.png
+  rotate: false
+  xy: 447, 16
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_12.png
+  rotate: false
+  xy: 516, 16
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_13.png
+  rotate: false
+  xy: 519, 40
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_14.png
+  rotate: false
+  xy: 588, 40
+  size: 67, 22
+  orig: 67, 22
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_5.png
+  rotate: false
+  xy: 904, 42
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_6.png
+  rotate: false
+  xy: 236, 2
+  size: 50, 23
+  orig: 50, 23
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_7.png
+  rotate: false
+  xy: 585, 17
+  size: 67, 21
+  orig: 67, 21
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_8.png
+  rotate: false
+  xy: 376, 16
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_b_0_9.png
+  rotate: false
+  xy: 376, 40
+  size: 70, 22
+  orig: 70, 22
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_c_0_0.png
+  rotate: false
+  xy: 654, 2
+  size: 54, 30
+  orig: 54, 30
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_64_sd_0_0.png
+  rotate: false
+  xy: 772, 8
+  size: 53, 24
+  orig: 53, 24
+  offset: 0, 0
+  index: -1
+hween_c17_fallingrocks_hween_c17_fallingrocks_icon_a.png
+  rotate: false
+  xy: 843, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+hcc_sofachair.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hcc_sofachair_hcc_sofachair_64_a_0_0.png
+  rotate: false
+  xy: 156, 64
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+hcc_sofachair_hcc_sofachair_64_a_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 76, 82
+  orig: 76, 82
+  offset: 0, 0
+  index: -1
+hcc_sofachair_hcc_sofachair_64_b_0_0.png
+  rotate: false
+  xy: 80, 29
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+hcc_sofachair_hcc_sofachair_64_b_2_0.png
+  rotate: false
+  xy: 203, 57
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+hcc_sofachair_hcc_sofachair_64_sd_0_0.png
+  rotate: false
+  xy: 80, 5
+  size: 61, 22
+  orig: 61, 22
+  offset: 0, 0
+  index: -1
+hcc_sofachair_hcc_sofachair_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 69, 17
+  orig: 69, 17
+  offset: 0, 0
+  index: -1
+hcc_sofachair_hcc_sofachair_icon_a.png
+  rotate: false
+  xy: 156, 33
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

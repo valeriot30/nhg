@@ -1,0 +1,230 @@
+
+gift_hhome.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gift_hhome_gift_hhome_64_a_2_0.png
+  rotate: false
+  xy: 2, 67
+  size: 70, 184
+  orig: 70, 184
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_a_4_0.png
+  rotate: false
+  xy: 74, 67
+  size: 70, 184
+  orig: 70, 184
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_b_2_0.png
+  rotate: false
+  xy: 146, 135
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_1.png
+  rotate: false
+  xy: 146, 236
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_10.png
+  rotate: false
+  xy: 117, 51
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_11.png
+  rotate: false
+  xy: 146, 151
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_12.png
+  rotate: false
+  xy: 146, 219
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_13.png
+  rotate: false
+  xy: 146, 185
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_14.png
+  rotate: false
+  xy: 104, 51
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_15.png
+  rotate: false
+  xy: 146, 168
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_2.png
+  rotate: false
+  xy: 91, 51
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_3.png
+  rotate: false
+  xy: 130, 51
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_4.png
+  rotate: false
+  xy: 146, 119
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_5.png
+  rotate: false
+  xy: 146, 103
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_6.png
+  rotate: false
+  xy: 15, 4
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_7.png
+  rotate: false
+  xy: 2, 18
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_8.png
+  rotate: false
+  xy: 146, 202
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_c_2_9.png
+  rotate: false
+  xy: 79, 50
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_2_0.png
+  rotate: false
+  xy: 174, 238
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_2_1.png
+  rotate: false
+  xy: 34, 37
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_2_2.png
+  rotate: false
+  xy: 49, 52
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_2_3.png
+  rotate: false
+  xy: 159, 238
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_2_4.png
+  rotate: false
+  xy: 15, 20
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_2_5.png
+  rotate: false
+  xy: 34, 52
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_4_0.png
+  rotate: false
+  xy: 64, 37
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_4_1.png
+  rotate: false
+  xy: 174, 223
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_4_2.png
+  rotate: false
+  xy: 189, 238
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_4_3.png
+  rotate: false
+  xy: 64, 52
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_4_4.png
+  rotate: false
+  xy: 49, 37
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_64_d_4_5.png
+  rotate: false
+  xy: 159, 223
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+gift_hhome_gift_hhome_icon_a.png
+  rotate: false
+  xy: 2, 35
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+hween_c17_torturebed.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_torturebed_hween_c17_torturebed_64_a_2_0.png
+  rotate: false
+  xy: 126, 67
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+hween_c17_torturebed_hween_c17_torturebed_64_b_2_0.png
+  rotate: false
+  xy: 75, 20
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+hween_c17_torturebed_hween_c17_torturebed_64_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+hween_c17_torturebed_hween_c17_torturebed_64_sd_2_0.png
+  rotate: false
+  xy: 2, 63
+  size: 122, 61
+  orig: 122, 61
+  offset: 0, 0
+  index: -1
+hween_c17_torturebed_hween_c17_torturebed_icon_a.png
+  rotate: false
+  xy: 197, 104
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1

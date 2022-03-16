@@ -1,0 +1,48 @@
+
+st_palooza_balloons.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_palooza_balloons_st_palooza_balloons_64_a_4_0.png
+  rotate: false
+  xy: 186, 163
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+st_palooza_balloons_st_palooza_balloons_64_b_4_3.png
+  rotate: false
+  xy: 2, 142
+  size: 109, 107
+  orig: 109, 107
+  offset: 0, 0
+  index: -1
+st_palooza_balloons_st_palooza_balloons_64_c_4_1.png
+  rotate: false
+  xy: 113, 169
+  size: 71, 80
+  orig: 71, 80
+  offset: 0, 0
+  index: -1
+st_palooza_balloons_st_palooza_balloons_64_d_4_3.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+st_palooza_balloons_st_palooza_balloons_64_sd_4_0.png
+  rotate: false
+  xy: 113, 142
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+st_palooza_balloons_st_palooza_balloons_icon_a.png
+  rotate: false
+  xy: 74, 109
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1

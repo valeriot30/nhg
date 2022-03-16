@@ -1,0 +1,27 @@
+
+prizetrophy_habboway.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prizetrophy_habboway_prizetrophy_habboway_64_a_0_0.png
+  rotate: false
+  xy: 2, 48
+  size: 48, 94
+  orig: 48, 94
+  offset: 0, 0
+  index: -1
+prizetrophy_habboway_prizetrophy_habboway_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+prizetrophy_habboway_prizetrophy_habboway_icon_a.png
+  rotate: false
+  xy: 2, 16
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

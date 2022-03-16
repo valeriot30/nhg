@@ -1,0 +1,118 @@
+
+LT_pillar2.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+LT_pillar2_LT_pillar2_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 28, 68
+  orig: 28, 68
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_1.png
+  rotate: false
+  xy: 32, 11
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_10.png
+  rotate: false
+  xy: 53, 108
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_11.png
+  rotate: false
+  xy: 54, 71
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_12.png
+  rotate: false
+  xy: 48, 42
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_2.png
+  rotate: false
+  xy: 32, 24
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_3.png
+  rotate: false
+  xy: 53, 98
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_4.png
+  rotate: false
+  xy: 42, 29
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_5.png
+  rotate: false
+  xy: 54, 34
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_6.png
+  rotate: false
+  xy: 42, 17
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_7.png
+  rotate: false
+  xy: 53, 81
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_8.png
+  rotate: false
+  xy: 54, 52
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_b_0_9.png
+  rotate: false
+  xy: 54, 61
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_64_c_0_1.png
+  rotate: false
+  xy: 2, 75
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+LT_pillar2_LT_pillar2_icon_a.png
+  rotate: false
+  xy: 32, 42
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1

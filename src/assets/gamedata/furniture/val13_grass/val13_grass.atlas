@@ -1,0 +1,76 @@
+
+val13_grass.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val13_grass_val13_grass_64_a_0_0.png
+  rotate: false
+  xy: 2, 50
+  size: 124, 68
+  orig: 124, 68
+  offset: 0, 0
+  index: -1
+val13_grass_val13_grass_64_a_0_1.png
+  rotate: false
+  xy: 620, 62
+  size: 116, 56
+  orig: 116, 56
+  offset: 0, 0
+  index: -1
+val13_grass_val13_grass_64_a_0_2.png
+  rotate: false
+  xy: 378, 55
+  size: 119, 63
+  orig: 119, 63
+  offset: 0, 0
+  index: -1
+val13_grass_val13_grass_64_a_2_1.png
+  rotate: false
+  xy: 856, 60
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+val13_grass_val13_grass_64_a_2_2.png
+  rotate: false
+  xy: 253, 55
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+val13_grass_val13_grass_64_a_4_1.png
+  rotate: false
+  xy: 738, 63
+  size: 116, 55
+  orig: 116, 55
+  offset: 0, 0
+  index: -1
+val13_grass_val13_grass_64_a_4_2.png
+  rotate: false
+  xy: 128, 55
+  size: 123, 63
+  orig: 123, 63
+  offset: 0, 0
+  index: -1
+val13_grass_val13_grass_64_a_6_1.png
+  rotate: false
+  xy: 620, 2
+  size: 105, 58
+  orig: 105, 58
+  offset: 0, 0
+  index: -1
+val13_grass_val13_grass_64_a_6_2.png
+  rotate: false
+  xy: 499, 55
+  size: 119, 63
+  orig: 119, 63
+  offset: 0, 0
+  index: -1
+val13_grass_val13_grass_icon_a.png
+  rotate: false
+  xy: 963, 103
+  size: 27, 15
+  orig: 27, 15
+  offset: 0, 0
+  index: -1

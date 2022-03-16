@@ -1,0 +1,34 @@
+
+zengarden_c18_bamboo.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c18_bamboo_zengarden_c18_bamboo_64_a_0_0.png
+  rotate: false
+  xy: 66, 2
+  size: 30, 119
+  orig: 30, 119
+  offset: 0, 0
+  index: -1
+zengarden_c18_bamboo_zengarden_c18_bamboo_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 119
+  orig: 62, 119
+  offset: 0, 0
+  index: -1
+zengarden_c18_bamboo_zengarden_c18_bamboo_64_sd_0_0.png
+  rotate: false
+  xy: 98, 84
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+zengarden_c18_bamboo_zengarden_c18_bamboo_icon_a.png
+  rotate: false
+  xy: 98, 52
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

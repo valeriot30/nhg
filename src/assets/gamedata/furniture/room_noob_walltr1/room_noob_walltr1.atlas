@@ -1,0 +1,69 @@
+
+room_noob_walltr1.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+room_noob_walltr1_room_noob_walltr1_64_a_0_0.png
+  rotate: false
+  xy: 335, 21
+  size: 33, 477
+  orig: 33, 477
+  offset: 0, 0
+  index: -1
+room_noob_walltr1_room_noob_walltr1_64_b_0_0.png
+  rotate: false
+  xy: 233, 6
+  size: 32, 492
+  orig: 32, 492
+  offset: 0, 0
+  index: -1
+room_noob_walltr1_room_noob_walltr1_64_c_0_0.png
+  rotate: false
+  xy: 199, 6
+  size: 32, 492
+  orig: 32, 492
+  offset: 0, 0
+  index: -1
+room_noob_walltr1_room_noob_walltr1_64_d_0_0.png
+  rotate: false
+  xy: 301, 6
+  size: 32, 492
+  orig: 32, 492
+  offset: 0, 0
+  index: -1
+room_noob_walltr1_room_noob_walltr1_64_e_0_0.png
+  rotate: false
+  xy: 267, 6
+  size: 32, 492
+  orig: 32, 492
+  offset: 0, 0
+  index: -1
+room_noob_walltr1_room_noob_walltr1_64_f_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 131, 496
+  orig: 131, 496
+  offset: 0, 0
+  index: -1
+room_noob_walltr1_room_noob_walltr1_64_g_0_0.png
+  rotate: false
+  xy: 135, 6
+  size: 62, 492
+  orig: 62, 492
+  offset: 0, 0
+  index: -1
+room_noob_walltr1_room_noob_walltr1_64_h_0_0.png
+  rotate: false
+  xy: 370, 251
+  size: 218, 247
+  orig: 218, 247
+  offset: 0, 0
+  index: -1
+room_noob_walltr1_room_noob_walltr1_icon_a.png
+  rotate: false
+  xy: 370, 222
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1

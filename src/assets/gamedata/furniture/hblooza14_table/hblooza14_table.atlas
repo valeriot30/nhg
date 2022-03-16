@@ -1,0 +1,27 @@
+
+hblooza14_table.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_table_hblooza14_table_64_a_0_0.png
+  rotate: false
+  xy: 2, 46
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1
+hblooza14_table_hblooza14_table_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 82, 42
+  orig: 82, 42
+  offset: 0, 0
+  index: -1
+hblooza14_table_hblooza14_table_icon_a.png
+  rotate: false
+  xy: 94, 95
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1

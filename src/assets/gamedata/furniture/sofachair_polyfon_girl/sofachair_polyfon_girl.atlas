@@ -1,0 +1,83 @@
+
+sofachair_polyfon_girl.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sofachair_polyfon_girl_sofachair_polyfon_girl_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_64_a_2_0.png
+  rotate: false
+  xy: 222, 94
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_64_b_0_0.png
+  rotate: false
+  xy: 70, 47
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_64_b_2_0.png
+  rotate: false
+  xy: 2, 55
+  size: 66, 63
+  orig: 66, 63
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_64_c_0_0.png
+  rotate: false
+  xy: 190, 74
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_64_c_2_0.png
+  rotate: false
+  xy: 134, 79
+  size: 54, 39
+  orig: 54, 39
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_64_d_0_0.png
+  rotate: false
+  xy: 70, 62
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_64_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_64_sd_0_0.png
+  rotate: false
+  xy: 70, 82
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_icon_a.png
+  rotate: false
+  xy: 190, 89
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+sofachair_polyfon_girl_sofachair_polyfon_girl_icon_b.png
+  rotate: false
+  xy: 68, 29
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+post_it_vd.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+post_it_vd_post_it_vd_64_a_2_0.png
+  rotate: false
+  xy: 42, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+post_it_vd_post_it_vd_64_a_4_0.png
+  rotate: false
+  xy: 28, 2
+  size: 12, 17
+  orig: 12, 17
+  offset: 0, 0
+  index: -1
+post_it_vd_post_it_vd_icon_a.png
+  rotate: false
+  xy: 2, 7
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1

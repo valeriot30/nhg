@@ -1,0 +1,90 @@
+
+xmas_c19_snowsprites.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_d_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_d_0_1.png
+  rotate: false
+  xy: 2, 33
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_d_0_2.png
+  rotate: false
+  xy: 34, 34
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_e_0_0.png
+  rotate: false
+  xy: 34, 2
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_e_0_1.png
+  rotate: false
+  xy: 66, 34
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_e_0_2.png
+  rotate: false
+  xy: 103, 35
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_e_0_3.png
+  rotate: false
+  xy: 121, 35
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_e_0_4.png
+  rotate: false
+  xy: 85, 33
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_f_0_0.png
+  rotate: false
+  xy: 182, 43
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_f_0_1.png
+  rotate: false
+  xy: 160, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_64_f_0_2.png
+  rotate: false
+  xy: 138, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+xmas_c19_snowsprites_xmas_c19_snowsprites_icon_a.png
+  rotate: false
+  xy: 52, 2
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

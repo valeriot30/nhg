@@ -1,0 +1,27 @@
+
+elegantp_c17_stool.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+elegantp_c17_stool_elegantp_c17_stool_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+elegantp_c17_stool_elegantp_c17_stool_64_sd_0_0.png
+  rotate: false
+  xy: 59, 34
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+elegantp_c17_stool_elegantp_c17_stool_icon_a.png
+  rotate: false
+  xy: 59, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

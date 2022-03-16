@@ -1,0 +1,20 @@
+
+clothing_loyaltycrown_X.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_loyaltycrown_X_clothing_loyaltycrown_X_64_a_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+clothing_loyaltycrown_X_clothing_loyaltycrown_X_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1

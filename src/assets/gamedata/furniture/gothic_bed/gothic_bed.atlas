@@ -1,0 +1,125 @@
+
+gothic_bed.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gothic_bed_gothic_bed_64_a_2_0.png
+  rotate: false
+  xy: 519, 11
+  size: 60, 140
+  orig: 60, 140
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_b_2_0.png
+  rotate: false
+  xy: 714, 74
+  size: 29, 80
+  orig: 29, 80
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_b_2_1.png
+  rotate: false
+  xy: 645, 72
+  size: 60, 87
+  orig: 60, 87
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_c_2_0.png
+  rotate: false
+  xy: 173, 65
+  size: 138, 186
+  orig: 138, 186
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_d_2_0.png
+  rotate: false
+  xy: 2, 84
+  size: 169, 167
+  orig: 169, 167
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_e_2_0.png
+  rotate: false
+  xy: 313, 77
+  size: 132, 174
+  orig: 132, 174
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_f_2_0.png
+  rotate: false
+  xy: 447, 3
+  size: 70, 148
+  orig: 70, 148
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_g_2_0.png
+  rotate: false
+  xy: 707, 77
+  size: 5, 82
+  orig: 5, 82
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_g_2_1.png
+  rotate: false
+  xy: 735, 156
+  size: 123, 95
+  orig: 123, 95
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_h_2_0.png
+  rotate: false
+  xy: 590, 161
+  size: 143, 90
+  orig: 143, 90
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_h_2_1.png
+  rotate: false
+  xy: 447, 153
+  size: 141, 98
+  orig: 141, 98
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_i_2_0.png
+  rotate: false
+  xy: 1011, 162
+  size: 9, 89
+  orig: 9, 89
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_i_2_1.png
+  rotate: false
+  xy: 860, 150
+  size: 119, 101
+  orig: 119, 101
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_j_2_0.png
+  rotate: false
+  xy: 981, 163
+  size: 28, 88
+  orig: 28, 88
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_j_2_1.png
+  rotate: false
+  xy: 581, 57
+  size: 62, 94
+  orig: 62, 94
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 160, 80
+  orig: 160, 80
+  offset: 0, 0
+  index: -1
+gothic_bed_gothic_bed_icon_a.png
+  rotate: false
+  xy: 581, 25
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

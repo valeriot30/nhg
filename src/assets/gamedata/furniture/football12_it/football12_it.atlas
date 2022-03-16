@@ -1,0 +1,195 @@
+
+football12_it.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+football12_it_football12_it_64_a_2_0.png
+  rotate: false
+  xy: 132, 26
+  size: 128, 177
+  orig: 128, 177
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_a_4_0.png
+  rotate: false
+  xy: 2, 26
+  size: 128, 177
+  orig: 128, 177
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_0.png
+  rotate: false
+  xy: 3068, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_1.png
+  rotate: false
+  xy: 2702, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_10.png
+  rotate: false
+  xy: 262, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_11.png
+  rotate: false
+  xy: 384, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_2.png
+  rotate: false
+  xy: 2580, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_3.png
+  rotate: false
+  xy: 2946, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_4.png
+  rotate: false
+  xy: 2824, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_5.png
+  rotate: false
+  xy: 2092, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_6.png
+  rotate: false
+  xy: 2214, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_7.png
+  rotate: false
+  xy: 2336, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_8.png
+  rotate: false
+  xy: 2458, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_2_9.png
+  rotate: false
+  xy: 1970, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_0.png
+  rotate: false
+  xy: 750, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_1.png
+  rotate: false
+  xy: 506, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_10.png
+  rotate: false
+  xy: 1726, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_11.png
+  rotate: false
+  xy: 1848, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_2.png
+  rotate: false
+  xy: 628, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_3.png
+  rotate: false
+  xy: 1238, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_4.png
+  rotate: false
+  xy: 1116, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_5.png
+  rotate: false
+  xy: 994, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_6.png
+  rotate: false
+  xy: 872, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_7.png
+  rotate: false
+  xy: 1604, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_8.png
+  rotate: false
+  xy: 1482, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_64_b_4_9.png
+  rotate: false
+  xy: 1360, 36
+  size: 120, 167
+  orig: 120, 167
+  offset: 0, 0
+  index: -1
+football12_it_football12_it_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1

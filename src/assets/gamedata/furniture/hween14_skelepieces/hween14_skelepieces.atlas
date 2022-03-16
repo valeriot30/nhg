@@ -1,0 +1,55 @@
+
+hween14_skelepieces.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween14_skelepieces_hween14_skelepieces_64_a_4_0.png
+  rotate: false
+  xy: 29, 9
+  size: 45, 25
+  orig: 45, 25
+  offset: 0, 0
+  index: -1
+hween14_skelepieces_hween14_skelepieces_64_a_4_1.png
+  rotate: false
+  xy: 2, 40
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+hween14_skelepieces_hween14_skelepieces_64_a_4_2.png
+  rotate: false
+  xy: 2, 12
+  size: 25, 26
+  orig: 25, 26
+  offset: 0, 0
+  index: -1
+hween14_skelepieces_hween14_skelepieces_64_a_4_3.png
+  rotate: false
+  xy: 76, 7
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+hween14_skelepieces_hween14_skelepieces_64_a_4_4.png
+  rotate: false
+  xy: 98, 2
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1
+hween14_skelepieces_hween14_skelepieces_64_a_4_5.png
+  rotate: false
+  xy: 83, 35
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+hween14_skelepieces_hween14_skelepieces_icon_a.png
+  rotate: false
+  xy: 45, 36
+  size: 36, 25
+  orig: 36, 25
+  offset: 0, 0
+  index: -1

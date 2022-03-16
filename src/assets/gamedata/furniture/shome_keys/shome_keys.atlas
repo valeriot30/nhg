@@ -1,0 +1,27 @@
+
+shome_keys.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shome_keys_shome_keys_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+shome_keys_shome_keys_64_sd_0_0.png
+  rotate: false
+  xy: 37, 2
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+shome_keys_shome_keys_icon_a.png
+  rotate: false
+  xy: 72, 2
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

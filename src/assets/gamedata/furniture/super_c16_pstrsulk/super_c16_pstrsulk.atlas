@@ -1,0 +1,62 @@
+
+super_c16_pstrsulk.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+super_c16_pstrsulk_super_c16_pstrsulk_64_a_2_0.png
+  rotate: false
+  xy: 136, 57
+  size: 60, 142
+  orig: 60, 142
+  offset: 0, 0
+  index: -1
+super_c16_pstrsulk_super_c16_pstrsulk_64_a_4_0.png
+  rotate: false
+  xy: 198, 57
+  size: 60, 142
+  orig: 60, 142
+  offset: 0, 0
+  index: -1
+super_c16_pstrsulk_super_c16_pstrsulk_64_b_2_0.png
+  rotate: false
+  xy: 2, 53
+  size: 65, 146
+  orig: 65, 146
+  offset: 0, 0
+  index: -1
+super_c16_pstrsulk_super_c16_pstrsulk_64_b_4_0.png
+  rotate: false
+  xy: 69, 53
+  size: 65, 146
+  orig: 65, 146
+  offset: 0, 0
+  index: -1
+super_c16_pstrsulk_super_c16_pstrsulk_64_c_2_0.png
+  rotate: false
+  xy: 260, 150
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+super_c16_pstrsulk_super_c16_pstrsulk_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+super_c16_pstrsulk_super_c16_pstrsulk_64_c_4_1.png
+  rotate: false
+  xy: 136, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+super_c16_pstrsulk_super_c16_pstrsulk_icon_a.png
+  rotate: false
+  xy: 27, 21
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

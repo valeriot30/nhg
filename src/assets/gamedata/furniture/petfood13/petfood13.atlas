@@ -1,0 +1,41 @@
+
+petfood13.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+petfood13_petfood13_64_a_2_0.png
+  rotate: false
+  xy: 76, 2
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+petfood13_petfood13_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+petfood13_petfood13_64_a_2_2.png
+  rotate: false
+  xy: 39, 3
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+petfood13_petfood13_64_a_2_3.png
+  rotate: false
+  xy: 110, 4
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+petfood13_petfood13_64_a_2_4.png
+  rotate: false
+  xy: 139, 4
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1

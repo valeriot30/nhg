@@ -1,0 +1,55 @@
+
+plant_valentinerose.png
+size: 32,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plant_valentinerose_plant_valentinerose_64_a_0_0.png
+  rotate: false
+  xy: 2, 135
+  size: 19, 77
+  orig: 19, 77
+  offset: 0, 0
+  index: -1
+plant_valentinerose_plant_valentinerose_64_b_0_0.png
+  rotate: false
+  xy: 2, 13
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+plant_valentinerose_plant_valentinerose_64_c_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 23, 49
+  orig: 23, 49
+  offset: 0, 0
+  index: -1
+plant_valentinerose_plant_valentinerose_64_d_0_0.png
+  rotate: false
+  xy: 2, 83
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+plant_valentinerose_plant_valentinerose_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 9
+  orig: 21, 9
+  offset: 0, 0
+  index: -1
+plant_valentinerose_plant_valentinerose_icon_a.png
+  rotate: false
+  xy: 23, 188
+  size: 7, 24
+  orig: 7, 24
+  offset: 0, 0
+  index: -1
+plant_valentinerose_plant_valentinerose_icon_b.png
+  rotate: false
+  xy: 23, 181
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+classic8_pillar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic8_pillar_classic8_pillar_64_a_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 36, 152
+  orig: 36, 152
+  offset: 0, 0
+  index: -1
+classic8_pillar_classic8_pillar_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+classic8_pillar_classic8_pillar_icon_a.png
+  rotate: false
+  xy: 40, 146
+  size: 8, 30
+  orig: 8, 30
+  offset: 0, 0
+  index: -1

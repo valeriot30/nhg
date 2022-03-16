@@ -1,0 +1,20 @@
+
+bowl.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bowl_bowl_64_a_2_0.png
+  rotate: false
+  xy: 31, 5
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+bowl_bowl_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1

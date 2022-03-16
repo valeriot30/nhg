@@ -1,0 +1,615 @@
+
+ads_tv_jaapuisto.png
+size: 4096,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_tv_jaapuisto_ads_tv_jaapuisto_32_c_2_1.png
+  rotate: false
+  xy: 2, 504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_32_c_2_1.png
+  rotate: false
+  xy: 5, 504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_32_c_2_1.png
+  rotate: false
+  xy: 8, 504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_32_c_2_1.png
+  rotate: false
+  xy: 11, 504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_a_2_0.png
+  rotate: false
+  xy: 166, 385
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_a_4_1.png
+  rotate: false
+  xy: 44, 385
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_2_0.png
+  rotate: false
+  xy: 2183, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_2_1.png
+  rotate: false
+  xy: 2007, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_2_2.png
+  rotate: false
+  xy: 1831, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_2_3.png
+  rotate: false
+  xy: 1655, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_2_4.png
+  rotate: false
+  xy: 1479, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_2_5.png
+  rotate: false
+  xy: 1303, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_4_0.png
+  rotate: false
+  xy: 2359, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_4_1.png
+  rotate: false
+  xy: 2711, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_4_2.png
+  rotate: false
+  xy: 2887, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_4_3.png
+  rotate: false
+  xy: 3063, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_4_4.png
+  rotate: false
+  xy: 3239, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_b_4_5.png
+  rotate: false
+  xy: 2535, 36
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_1.png
+  rotate: false
+  xy: 992, 64
+  size: 140, 147
+  orig: 140, 147
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_10.png
+  rotate: false
+  xy: 1835, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_11.png
+  rotate: false
+  xy: 2540, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_12.png
+  rotate: false
+  xy: 2258, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_13.png
+  rotate: false
+  xy: 3104, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_14.png
+  rotate: false
+  xy: 2822, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_15.png
+  rotate: false
+  xy: 3668, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_16.png
+  rotate: false
+  xy: 3386, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_17.png
+  rotate: false
+  xy: 143, 91
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_18.png
+  rotate: false
+  xy: 284, 66
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_19.png
+  rotate: false
+  xy: 425, 66
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_2.png
+  rotate: false
+  xy: 2967, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_20.png
+  rotate: false
+  xy: 848, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_21.png
+  rotate: false
+  xy: 707, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_22.png
+  rotate: false
+  xy: 566, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_23.png
+  rotate: false
+  xy: 425, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_24.png
+  rotate: false
+  xy: 284, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_25.png
+  rotate: false
+  xy: 143, 238
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_26.png
+  rotate: false
+  xy: 2, 238
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_27.png
+  rotate: false
+  xy: 3954, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_28.png
+  rotate: false
+  xy: 989, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_29.png
+  rotate: false
+  xy: 1130, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_3.png
+  rotate: false
+  xy: 3108, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_30.png
+  rotate: false
+  xy: 1412, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_31.png
+  rotate: false
+  xy: 1271, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_4.png
+  rotate: false
+  xy: 2685, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_5.png
+  rotate: false
+  xy: 2826, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_6.png
+  rotate: false
+  xy: 3672, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_7.png
+  rotate: false
+  xy: 3813, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_8.png
+  rotate: false
+  xy: 3249, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_2_9.png
+  rotate: false
+  xy: 3390, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_1.png
+  rotate: false
+  xy: 850, 64
+  size: 140, 147
+  orig: 140, 147
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_10.png
+  rotate: false
+  xy: 3531, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_11.png
+  rotate: false
+  xy: 1839, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_12.png
+  rotate: false
+  xy: 1980, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_13.png
+  rotate: false
+  xy: 1557, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_14.png
+  rotate: false
+  xy: 1698, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_15.png
+  rotate: false
+  xy: 2403, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_16.png
+  rotate: false
+  xy: 2544, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_17.png
+  rotate: false
+  xy: 2121, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_18.png
+  rotate: false
+  xy: 2262, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_19.png
+  rotate: false
+  xy: 1416, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_2.png
+  rotate: false
+  xy: 288, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_20.png
+  rotate: false
+  xy: 2, 91
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_21.png
+  rotate: false
+  xy: 3950, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_22.png
+  rotate: false
+  xy: 2681, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_23.png
+  rotate: false
+  xy: 2399, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_24.png
+  rotate: false
+  xy: 2117, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_25.png
+  rotate: false
+  xy: 1976, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_26.png
+  rotate: false
+  xy: 3809, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_27.png
+  rotate: false
+  xy: 3527, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_28.png
+  rotate: false
+  xy: 3245, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_29.png
+  rotate: false
+  xy: 2963, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_3.png
+  rotate: false
+  xy: 429, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_30.png
+  rotate: false
+  xy: 1553, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_31.png
+  rotate: false
+  xy: 1694, 213
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_4.png
+  rotate: false
+  xy: 852, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_5.png
+  rotate: false
+  xy: 993, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_6.png
+  rotate: false
+  xy: 570, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_7.png
+  rotate: false
+  xy: 711, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_8.png
+  rotate: false
+  xy: 1275, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_c_4_9.png
+  rotate: false
+  xy: 1134, 360
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_d_2_1.png
+  rotate: false
+  xy: 566, 65
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_d_4_0.png
+  rotate: false
+  xy: 708, 65
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_e_2_1.png
+  rotate: false
+  xy: 3584, 2
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_e_4_1.png
+  rotate: false
+  xy: 3796, 2
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_f_2_0.png
+  rotate: false
+  xy: 3415, 36
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_64_f_4_0.png
+  rotate: false
+  xy: 1134, 36
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+ads_tv_jaapuisto_ads_tv_jaapuisto_icon_a.png
+  rotate: false
+  xy: 14, 479
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1

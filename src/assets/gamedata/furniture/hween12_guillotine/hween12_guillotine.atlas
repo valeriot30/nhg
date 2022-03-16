@@ -1,0 +1,195 @@
+
+hween12_guillotine.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween12_guillotine_hween12_guillotine_64_a_0_0.png
+  rotate: false
+  xy: 485, 122
+  size: 14, 83
+  orig: 14, 83
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_b_0_0.png
+  rotate: false
+  xy: 2, 124
+  size: 53, 127
+  orig: 53, 127
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_c_0_0.png
+  rotate: false
+  xy: 263, 73
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_0.png
+  rotate: false
+  xy: 241, 2
+  size: 20, 119
+  orig: 20, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_10.png
+  rotate: false
+  xy: 174, 2
+  size: 21, 119
+  orig: 21, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_11.png
+  rotate: false
+  xy: 127, 2
+  size: 22, 119
+  orig: 22, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_12.png
+  rotate: false
+  xy: 2, 3
+  size: 23, 119
+  orig: 23, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_13.png
+  rotate: false
+  xy: 27, 3
+  size: 23, 119
+  orig: 23, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_14.png
+  rotate: false
+  xy: 52, 2
+  size: 23, 119
+  orig: 23, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_15.png
+  rotate: false
+  xy: 77, 2
+  size: 23, 119
+  orig: 23, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_16.png
+  rotate: false
+  xy: 102, 2
+  size: 23, 119
+  orig: 23, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_4.png
+  rotate: false
+  xy: 151, 2
+  size: 21, 119
+  orig: 21, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_5.png
+  rotate: false
+  xy: 197, 2
+  size: 20, 119
+  orig: 20, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_d_0_9.png
+  rotate: false
+  xy: 219, 2
+  size: 20, 119
+  orig: 20, 119
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_0.png
+  rotate: false
+  xy: 371, 123
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_1.png
+  rotate: false
+  xy: 333, 123
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_10.png
+  rotate: false
+  xy: 447, 77
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_2.png
+  rotate: false
+  xy: 409, 79
+  size: 36, 126
+  orig: 36, 126
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_3.png
+  rotate: false
+  xy: 295, 123
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_4.png
+  rotate: false
+  xy: 257, 123
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_5.png
+  rotate: false
+  xy: 219, 123
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_6.png
+  rotate: false
+  xy: 181, 123
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_7.png
+  rotate: false
+  xy: 143, 123
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_8.png
+  rotate: false
+  xy: 102, 123
+  size: 39, 128
+  orig: 39, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_e_0_9.png
+  rotate: false
+  xy: 57, 123
+  size: 43, 128
+  orig: 43, 128
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_64_sd_0_0.png
+  rotate: false
+  xy: 409, 207
+  size: 101, 44
+  orig: 101, 44
+  offset: 0, 0
+  index: -1
+hween12_guillotine_hween12_guillotine_icon_a.png
+  rotate: false
+  xy: 321, 93
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

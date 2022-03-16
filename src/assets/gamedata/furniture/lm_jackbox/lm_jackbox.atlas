@@ -1,0 +1,69 @@
+
+lm_jackbox.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lm_jackbox_lm_jackbox_64_a_2_1.png
+  rotate: false
+  xy: 203, 35
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+lm_jackbox_lm_jackbox_64_a_2_2.png
+  rotate: false
+  xy: 171, 6
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+lm_jackbox_lm_jackbox_64_a_2_3.png
+  rotate: false
+  xy: 203, 6
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+lm_jackbox_lm_jackbox_64_a_2_4.png
+  rotate: false
+  xy: 139, 20
+  size: 30, 42
+  orig: 30, 42
+  offset: 0, 0
+  index: -1
+lm_jackbox_lm_jackbox_64_a_2_5.png
+  rotate: false
+  xy: 41, 2
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+lm_jackbox_lm_jackbox_64_a_2_6.png
+  rotate: false
+  xy: 107, 5
+  size: 30, 57
+  orig: 30, 57
+  offset: 0, 0
+  index: -1
+lm_jackbox_lm_jackbox_64_a_2_7.png
+  rotate: false
+  xy: 74, 2
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+lm_jackbox_lm_jackbox_64_a_2_8.png
+  rotate: false
+  xy: 2, 6
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+lm_jackbox_lm_jackbox_icon_a.png
+  rotate: false
+  xy: 171, 35
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

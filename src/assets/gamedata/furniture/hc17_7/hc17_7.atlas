@@ -1,0 +1,41 @@
+
+hc17_7.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc17_7_hc17_7_64_a_2_0.png
+  rotate: false
+  xy: 146, 40
+  size: 48, 144
+  orig: 48, 144
+  offset: 0, 0
+  index: -1
+hc17_7_hc17_7_64_a_4_0.png
+  rotate: false
+  xy: 96, 40
+  size: 48, 144
+  orig: 48, 144
+  offset: 0, 0
+  index: -1
+hc17_7_hc17_7_64_b_2_0.png
+  rotate: false
+  xy: 2, 31
+  size: 45, 153
+  orig: 45, 153
+  offset: 0, 0
+  index: -1
+hc17_7_hc17_7_64_b_4_0.png
+  rotate: false
+  xy: 49, 31
+  size: 45, 153
+  orig: 45, 153
+  offset: 0, 0
+  index: -1
+hc17_7_hc17_7_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1

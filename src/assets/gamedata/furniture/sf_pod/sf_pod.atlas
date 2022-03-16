@@ -1,0 +1,111 @@
+
+sf_pod.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sf_pod_sf_pod_64_a_0_0.png
+  rotate: false
+  xy: 139, 67
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_a_0_1.png
+  rotate: false
+  xy: 201, 67
+  size: 60, 59
+  orig: 60, 59
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_b_0_0.png
+  rotate: false
+  xy: 323, 74
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_b_0_1.png
+  rotate: false
+  xy: 263, 74
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_c_0_0.png
+  rotate: false
+  xy: 187, 21
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_c_0_1.png
+  rotate: false
+  xy: 139, 21
+  size: 46, 44
+  orig: 46, 44
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_d_0_0.png
+  rotate: false
+  xy: 235, 21
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_d_0_1.png
+  rotate: false
+  xy: 277, 28
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_e_0_1.png
+  rotate: false
+  xy: 446, 80
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_f_0_1.png
+  rotate: false
+  xy: 383, 79
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_g_0_0.png
+  rotate: false
+  xy: 383, 76
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_g_0_1.png
+  rotate: false
+  xy: 319, 43
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_h_0_0.png
+  rotate: false
+  xy: 506, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_64_h_0_1.png
+  rotate: false
+  xy: 2, 22
+  size: 135, 104
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+sf_pod_sf_pod_icon_a.png
+  rotate: false
+  xy: 277, 2
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ads_twi_dreamc.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_twi_dreamc_ads_twi_dreamc_64_a_2_0.png
+  rotate: false
+  xy: 78, 36
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+ads_twi_dreamc_ads_twi_dreamc_64_a_4_0.png
+  rotate: false
+  xy: 114, 36
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+ads_twi_dreamc_ads_twi_dreamc_64_b_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+ads_twi_dreamc_ads_twi_dreamc_64_b_4_0.png
+  rotate: false
+  xy: 40, 34
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+ads_twi_dreamc_ads_twi_dreamc_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

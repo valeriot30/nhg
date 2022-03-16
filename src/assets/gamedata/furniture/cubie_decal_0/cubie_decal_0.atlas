@@ -1,0 +1,27 @@
+
+cubie_decal_0.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cubie_decal_0_cubie_decal_0_64_a_2_0.png
+  rotate: false
+  xy: 2, 118
+  size: 56, 84
+  orig: 56, 84
+  offset: 0, 0
+  index: -1
+cubie_decal_0_cubie_decal_0_64_b_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 54, 82
+  orig: 54, 82
+  offset: 0, 0
+  index: -1
+cubie_decal_0_cubie_decal_0_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

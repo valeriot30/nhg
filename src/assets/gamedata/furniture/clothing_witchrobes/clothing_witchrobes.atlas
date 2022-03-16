@@ -1,0 +1,20 @@
+
+clothing_witchrobes.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_witchrobes_clothing_witchrobes_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 40, 100
+  orig: 40, 100
+  offset: 0, 0
+  index: -1
+clothing_witchrobes_clothing_witchrobes_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

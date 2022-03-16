@@ -1,0 +1,90 @@
+
+steampunk_arch.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+steampunk_arch_steampunk_arch_32_e_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 25, 94
+  orig: 25, 94
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_b_0_0.png
+  rotate: false
+  xy: 29, 47
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_c_0_0.png
+  rotate: false
+  xy: 102, 125
+  size: 42, 27
+  orig: 42, 27
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_d_0_0.png
+  rotate: false
+  xy: 2, 101
+  size: 55, 144
+  orig: 55, 144
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_e_0_1.png
+  rotate: false
+  xy: 105, 154
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_e_0_2.png
+  rotate: false
+  xy: 146, 204
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_e_0_3.png
+  rotate: false
+  xy: 59, 154
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_e_0_4.png
+  rotate: false
+  xy: 59, 111
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_e_0_5.png
+  rotate: false
+  xy: 189, 204
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_64_sd_0_0.png
+  rotate: false
+  xy: 59, 197
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+steampunk_arch_steampunk_arch_icon_a.png
+  rotate: false
+  xy: 29, 71
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1

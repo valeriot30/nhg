@@ -1,0 +1,27 @@
+
+xmas_c17_doll6.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_doll6_xmas_c17_doll6_64_a_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 34, 75
+  orig: 34, 75
+  offset: 0, 0
+  index: -1
+xmas_c17_doll6_xmas_c17_doll6_64_sd_0_0.png
+  rotate: false
+  xy: 38, 100
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+xmas_c17_doll6_xmas_c17_doll6_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1
