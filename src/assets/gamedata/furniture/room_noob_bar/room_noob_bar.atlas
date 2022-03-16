@@ -1,0 +1,55 @@
+
+room_noob_bar.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+room_noob_bar_room_noob_bar_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+room_noob_bar_room_noob_bar_64_b_0_0.png
+  rotate: false
+  xy: 199, 38
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+room_noob_bar_room_noob_bar_64_c_0_0.png
+  rotate: false
+  xy: 67, 36
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+room_noob_bar_room_noob_bar_64_d_0_0.png
+  rotate: false
+  xy: 265, 38
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+room_noob_bar_room_noob_bar_64_e_0_0.png
+  rotate: false
+  xy: 133, 38
+  size: 64, 67
+  orig: 64, 67
+  offset: 0, 0
+  index: -1
+room_noob_bar_room_noob_bar_64_f_0_0.png
+  rotate: false
+  xy: 331, 38
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+room_noob_bar_room_noob_bar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

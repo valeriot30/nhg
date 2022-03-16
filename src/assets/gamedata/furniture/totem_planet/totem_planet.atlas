@@ -1,0 +1,538 @@
+
+totem_planet.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+totem_planet_totem_planet_64_a_0_0.png
+  rotate: false
+  xy: 1209, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_1.png
+  rotate: false
+  xy: 665, 63
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_10.png
+  rotate: false
+  xy: 1614, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_11.png
+  rotate: false
+  xy: 1706, 106
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_12.png
+  rotate: false
+  xy: 1659, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_13.png
+  rotate: false
+  xy: 1299, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_14.png
+  rotate: false
+  xy: 1344, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_15.png
+  rotate: false
+  xy: 1389, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_16.png
+  rotate: false
+  xy: 1434, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_17.png
+  rotate: false
+  xy: 1479, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_18.png
+  rotate: false
+  xy: 1524, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_19.png
+  rotate: false
+  xy: 1569, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_2.png
+  rotate: false
+  xy: 867, 64
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_20.png
+  rotate: false
+  xy: 1931, 106
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_21.png
+  rotate: false
+  xy: 1886, 106
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_22.png
+  rotate: false
+  xy: 1841, 106
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_23.png
+  rotate: false
+  xy: 1796, 106
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_24.png
+  rotate: false
+  xy: 1751, 106
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_25.png
+  rotate: false
+  xy: 967, 63
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_26.png
+  rotate: false
+  xy: 917, 64
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_27.png
+  rotate: false
+  xy: 614, 63
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_28.png
+  rotate: false
+  xy: 563, 63
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_29.png
+  rotate: false
+  xy: 816, 64
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_3.png
+  rotate: false
+  xy: 381, 2
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_30.png
+  rotate: false
+  xy: 1017, 63
+  size: 47, 49
+  orig: 47, 49
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_31.png
+  rotate: false
+  xy: 512, 63
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_32.png
+  rotate: false
+  xy: 461, 63
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_4.png
+  rotate: false
+  xy: 715, 63
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_5.png
+  rotate: false
+  xy: 1066, 66
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_6.png
+  rotate: false
+  xy: 1116, 64
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_7.png
+  rotate: false
+  xy: 332, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_8.png
+  rotate: false
+  xy: 765, 64
+  size: 49, 48
+  orig: 49, 48
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_a_0_9.png
+  rotate: false
+  xy: 1254, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_b_0_0.png
+  rotate: false
+  xy: 399, 58
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_b_0_1.png
+  rotate: false
+  xy: 332, 51
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_0.png
+  rotate: false
+  xy: 1138, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_1.png
+  rotate: false
+  xy: 1280, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_10.png
+  rotate: false
+  xy: 2, 9
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_11.png
+  rotate: false
+  xy: 112, 9
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_12.png
+  rotate: false
+  xy: 1706, 151
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_13.png
+  rotate: false
+  xy: 1816, 151
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_14.png
+  rotate: false
+  xy: 2, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_15.png
+  rotate: false
+  xy: 144, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_16.png
+  rotate: false
+  xy: 286, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_17.png
+  rotate: false
+  xy: 428, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_2.png
+  rotate: false
+  xy: 1422, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_3.png
+  rotate: false
+  xy: 1564, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_4.png
+  rotate: false
+  xy: 570, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_5.png
+  rotate: false
+  xy: 712, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_6.png
+  rotate: false
+  xy: 854, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_7.png
+  rotate: false
+  xy: 996, 114
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_8.png
+  rotate: false
+  xy: 222, 9
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_c_0_9.png
+  rotate: false
+  xy: 1926, 151
+  size: 108, 103
+  orig: 108, 103
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_1.png
+  rotate: false
+  xy: 609, 20
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_10.png
+  rotate: false
+  xy: 1976, 106
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_11.png
+  rotate: false
+  xy: 1164, 69
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_12.png
+  rotate: false
+  xy: 1704, 61
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_13.png
+  rotate: false
+  xy: 1748, 61
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_14.png
+  rotate: false
+  xy: 1832, 61
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_15.png
+  rotate: false
+  xy: 1912, 61
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_16.png
+  rotate: false
+  xy: 1982, 61
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_17.png
+  rotate: false
+  xy: 480, 18
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_18.png
+  rotate: false
+  xy: 2013, 61
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_19.png
+  rotate: false
+  xy: 459, 13
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_2.png
+  rotate: false
+  xy: 549, 18
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_20.png
+  rotate: false
+  xy: 2020, 106
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_21.png
+  rotate: false
+  xy: 591, 20
+  size: 16, 41
+  orig: 16, 41
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_3.png
+  rotate: false
+  xy: 570, 18
+  size: 19, 43
+  orig: 19, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_4.png
+  rotate: false
+  xy: 503, 18
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_5.png
+  rotate: false
+  xy: 526, 18
+  size: 21, 43
+  orig: 21, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_6.png
+  rotate: false
+  xy: 428, 13
+  size: 29, 43
+  orig: 29, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_7.png
+  rotate: false
+  xy: 1947, 61
+  size: 33, 43
+  orig: 33, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_8.png
+  rotate: false
+  xy: 1872, 61
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_64_d_0_9.png
+  rotate: false
+  xy: 1790, 61
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+totem_planet_totem_planet_icon_a.png
+  rotate: false
+  xy: 627, 39
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+hween12_dartboard.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween12_dartboard_hween12_dartboard_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 74, 66
+  orig: 74, 66
+  offset: 0, 0
+  index: -1
+hween12_dartboard_hween12_dartboard_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

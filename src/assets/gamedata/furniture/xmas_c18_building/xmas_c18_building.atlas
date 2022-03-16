@@ -1,0 +1,111 @@
+
+xmas_c18_building.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_building_xmas_c18_building_64_a_2_0.png
+  rotate: false
+  xy: 603, 52
+  size: 33, 185
+  orig: 33, 185
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_a_2_1.png
+  rotate: false
+  xy: 531, 52
+  size: 34, 185
+  orig: 34, 185
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_a_4_0.png
+  rotate: false
+  xy: 638, 52
+  size: 33, 185
+  orig: 33, 185
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_a_4_1.png
+  rotate: false
+  xy: 567, 52
+  size: 34, 185
+  orig: 34, 185
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_b_2_0.png
+  rotate: false
+  xy: 270, 37
+  size: 65, 200
+  orig: 65, 200
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_b_2_1.png
+  rotate: false
+  xy: 466, 41
+  size: 63, 196
+  orig: 63, 196
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_b_4_0.png
+  rotate: false
+  xy: 337, 37
+  size: 62, 200
+  orig: 62, 200
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_b_4_1.png
+  rotate: false
+  xy: 401, 41
+  size: 63, 196
+  orig: 63, 196
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_c_2_0.png
+  rotate: false
+  xy: 203, 35
+  size: 65, 202
+  orig: 65, 202
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_c_2_1.png
+  rotate: false
+  xy: 69, 34
+  size: 65, 203
+  orig: 65, 203
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_c_4_0.png
+  rotate: false
+  xy: 136, 35
+  size: 65, 202
+  orig: 65, 202
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_c_4_1.png
+  rotate: false
+  xy: 2, 34
+  size: 65, 203
+  orig: 65, 203
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_sd_2_0.png
+  rotate: false
+  xy: 673, 186
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_64_sd_4_0.png
+  rotate: false
+  xy: 673, 133
+  size: 97, 51
+  orig: 97, 51
+  offset: 0, 0
+  index: -1
+xmas_c18_building_xmas_c18_building_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

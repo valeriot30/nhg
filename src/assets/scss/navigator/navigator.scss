@@ -1,0 +1,348 @@
+@import './createRoom.scss';
+
+#navigator {
+    position: fixed;
+    min-height: 535px;
+    width: 425px;
+    background-color: #F1EEE7;
+    border-radius: 16px;
+    box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.35);
+    left: 20vw;
+    top: 10vh;
+    overflow: hidden;
+    pointer-events: all !important;
+    /*padding: 4px;*/
+
+    .footer {
+      width: calc(100% - 40px);
+      text-align:center;
+      margin: 0 auto;
+      padding-bottom: 20px;
+      
+      .navigatorBtn {
+      outline:none;
+      padding: 10px;
+      border-radius: 8px;
+      width: 48%;
+      box-shadow: 1px #000;
+      border: 0px;
+      cursor:pointer;
+      }
+      .newRoom {
+      
+      background: linear-gradient(180deg,#639EBF 50%,#057199 50%);
+      border: 2px solid#057199;
+      color: #eeeeee;
+      }
+     .randomRoom {
+      background: linear-gradient(180deg, #22CD48 50%, #079847 50%);
+      border: 2px solid#079847;
+      color: #eeeeee;
+      }
+    }
+
+    .content {
+        width: calc(100% - 50px);
+        margin: 0 auto;
+        height: auto;
+      
+        .searchContainer {
+          margin-top: 10px;
+          
+          img {
+            width: 8%;
+            position:absolute;
+            display: inline-block;
+          }
+          .searchInput {
+          width: 88%;
+          float: right;
+          outline:none;
+          border:none;
+          margin-top: -1px;
+          background-color: #D5D5D5;
+          border-radius: 12px;
+          height: 35px;
+          padding: 5px;
+          pointer-events: all !important;
+          
+          }
+        }
+      }
+  
+    .titleBar {
+      width: 100%;
+      height: 26px;
+      padding: 10px 25px;
+      padding-bottom: 25px;
+      position: relative;     
+  
+      .titleBarBg {
+        width: 100%;
+        height: 100%;
+        display: flex;
+        margin: 0;
+        padding: 0;
+        align-items: center;
+        flex-direction: column;
+  
+        .title {
+          font-family: 'Quicksand', sans-serif;
+          font-size: 16px;
+          font-weight: bold;
+          color: #272727;
+          padding-left: 6px;
+          padding-right: 6px;
+        }
+      }
+  
+      .closeIcon {
+        position: absolute;
+        right: 20px;
+        top: 6px;
+        color:  #272727;
+        width: 13px;
+        height: 13px;
+        cursor: pointer;
+        font-family: 'Quicksand', sans-serif;
+        font-size: 20px;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+    }
+  
+    .roomContainer {
+      position: relative;
+      margin-top: 0px;
+      width: 100%;
+      height: calc(100% - 26px);
+  
+      .roomContainerBg {
+        $margin: 8px;
+        border-radius: 12px;
+        margin: $margin;
+        width: calc(100% - #{$margin} * 2);
+        height: calc(100% - #{$margin} * 2);
+  
+        .navigatorTabs {
+          margin-top: 5px;
+          /* margin-left: 6px; */
+          margin-right: 5px;
+          padding: 10px;
+          display: flex;
+          width: calc(100% - 5px * 2);
+          width: 100%;
+          justify-items: center;
+          align-items: center;
+          justify-content: center;
+  
+          .tab {
+            text-align: center;
+            padding: 4px 19px;
+            background-color: #D5D5D5;
+            color: #333;
+            font-family: 'Ubuntu', sans-serif;
+            font-size: 16px;
+            min-height: 20px;
+            border-radius: 12px;
+  
+            &.active {
+              background-color: #fff;
+              border-bottom: 1px solid #fff;
+            }
+          }
+        }
+  
+        .roomsListContainer {
+          margin-top: -1px;
+          margin-left: 5px;
+          margin-right: 5px;
+  
+          display: flex;
+          width: calc(100% - 5px * 2);
+          height: 363px;
+  
+          border-radius: 4px;
+          overflow-y: auto;
+  
+          .easyRoomsListUl {
+            width: 100%;
+            margin-top: 5px;
+            display: flex;
+            flex-direction: column;
+            overflow-y: scroll;
+  
+            .roomLi {
+              font-size: 16px;
+              width: 100%;
+              outline: none;
+              border: none;
+              background-color: #D5D5D5;
+              border-radius: 12px;
+              padding: 5px;
+              width: 100%;
+              color: #272727;
+              margin: 0 auto;
+              margin-bottom: 6px;
+              display: flex;
+              cursor: pointer;
+
+  
+              &:hover {
+                background: #C9F1F7;
+              }
+  
+              .title {
+                width: 70%;
+                text-align: left;
+                margin: auto 0;
+                overflow: hidden;
+                color: #000;
+                font-family: 'Ubuntu', sans-serif;
+                font-size: 16px;
+                font-weight: 400;
+                font-stretch: 100%;
+                font-style: normal;
+              }
+  
+              .icons_container {
+                display: flex;
+                width: 30%;
+                justify-content: flex-end;
+                font-family: Volter;
+                font-size: 9px;
+  
+                .usersNowRoom {
+                  font: inherit;
+                  text-align: right;
+                  color: #fff;
+                  width: 34px;
+                  height: 13px;
+                  border: none;
+                  background: none;
+                  margin: auto 0 auto 2px;
+                  line-height: 13px;
+                  padding: 1px 6px;
+                  background-image: url("~@/assets/images/navigator/icon_g.png");
+  
+                  &.greenIcon {
+                    background-image: url("~@/assets/images/navigator/icon_g.png");
+                  }
+  
+                  &.navigatorRoomFull {
+                    background-image: url("~@/assets/images/navigator/icon_r.png");
+                  }
+                }
+              }
+            }
+          }
+  
+          .roomsListUl {
+            width: 100%;
+  
+            .roomLi {
+              width: 100%;
+              padding: 4px;
+  
+              &:hover {
+                background-color: darken(#fff, 10%);
+              }
+  
+              & > div {
+                display: flex;
+                padding-bottom: 4px;
+  
+                .roomInfoPreview {
+                  flex-grow: 0;
+                  display: flex;
+                  flex-direction: column;
+  
+                  .roomPreview {
+                    width: 80px;
+                    overflow: hidden;
+                    border-top-left-radius: 8px;
+                    border-top-right-radius: 8px;
+                  }
+  
+                  .usersNowRoom {
+                    font-family: Volter;
+                    text-align: center;
+                    color: #fff;
+                    border-bottom-left-radius: 8px;
+                    border-bottom-right-radius: 8px;
+                    background-color: #008149;
+                    margin-top: -10px;
+  
+                    &.navigatorRoomFull {
+                      background-color: #d3004d;
+                    }
+                  }
+                }
+  
+                .roomInfo {
+                  flex-grow: 1;
+                  padding: 4px;
+  
+                  .title {
+                    font-weight: 700;
+                  }
+  
+                  p {
+                    font-size: small;
+                    font-style: italic;
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  
+    .createRoomContainer {
+      background-color: #cbcbcb;
+      border: 1px solid #979797;
+      border-radius: 4px;
+      height: 27px;
+      width: calc(100% - 10px);
+      margin-top: 5px;
+      margin-left: 5px;
+      display: flex;
+  
+      .info {
+        display: flex;
+        margin: auto auto auto 5px;
+  
+        img {
+          margin: auto 10px;
+        }
+  
+        span {
+          color: #000;
+          margin: auto 10px;
+          font-family: Volter;
+          font-size: 9px;
+        }
+      }
+  
+      button {
+        margin: auto 10px auto auto;
+        background: #fff;
+        border: 1px solid #000;
+        height: 20px;
+        padding: 0 8px;
+        border-radius: 3px;
+        font: inherit;
+        font-family: Volter;
+        font-size: 9px;
+        font-weight: 400;
+        cursor: pointer;
+  
+        &:hover {
+          background-color: #cbcbcb;
+        }
+      }
+    }
+  }

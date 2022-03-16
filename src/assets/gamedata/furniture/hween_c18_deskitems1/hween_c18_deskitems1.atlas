@@ -1,0 +1,34 @@
+
+hween_c18_deskitems1.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_deskitems1_hween_c18_deskitems1_64_a_0_0.png
+  rotate: false
+  xy: 35, 24
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1
+hween_c18_deskitems1_hween_c18_deskitems1_64_a_0_1.png
+  rotate: false
+  xy: 72, 31
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+hween_c18_deskitems1_hween_c18_deskitems1_64_a_0_2.png
+  rotate: false
+  xy: 2, 17
+  size: 31, 40
+  orig: 31, 40
+  offset: 0, 0
+  index: -1
+hween_c18_deskitems1_hween_c18_deskitems1_icon_a.png
+  rotate: false
+  xy: 72, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

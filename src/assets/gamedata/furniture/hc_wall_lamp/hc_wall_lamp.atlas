@@ -1,0 +1,62 @@
+
+hc_wall_lamp.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_wall_lamp_hc_wall_lamp_64_a_2_1.png
+  rotate: false
+  xy: 128, 43
+  size: 47, 80
+  orig: 47, 80
+  offset: 0, 0
+  index: -1
+hc_wall_lamp_hc_wall_lamp_64_b_2_1.png
+  rotate: false
+  xy: 177, 82
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+hc_wall_lamp_hc_wall_lamp_64_c_2_0.png
+  rotate: false
+  xy: 33, 5
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+hc_wall_lamp_hc_wall_lamp_64_c_2_1.png
+  rotate: false
+  xy: 208, 101
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+hc_wall_lamp_hc_wall_lamp_64_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1
+hc_wall_lamp_hc_wall_lamp_64_d_2_1.png
+  rotate: false
+  xy: 65, 26
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+hc_wall_lamp_hc_wall_lamp_64_d_2_2.png
+  rotate: false
+  xy: 2, 26
+  size: 61, 97
+  orig: 61, 97
+  offset: 0, 0
+  index: -1
+hc_wall_lamp_hc_wall_lamp_icon_a.png
+  rotate: false
+  xy: 177, 51
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1

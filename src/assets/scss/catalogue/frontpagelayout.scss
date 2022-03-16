@@ -1,0 +1,33 @@
+.cataloguePage.frontpage {
+    //overflow-y: auto !important;
+    
+    .cards-list {
+      padding: 10px;
+    }
+  
+    .card {
+      box-sizing: content-box;
+      margin-bottom: 20px;
+      box-shadow: 0 0 20px 0 #666;
+      border-radius: 10px;
+      overflow: hidden;
+      position: relative;
+      background: #fff;
+    }
+  
+    .card-header {
+      padding: 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      height: 300px;
+      color: #fff;
+      background-position: center;
+      background-size: cover;
+    }
+  
+    .card-header>.head-title>h1 {
+      margin-bottom: 10px;
+    }
+  }
+  

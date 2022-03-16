@@ -1,0 +1,48 @@
+
+triplecandle.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+triplecandle_triplecandle_64_a_0_0.png
+  rotate: false
+  xy: 51, 8
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+triplecandle_triplecandle_64_b_0_1.png
+  rotate: false
+  xy: 84, 40
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+triplecandle_triplecandle_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+triplecandle_triplecandle_64_c_0_1.png
+  rotate: false
+  xy: 2, 21
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+triplecandle_triplecandle_64_sd_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+triplecandle_triplecandle_icon_a.png
+  rotate: false
+  xy: 111, 33
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1

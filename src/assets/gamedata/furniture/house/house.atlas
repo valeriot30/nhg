@@ -1,0 +1,27 @@
+
+house.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+house_house_64_a_0_0.png
+  rotate: false
+  xy: 2, 3
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+house_house_64_sd_0_0.png
+  rotate: false
+  xy: 44, 27
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+house_house_icon_a.png
+  rotate: false
+  xy: 44, 2
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1

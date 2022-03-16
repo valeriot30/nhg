@@ -1,0 +1,153 @@
+
+wildwest_snake.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_snake_wildwest_snake_32_a_4_5.png
+  rotate: false
+  xy: 965, 39
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_0.png
+  rotate: false
+  xy: 921, 34
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_1.png
+  rotate: false
+  xy: 693, 34
+  size: 48, 26
+  orig: 48, 26
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_10.png
+  rotate: false
+  xy: 555, 25
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_11.png
+  rotate: false
+  xy: 510, 25
+  size: 43, 35
+  orig: 43, 35
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_12.png
+  rotate: false
+  xy: 416, 25
+  size: 44, 35
+  orig: 44, 35
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_13.png
+  rotate: false
+  xy: 316, 25
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_14.png
+  rotate: false
+  xy: 598, 25
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_15.png
+  rotate: false
+  xy: 203, 27
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_16.png
+  rotate: false
+  xy: 70, 27
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_17.png
+  rotate: false
+  xy: 2, 24
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_18.png
+  rotate: false
+  xy: 138, 27
+  size: 63, 33
+  orig: 63, 33
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_19.png
+  rotate: false
+  xy: 366, 23
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_2.png
+  rotate: false
+  xy: 641, 34
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_3.png
+  rotate: false
+  xy: 743, 32
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_4.png
+  rotate: false
+  xy: 878, 27
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_5.png
+  rotate: false
+  xy: 835, 26
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_7.png
+  rotate: false
+  xy: 792, 26
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_8.png
+  rotate: false
+  xy: 462, 27
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_a_4_9.png
+  rotate: false
+  xy: 265, 25
+  size: 49, 35
+  orig: 49, 35
+  offset: 0, 0
+  index: -1
+wildwest_snake_wildwest_snake_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1

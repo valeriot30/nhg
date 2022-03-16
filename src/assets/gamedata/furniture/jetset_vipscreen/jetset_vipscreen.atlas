@@ -1,0 +1,160 @@
+
+jetset_vipscreen.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jetset_vipscreen_jetset_vipscreen_32_d_0_0.png
+  rotate: false
+  xy: 756, 63
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_32_d_0_0.png
+  rotate: false
+  xy: 788, 117
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_a_0_0.png
+  rotate: false
+  xy: 406, 3
+  size: 34, 115
+  orig: 34, 115
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_a_0_2.png
+  rotate: false
+  xy: 514, 3
+  size: 34, 115
+  orig: 34, 115
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_a_0_3.png
+  rotate: false
+  xy: 550, 3
+  size: 34, 115
+  orig: 34, 115
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_a_0_4.png
+  rotate: false
+  xy: 442, 3
+  size: 34, 115
+  orig: 34, 115
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_a_0_5.png
+  rotate: false
+  xy: 478, 3
+  size: 34, 115
+  orig: 34, 115
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_b_0_1.png
+  rotate: false
+  xy: 654, 2
+  size: 32, 116
+  orig: 32, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_b_0_2.png
+  rotate: false
+  xy: 620, 2
+  size: 32, 116
+  orig: 32, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_b_0_3.png
+  rotate: false
+  xy: 722, 2
+  size: 32, 116
+  orig: 32, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_b_0_4.png
+  rotate: false
+  xy: 688, 2
+  size: 32, 116
+  orig: 32, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_b_0_5.png
+  rotate: false
+  xy: 586, 2
+  size: 32, 116
+  orig: 32, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_c_0_0.png
+  rotate: false
+  xy: 292, 2
+  size: 36, 116
+  orig: 36, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_c_0_1.png
+  rotate: false
+  xy: 254, 2
+  size: 36, 116
+  orig: 36, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_c_0_2.png
+  rotate: false
+  xy: 368, 2
+  size: 36, 116
+  orig: 36, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_c_0_3.png
+  rotate: false
+  xy: 330, 2
+  size: 36, 116
+  orig: 36, 116
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_d_0_1.png
+  rotate: false
+  xy: 756, 66
+  size: 30, 52
+  orig: 30, 52
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_g_0_1.png
+  rotate: false
+  xy: 2, 35
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_g_0_2.png
+  rotate: false
+  xy: 187, 53
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_g_0_3.png
+  rotate: false
+  xy: 2, 14
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_64_sd_0_0.png
+  rotate: false
+  xy: 87, 68
+  size: 98, 50
+  orig: 98, 50
+  offset: 0, 0
+  index: -1
+jetset_vipscreen_jetset_vipscreen_icon_a.png
+  rotate: false
+  xy: 87, 38
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1

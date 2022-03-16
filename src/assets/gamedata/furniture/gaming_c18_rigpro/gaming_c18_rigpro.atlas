@@ -1,0 +1,41 @@
+
+gaming_c18_rigpro.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gaming_c18_rigpro_gaming_c18_rigpro_64_a_2_0.png
+  rotate: false
+  xy: 130, 58
+  size: 67, 63
+  orig: 67, 63
+  offset: 0, 0
+  index: -1
+gaming_c18_rigpro_gaming_c18_rigpro_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 58, 52
+  orig: 58, 52
+  offset: 0, 0
+  index: -1
+gaming_c18_rigpro_gaming_c18_rigpro_64_c_2_0.png
+  rotate: false
+  xy: 199, 55
+  size: 61, 66
+  orig: 61, 66
+  offset: 0, 0
+  index: -1
+gaming_c18_rigpro_gaming_c18_rigpro_64_sd_2_0.png
+  rotate: false
+  xy: 2, 56
+  size: 126, 65
+  orig: 126, 65
+  offset: 0, 0
+  index: -1
+gaming_c18_rigpro_gaming_c18_rigpro_icon_a.png
+  rotate: false
+  xy: 262, 98
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

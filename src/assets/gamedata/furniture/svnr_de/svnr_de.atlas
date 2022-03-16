@@ -1,0 +1,76 @@
+
+svnr_de.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+svnr_de_svnr_de_64_a_0_0.png
+  rotate: false
+  xy: 2, 48
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+svnr_de_svnr_de_64_b_0_0.png
+  rotate: false
+  xy: 55, 115
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+svnr_de_svnr_de_64_b_0_1.png
+  rotate: false
+  xy: 34, 2
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+svnr_de_svnr_de_64_b_0_2.png
+  rotate: false
+  xy: 41, 53
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+svnr_de_svnr_de_64_b_0_3.png
+  rotate: false
+  xy: 41, 77
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+svnr_de_svnr_de_64_b_0_4.png
+  rotate: false
+  xy: 20, 22
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+svnr_de_svnr_de_64_b_0_5.png
+  rotate: false
+  xy: 41, 102
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+svnr_de_svnr_de_64_b_0_6.png
+  rotate: false
+  xy: 34, 25
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+svnr_de_svnr_de_64_b_0_7.png
+  rotate: false
+  xy: 49, 31
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+svnr_de_svnr_de_icon_a.png
+  rotate: false
+  xy: 2, 18
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1

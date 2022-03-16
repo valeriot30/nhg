@@ -1,0 +1,27 @@
+
+diner_poster.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diner_poster_diner_poster_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 116
+  orig: 68, 116
+  offset: 0, 0
+  index: -1
+diner_poster_diner_poster_64_b_2_0.png
+  rotate: false
+  xy: 72, 50
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+diner_poster_diner_poster_icon_a.png
+  rotate: false
+  xy: 72, 18
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+clothing_snowman.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_snowman_clothing_snowman_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 30, 69
+  orig: 30, 69
+  offset: 0, 0
+  index: -1
+clothing_snowman_clothing_snowman_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

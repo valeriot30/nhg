@@ -1,0 +1,181 @@
+
+test_spacerent.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+test_spacerent_test_spacerent_64_a_0_0.png
+  rotate: false
+  xy: 946, 35
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_a_0_1.png
+  rotate: false
+  xy: 390, 79
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_b_0_0.png
+  rotate: false
+  xy: 778, 54
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_b_0_1.png
+  rotate: false
+  xy: 796, 24
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_c_0_0.png
+  rotate: false
+  xy: 648, 54
+  size: 128, 20
+  orig: 128, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_c_0_1.png
+  rotate: false
+  xy: 1910, 98
+  size: 136, 28
+  orig: 136, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_d_0_0.png
+  rotate: false
+  xy: 528, 2
+  size: 192, 20
+  orig: 192, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_d_0_1.png
+  rotate: false
+  xy: 594, 24
+  size: 200, 28
+  orig: 200, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_e_0_0.png
+  rotate: false
+  xy: 390, 54
+  size: 256, 20
+  orig: 256, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_e_0_1.png
+  rotate: false
+  xy: 1644, 98
+  size: 264, 28
+  orig: 264, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_f_0_0.png
+  rotate: false
+  xy: 1054, 106
+  size: 320, 20
+  orig: 320, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_f_0_1.png
+  rotate: false
+  xy: 2, 14
+  size: 328, 28
+  orig: 328, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_g_0_0.png
+  rotate: false
+  xy: 2, 44
+  size: 386, 36
+  orig: 386, 36
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_g_0_1.png
+  rotate: false
+  xy: 2, 82
+  size: 394, 44
+  orig: 394, 44
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_h_0_0.png
+  rotate: false
+  xy: 730, 106
+  size: 322, 20
+  orig: 322, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_h_0_1.png
+  rotate: false
+  xy: 398, 98
+  size: 330, 28
+  orig: 330, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_i_0_0.png
+  rotate: false
+  xy: 398, 76
+  size: 258, 20
+  orig: 258, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_i_0_1.png
+  rotate: false
+  xy: 1376, 98
+  size: 266, 28
+  orig: 266, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_j_0_0.png
+  rotate: false
+  xy: 332, 2
+  size: 194, 20
+  orig: 194, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_j_0_1.png
+  rotate: false
+  xy: 390, 24
+  size: 202, 28
+  orig: 202, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_k_0_0.png
+  rotate: false
+  xy: 722, 2
+  size: 130, 20
+  orig: 130, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_k_0_1.png
+  rotate: false
+  xy: 730, 76
+  size: 138, 28
+  orig: 138, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_l_0_0.png
+  rotate: false
+  xy: 658, 76
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_64_l_0_1.png
+  rotate: false
+  xy: 870, 76
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+test_spacerent_test_spacerent_icon_a.png
+  rotate: false
+  xy: 995, 77
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

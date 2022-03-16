@@ -1,0 +1,41 @@
+
+band_c19_drums.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+band_c19_drums_band_c19_drums_64_a_4_0.png
+  rotate: false
+  xy: 82, 2
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+band_c19_drums_band_c19_drums_64_b_4_0.png
+  rotate: false
+  xy: 2, 45
+  size: 78, 77
+  orig: 78, 77
+  offset: 0, 0
+  index: -1
+band_c19_drums_band_c19_drums_64_c_4_0.png
+  rotate: false
+  xy: 192, 27
+  size: 55, 95
+  orig: 55, 95
+  offset: 0, 0
+  index: -1
+band_c19_drums_band_c19_drums_64_sd_4_0.png
+  rotate: false
+  xy: 82, 88
+  size: 108, 34
+  orig: 108, 34
+  offset: 0, 0
+  index: -1
+band_c19_drums_band_c19_drums_icon_a.png
+  rotate: false
+  xy: 2, 14
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

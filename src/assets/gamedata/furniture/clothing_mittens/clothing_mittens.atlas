@@ -1,0 +1,20 @@
+
+clothing_mittens.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_mittens_clothing_mittens_64_a_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+clothing_mittens_clothing_mittens_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

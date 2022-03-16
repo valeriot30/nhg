@@ -1,0 +1,55 @@
+
+byesw_loadscreen.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+byesw_loadscreen_byesw_loadscreen_64_a_2_0.png
+  rotate: false
+  xy: 110, 2
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+byesw_loadscreen_byesw_loadscreen_64_a_2_1.png
+  rotate: false
+  xy: 110, 144
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+byesw_loadscreen_byesw_loadscreen_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+byesw_loadscreen_byesw_loadscreen_64_a_4_0.png
+  rotate: false
+  xy: 2, 144
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+byesw_loadscreen_byesw_loadscreen_64_a_4_1.png
+  rotate: false
+  xy: 2, 286
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+byesw_loadscreen_byesw_loadscreen_64_a_4_2.png
+  rotate: false
+  xy: 110, 286
+  size: 106, 140
+  orig: 106, 140
+  offset: 0, 0
+  index: -1
+byesw_loadscreen_byesw_loadscreen_icon_a.png
+  rotate: false
+  xy: 218, 393
+  size: 25, 33
+  orig: 25, 33
+  offset: 0, 0
+  index: -1

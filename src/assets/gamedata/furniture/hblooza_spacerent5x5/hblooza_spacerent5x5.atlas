@@ -1,0 +1,153 @@
+
+hblooza_spacerent5x5.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza_spacerent5x5_hblooza_spacerent5x5_32_a_0_1.png
+  rotate: false
+  xy: 326, 79
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_a_0_0.png
+  rotate: false
+  xy: 856, 27
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_b_0_0.png
+  rotate: false
+  xy: 688, 10
+  size: 64, 20
+  orig: 64, 20
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_b_0_1.png
+  rotate: false
+  xy: 482, 2
+  size: 72, 28
+  orig: 72, 28
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_c_0_0.png
+  rotate: false
+  xy: 726, 54
+  size: 128, 20
+  orig: 128, 20
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_c_0_1.png
+  rotate: false
+  xy: 268, 2
+  size: 136, 28
+  orig: 136, 28
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_d_0_0.png
+  rotate: false
+  xy: 530, 32
+  size: 192, 20
+  orig: 192, 20
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_d_0_1.png
+  rotate: false
+  xy: 602, 76
+  size: 200, 28
+  orig: 200, 28
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_e_0_0.png
+  rotate: false
+  xy: 334, 76
+  size: 256, 20
+  orig: 256, 20
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_e_0_1.png
+  rotate: false
+  xy: 2, 14
+  size: 264, 28
+  orig: 264, 28
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_f_0_0.png
+  rotate: false
+  xy: 2, 44
+  size: 322, 36
+  orig: 322, 36
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_f_0_1.png
+  rotate: false
+  xy: 2, 82
+  size: 330, 44
+  orig: 330, 44
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_g_0_0.png
+  rotate: false
+  xy: 602, 106
+  size: 258, 20
+  orig: 258, 20
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_g_0_1.png
+  rotate: false
+  xy: 334, 98
+  size: 266, 28
+  orig: 266, 28
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_h_0_0.png
+  rotate: false
+  xy: 530, 54
+  size: 194, 20
+  orig: 194, 20
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_h_0_1.png
+  rotate: false
+  xy: 326, 46
+  size: 202, 28
+  orig: 202, 28
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_i_0_0.png
+  rotate: false
+  xy: 556, 10
+  size: 130, 20
+  orig: 130, 20
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_i_0_1.png
+  rotate: false
+  xy: 862, 98
+  size: 138, 28
+  orig: 138, 28
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_j_0_0.png
+  rotate: false
+  xy: 724, 32
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_64_j_0_1.png
+  rotate: false
+  xy: 406, 2
+  size: 74, 28
+  orig: 74, 28
+  offset: 0, 0
+  index: -1
+hblooza_spacerent5x5_hblooza_spacerent5x5_icon_a.png
+  rotate: false
+  xy: 905, 69
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

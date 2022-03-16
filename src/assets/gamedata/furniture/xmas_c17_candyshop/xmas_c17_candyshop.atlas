@@ -1,0 +1,104 @@
+
+xmas_c17_candyshop.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_candyshop_xmas_c17_candyshop_64_a_0_0.png
+  rotate: false
+  xy: 69, 80
+  size: 65, 173
+  orig: 65, 173
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_a_2_0.png
+  rotate: false
+  xy: 2, 80
+  size: 65, 173
+  orig: 65, 173
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_b_0_0.png
+  rotate: false
+  xy: 136, 95
+  size: 70, 158
+  orig: 70, 158
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_b_2_0.png
+  rotate: false
+  xy: 208, 95
+  size: 70, 158
+  orig: 70, 158
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_c_0_0.png
+  rotate: false
+  xy: 280, 95
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_c_0_1.png
+  rotate: false
+  xy: 424, 187
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_c_2_1.png
+  rotate: false
+  xy: 424, 119
+  size: 60, 66
+  orig: 60, 66
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_d_0_1.png
+  rotate: false
+  xy: 352, 98
+  size: 70, 155
+  orig: 70, 155
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_d_2_1.png
+  rotate: false
+  xy: 280, 98
+  size: 70, 155
+  orig: 70, 155
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_e_0_0.png
+  rotate: false
+  xy: 136, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_e_2_0.png
+  rotate: false
+  xy: 229, 2
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_sd_0_0.png
+  rotate: false
+  xy: 322, 56
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_64_sd_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+xmas_c17_candyshop_xmas_c17_candyshop_icon_a.png
+  rotate: false
+  xy: 486, 223
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

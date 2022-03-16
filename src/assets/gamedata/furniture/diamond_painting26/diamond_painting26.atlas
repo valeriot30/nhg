@@ -1,0 +1,20 @@
+
+diamond_painting26.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diamond_painting26_diamond_painting26_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 104, 153
+  orig: 104, 153
+  offset: 0, 0
+  index: -1
+diamond_painting26_diamond_painting26_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

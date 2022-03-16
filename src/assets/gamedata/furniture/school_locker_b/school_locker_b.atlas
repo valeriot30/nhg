@@ -1,0 +1,55 @@
+
+school_locker_b.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+school_locker_b_school_locker_b_64_a_4_0.png
+  rotate: false
+  xy: 70, 37
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+school_locker_b_school_locker_b_64_a_4_1.png
+  rotate: false
+  xy: 256, 67
+  size: 60, 114
+  orig: 60, 114
+  offset: 0, 0
+  index: -1
+school_locker_b_school_locker_b_64_b_4_0.png
+  rotate: false
+  xy: 132, 40
+  size: 60, 141
+  orig: 60, 141
+  offset: 0, 0
+  index: -1
+school_locker_b_school_locker_b_64_b_4_1.png
+  rotate: false
+  xy: 70, 40
+  size: 60, 141
+  orig: 60, 141
+  offset: 0, 0
+  index: -1
+school_locker_b_school_locker_b_64_c_4_1.png
+  rotate: false
+  xy: 2, 34
+  size: 66, 147
+  orig: 66, 147
+  offset: 0, 0
+  index: -1
+school_locker_b_school_locker_b_64_sd_4_0.png
+  rotate: false
+  xy: 194, 40
+  size: 60, 141
+  orig: 60, 141
+  offset: 0, 0
+  index: -1
+school_locker_b_school_locker_b_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

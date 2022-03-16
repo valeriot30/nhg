@@ -1,0 +1,125 @@
+
+classic2_corner.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic2_corner_classic2_corner_64_a_0_0.png
+  rotate: false
+  xy: 2, 125
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_a_0_1.png
+  rotate: false
+  xy: 58, 213
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_a_2_0.png
+  rotate: false
+  xy: 41, 76
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_a_2_1.png
+  rotate: false
+  xy: 41, 27
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_a_4_0.png
+  rotate: false
+  xy: 2, 168
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_a_4_1.png
+  rotate: false
+  xy: 2, 212
+  size: 54, 42
+  orig: 54, 42
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_a_6_0.png
+  rotate: false
+  xy: 2, 27
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_a_6_1.png
+  rotate: false
+  xy: 2, 76
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_b_0_0.png
+  rotate: false
+  xy: 58, 179
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_b_2_0.png
+  rotate: false
+  xy: 80, 116
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_b_4_0.png
+  rotate: false
+  xy: 112, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_b_6_0.png
+  rotate: false
+  xy: 80, 100
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_sd_0_0.png
+  rotate: false
+  xy: 58, 159
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_sd_2_0.png
+  rotate: false
+  xy: 92, 132
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_sd_4_0.png
+  rotate: false
+  xy: 33, 6
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_64_sd_6_0.png
+  rotate: false
+  xy: 56, 132
+  size: 34, 25
+  orig: 34, 25
+  offset: 0, 0
+  index: -1
+classic2_corner_classic2_corner_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1

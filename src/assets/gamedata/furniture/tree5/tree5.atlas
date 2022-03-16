@@ -1,0 +1,41 @@
+
+tree5.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tree5_tree5_64_a_0_0.png
+  rotate: false
+  xy: 2, 115
+  size: 60, 136
+  orig: 60, 136
+  offset: 0, 0
+  index: -1
+tree5_tree5_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tree5_tree5_64_b_0_1.png
+  rotate: false
+  xy: 2, 5
+  size: 76, 108
+  orig: 76, 108
+  offset: 0, 0
+  index: -1
+tree5_tree5_64_sd_0_0.png
+  rotate: false
+  xy: 64, 233
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+tree5_tree5_icon_a.png
+  rotate: false
+  xy: 64, 201
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

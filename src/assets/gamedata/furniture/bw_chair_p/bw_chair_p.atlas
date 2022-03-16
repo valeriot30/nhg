@@ -1,0 +1,41 @@
+
+bw_chair_p.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bw_chair_p_bw_chair_p_64_a_2_0.png
+  rotate: false
+  xy: 2, 25
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+bw_chair_p_bw_chair_p_64_b_2_0.png
+  rotate: false
+  xy: 71, 50
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+bw_chair_p_bw_chair_p_64_c_2_0.png
+  rotate: false
+  xy: 71, 90
+  size: 67, 18
+  orig: 67, 18
+  offset: 0, 0
+  index: -1
+bw_chair_p_bw_chair_p_64_c_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 21
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+bw_chair_p_bw_chair_p_icon_a.png
+  rotate: false
+  xy: 110, 58
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

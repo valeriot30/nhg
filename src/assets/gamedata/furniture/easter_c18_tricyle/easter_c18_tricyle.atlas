@@ -1,0 +1,48 @@
+
+easter_c18_tricyle.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c18_tricyle_easter_c18_tricyle_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+easter_c18_tricyle_easter_c18_tricyle_64_a_6_0.png
+  rotate: false
+  xy: 2, 53
+  size: 63, 72
+  orig: 63, 72
+  offset: 0, 0
+  index: -1
+easter_c18_tricyle_easter_c18_tricyle_64_b_4_0.png
+  rotate: false
+  xy: 67, 95
+  size: 35, 30
+  orig: 35, 30
+  offset: 0, 0
+  index: -1
+easter_c18_tricyle_easter_c18_tricyle_64_b_6_0.png
+  rotate: false
+  xy: 104, 114
+  size: 16, 11
+  orig: 16, 11
+  offset: 0, 0
+  index: -1
+easter_c18_tricyle_easter_c18_tricyle_64_sd_4_0.png
+  rotate: false
+  xy: 70, 49
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+easter_c18_tricyle_easter_c18_tricyle_icon_a.png
+  rotate: false
+  xy: 67, 68
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

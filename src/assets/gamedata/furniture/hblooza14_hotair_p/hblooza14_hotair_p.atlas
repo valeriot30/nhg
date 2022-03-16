@@ -1,0 +1,62 @@
+
+hblooza14_hotair_p.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_hotair_p_hblooza14_hotair_p_64_a_0_0.png
+  rotate: false
+  xy: 2, 189
+  size: 204, 365
+  orig: 204, 365
+  offset: 0, 0
+  index: -1
+hblooza14_hotair_p_hblooza14_hotair_p_64_b_0_0.png
+  rotate: false
+  xy: 2, 37
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+hblooza14_hotair_p_hblooza14_hotair_p_64_c_0_0.png
+  rotate: false
+  xy: 208, 520
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hblooza14_hotair_p_hblooza14_hotair_p_64_c_0_1.png
+  rotate: false
+  xy: 56, 31
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+hblooza14_hotair_p_hblooza14_hotair_p_64_c_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+hblooza14_hotair_p_hblooza14_hotair_p_64_c_0_3.png
+  rotate: false
+  xy: 104, 183
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+hblooza14_hotair_p_hblooza14_hotair_p_64_sd_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+hblooza14_hotair_p_hblooza14_hotair_p_icon_a.png
+  rotate: false
+  xy: 208, 523
+  size: 23, 31
+  orig: 23, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+joulutahti_notrd.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+joulutahti_notrd_joulutahti_notrd_64_a_2_0.png
+  rotate: false
+  xy: 36, 2
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+joulutahti_notrd_joulutahti_notrd_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+joulutahti_notrd_joulutahti_notrd_64_sd_0_0.png
+  rotate: false
+  xy: 91, 37
+  size: 21, 14
+  orig: 21, 14
+  offset: 0, 0
+  index: -1
+joulutahti_notrd_joulutahti_notrd_icon_a.png
+  rotate: false
+  xy: 70, 22
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1

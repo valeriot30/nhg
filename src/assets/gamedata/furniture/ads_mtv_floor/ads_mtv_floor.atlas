@@ -1,0 +1,27 @@
+
+ads_mtv_floor.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_mtv_floor_ads_mtv_floor_64_a_2_0.png
+  rotate: false
+  xy: 2, 28
+  size: 436, 210
+  orig: 436, 210
+  offset: 0, 0
+  index: -1
+ads_mtv_floor_ads_mtv_floor_64_a_4_0.png
+  rotate: false
+  xy: 440, 18
+  size: 415, 220
+  orig: 415, 220
+  offset: 0, 0
+  index: -1
+ads_mtv_floor_ads_mtv_floor_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+bathroom_wall4.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bathroom_wall4_bathroom_wall4_64_a_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 67, 200
+  orig: 67, 200
+  offset: 0, 0
+  index: -1
+bathroom_wall4_bathroom_wall4_64_a_4_0.png
+  rotate: false
+  xy: 2, 238
+  size: 67, 200
+  orig: 67, 200
+  offset: 0, 0
+  index: -1
+bathroom_wall4_bathroom_wall4_64_b_2_0.png
+  rotate: false
+  xy: 71, 271
+  size: 2, 167
+  orig: 2, 167
+  offset: 0, 0
+  index: -1
+bathroom_wall4_bathroom_wall4_64_b_4_0.png
+  rotate: false
+  xy: 71, 102
+  size: 2, 167
+  orig: 2, 167
+  offset: 0, 0
+  index: -1
+bathroom_wall4_bathroom_wall4_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1

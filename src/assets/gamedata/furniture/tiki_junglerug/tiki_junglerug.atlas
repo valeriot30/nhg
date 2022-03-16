@@ -1,0 +1,69 @@
+
+tiki_junglerug.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiki_junglerug_tiki_junglerug_64_a_0_0.png
+  rotate: false
+  xy: 158, 44
+  size: 71, 30
+  orig: 71, 30
+  offset: 0, 0
+  index: -1
+tiki_junglerug_tiki_junglerug_64_a_2_0.png
+  rotate: false
+  xy: 156, 120
+  size: 74, 48
+  orig: 74, 48
+  offset: 0, 0
+  index: -1
+tiki_junglerug_tiki_junglerug_64_b_0_0.png
+  rotate: false
+  xy: 2, 42
+  size: 154, 53
+  orig: 154, 53
+  offset: 0, 0
+  index: -1
+tiki_junglerug_tiki_junglerug_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 154, 38
+  orig: 154, 38
+  offset: 0, 0
+  index: -1
+tiki_junglerug_tiki_junglerug_64_c_0_0.png
+  rotate: false
+  xy: 2, 97
+  size: 152, 68
+  orig: 152, 68
+  offset: 0, 0
+  index: -1
+tiki_junglerug_tiki_junglerug_64_c_2_0.png
+  rotate: false
+  xy: 2, 167
+  size: 152, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+tiki_junglerug_tiki_junglerug_64_d_0_0.png
+  rotate: false
+  xy: 156, 170
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+tiki_junglerug_tiki_junglerug_64_d_2_0.png
+  rotate: false
+  xy: 158, 76
+  size: 79, 42
+  orig: 79, 42
+  offset: 0, 0
+  index: -1
+tiki_junglerug_tiki_junglerug_icon_a.png
+  rotate: false
+  xy: 158, 21
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

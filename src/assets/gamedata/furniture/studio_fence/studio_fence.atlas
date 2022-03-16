@@ -1,0 +1,34 @@
+
+studio_fence.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+studio_fence_studio_fence_64_a_0_0.png
+  rotate: false
+  xy: 105, 9
+  size: 35, 53
+  orig: 35, 53
+  offset: 0, 0
+  index: -1
+studio_fence_studio_fence_64_b_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 39, 54
+  orig: 39, 54
+  offset: 0, 0
+  index: -1
+studio_fence_studio_fence_64_sd_0_0.png
+  rotate: false
+  xy: 43, 31
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+studio_fence_studio_fence_icon_a.png
+  rotate: false
+  xy: 43, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1

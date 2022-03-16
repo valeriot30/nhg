@@ -1,0 +1,76 @@
+
+olympics_c16_merchdisplay.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_64_a_4_0.png
+  rotate: false
+  xy: 132, 61
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_64_a_4_1.png
+  rotate: false
+  xy: 192, 153
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_64_a_4_2.png
+  rotate: false
+  xy: 132, 153
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_64_a_4_3.png
+  rotate: false
+  xy: 189, 61
+  size: 55, 90
+  orig: 55, 90
+  offset: 0, 0
+  index: -1
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_64_b_4_0.png
+  rotate: false
+  xy: 67, 39
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_64_b_4_1.png
+  rotate: false
+  xy: 2, 39
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_64_b_4_2.png
+  rotate: false
+  xy: 67, 142
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_64_b_4_3.png
+  rotate: false
+  xy: 2, 142
+  size: 63, 101
+  orig: 63, 101
+  offset: 0, 0
+  index: -1
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+olympics_c16_merchdisplay_olympics_c16_merchdisplay_icon_a.png
+  rotate: false
+  xy: 74, 9
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

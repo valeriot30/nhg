@@ -1,0 +1,34 @@
+
+hween10_zombie.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween10_zombie_hween10_zombie_64_a_2_0.png
+  rotate: false
+  xy: 2, 56
+  size: 46, 90
+  orig: 46, 90
+  offset: 0, 0
+  index: -1
+hween10_zombie_hween10_zombie_64_a_2_1.png
+  rotate: false
+  xy: 2, 148
+  size: 46, 90
+  orig: 46, 90
+  offset: 0, 0
+  index: -1
+hween10_zombie_hween10_zombie_64_sd_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+hween10_zombie_hween10_zombie_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 32
+  orig: 17, 32
+  offset: 0, 0
+  index: -1

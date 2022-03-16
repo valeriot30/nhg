@@ -1,0 +1,153 @@
+
+cmp_sub.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cmp_sub_cmp_sub_64_a_0_0.png
+  rotate: false
+  xy: 549, 101
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_a_2_0.png
+  rotate: false
+  xy: 279, 32
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_b_0_0.png
+  rotate: false
+  xy: 286, 85
+  size: 63, 162
+  orig: 63, 162
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_b_2_0.png
+  rotate: false
+  xy: 221, 85
+  size: 63, 162
+  orig: 63, 162
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_c_0_0.png
+  rotate: false
+  xy: 808, 180
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_c_2_0.png
+  rotate: false
+  xy: 763, 180
+  size: 43, 67
+  orig: 43, 67
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_d_0_0.png
+  rotate: false
+  xy: 491, 154
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_d_2_0.png
+  rotate: false
+  xy: 562, 154
+  size: 69, 93
+  orig: 69, 93
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_e_0_0.png
+  rotate: false
+  xy: 421, 92
+  size: 68, 155
+  orig: 68, 155
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_e_2_0.png
+  rotate: false
+  xy: 351, 92
+  size: 68, 155
+  orig: 68, 155
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_f_0_0.png
+  rotate: false
+  xy: 633, 185
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_f_2_0.png
+  rotate: false
+  xy: 698, 185
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_g_0_0.png
+  rotate: false
+  xy: 491, 101
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_g_2_0.png
+  rotate: false
+  xy: 221, 32
+  size: 56, 51
+  orig: 56, 51
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_h_2_0.png
+  rotate: false
+  xy: 977, 210
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_h_2_1.png
+  rotate: false
+  xy: 893, 196
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_h_2_2.png
+  rotate: false
+  xy: 853, 196
+  size: 38, 51
+  orig: 38, 51
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_h_2_3.png
+  rotate: false
+  xy: 933, 210
+  size: 42, 37
+  orig: 42, 37
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_sd_0_0.png
+  rotate: false
+  xy: 2, 137
+  size: 217, 110
+  orig: 217, 110
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_64_sd_2_0.png
+  rotate: false
+  xy: 2, 25
+  size: 217, 110
+  orig: 217, 110
+  offset: 0, 0
+  index: -1
+cmp_sub_cmp_sub_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

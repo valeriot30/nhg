@@ -1,0 +1,27 @@
+
+clothing_r17_daveycrockett.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r17_daveycrockett_clothing_r17_daveycrockett_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+clothing_r17_daveycrockett_clothing_r17_daveycrockett_64_sd_0_0.png
+  rotate: false
+  xy: 41, 10
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+clothing_r17_daveycrockett_clothing_r17_daveycrockett_icon_a.png
+  rotate: false
+  xy: 41, 25
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

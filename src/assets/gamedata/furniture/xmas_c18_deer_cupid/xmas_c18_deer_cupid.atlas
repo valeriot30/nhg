@@ -1,0 +1,27 @@
+
+xmas_c18_deer_cupid.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_deer_cupid_xmas_c18_deer_cupid_64_a_4_0.png
+  rotate: false
+  xy: 2, 57
+  size: 56, 64
+  orig: 56, 64
+  offset: 0, 0
+  index: -1
+xmas_c18_deer_cupid_xmas_c18_deer_cupid_64_sd_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+xmas_c18_deer_cupid_xmas_c18_deer_cupid_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

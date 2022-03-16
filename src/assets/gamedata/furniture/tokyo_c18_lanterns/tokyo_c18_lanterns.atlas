@@ -1,0 +1,69 @@
+
+tokyo_c18_lanterns.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_lanterns_tokyo_c18_lanterns_64_a_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+tokyo_c18_lanterns_tokyo_c18_lanterns_64_a_4_0.png
+  rotate: false
+  xy: 110, 32
+  size: 106, 94
+  orig: 106, 94
+  offset: 0, 0
+  index: -1
+tokyo_c18_lanterns_tokyo_c18_lanterns_64_b_2_0.png
+  rotate: false
+  xy: 456, 74
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+tokyo_c18_lanterns_tokyo_c18_lanterns_64_b_4_0.png
+  rotate: false
+  xy: 543, 74
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+tokyo_c18_lanterns_tokyo_c18_lanterns_64_c_2_0.png
+  rotate: false
+  xy: 218, 44
+  size: 117, 82
+  orig: 117, 82
+  offset: 0, 0
+  index: -1
+tokyo_c18_lanterns_tokyo_c18_lanterns_64_c_4_0.png
+  rotate: false
+  xy: 337, 44
+  size: 117, 82
+  orig: 117, 82
+  offset: 0, 0
+  index: -1
+tokyo_c18_lanterns_tokyo_c18_lanterns_64_sd_2_0.png
+  rotate: false
+  xy: 719, 83
+  size: 87, 43
+  orig: 87, 43
+  offset: 0, 0
+  index: -1
+tokyo_c18_lanterns_tokyo_c18_lanterns_64_sd_4_0.png
+  rotate: false
+  xy: 630, 83
+  size: 87, 43
+  orig: 87, 43
+  offset: 0, 0
+  index: -1
+tokyo_c18_lanterns_tokyo_c18_lanterns_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 28
+  orig: 26, 28
+  offset: 0, 0
+  index: -1

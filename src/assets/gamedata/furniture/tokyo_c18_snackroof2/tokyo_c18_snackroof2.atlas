@@ -1,0 +1,76 @@
+
+tokyo_c18_snackroof2.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_64_a_0_0.png
+  rotate: false
+  xy: 448, 161
+  size: 36, 83
+  orig: 36, 83
+  offset: 0, 0
+  index: -1
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_64_a_2_0.png
+  rotate: false
+  xy: 410, 161
+  size: 36, 83
+  orig: 36, 83
+  offset: 0, 0
+  index: -1
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_64_b_0_0.png
+  rotate: false
+  xy: 308, 131
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_64_b_2_0.png
+  rotate: false
+  xy: 359, 131
+  size: 49, 113
+  orig: 49, 113
+  offset: 0, 0
+  index: -1
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_64_c_0_0.png
+  rotate: false
+  xy: 156, 103
+  size: 74, 141
+  orig: 74, 141
+  offset: 0, 0
+  index: -1
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_64_c_2_0.png
+  rotate: false
+  xy: 232, 103
+  size: 74, 141
+  orig: 74, 141
+  offset: 0, 0
+  index: -1
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_64_d_0_0.png
+  rotate: false
+  xy: 79, 89
+  size: 75, 155
+  orig: 75, 155
+  offset: 0, 0
+  index: -1
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_64_d_2_0.png
+  rotate: false
+  xy: 2, 89
+  size: 75, 155
+  orig: 75, 155
+  offset: 0, 0
+  index: -1
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 104, 53
+  orig: 104, 53
+  offset: 0, 0
+  index: -1
+tokyo_c18_snackroof2_tokyo_c18_snackroof2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

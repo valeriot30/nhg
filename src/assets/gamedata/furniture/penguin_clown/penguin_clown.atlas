@@ -1,0 +1,76 @@
+
+penguin_clown.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_clown_penguin_clown_64_a_4_0.png
+  rotate: false
+  xy: 2, 52
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+penguin_clown_penguin_clown_64_a_4_1.png
+  rotate: false
+  xy: 84, 184
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+penguin_clown_penguin_clown_64_a_4_2.png
+  rotate: false
+  xy: 45, 183
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+penguin_clown_penguin_clown_64_a_4_3.png
+  rotate: false
+  xy: 45, 117
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+penguin_clown_penguin_clown_64_a_4_4.png
+  rotate: false
+  xy: 40, 51
+  size: 36, 64
+  orig: 36, 64
+  offset: 0, 0
+  index: -1
+penguin_clown_penguin_clown_64_a_4_5.png
+  rotate: false
+  xy: 78, 53
+  size: 36, 62
+  orig: 36, 62
+  offset: 0, 0
+  index: -1
+penguin_clown_penguin_clown_64_a_4_6.png
+  rotate: false
+  xy: 2, 184
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+penguin_clown_penguin_clown_64_a_4_7.png
+  rotate: false
+  xy: 2, 118
+  size: 41, 64
+  orig: 41, 64
+  offset: 0, 0
+  index: -1
+penguin_clown_penguin_clown_64_sd_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+penguin_clown_penguin_clown_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

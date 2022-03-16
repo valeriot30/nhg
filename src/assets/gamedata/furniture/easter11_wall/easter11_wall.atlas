@@ -1,0 +1,20 @@
+
+easter11_wall.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter11_wall_easter11_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 99, 230
+  orig: 99, 230
+  offset: 0, 0
+  index: -1
+easter11_wall_easter11_wall_icon_a.png
+  rotate: false
+  xy: 103, 200
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1

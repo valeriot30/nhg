@@ -1,0 +1,83 @@
+
+lc_tubes_straight.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lc_tubes_straight_lc_tubes_straight_64_a_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 52, 54
+  orig: 52, 54
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_64_b_0_0.png
+  rotate: false
+  xy: 136, 42
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_64_b_0_2.png
+  rotate: false
+  xy: 87, 16
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_64_b_0_3.png
+  rotate: false
+  xy: 230, 49
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_64_b_0_5.png
+  rotate: false
+  xy: 207, 49
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_64_b_0_6.png
+  rotate: false
+  xy: 87, 2
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_64_b_0_7.png
+  rotate: false
+  xy: 184, 46
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_64_b_0_9.png
+  rotate: false
+  xy: 160, 46
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_64_c_0_0.png
+  rotate: false
+  xy: 56, 9
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_64_sd_0_0.png
+  rotate: false
+  xy: 56, 38
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+lc_tubes_straight_lc_tubes_straight_icon_a.png
+  rotate: false
+  xy: 107, 34
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+gift_bff_b.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gift_bff_b_gift_bff_b_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+gift_bff_b_gift_bff_b_64_sd_4_0.png
+  rotate: false
+  xy: 26, 21
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1

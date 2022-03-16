@@ -1,0 +1,27 @@
+
+carnival15_wallmask.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+carnival15_wallmask_carnival15_wallmask_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+carnival15_wallmask_carnival15_wallmask_64_sd_4_0.png
+  rotate: false
+  xy: 38, 10
+  size: 30, 40
+  orig: 30, 40
+  offset: 0, 0
+  index: -1
+carnival15_wallmask_carnival15_wallmask_icon_a.png
+  rotate: false
+  xy: 70, 21
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

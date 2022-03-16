@@ -1,0 +1,104 @@
+
+tokyo_c18_scarydino.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_a_0_0.png
+  rotate: false
+  xy: 662, 81
+  size: 12, 105
+  orig: 12, 105
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_a_0_1.png
+  rotate: false
+  xy: 676, 81
+  size: 12, 105
+  orig: 12, 105
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_a_0_2.png
+  rotate: false
+  xy: 648, 81
+  size: 12, 105
+  orig: 12, 105
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_a_0_3.png
+  rotate: false
+  xy: 621, 80
+  size: 12, 106
+  orig: 12, 106
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_a_0_4.png
+  rotate: false
+  xy: 635, 80
+  size: 11, 106
+  orig: 11, 106
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_a_0_5.png
+  rotate: false
+  xy: 690, 79
+  size: 10, 107
+  orig: 10, 107
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_a_0_6.png
+  rotate: false
+  xy: 610, 76
+  size: 9, 110
+  orig: 9, 110
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_a_0_7.png
+  rotate: false
+  xy: 702, 79
+  size: 9, 107
+  orig: 9, 107
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_b_0_4.png
+  rotate: false
+  xy: 462, 30
+  size: 146, 156
+  orig: 146, 156
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_b_0_5.png
+  rotate: false
+  xy: 310, 31
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_b_0_6.png
+  rotate: false
+  xy: 2, 33
+  size: 154, 153
+  orig: 154, 153
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_b_0_7.png
+  rotate: false
+  xy: 158, 31
+  size: 150, 155
+  orig: 150, 155
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+tokyo_c18_scarydino_tokyo_c18_scarydino_icon_a.png
+  rotate: false
+  xy: 713, 156
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

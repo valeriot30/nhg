@@ -1,0 +1,41 @@
+
+hween12_grabby.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween12_grabby_hween12_grabby_64_a_2_0.png
+  rotate: false
+  xy: 2, 75
+  size: 75, 153
+  orig: 75, 153
+  offset: 0, 0
+  index: -1
+hween12_grabby_hween12_grabby_64_b_2_0.png
+  rotate: false
+  xy: 79, 192
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+hween12_grabby_hween12_grabby_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 36
+  orig: 19, 36
+  offset: 0, 0
+  index: -1
+hween12_grabby_hween12_grabby_64_sd_2_0.png
+  rotate: false
+  xy: 2, 40
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+hween12_grabby_hween12_grabby_icon_a.png
+  rotate: false
+  xy: 100, 198
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+penguin_frank.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_frank_penguin_frank_64_a_4_0.png
+  rotate: false
+  xy: 44, 107
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+penguin_frank_penguin_frank_64_a_4_1.png
+  rotate: false
+  xy: 81, 109
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+penguin_frank_penguin_frank_64_a_4_2.png
+  rotate: false
+  xy: 45, 182
+  size: 38, 69
+  orig: 38, 69
+  offset: 0, 0
+  index: -1
+penguin_frank_penguin_frank_64_a_4_3.png
+  rotate: false
+  xy: 39, 34
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+penguin_frank_penguin_frank_64_a_4_4.png
+  rotate: false
+  xy: 2, 34
+  size: 35, 71
+  orig: 35, 71
+  offset: 0, 0
+  index: -1
+penguin_frank_penguin_frank_64_a_4_5.png
+  rotate: false
+  xy: 85, 182
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+penguin_frank_penguin_frank_64_a_4_6.png
+  rotate: false
+  xy: 2, 180
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+penguin_frank_penguin_frank_64_a_4_7.png
+  rotate: false
+  xy: 2, 107
+  size: 40, 71
+  orig: 40, 71
+  offset: 0, 0
+  index: -1
+penguin_frank_penguin_frank_64_sd_4_0.png
+  rotate: false
+  xy: 24, 16
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+penguin_frank_penguin_frank_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

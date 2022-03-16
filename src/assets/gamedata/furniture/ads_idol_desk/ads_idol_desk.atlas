@@ -1,0 +1,76 @@
+
+ads_idol_desk.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_idol_desk_ads_idol_desk_64_a_0_0.png
+  rotate: false
+  xy: 167, 58
+  size: 66, 64
+  orig: 66, 64
+  offset: 0, 0
+  index: -1
+ads_idol_desk_ads_idol_desk_64_b_0_0.png
+  rotate: false
+  xy: 309, 73
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+ads_idol_desk_ads_idol_desk_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 35
+  orig: 68, 35
+  offset: 0, 0
+  index: -1
+ads_idol_desk_ads_idol_desk_64_d_0_0.png
+  rotate: false
+  xy: 235, 65
+  size: 72, 57
+  orig: 72, 57
+  offset: 0, 0
+  index: -1
+ads_idol_desk_ads_idol_desk_64_e_0_0.png
+  rotate: false
+  xy: 167, 25
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+ads_idol_desk_ads_idol_desk_64_f_0_0.png
+  rotate: false
+  xy: 379, 89
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+ads_idol_desk_ads_idol_desk_64_g_0_0.png
+  rotate: false
+  xy: 447, 91
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+ads_idol_desk_ads_idol_desk_64_h_0_0.png
+  rotate: false
+  xy: 72, 5
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+ads_idol_desk_ads_idol_desk_64_sd_0_0.png
+  rotate: false
+  xy: 2, 39
+  size: 163, 83
+  orig: 163, 83
+  offset: 0, 0
+  index: -1
+ads_idol_desk_ads_idol_desk_icon_a.png
+  rotate: false
+  xy: 379, 67
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+bling11_seat2.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bling11_seat2_bling11_seat2_64_a_2_0.png
+  rotate: false
+  xy: 2, 152
+  size: 44, 79
+  orig: 44, 79
+  offset: 0, 0
+  index: -1
+bling11_seat2_bling11_seat2_64_a_6_0.png
+  rotate: false
+  xy: 2, 54
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+bling11_seat2_bling11_seat2_64_b_2_0.png
+  rotate: false
+  xy: 48, 184
+  size: 13, 47
+  orig: 13, 47
+  offset: 0, 0
+  index: -1
+bling11_seat2_bling11_seat2_64_b_6_0.png
+  rotate: false
+  xy: 2, 97
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+bling11_seat2_bling11_seat2_64_sd_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+bling11_seat2_bling11_seat2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+easter_c18_glassbrickwall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c18_glassbrickwall_easter_c18_glassbrickwall_64_a_0_0.png
+  rotate: false
+  xy: 107, 33
+  size: 47, 190
+  orig: 47, 190
+  offset: 0, 0
+  index: -1
+easter_c18_glassbrickwall_easter_c18_glassbrickwall_64_a_6_0.png
+  rotate: false
+  xy: 156, 32
+  size: 47, 191
+  orig: 47, 191
+  offset: 0, 0
+  index: -1
+easter_c18_glassbrickwall_easter_c18_glassbrickwall_64_b_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 51, 189
+  orig: 51, 189
+  offset: 0, 0
+  index: -1
+easter_c18_glassbrickwall_easter_c18_glassbrickwall_64_b_6_0.png
+  rotate: false
+  xy: 55, 34
+  size: 50, 189
+  orig: 50, 189
+  offset: 0, 0
+  index: -1
+easter_c18_glassbrickwall_easter_c18_glassbrickwall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

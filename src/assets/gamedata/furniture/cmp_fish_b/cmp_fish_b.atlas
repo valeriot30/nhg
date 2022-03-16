@@ -1,0 +1,48 @@
+
+cmp_fish_b.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cmp_fish_b_cmp_fish_b_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 117
+  orig: 65, 117
+  offset: 0, 0
+  index: -1
+cmp_fish_b_cmp_fish_b_64_b_4_0.png
+  rotate: false
+  xy: 69, 79
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+cmp_fish_b_cmp_fish_b_64_c_4_1.png
+  rotate: false
+  xy: 69, 23
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+cmp_fish_b_cmp_fish_b_64_c_4_2.png
+  rotate: false
+  xy: 131, 34
+  size: 31, 53
+  orig: 31, 53
+  offset: 0, 0
+  index: -1
+cmp_fish_b_cmp_fish_b_64_c_4_3.png
+  rotate: false
+  xy: 103, 24
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+cmp_fish_b_cmp_fish_b_icon_a.png
+  rotate: false
+  xy: 129, 89
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+xmas_light.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_light_xmas_light_64_a_2_0.png
+  rotate: false
+  xy: 162, 26
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+xmas_light_xmas_light_64_a_2_1.png
+  rotate: false
+  xy: 125, 26
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+xmas_light_xmas_light_64_a_2_2.png
+  rotate: false
+  xy: 88, 26
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+xmas_light_xmas_light_64_b_2_0.png
+  rotate: false
+  xy: 88, 23
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_light_xmas_light_64_b_2_1.png
+  rotate: false
+  xy: 45, 21
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+xmas_light_xmas_light_64_b_2_2.png
+  rotate: false
+  xy: 2, 21
+  size: 41, 39
+  orig: 41, 39
+  offset: 0, 0
+  index: -1
+xmas_light_xmas_light_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1

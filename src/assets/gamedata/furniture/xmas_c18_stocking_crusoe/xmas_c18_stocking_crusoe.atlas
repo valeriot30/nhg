@@ -1,0 +1,41 @@
+
+xmas_c18_stocking_crusoe.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_stocking_crusoe_xmas_c18_stocking_crusoe_64_a_0_0.png
+  rotate: false
+  xy: 2, 117
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_crusoe_xmas_c18_stocking_crusoe_64_a_0_1.png
+  rotate: false
+  xy: 2, 50
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_crusoe_xmas_c18_stocking_crusoe_64_a_0_2.png
+  rotate: false
+  xy: 2, 184
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_crusoe_xmas_c18_stocking_crusoe_64_sd_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_crusoe_xmas_c18_stocking_crusoe_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1

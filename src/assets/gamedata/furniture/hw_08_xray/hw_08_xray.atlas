@@ -1,0 +1,62 @@
+
+hw_08_xray.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hw_08_xray_hw_08_xray_64_a_2_0.png
+  rotate: false
+  xy: 209, 21
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+hw_08_xray_hw_08_xray_64_a_2_1.png
+  rotate: false
+  xy: 281, 21
+  size: 70, 87
+  orig: 70, 87
+  offset: 0, 0
+  index: -1
+hw_08_xray_hw_08_xray_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hw_08_xray_hw_08_xray_64_b_2_1.png
+  rotate: false
+  xy: 2, 5
+  size: 106, 103
+  orig: 106, 103
+  offset: 0, 0
+  index: -1
+hw_08_xray_hw_08_xray_64_b_2_2.png
+  rotate: false
+  xy: 110, 9
+  size: 97, 99
+  orig: 97, 99
+  offset: 0, 0
+  index: -1
+hw_08_xray_hw_08_xray_64_c_2_0.png
+  rotate: false
+  xy: 110, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hw_08_xray_hw_08_xray_64_c_2_1.png
+  rotate: false
+  xy: 353, 47
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+hw_08_xray_hw_08_xray_icon_a.png
+  rotate: false
+  xy: 412, 79
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

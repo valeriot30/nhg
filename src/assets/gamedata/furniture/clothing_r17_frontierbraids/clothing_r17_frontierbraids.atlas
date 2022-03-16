@@ -1,0 +1,20 @@
+
+clothing_r17_frontierbraids.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r17_frontierbraids_clothing_r17_frontierbraids_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 47
+  orig: 28, 47
+  offset: 0, 0
+  index: -1
+clothing_r17_frontierbraids_clothing_r17_frontierbraids_icon_a.png
+  rotate: false
+  xy: 32, 20
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

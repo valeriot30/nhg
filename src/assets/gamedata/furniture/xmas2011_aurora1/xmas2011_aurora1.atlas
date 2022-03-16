@@ -1,0 +1,181 @@
+
+xmas2011_aurora1.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas2011_aurora1_xmas2011_aurora1_64_a_0_0.png
+  rotate: false
+  xy: 894, 180
+  size: 197, 140
+  orig: 197, 140
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_a_0_1.png
+  rotate: false
+  xy: 215, 34
+  size: 177, 137
+  orig: 177, 137
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_a_0_2.png
+  rotate: false
+  xy: 664, 79
+  size: 165, 136
+  orig: 165, 136
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_a_0_3.png
+  rotate: false
+  xy: 831, 30
+  size: 152, 148
+  orig: 152, 148
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_a_0_4.png
+  rotate: false
+  xy: 1873, 340
+  size: 157, 163
+  orig: 157, 163
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_a_0_5.png
+  rotate: false
+  xy: 1274, 181
+  size: 184, 165
+  orig: 184, 165
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_a_0_6.png
+  rotate: false
+  xy: 1655, 201
+  size: 195, 145
+  orig: 195, 145
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_a_0_7.png
+  rotate: false
+  xy: 2, 2
+  size: 202, 127
+  orig: 202, 127
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_0.png
+  rotate: false
+  xy: 440, 345
+  size: 222, 158
+  orig: 222, 158
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_1.png
+  rotate: false
+  xy: 1266, 348
+  size: 204, 155
+  orig: 204, 155
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_10.png
+  rotate: false
+  xy: 1678, 348
+  size: 193, 155
+  orig: 193, 155
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_11.png
+  rotate: false
+  xy: 1093, 151
+  size: 179, 169
+  orig: 179, 169
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_12.png
+  rotate: false
+  xy: 894, 322
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_13.png
+  rotate: false
+  xy: 2, 318
+  size: 211, 185
+  orig: 211, 185
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_14.png
+  rotate: false
+  xy: 215, 339
+  size: 223, 164
+  orig: 223, 164
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_15.png
+  rotate: false
+  xy: 664, 217
+  size: 228, 142
+  orig: 228, 142
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_2.png
+  rotate: false
+  xy: 1460, 191
+  size: 193, 155
+  orig: 193, 155
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_3.png
+  rotate: false
+  xy: 1852, 169
+  size: 179, 169
+  orig: 179, 169
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_4.png
+  rotate: false
+  xy: 1080, 322
+  size: 184, 181
+  orig: 184, 181
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_5.png
+  rotate: false
+  xy: 2, 131
+  size: 211, 185
+  orig: 211, 185
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_6.png
+  rotate: false
+  xy: 215, 173
+  size: 223, 164
+  orig: 223, 164
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_7.png
+  rotate: false
+  xy: 664, 361
+  size: 228, 142
+  orig: 228, 142
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_8.png
+  rotate: false
+  xy: 440, 185
+  size: 222, 158
+  orig: 222, 158
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_64_b_0_9.png
+  rotate: false
+  xy: 1472, 348
+  size: 204, 155
+  orig: 204, 155
+  offset: 0, 0
+  index: -1
+xmas2011_aurora1_xmas2011_aurora1_icon_a.png
+  rotate: false
+  xy: 1274, 151
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

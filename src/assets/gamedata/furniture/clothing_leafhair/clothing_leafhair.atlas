@@ -1,0 +1,20 @@
+
+clothing_leafhair.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_leafhair_clothing_leafhair_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+clothing_leafhair_clothing_leafhair_icon_a.png
+  rotate: false
+  xy: 41, 22
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

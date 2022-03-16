@@ -1,0 +1,139 @@
+
+dimmer_fuse6.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dimmer_fuse6_dimmer_fuse6_64_a_2_0.png
+  rotate: false
+  xy: 2, 42
+  size: 24, 76
+  orig: 24, 76
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_0.png
+  rotate: false
+  xy: 30, 36
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_1.png
+  rotate: false
+  xy: 17, 30
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_10.png
+  rotate: false
+  xy: 43, 12
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_11.png
+  rotate: false
+  xy: 17, 6
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_12.png
+  rotate: false
+  xy: 30, 24
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_13.png
+  rotate: false
+  xy: 43, 36
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_14.png
+  rotate: false
+  xy: 43, 24
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_15.png
+  rotate: false
+  xy: 30, 12
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_2.png
+  rotate: false
+  xy: 17, 18
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_3.png
+  rotate: false
+  xy: 50, 96
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_4.png
+  rotate: false
+  xy: 50, 84
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_5.png
+  rotate: false
+  xy: 50, 108
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_6.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_7.png
+  rotate: false
+  xy: 50, 60
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_8.png
+  rotate: false
+  xy: 50, 48
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_b_2_9.png
+  rotate: false
+  xy: 50, 72
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_64_c_2_0.png
+  rotate: false
+  xy: 28, 48
+  size: 20, 70
+  orig: 20, 70
+  offset: 0, 0
+  index: -1
+dimmer_fuse6_dimmer_fuse6_icon_a.png
+  rotate: false
+  xy: 2, 14
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1

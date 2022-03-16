@@ -1,0 +1,27 @@
+
+house2.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+house2_house2_64_a_0_0.png
+  rotate: false
+  xy: 2, 25
+  size: 37, 35
+  orig: 37, 35
+  offset: 0, 0
+  index: -1
+house2_house2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+house2_house2_icon_a.png
+  rotate: false
+  xy: 41, 42
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1

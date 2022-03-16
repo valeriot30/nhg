@@ -1,0 +1,41 @@
+
+easter14_metalfloor.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter14_metalfloor_easter14_metalfloor_64_a_2_0.png
+  rotate: false
+  xy: 266, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+easter14_metalfloor_easter14_metalfloor_64_a_2_1.png
+  rotate: false
+  xy: 134, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+easter14_metalfloor_easter14_metalfloor_64_a_2_2.png
+  rotate: false
+  xy: 2, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+easter14_metalfloor_easter14_metalfloor_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 130, 34
+  orig: 130, 34
+  offset: 0, 0
+  index: -1
+easter14_metalfloor_easter14_metalfloor_icon_a.png
+  rotate: false
+  xy: 398, 87
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1

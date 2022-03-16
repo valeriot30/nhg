@@ -1,0 +1,27 @@
+
+xmas13_block2.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas13_block2_xmas13_block2_64_a_0_0.png
+  rotate: false
+  xy: 2, 37
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+xmas13_block2_xmas13_block2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+xmas13_block2_xmas13_block2_icon_a.png
+  rotate: false
+  xy: 70, 76
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+rare_r19_car1.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_r19_car1_rare_r19_car1_64_a_0_0.png
+  rotate: false
+  xy: 190, 29
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare_r19_car1_rare_r19_car1_64_a_4_0.png
+  rotate: false
+  xy: 465, 84
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+rare_r19_car1_rare_r19_car1_64_b_0_0.png
+  rotate: false
+  xy: 277, 38
+  size: 85, 60
+  orig: 85, 60
+  offset: 0, 0
+  index: -1
+rare_r19_car1_rare_r19_car1_64_b_4_0.png
+  rotate: false
+  xy: 190, 32
+  size: 85, 66
+  orig: 85, 66
+  offset: 0, 0
+  index: -1
+rare_r19_car1_rare_r19_car1_64_c_0_0.png
+  rotate: false
+  xy: 2, 28
+  size: 95, 70
+  orig: 95, 70
+  offset: 0, 0
+  index: -1
+rare_r19_car1_rare_r19_car1_64_c_4_0.png
+  rotate: false
+  xy: 99, 23
+  size: 89, 75
+  orig: 89, 75
+  offset: 0, 0
+  index: -1
+rare_r19_car1_rare_r19_car1_64_d_0_0.png
+  rotate: false
+  xy: 416, 30
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+rare_r19_car1_rare_r19_car1_64_d_4_0.png
+  rotate: false
+  xy: 364, 23
+  size: 50, 75
+  orig: 50, 75
+  offset: 0, 0
+  index: -1
+rare_r19_car1_rare_r19_car1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1

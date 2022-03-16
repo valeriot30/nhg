@@ -1,0 +1,27 @@
+
+table_armas.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+table_armas_table_armas_64_a_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 114, 83
+  orig: 114, 83
+  offset: 0, 0
+  index: -1
+table_armas_table_armas_64_sd_0_0.png
+  rotate: false
+  xy: 118, 54
+  size: 110, 55
+  orig: 110, 55
+  offset: 0, 0
+  index: -1
+table_armas_table_armas_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1

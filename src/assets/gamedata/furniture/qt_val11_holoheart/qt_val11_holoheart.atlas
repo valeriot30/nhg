@@ -1,0 +1,69 @@
+
+qt_val11_holoheart.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+qt_val11_holoheart_qt_val11_holoheart_64_a_0_0.png
+  rotate: false
+  xy: 2, 94
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+qt_val11_holoheart_qt_val11_holoheart_64_a_0_1.png
+  rotate: false
+  xy: 2, 128
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+qt_val11_holoheart_qt_val11_holoheart_64_b_0_0.png
+  rotate: false
+  xy: 30, 60
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_val11_holoheart_qt_val11_holoheart_64_b_0_1.png
+  rotate: false
+  xy: 33, 63
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+qt_val11_holoheart_qt_val11_holoheart_64_b_0_2.png
+  rotate: false
+  xy: 2, 35
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+qt_val11_holoheart_qt_val11_holoheart_64_b_0_3.png
+  rotate: false
+  xy: 2, 2
+  size: 6, 31
+  orig: 6, 31
+  offset: 0, 0
+  index: -1
+qt_val11_holoheart_qt_val11_holoheart_64_b_0_4.png
+  rotate: false
+  xy: 2, 63
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+qt_val11_holoheart_qt_val11_holoheart_64_c_0_1.png
+  rotate: false
+  xy: 2, 162
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+qt_val11_holoheart_qt_val11_holoheart_icon_a.png
+  rotate: false
+  xy: 38, 203
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1

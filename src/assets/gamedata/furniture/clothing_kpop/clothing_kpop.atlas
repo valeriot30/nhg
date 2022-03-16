@@ -1,0 +1,20 @@
+
+clothing_kpop.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_kpop_clothing_kpop_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+clothing_kpop_clothing_kpop_icon_a.png
+  rotate: false
+  xy: 34, 18
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

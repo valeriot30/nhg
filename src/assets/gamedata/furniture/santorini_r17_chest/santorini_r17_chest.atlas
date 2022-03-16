@@ -1,0 +1,118 @@
+
+santorini_r17_chest.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+santorini_r17_chest_santorini_r17_chest_64_a_4_0.png
+  rotate: false
+  xy: 1286, 90
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_0.png
+  rotate: false
+  xy: 1228, 43
+  size: 56, 74
+  orig: 56, 74
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_1.png
+  rotate: false
+  xy: 1161, 34
+  size: 65, 83
+  orig: 65, 83
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_10.png
+  rotate: false
+  xy: 2, 5
+  size: 112, 112
+  orig: 112, 112
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_11.png
+  rotate: false
+  xy: 343, 7
+  size: 111, 110
+  orig: 111, 110
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_12.png
+  rotate: false
+  xy: 456, 6
+  size: 108, 111
+  orig: 108, 111
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_13.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_2.png
+  rotate: false
+  xy: 882, 26
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_3.png
+  rotate: false
+  xy: 1068, 26
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_4.png
+  rotate: false
+  xy: 975, 26
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_5.png
+  rotate: false
+  xy: 782, 19
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_6.png
+  rotate: false
+  xy: 676, 13
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_7.png
+  rotate: false
+  xy: 566, 9
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_8.png
+  rotate: false
+  xy: 230, 6
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_64_b_4_9.png
+  rotate: false
+  xy: 116, 6
+  size: 112, 111
+  orig: 112, 111
+  offset: 0, 0
+  index: -1
+santorini_r17_chest_santorini_r17_chest_icon_a.png
+  rotate: false
+  xy: 1286, 59
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

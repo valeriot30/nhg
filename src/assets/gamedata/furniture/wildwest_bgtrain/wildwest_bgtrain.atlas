@@ -1,0 +1,174 @@
+
+wildwest_bgtrain.png
+size: 4096,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_bgtrain_wildwest_bgtrain_64_a_0_0.png
+  rotate: false
+  xy: 941, 182
+  size: 64, 194
+  orig: 64, 194
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_b_0_0.png
+  rotate: false
+  xy: 811, 117
+  size: 128, 237
+  orig: 128, 237
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_c_0_0.png
+  rotate: false
+  xy: 870, 378
+  size: 192, 258
+  orig: 192, 258
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_d_0_0.png
+  rotate: false
+  xy: 548, 88
+  size: 261, 266
+  orig: 261, 266
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_e_0_0.png
+  rotate: false
+  xy: 548, 356
+  size: 320, 280
+  orig: 320, 280
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_f_0_0.png
+  rotate: false
+  xy: 3700, 724
+  size: 384, 294
+  orig: 384, 294
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_g_0_0.png
+  rotate: false
+  xy: 3250, 724
+  size: 448, 294
+  orig: 448, 294
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_h_0_0.png
+  rotate: false
+  xy: 2747, 752
+  size: 501, 266
+  orig: 501, 266
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_i_0_0.png
+  rotate: false
+  xy: 2, 701
+  size: 575, 317
+  orig: 575, 317
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_j_0_0.png
+  rotate: false
+  xy: 2, 139
+  size: 544, 276
+  orig: 544, 276
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_k_0_0.png
+  rotate: false
+  xy: 2, 417
+  size: 544, 282
+  orig: 544, 282
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_l_0_0.png
+  rotate: false
+  xy: 1671, 752
+  size: 544, 266
+  orig: 544, 266
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_m_0_0.png
+  rotate: false
+  xy: 1125, 744
+  size: 544, 274
+  orig: 544, 274
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_n_0_0.png
+  rotate: false
+  xy: 2217, 741
+  size: 528, 277
+  orig: 528, 277
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_o_0_0.png
+  rotate: false
+  xy: 579, 740
+  size: 544, 278
+  orig: 544, 278
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_p_0_0.png
+  rotate: false
+  xy: 2, 30
+  size: 507, 107
+  orig: 507, 107
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_q_0_0.png
+  rotate: false
+  xy: 579, 638
+  size: 447, 100
+  orig: 447, 100
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_r_0_0.png
+  rotate: false
+  xy: 2747, 649
+  size: 384, 101
+  orig: 384, 101
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_s_0_0.png
+  rotate: false
+  xy: 511, 2
+  size: 307, 84
+  orig: 307, 84
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_t_0_0.png
+  rotate: false
+  xy: 1671, 655
+  size: 232, 95
+  orig: 232, 95
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_u_0_0.png
+  rotate: false
+  xy: 1905, 642
+  size: 193, 108
+  orig: 193, 108
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_v_0_0.png
+  rotate: false
+  xy: 820, 3
+  size: 128, 112
+  orig: 128, 112
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_64_w_0_0.png
+  rotate: false
+  xy: 3133, 693
+  size: 31, 57
+  orig: 31, 57
+  offset: 0, 0
+  index: -1
+wildwest_bgtrain_wildwest_bgtrain_icon_a.png
+  rotate: false
+  xy: 2, 4
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+ads_chups.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_chups_ads_chups_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+ads_chups_ads_chups_64_a_0_1.png
+  rotate: false
+  xy: 55, 2
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+ads_chups_ads_chups_64_a_0_2.png
+  rotate: false
+  xy: 108, 2
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+ads_chups_ads_chups_64_a_0_3.png
+  rotate: false
+  xy: 161, 2
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+ads_chups_ads_chups_64_a_0_4.png
+  rotate: false
+  xy: 214, 2
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+ads_chups_ads_chups_64_a_0_5.png
+  rotate: false
+  xy: 267, 2
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+ads_chups_ads_chups_64_a_0_6.png
+  rotate: false
+  xy: 320, 2
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+ads_chups_ads_chups_64_a_0_7.png
+  rotate: false
+  xy: 373, 2
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1
+ads_chups_ads_chups_64_sd_0_0.png
+  rotate: false
+  xy: 455, 91
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+ads_chups_ads_chups_icon_a.png
+  rotate: false
+  xy: 426, 82
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

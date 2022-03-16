@@ -1,0 +1,27 @@
+
+ads_mpu_160.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_mpu_160_ads_mpu_160_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 172, 123
+  orig: 172, 123
+  offset: 0, 0
+  index: -1
+ads_mpu_160_ads_mpu_160_64_b_4_0.png
+  rotate: false
+  xy: 176, 15
+  size: 160, 110
+  orig: 160, 110
+  offset: 0, 0
+  index: -1
+ads_mpu_160_ads_mpu_160_icon_a.png
+  rotate: false
+  xy: 338, 101
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

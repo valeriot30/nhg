@@ -1,0 +1,20 @@
+
+clothing_tophat.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_tophat_clothing_tophat_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 34, 62
+  orig: 34, 62
+  offset: 0, 0
+  index: -1
+clothing_tophat_clothing_tophat_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

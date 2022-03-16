@@ -1,0 +1,27 @@
+
+coralking_c18_clamshell2.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_clamshell2_coralking_c18_clamshell2_64_a_0_0.png
+  rotate: false
+  xy: 2, 3
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+coralking_c18_clamshell2_coralking_c18_clamshell2_64_sd_0_0.png
+  rotate: false
+  xy: 43, 4
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+coralking_c18_clamshell2_coralking_c18_clamshell2_icon_a.png
+  rotate: false
+  xy: 84, 2
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1

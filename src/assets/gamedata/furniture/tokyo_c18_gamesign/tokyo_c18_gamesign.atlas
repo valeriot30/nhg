@@ -1,0 +1,90 @@
+
+tokyo_c18_gamesign.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_a_2_0.png
+  rotate: false
+  xy: 846, 19
+  size: 146, 107
+  orig: 146, 107
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_b_2_0.png
+  rotate: false
+  xy: 1142, 27
+  size: 138, 99
+  orig: 138, 99
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_b_2_1.png
+  rotate: false
+  xy: 1398, 51
+  size: 110, 75
+  orig: 110, 75
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_b_4_0.png
+  rotate: false
+  xy: 429, 28
+  size: 415, 98
+  orig: 415, 98
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_b_4_1.png
+  rotate: false
+  xy: 1282, 46
+  size: 114, 80
+  orig: 114, 80
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_c_2_0.png
+  rotate: false
+  xy: 994, 19
+  size: 146, 107
+  orig: 146, 107
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_c_2_1.png
+  rotate: false
+  xy: 1621, 57
+  size: 105, 69
+  orig: 105, 69
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_c_4_0.png
+  rotate: false
+  xy: 2, 18
+  size: 425, 108
+  orig: 425, 108
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_c_4_1.png
+  rotate: false
+  xy: 1510, 52
+  size: 109, 74
+  orig: 109, 74
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_sd_2_0.png
+  rotate: false
+  xy: 1842, 70
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_64_sd_4_0.png
+  rotate: false
+  xy: 1728, 70
+  size: 112, 56
+  orig: 112, 56
+  offset: 0, 0
+  index: -1
+tokyo_c18_gamesign_tokyo_c18_gamesign_icon_a.png
+  rotate: false
+  xy: 1142, 2
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+hween10_voodoo2.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween10_voodoo2_hween10_voodoo2_32_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_32_c_0_0.png
+  rotate: false
+  xy: 234, 38
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_a_0_0.png
+  rotate: false
+  xy: 143, 58
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_a_0_1.png
+  rotate: false
+  xy: 98, 58
+  size: 43, 63
+  orig: 43, 63
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_b_0_1.png
+  rotate: false
+  xy: 51, 56
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_b_0_2.png
+  rotate: false
+  xy: 2, 54
+  size: 47, 67
+  orig: 47, 67
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_c_0_1.png
+  rotate: false
+  xy: 36, 19
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_c_0_2.png
+  rotate: false
+  xy: 113, 29
+  size: 24, 27
+  orig: 24, 27
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_c_0_3.png
+  rotate: false
+  xy: 60, 23
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_c_0_4.png
+  rotate: false
+  xy: 2, 5
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_c_0_5.png
+  rotate: false
+  xy: 188, 59
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_c_0_6.png
+  rotate: false
+  xy: 216, 38
+  size: 16, 83
+  orig: 16, 83
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_c_0_7.png
+  rotate: false
+  xy: 234, 41
+  size: 4, 80
+  orig: 4, 80
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_64_sd_0_0.png
+  rotate: false
+  xy: 188, 44
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+hween10_voodoo2_hween10_voodoo2_icon_a.png
+  rotate: false
+  xy: 90, 24
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

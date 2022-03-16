@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+        body {
+            overflow-x: hidden;
+            font-family: 'Ubuntu', sans-serif;
+        }
+        .container {
+            position: absolute;
+            width: 100%;
+            background-color: transparent;
+            z-index: 10000;
+            text-align:center;
+            margin-top: 200px;
+        }
+        .loginContainer {
+            position: relative;
+            display: block;
+            padding: 0 !important;
+            font-size: 1.2rem;
+            outline: 0;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 12px;
+            min-height: 53px;
+            margin-top: 15px;
+            width: 580px;
+            border: 2px solid rgba(0,0,0,.2);
+            box-shadow: 2px 3px 0 rgba(0,0,0,.15);
+            pointer-events: all;
+            z-index: 0;
+            position:relative;
+            display:block;
+        
+        .title {
+            position:fixed;
+            text-align:center;
+            z-index: 200;
+            top: 21%;
+            height: 35px;
+            background-color: #3E3E3E;
+            font-weight: bold;
+            color: #eeeeee;
+            width: 600px;
+            margin-left: -10px;
+            text-align: center;
+            border-radius: 12px;
+            line-height: 1.7;
+        }
+        form {
+            margin-top: 60px;
+        }
+        .content {
+            margin: 0 auto;
+            width: 400px;
+            margin-left: auto;
+            text-align:center;
+            padding-bottom: 20px;
+        }
+        form input {
+            display: block;
+            outline:none;
+            border:none;
+            color: #333;
+            padding: 8px;
+            border-radius: 6px;
+            margin-bottom: 10px;
+            background-color: #E6E6E6;
+            width: 100%;
+        }
+        form button {
+            outline:none;
+            border: none;
+            background-color: #3F87F5;
+            color: #ffffff;
+            padding: 6px 60px;
+            border-bottom: 4px solid #1f6ce0;
+            border-radius: 6px;
+            cursor:pointer;
+        }
+        form button:active {
+            margin-top: 10px;
+        }
+    }

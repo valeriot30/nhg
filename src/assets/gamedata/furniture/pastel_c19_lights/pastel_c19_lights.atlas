@@ -1,0 +1,104 @@
+
+pastel_c19_lights.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastel_c19_lights_pastel_c19_lights_64_a_0_0.png
+  rotate: false
+  xy: 211, 18
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_a_0_1.png
+  rotate: false
+  xy: 254, 18
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_a_0_2.png
+  rotate: false
+  xy: 297, 18
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_b_0_0.png
+  rotate: false
+  xy: 376, 49
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_b_0_1.png
+  rotate: false
+  xy: 38, 14
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_b_0_2.png
+  rotate: false
+  xy: 38, 2
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_c_0_0.png
+  rotate: false
+  xy: 70, 10
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_c_0_1.png
+  rotate: false
+  xy: 117, 10
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_c_0_2.png
+  rotate: false
+  xy: 164, 10
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_d_0_0.png
+  rotate: false
+  xy: 340, 21
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_d_0_1.png
+  rotate: false
+  xy: 2, 6
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_d_0_2.png
+  rotate: false
+  xy: 340, 41
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_64_sd_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+pastel_c19_lights_pastel_c19_lights_icon_a.png
+  rotate: false
+  xy: 376, 37
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1

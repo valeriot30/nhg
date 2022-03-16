@@ -1,0 +1,216 @@
+
+bolly_cherry.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bolly_cherry_bolly_cherry_32_g_2_0.png
+  rotate: false
+  xy: 124, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_32_g_2_0.png
+  rotate: false
+  xy: 285, 217
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_32_g_2_0.png
+  rotate: false
+  xy: 288, 217
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_32_g_2_0.png
+  rotate: false
+  xy: 255, 202
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_a_2_0.png
+  rotate: false
+  xy: 255, 77
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_b_2_6.png
+  rotate: false
+  xy: 2, 51
+  size: 124, 14
+  orig: 124, 14
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_b_2_7.png
+  rotate: false
+  xy: 164, 220
+  size: 125, 13
+  orig: 125, 13
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_b_2_8.png
+  rotate: false
+  xy: 164, 205
+  size: 119, 13
+  orig: 119, 13
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_b_2_9.png
+  rotate: false
+  xy: 2, 36
+  size: 120, 13
+  orig: 120, 13
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_c_2_0.png
+  rotate: false
+  xy: 164, 69
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_d_2_0.png
+  rotate: false
+  xy: 2, 67
+  size: 160, 166
+  orig: 160, 166
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_e_2_12.png
+  rotate: false
+  xy: 164, 143
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_e_2_6.png
+  rotate: false
+  xy: 255, 146
+  size: 84, 29
+  orig: 84, 29
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_e_2_7.png
+  rotate: false
+  xy: 2, 5
+  size: 90, 29
+  orig: 90, 29
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_e_2_8.png
+  rotate: false
+  xy: 164, 174
+  size: 89, 29
+  orig: 89, 29
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_e_2_9.png
+  rotate: false
+  xy: 373, 176
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_f_2_2.png
+  rotate: false
+  xy: 255, 116
+  size: 82, 28
+  orig: 82, 28
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_f_2_5.png
+  rotate: false
+  xy: 285, 177
+  size: 86, 27
+  orig: 86, 27
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_f_2_7.png
+  rotate: false
+  xy: 341, 147
+  size: 81, 27
+  orig: 81, 27
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_f_2_8.png
+  rotate: false
+  xy: 291, 206
+  size: 87, 27
+  orig: 87, 27
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_f_2_9.png
+  rotate: false
+  xy: 380, 206
+  size: 86, 27
+  orig: 86, 27
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_g_2_10.png
+  rotate: false
+  xy: 323, 66
+  size: 20, 48
+  orig: 20, 48
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_g_2_11.png
+  rotate: false
+  xy: 238, 92
+  size: 15, 49
+  orig: 15, 49
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_g_2_12.png
+  rotate: false
+  xy: 468, 184
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_g_2_13.png
+  rotate: false
+  xy: 460, 200
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_g_2_14.png
+  rotate: false
+  xy: 460, 189
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_g_2_15.png
+  rotate: false
+  xy: 460, 194
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_g_2_18.png
+  rotate: false
+  xy: 460, 184
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_64_g_2_9.png
+  rotate: false
+  xy: 211, 91
+  size: 25, 50
+  orig: 25, 50
+  offset: 0, 0
+  index: -1
+bolly_cherry_bolly_cherry_icon_a.png
+  rotate: false
+  xy: 94, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1

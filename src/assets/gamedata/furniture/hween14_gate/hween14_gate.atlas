@@ -1,0 +1,139 @@
+
+hween14_gate.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween14_gate_hween14_gate_32_b_4_3.png
+  rotate: false
+  xy: 275, 149
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_32_c_4_4.png
+  rotate: false
+  xy: 444, 181
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_32_c_4_4.png
+  rotate: false
+  xy: 491, 236
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_a_4_0.png
+  rotate: false
+  xy: 96, 116
+  size: 71, 121
+  orig: 71, 121
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_b_4_0.png
+  rotate: false
+  xy: 169, 118
+  size: 56, 119
+  orig: 56, 119
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_b_4_1.png
+  rotate: false
+  xy: 227, 152
+  size: 56, 85
+  orig: 56, 85
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_b_4_2.png
+  rotate: false
+  xy: 334, 184
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_c_4_0.png
+  rotate: false
+  xy: 71, 35
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_c_4_1.png
+  rotate: false
+  xy: 106, 37
+  size: 33, 31
+  orig: 33, 31
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_c_4_2.png
+  rotate: false
+  xy: 71, 2
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_c_4_3.png
+  rotate: false
+  xy: 334, 152
+  size: 31, 30
+  orig: 31, 30
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_d_4_0.png
+  rotate: false
+  xy: 2, 68
+  size: 92, 169
+  orig: 92, 169
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_e_4_1.png
+  rotate: false
+  xy: 96, 70
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_e_4_2.png
+  rotate: false
+  xy: 2, 12
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_e_4_3.png
+  rotate: false
+  xy: 392, 181
+  size: 50, 56
+  orig: 50, 56
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_e_4_4.png
+  rotate: false
+  xy: 285, 165
+  size: 47, 72
+  orig: 47, 72
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_e_4_5.png
+  rotate: false
+  xy: 444, 184
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_64_e_4_6.png
+  rotate: false
+  xy: 227, 109
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+hween14_gate_hween14_gate_icon_a.png
+  rotate: false
+  xy: 154, 84
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

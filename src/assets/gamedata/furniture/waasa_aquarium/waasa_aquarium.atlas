@@ -1,0 +1,433 @@
+
+waasa_aquarium.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+waasa_aquarium_waasa_aquarium_32_d_2_0.png
+  rotate: false
+  xy: 399, 119
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_32_e_2_0.png
+  rotate: false
+  xy: 197, 19
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_32_e_2_0.png
+  rotate: false
+  xy: 247, 86
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_a_2_0.png
+  rotate: false
+  xy: 70, 17
+  size: 60, 109
+  orig: 60, 109
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 124
+  orig: 66, 124
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_0.png
+  rotate: false
+  xy: 294, 115
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_1.png
+  rotate: false
+  xy: 474, 115
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_11.png
+  rotate: false
+  xy: 70, 4
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_12.png
+  rotate: false
+  xy: 223, 80
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_13.png
+  rotate: false
+  xy: 456, 115
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_16.png
+  rotate: false
+  xy: 267, 105
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_17.png
+  rotate: false
+  xy: 240, 72
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_18.png
+  rotate: false
+  xy: 447, 115
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_19.png
+  rotate: false
+  xy: 226, 43
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_2.png
+  rotate: false
+  xy: 437, 115
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_20.png
+  rotate: false
+  xy: 483, 116
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_21.png
+  rotate: false
+  xy: 87, 2
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_3.png
+  rotate: false
+  xy: 226, 30
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_c_2_5.png
+  rotate: false
+  xy: 465, 115
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_1.png
+  rotate: false
+  xy: 238, 51
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_10.png
+  rotate: false
+  xy: 238, 56
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_11.png
+  rotate: false
+  xy: 123, 7
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_12.png
+  rotate: false
+  xy: 278, 88
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_2.png
+  rotate: false
+  xy: 285, 114
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_3.png
+  rotate: false
+  xy: 226, 21
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_4.png
+  rotate: false
+  xy: 373, 118
+  size: 13, 8
+  orig: 13, 8
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_5.png
+  rotate: false
+  xy: 267, 117
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_6.png
+  rotate: false
+  xy: 105, 7
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_7.png
+  rotate: false
+  xy: 87, 6
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_8.png
+  rotate: false
+  xy: 267, 93
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_d_2_9.png
+  rotate: false
+  xy: 226, 55
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_1.png
+  rotate: false
+  xy: 240, 68
+  size: 3, 2
+  orig: 3, 2
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_10.png
+  rotate: false
+  xy: 323, 120
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_11.png
+  rotate: false
+  xy: 357, 118
+  size: 14, 8
+  orig: 14, 8
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_12.png
+  rotate: false
+  xy: 226, 68
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_13.png
+  rotate: false
+  xy: 491, 116
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_14.png
+  rotate: false
+  xy: 499, 117
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_15.png
+  rotate: false
+  xy: 240, 85
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_16.png
+  rotate: false
+  xy: 91, 2
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_2.png
+  rotate: false
+  xy: 126, 2
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_3.png
+  rotate: false
+  xy: 105, 2
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_4.png
+  rotate: false
+  xy: 267, 87
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_5.png
+  rotate: false
+  xy: 388, 116
+  size: 9, 4
+  orig: 9, 4
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_6.png
+  rotate: false
+  xy: 388, 122
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_7.png
+  rotate: false
+  xy: 340, 121
+  size: 15, 5
+  orig: 15, 5
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_8.png
+  rotate: false
+  xy: 285, 120
+  size: 18, 6
+  orig: 18, 6
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_e_2_9.png
+  rotate: false
+  xy: 305, 120
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_f_2_1.png
+  rotate: false
+  xy: 257, 89
+  size: 3, 37
+  orig: 3, 37
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_f_2_2.png
+  rotate: false
+  xy: 262, 90
+  size: 3, 36
+  orig: 3, 36
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_f_2_3.png
+  rotate: false
+  xy: 252, 87
+  size: 3, 39
+  orig: 3, 39
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_f_2_4.png
+  rotate: false
+  xy: 247, 89
+  size: 3, 37
+  orig: 3, 37
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_g_2_10.png
+  rotate: false
+  xy: 507, 122
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_g_2_11.png
+  rotate: false
+  xy: 507, 117
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_g_2_6.png
+  rotate: false
+  xy: 426, 120
+  size: 9, 6
+  orig: 9, 6
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_g_2_7.png
+  rotate: false
+  xy: 414, 121
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_g_2_8.png
+  rotate: false
+  xy: 402, 120
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_g_2_9.png
+  rotate: false
+  xy: 116, 2
+  size: 8, 3
+  orig: 8, 3
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_h_2_0.png
+  rotate: false
+  xy: 197, 22
+  size: 27, 56
+  orig: 27, 56
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_i_2_0.png
+  rotate: false
+  xy: 132, 19
+  size: 63, 59
+  orig: 63, 59
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_64_sd_2_0.png
+  rotate: false
+  xy: 132, 80
+  size: 89, 46
+  orig: 89, 46
+  offset: 0, 0
+  index: -1
+waasa_aquarium_waasa_aquarium_icon_a.png
+  rotate: false
+  xy: 223, 93
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1

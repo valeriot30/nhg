@@ -1,0 +1,20 @@
+
+attic15_painting.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+attic15_painting_attic15_painting_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 46, 90
+  orig: 46, 90
+  offset: 0, 0
+  index: -1
+attic15_painting_attic15_painting_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

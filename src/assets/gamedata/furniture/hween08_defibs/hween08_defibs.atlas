@@ -1,0 +1,181 @@
+
+hween08_defibs.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween08_defibs_hween08_defibs_64_a_0_0.png
+  rotate: false
+  xy: 2, 39
+  size: 60, 79
+  orig: 60, 79
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_0.png
+  rotate: false
+  xy: 98, 84
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_1.png
+  rotate: false
+  xy: 76, 20
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_10.png
+  rotate: false
+  xy: 64, 56
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_11.png
+  rotate: false
+  xy: 64, 74
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_2.png
+  rotate: false
+  xy: 59, 20
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_3.png
+  rotate: false
+  xy: 76, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_4.png
+  rotate: false
+  xy: 59, 2
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_5.png
+  rotate: false
+  xy: 81, 56
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_6.png
+  rotate: false
+  xy: 81, 74
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_8.png
+  rotate: false
+  xy: 81, 38
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_0_9.png
+  rotate: false
+  xy: 64, 38
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_0.png
+  rotate: false
+  xy: 93, 102
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_1.png
+  rotate: false
+  xy: 127, 102
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_10.png
+  rotate: false
+  xy: 115, 84
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_11.png
+  rotate: false
+  xy: 98, 66
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_2.png
+  rotate: false
+  xy: 110, 102
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_3.png
+  rotate: false
+  xy: 195, 102
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_4.png
+  rotate: false
+  xy: 178, 102
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_5.png
+  rotate: false
+  xy: 229, 102
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_6.png
+  rotate: false
+  xy: 212, 102
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_7.png
+  rotate: false
+  xy: 144, 102
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_b_2_9.png
+  rotate: false
+  xy: 161, 102
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_64_sd_0_0.png
+  rotate: false
+  xy: 2, 10
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+hween08_defibs_hween08_defibs_icon_a.png
+  rotate: false
+  xy: 64, 92
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+SF_lamp.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SF_lamp_SF_lamp_32_b_0_0.png
+  rotate: false
+  xy: 240, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_32_b_0_0.png
+  rotate: false
+  xy: 243, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_32_b_0_0.png
+  rotate: false
+  xy: 246, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_a_0_0.png
+  rotate: false
+  xy: 2, 9
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_a_0_1.png
+  rotate: false
+  xy: 276, 93
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_a_0_2.png
+  rotate: false
+  xy: 338, 93
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_a_0_3.png
+  rotate: false
+  xy: 400, 93
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_a_0_4.png
+  rotate: false
+  xy: 276, 58
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_a_0_5.png
+  rotate: false
+  xy: 338, 58
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_a_0_6.png
+  rotate: false
+  xy: 400, 58
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_1.png
+  rotate: false
+  xy: 168, 2
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_10.png
+  rotate: false
+  xy: 204, 3
+  size: 34, 53
+  orig: 34, 53
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_11.png
+  rotate: false
+  xy: 462, 68
+  size: 34, 58
+  orig: 34, 58
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_12.png
+  rotate: false
+  xy: 240, 63
+  size: 34, 63
+  orig: 34, 63
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_13.png
+  rotate: false
+  xy: 204, 58
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_15.png
+  rotate: false
+  xy: 168, 55
+  size: 34, 71
+  orig: 34, 71
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_16.png
+  rotate: false
+  xy: 132, 53
+  size: 34, 73
+  orig: 34, 73
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_17.png
+  rotate: false
+  xy: 96, 52
+  size: 34, 74
+  orig: 34, 74
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_18.png
+  rotate: false
+  xy: 240, 5
+  size: 34, 56
+  orig: 34, 56
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_2.png
+  rotate: false
+  xy: 490, 53
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_3.png
+  rotate: false
+  xy: 462, 48
+  size: 26, 18
+  orig: 26, 18
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_4.png
+  rotate: false
+  xy: 410, 33
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_5.png
+  rotate: false
+  xy: 338, 28
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_6.png
+  rotate: false
+  xy: 276, 3
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_7.png
+  rotate: false
+  xy: 168, 15
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_8.png
+  rotate: false
+  xy: 132, 8
+  size: 34, 43
+  orig: 34, 43
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_b_0_9.png
+  rotate: false
+  xy: 96, 2
+  size: 34, 48
+  orig: 34, 48
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_c_0_0.png
+  rotate: false
+  xy: 276, 38
+  size: 60, 18
+  orig: 60, 18
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_d_0_1.png
+  rotate: false
+  xy: 374, 30
+  size: 34, 26
+  orig: 34, 26
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_64_e_0_1.png
+  rotate: false
+  xy: 2, 44
+  size: 92, 82
+  orig: 92, 82
+  offset: 0, 0
+  index: -1
+SF_lamp_SF_lamp_icon_a.png
+  rotate: false
+  xy: 64, 11
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

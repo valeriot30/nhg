@@ -1,0 +1,27 @@
+
+bazaar_c17_vasepurple.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_vasepurple_bazaar_c17_vasepurple_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 43, 76
+  orig: 43, 76
+  offset: 0, 0
+  index: -1
+bazaar_c17_vasepurple_bazaar_c17_vasepurple_64_sd_0_0.png
+  rotate: false
+  xy: 2, 15
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+bazaar_c17_vasepurple_bazaar_c17_vasepurple_icon_a.png
+  rotate: false
+  xy: 39, 2
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

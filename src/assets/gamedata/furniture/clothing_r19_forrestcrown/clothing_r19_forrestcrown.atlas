@@ -1,0 +1,27 @@
+
+clothing_r19_forrestcrown.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r19_forrestcrown_clothing_r19_forrestcrown_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 45
+  orig: 31, 45
+  offset: 0, 0
+  index: -1
+clothing_r19_forrestcrown_clothing_r19_forrestcrown_64_sd_0_0.png
+  rotate: false
+  xy: 65, 33
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+clothing_r19_forrestcrown_clothing_r19_forrestcrown_icon_a.png
+  rotate: false
+  xy: 35, 17
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

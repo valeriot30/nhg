@@ -1,0 +1,76 @@
+
+jetset_landlow.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jetset_landlow_jetset_landlow_32_a_2_0.png
+  rotate: false
+  xy: 182, 17
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+jetset_landlow_jetset_landlow_64_a_0_0.png
+  rotate: false
+  xy: 2, 15
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+jetset_landlow_jetset_landlow_64_a_2_0.png
+  rotate: false
+  xy: 56, 17
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+jetset_landlow_jetset_landlow_64_a_4_0.png
+  rotate: false
+  xy: 99, 22
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+jetset_landlow_jetset_landlow_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 11
+  orig: 46, 11
+  offset: 0, 0
+  index: -1
+jetset_landlow_jetset_landlow_64_b_0_1.png
+  rotate: false
+  xy: 143, 42
+  size: 52, 20
+  orig: 52, 20
+  offset: 0, 0
+  index: -1
+jetset_landlow_jetset_landlow_64_b_2_0.png
+  rotate: false
+  xy: 197, 46
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+jetset_landlow_jetset_landlow_64_b_2_1.png
+  rotate: false
+  xy: 143, 23
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+jetset_landlow_jetset_landlow_64_b_4_0.png
+  rotate: false
+  xy: 99, 14
+  size: 35, 6
+  orig: 35, 6
+  offset: 0, 0
+  index: -1
+jetset_landlow_jetset_landlow_64_b_4_1.png
+  rotate: false
+  xy: 50, 2
+  size: 41, 11
+  orig: 41, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+ktchn10_tea.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ktchn10_tea_ktchn10_tea_32_b_2_0.png
+  rotate: false
+  xy: 130, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_32_b_2_0.png
+  rotate: false
+  xy: 115, 13
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_a_0_0.png
+  rotate: false
+  xy: 41, 2
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_0_1.png
+  rotate: false
+  xy: 178, 21
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_0_2.png
+  rotate: false
+  xy: 130, 19
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_0_3.png
+  rotate: false
+  xy: 106, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_0_4.png
+  rotate: false
+  xy: 156, 20
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_0_5.png
+  rotate: false
+  xy: 106, 8
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_0_6.png
+  rotate: false
+  xy: 76, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_2_1.png
+  rotate: false
+  xy: 185, 21
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_2_2.png
+  rotate: false
+  xy: 143, 19
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_2_3.png
+  rotate: false
+  xy: 118, 16
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_2_4.png
+  rotate: false
+  xy: 167, 20
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_2_5.png
+  rotate: false
+  xy: 192, 24
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_64_b_2_6.png
+  rotate: false
+  xy: 81, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+ktchn10_tea_ktchn10_tea_icon_a.png
+  rotate: false
+  xy: 76, 8
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1

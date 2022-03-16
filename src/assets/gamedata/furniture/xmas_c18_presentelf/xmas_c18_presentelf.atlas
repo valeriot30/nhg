@@ -1,0 +1,461 @@
+
+xmas_c18_presentelf.png
+size: 4096,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_0.png
+  rotate: false
+  xy: 155, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_1.png
+  rotate: false
+  xy: 206, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_10.png
+  rotate: false
+  xy: 665, 3
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_11.png
+  rotate: false
+  xy: 2003, 4
+  size: 47, 113
+  orig: 47, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_12.png
+  rotate: false
+  xy: 1954, 4
+  size: 47, 113
+  orig: 47, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_13.png
+  rotate: false
+  xy: 461, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_14.png
+  rotate: false
+  xy: 410, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_15.png
+  rotate: false
+  xy: 767, 3
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_16.png
+  rotate: false
+  xy: 716, 3
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_17.png
+  rotate: false
+  xy: 1905, 4
+  size: 47, 113
+  orig: 47, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_18.png
+  rotate: false
+  xy: 1856, 4
+  size: 47, 113
+  orig: 47, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_19.png
+  rotate: false
+  xy: 2052, 3
+  size: 46, 114
+  orig: 46, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_2.png
+  rotate: false
+  xy: 614, 3
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_20.png
+  rotate: false
+  xy: 1808, 3
+  size: 46, 114
+  orig: 46, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_3.png
+  rotate: false
+  xy: 563, 3
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_4.png
+  rotate: false
+  xy: 1565, 4
+  size: 47, 113
+  orig: 47, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_5.png
+  rotate: false
+  xy: 1516, 4
+  size: 47, 113
+  orig: 47, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_6.png
+  rotate: false
+  xy: 1760, 3
+  size: 46, 114
+  orig: 46, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_7.png
+  rotate: false
+  xy: 1712, 3
+  size: 46, 114
+  orig: 46, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_8.png
+  rotate: false
+  xy: 2, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_a_0_9.png
+  rotate: false
+  xy: 512, 3
+  size: 49, 114
+  orig: 49, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_0.png
+  rotate: false
+  xy: 2288, 2
+  size: 45, 115
+  orig: 45, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_1.png
+  rotate: false
+  xy: 2241, 2
+  size: 45, 115
+  orig: 45, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_10.png
+  rotate: false
+  xy: 2711, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_11.png
+  rotate: false
+  xy: 3030, 4
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_12.png
+  rotate: false
+  xy: 2985, 4
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_13.png
+  rotate: false
+  xy: 2382, 2
+  size: 45, 115
+  orig: 45, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_14.png
+  rotate: false
+  xy: 2335, 2
+  size: 45, 115
+  orig: 45, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_15.png
+  rotate: false
+  xy: 2664, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_16.png
+  rotate: false
+  xy: 2617, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_17.png
+  rotate: false
+  xy: 2940, 4
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_18.png
+  rotate: false
+  xy: 2895, 4
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_19.png
+  rotate: false
+  xy: 2570, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_2.png
+  rotate: false
+  xy: 2476, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_20.png
+  rotate: false
+  xy: 2758, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_3.png
+  rotate: false
+  xy: 2523, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_4.png
+  rotate: false
+  xy: 2850, 4
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_5.png
+  rotate: false
+  xy: 2805, 4
+  size: 43, 113
+  orig: 43, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_6.png
+  rotate: false
+  xy: 2147, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_7.png
+  rotate: false
+  xy: 2429, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_8.png
+  rotate: false
+  xy: 2194, 2
+  size: 45, 115
+  orig: 45, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_b_0_9.png
+  rotate: false
+  xy: 2100, 3
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_0.png
+  rotate: false
+  xy: 53, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_1.png
+  rotate: false
+  xy: 104, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_10.png
+  rotate: false
+  xy: 968, 3
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_11.png
+  rotate: false
+  xy: 1316, 4
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_12.png
+  rotate: false
+  xy: 1366, 4
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_13.png
+  rotate: false
+  xy: 308, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_14.png
+  rotate: false
+  xy: 359, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_15.png
+  rotate: false
+  xy: 1018, 3
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_16.png
+  rotate: false
+  xy: 1068, 3
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_17.png
+  rotate: false
+  xy: 1416, 4
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_18.png
+  rotate: false
+  xy: 1466, 4
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_19.png
+  rotate: false
+  xy: 1663, 3
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_2.png
+  rotate: false
+  xy: 818, 3
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_20.png
+  rotate: false
+  xy: 1614, 3
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_3.png
+  rotate: false
+  xy: 868, 3
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_4.png
+  rotate: false
+  xy: 1216, 4
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_5.png
+  rotate: false
+  xy: 1266, 4
+  size: 48, 113
+  orig: 48, 113
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_6.png
+  rotate: false
+  xy: 1118, 3
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_7.png
+  rotate: false
+  xy: 1167, 3
+  size: 47, 114
+  orig: 47, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_8.png
+  rotate: false
+  xy: 257, 2
+  size: 49, 115
+  orig: 49, 115
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_c_0_9.png
+  rotate: false
+  xy: 918, 3
+  size: 48, 114
+  orig: 48, 114
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_64_sd_0_0.png
+  rotate: false
+  xy: 3095, 101
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+xmas_c18_presentelf_xmas_c18_presentelf_icon_a.png
+  rotate: false
+  xy: 3075, 87
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

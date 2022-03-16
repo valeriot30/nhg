@@ -1,0 +1,125 @@
+
+pirate_dvdr2.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_dvdr2_pirate_dvdr2_64_a_0_0.png
+  rotate: false
+  xy: 72, 62
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_a_2_0.png
+  rotate: false
+  xy: 458, 42
+  size: 22, 75
+  orig: 22, 75
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_a_4_0.png
+  rotate: false
+  xy: 2, 63
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_a_6_0.png
+  rotate: false
+  xy: 434, 42
+  size: 22, 75
+  orig: 22, 75
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_b_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 67, 53
+  orig: 67, 53
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_b_2_0.png
+  rotate: false
+  xy: 126, 10
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_b_4_0.png
+  rotate: false
+  xy: 139, 62
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_b_6_0.png
+  rotate: false
+  xy: 482, 67
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 4
+  orig: 66, 4
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_c_0_1.png
+  rotate: false
+  xy: 139, 65
+  size: 66, 20
+  orig: 66, 20
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_c_2_0.png
+  rotate: false
+  xy: 367, 91
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_c_2_1.png
+  rotate: false
+  xy: 207, 82
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_c_4_0.png
+  rotate: false
+  xy: 262, 98
+  size: 66, 19
+  orig: 66, 19
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_c_4_1.png
+  rotate: false
+  xy: 139, 87
+  size: 66, 30
+  orig: 66, 30
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_c_6_0.png
+  rotate: false
+  xy: 330, 91
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_64_c_6_1.png
+  rotate: false
+  xy: 71, 25
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+pirate_dvdr2_pirate_dvdr2_icon_a.png
+  rotate: false
+  xy: 404, 90
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1

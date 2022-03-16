@@ -1,0 +1,125 @@
+
+garden_volcano.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+garden_volcano_garden_volcano_64_a_4_0.png
+  rotate: false
+  xy: 366, 101
+  size: 154, 145
+  orig: 154, 145
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_1.png
+  rotate: false
+  xy: 763, 353
+  size: 154, 147
+  orig: 154, 147
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_10.png
+  rotate: false
+  xy: 123, 242
+  size: 119, 258
+  orig: 119, 258
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_11.png
+  rotate: false
+  xy: 2, 236
+  size: 119, 264
+  orig: 119, 264
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_12.png
+  rotate: false
+  xy: 244, 246
+  size: 119, 254
+  orig: 119, 254
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_13.png
+  rotate: false
+  xy: 2, 2
+  size: 119, 232
+  orig: 119, 232
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_14.png
+  rotate: false
+  xy: 365, 248
+  size: 119, 252
+  orig: 119, 252
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_2.png
+  rotate: false
+  xy: 607, 351
+  size: 154, 149
+  orig: 154, 149
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_3.png
+  rotate: false
+  xy: 643, 108
+  size: 119, 124
+  orig: 119, 124
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_4.png
+  rotate: false
+  xy: 607, 234
+  size: 119, 115
+  orig: 119, 115
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_5.png
+  rotate: false
+  xy: 366, 10
+  size: 111, 89
+  orig: 111, 89
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_6.png
+  rotate: false
+  xy: 522, 104
+  size: 119, 128
+  orig: 119, 128
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_7.png
+  rotate: false
+  xy: 244, 67
+  size: 120, 177
+  orig: 120, 177
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_8.png
+  rotate: false
+  xy: 123, 27
+  size: 119, 213
+  orig: 119, 213
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_a_4_9.png
+  rotate: false
+  xy: 486, 256
+  size: 119, 244
+  orig: 119, 244
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_64_sd_0_0.png
+  rotate: false
+  xy: 123, 2
+  size: 113, 23
+  orig: 113, 23
+  offset: 0, 0
+  index: -1
+garden_volcano_garden_volcano_icon_a.png
+  rotate: false
+  xy: 919, 470
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

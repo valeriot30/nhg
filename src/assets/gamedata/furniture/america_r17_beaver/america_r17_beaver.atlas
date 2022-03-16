@@ -1,0 +1,118 @@
+
+america_r17_beaver.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+america_r17_beaver_america_r17_beaver_64_a_4_0.png
+  rotate: false
+  xy: 195, 40
+  size: 55, 21
+  orig: 55, 21
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_b_4_0.png
+  rotate: false
+  xy: 2, 20
+  size: 13, 25
+  orig: 13, 25
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_b_4_1.png
+  rotate: false
+  xy: 44, 16
+  size: 12, 25
+  orig: 12, 25
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_b_4_2.png
+  rotate: false
+  xy: 179, 41
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_b_4_3.png
+  rotate: false
+  xy: 2, 47
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_c_4_0.png
+  rotate: false
+  xy: 159, 2
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_d_4_0.png
+  rotate: false
+  xy: 114, 42
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_d_4_1.png
+  rotate: false
+  xy: 91, 42
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_d_4_3.png
+  rotate: false
+  xy: 44, 43
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_d_4_4.png
+  rotate: false
+  xy: 67, 42
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_d_4_5.png
+  rotate: false
+  xy: 17, 20
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_d_4_6.png
+  rotate: false
+  xy: 124, 9
+  size: 33, 30
+  orig: 33, 30
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_d_4_7.png
+  rotate: false
+  xy: 204, 2
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_e_4_0.png
+  rotate: false
+  xy: 58, 14
+  size: 64, 26
+  orig: 64, 26
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_64_sd_4_0.png
+  rotate: false
+  xy: 137, 41
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+america_r17_beaver_america_r17_beaver_icon_a.png
+  rotate: false
+  xy: 21, 43
+  size: 21, 18
+  orig: 21, 18
+  offset: 0, 0
+  index: -1

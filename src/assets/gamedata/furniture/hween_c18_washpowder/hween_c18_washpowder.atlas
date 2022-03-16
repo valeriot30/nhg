@@ -1,0 +1,27 @@
+
+hween_c18_washpowder.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_washpowder_hween_c18_washpowder_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+hween_c18_washpowder_hween_c18_washpowder_64_sd_0_0.png
+  rotate: false
+  xy: 44, 40
+  size: 37, 18
+  orig: 37, 18
+  offset: 0, 0
+  index: -1
+hween_c18_washpowder_hween_c18_washpowder_icon_a.png
+  rotate: false
+  xy: 44, 10
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

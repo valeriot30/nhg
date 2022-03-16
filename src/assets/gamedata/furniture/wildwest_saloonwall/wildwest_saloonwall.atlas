@@ -1,0 +1,55 @@
+
+wildwest_saloonwall.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_saloonwall_wildwest_saloonwall_64_a_2_0.png
+  rotate: false
+  xy: 86, 41
+  size: 38, 85
+  orig: 38, 85
+  offset: 0, 0
+  index: -1
+wildwest_saloonwall_wildwest_saloonwall_64_a_4_0.png
+  rotate: false
+  xy: 126, 41
+  size: 38, 85
+  orig: 38, 85
+  offset: 0, 0
+  index: -1
+wildwest_saloonwall_wildwest_saloonwall_64_b_2_0.png
+  rotate: false
+  xy: 2, 42
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+wildwest_saloonwall_wildwest_saloonwall_64_b_4_0.png
+  rotate: false
+  xy: 44, 42
+  size: 40, 84
+  orig: 40, 84
+  offset: 0, 0
+  index: -1
+wildwest_saloonwall_wildwest_saloonwall_64_sd_2_0.png
+  rotate: false
+  xy: 78, 2
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+wildwest_saloonwall_wildwest_saloonwall_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 74, 37
+  orig: 74, 37
+  offset: 0, 0
+  index: -1
+wildwest_saloonwall_wildwest_saloonwall_icon_a.png
+  rotate: false
+  xy: 166, 99
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1

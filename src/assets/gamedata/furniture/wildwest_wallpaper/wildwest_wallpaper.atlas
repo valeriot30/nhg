@@ -1,0 +1,55 @@
+
+wildwest_wallpaper.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_wallpaper_wildwest_wallpaper_64_a_2_0.png
+  rotate: false
+  xy: 142, 36
+  size: 68, 200
+  orig: 68, 200
+  offset: 0, 0
+  index: -1
+wildwest_wallpaper_wildwest_wallpaper_64_a_2_1.png
+  rotate: false
+  xy: 212, 36
+  size: 68, 200
+  orig: 68, 200
+  offset: 0, 0
+  index: -1
+wildwest_wallpaper_wildwest_wallpaper_64_a_4_0.png
+  rotate: false
+  xy: 72, 36
+  size: 68, 200
+  orig: 68, 200
+  offset: 0, 0
+  index: -1
+wildwest_wallpaper_wildwest_wallpaper_64_a_4_1.png
+  rotate: false
+  xy: 2, 36
+  size: 68, 200
+  orig: 68, 200
+  offset: 0, 0
+  index: -1
+wildwest_wallpaper_wildwest_wallpaper_64_b_2_0.png
+  rotate: false
+  xy: 287, 70
+  size: 3, 166
+  orig: 3, 166
+  offset: 0, 0
+  index: -1
+wildwest_wallpaper_wildwest_wallpaper_64_b_4_0.png
+  rotate: false
+  xy: 282, 70
+  size: 3, 166
+  orig: 3, 166
+  offset: 0, 0
+  index: -1
+wildwest_wallpaper_wildwest_wallpaper_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1

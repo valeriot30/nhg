@@ -1,0 +1,27 @@
+
+suncity_c19_glass.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_glass_suncity_c19_glass_64_a_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 51, 46
+  orig: 51, 46
+  offset: 0, 0
+  index: -1
+suncity_c19_glass_suncity_c19_glass_64_sd_0_0.png
+  rotate: false
+  xy: 55, 31
+  size: 51, 29
+  orig: 51, 29
+  offset: 0, 0
+  index: -1
+suncity_c19_glass_suncity_c19_glass_icon_a.png
+  rotate: false
+  xy: 55, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

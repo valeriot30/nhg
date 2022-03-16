@@ -1,0 +1,97 @@
+
+rcandle.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rcandle_rcandle_64_a_0_0.png
+  rotate: false
+  xy: 255, 34
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_b_0_1.png
+  rotate: false
+  xy: 230, 8
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_b_0_2.png
+  rotate: false
+  xy: 297, 51
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_b_0_3.png
+  rotate: false
+  xy: 221, 7
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_b_0_4.png
+  rotate: false
+  xy: 289, 49
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_c_0_1.png
+  rotate: false
+  xy: 221, 27
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_d_0_1.png
+  rotate: false
+  xy: 112, 6
+  size: 53, 53
+  orig: 53, 53
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_d_0_2.png
+  rotate: false
+  xy: 167, 6
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_d_0_3.png
+  rotate: false
+  xy: 57, 5
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_d_0_4.png
+  rotate: false
+  xy: 2, 5
+  size: 53, 54
+  orig: 53, 54
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_64_sd_0_0.png
+  rotate: false
+  xy: 221, 18
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+rcandle_rcandle_icon_a.png
+  rotate: false
+  xy: 272, 34
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1

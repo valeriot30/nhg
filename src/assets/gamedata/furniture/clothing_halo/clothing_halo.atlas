@@ -1,0 +1,20 @@
+
+clothing_halo.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_halo_clothing_halo_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 53
+  orig: 26, 53
+  offset: 0, 0
+  index: -1
+clothing_halo_clothing_halo_icon_a.png
+  rotate: false
+  xy: 30, 25
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

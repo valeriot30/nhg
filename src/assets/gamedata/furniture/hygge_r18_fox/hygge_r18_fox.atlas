@@ -1,0 +1,104 @@
+
+hygge_r18_fox.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hygge_r18_fox_hygge_r18_fox_64_a_0_0.png
+  rotate: false
+  xy: 480, 10
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_1.png
+  rotate: false
+  xy: 530, 10
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_10.png
+  rotate: false
+  xy: 61, 2
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_11.png
+  rotate: false
+  xy: 2, 3
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_2.png
+  rotate: false
+  xy: 580, 10
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_3.png
+  rotate: false
+  xy: 280, 9
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_4.png
+  rotate: false
+  xy: 230, 8
+  size: 48, 39
+  orig: 48, 39
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_5.png
+  rotate: false
+  xy: 330, 10
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_6.png
+  rotate: false
+  xy: 380, 10
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_7.png
+  rotate: false
+  xy: 430, 10
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_8.png
+  rotate: false
+  xy: 175, 9
+  size: 53, 38
+  orig: 53, 38
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_a_0_9.png
+  rotate: false
+  xy: 119, 4
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_64_sd_0_0.png
+  rotate: false
+  xy: 630, 19
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+hygge_r18_fox_hygge_r18_fox_icon_a.png
+  rotate: false
+  xy: 680, 24
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1

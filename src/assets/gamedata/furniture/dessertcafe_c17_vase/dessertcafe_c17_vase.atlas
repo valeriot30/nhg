@@ -1,0 +1,41 @@
+
+dessertcafe_c17_vase.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dessertcafe_c17_vase_dessertcafe_c17_vase_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_vase_dessertcafe_c17_vase_64_a_4_1.png
+  rotate: false
+  xy: 17, 2
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_vase_dessertcafe_c17_vase_64_a_6_0.png
+  rotate: false
+  xy: 32, 2
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_vase_dessertcafe_c17_vase_64_a_6_1.png
+  rotate: false
+  xy: 47, 2
+  size: 13, 26
+  orig: 13, 26
+  offset: 0, 0
+  index: -1
+dessertcafe_c17_vase_dessertcafe_c17_vase_64_sd_6_0.png
+  rotate: false
+  xy: 62, 23
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1

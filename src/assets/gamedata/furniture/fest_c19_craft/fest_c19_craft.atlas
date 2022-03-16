@@ -1,0 +1,27 @@
+
+fest_c19_craft.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_craft_fest_c19_craft_64_a_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 63, 62
+  orig: 63, 62
+  offset: 0, 0
+  index: -1
+fest_c19_craft_fest_c19_craft_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+fest_c19_craft_fest_c19_craft_icon_a.png
+  rotate: false
+  xy: 67, 68
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

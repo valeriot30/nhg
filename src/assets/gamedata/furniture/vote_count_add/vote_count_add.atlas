@@ -1,0 +1,223 @@
+
+vote_count_add.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vote_count_add_vote_count_add_64_a_2_0.png
+  rotate: false
+  xy: 138, 36
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_a_2_1.png
+  rotate: false
+  xy: 206, 36
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_a_2_2.png
+  rotate: false
+  xy: 2, 36
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_a_2_3.png
+  rotate: false
+  xy: 70, 36
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_a_4_0.png
+  rotate: false
+  xy: 410, 36
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_a_4_1.png
+  rotate: false
+  xy: 478, 36
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_a_4_2.png
+  rotate: false
+  xy: 274, 36
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_a_4_3.png
+  rotate: false
+  xy: 342, 36
+  size: 66, 88
+  orig: 66, 88
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_0.png
+  rotate: false
+  xy: 618, 48
+  size: 15, 24
+  orig: 15, 24
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_1.png
+  rotate: false
+  xy: 117, 10
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_2.png
+  rotate: false
+  xy: 46, 9
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_3.png
+  rotate: false
+  xy: 99, 11
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_4.png
+  rotate: false
+  xy: 640, 100
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_5.png
+  rotate: false
+  xy: 28, 9
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_6.png
+  rotate: false
+  xy: 695, 102
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_7.png
+  rotate: false
+  xy: 564, 47
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_8.png
+  rotate: false
+  xy: 640, 74
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_c_4_9.png
+  rotate: false
+  xy: 676, 75
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_0.png
+  rotate: false
+  xy: 635, 49
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_1.png
+  rotate: false
+  xy: 130, 10
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_2.png
+  rotate: false
+  xy: 546, 46
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_3.png
+  rotate: false
+  xy: 582, 47
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_4.png
+  rotate: false
+  xy: 600, 48
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_5.png
+  rotate: false
+  xy: 82, 9
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_6.png
+  rotate: false
+  xy: 658, 74
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_7.png
+  rotate: false
+  xy: 64, 9
+  size: 16, 25
+  orig: 16, 25
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_8.png
+  rotate: false
+  xy: 677, 100
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_d_2_9.png
+  rotate: false
+  xy: 659, 100
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_e_2_0.png
+  rotate: false
+  xy: 593, 74
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_64_e_4_0.png
+  rotate: false
+  xy: 546, 74
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+vote_count_add_vote_count_add_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+storieshero_poster.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+storieshero_poster_storieshero_poster_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 34, 84
+  orig: 34, 84
+  offset: 0, 0
+  index: -1
+storieshero_poster_storieshero_poster_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

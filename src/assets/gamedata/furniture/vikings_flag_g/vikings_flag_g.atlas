@@ -1,0 +1,27 @@
+
+vikings_flag_g.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_flag_g_vikings_flag_g_64_a_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 93, 167
+  orig: 93, 167
+  offset: 0, 0
+  index: -1
+vikings_flag_g_vikings_flag_g_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+vikings_flag_g_vikings_flag_g_icon_a.png
+  rotate: false
+  xy: 97, 161
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1

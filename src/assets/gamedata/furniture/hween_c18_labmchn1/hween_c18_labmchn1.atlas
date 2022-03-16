@@ -1,0 +1,55 @@
+
+hween_c18_labmchn1.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_labmchn1_hween_c18_labmchn1_64_a_4_0.png
+  rotate: false
+  xy: 2, 25
+  size: 65, 96
+  orig: 65, 96
+  offset: 0, 0
+  index: -1
+hween_c18_labmchn1_hween_c18_labmchn1_64_b_4_0.png
+  rotate: false
+  xy: 92, 85
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+hween_c18_labmchn1_hween_c18_labmchn1_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 21
+  orig: 11, 21
+  offset: 0, 0
+  index: -1
+hween_c18_labmchn1_hween_c18_labmchn1_64_d_4_1.png
+  rotate: false
+  xy: 69, 44
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+hween_c18_labmchn1_hween_c18_labmchn1_64_d_4_2.png
+  rotate: false
+  xy: 131, 106
+  size: 11, 15
+  orig: 11, 15
+  offset: 0, 0
+  index: -1
+hween_c18_labmchn1_hween_c18_labmchn1_64_sd_4_0.png
+  rotate: false
+  xy: 69, 91
+  size: 60, 30
+  orig: 60, 30
+  offset: 0, 0
+  index: -1
+hween_c18_labmchn1_hween_c18_labmchn1_icon_a.png
+  rotate: false
+  xy: 69, 59
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

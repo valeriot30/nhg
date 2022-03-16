@@ -1,0 +1,41 @@
+
+wildwest_desk.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_desk_wildwest_desk_64_a_0_0.png
+  rotate: false
+  xy: 137, 31
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+wildwest_desk_wildwest_desk_64_a_4_0.png
+  rotate: false
+  xy: 201, 31
+  size: 62, 65
+  orig: 62, 65
+  offset: 0, 0
+  index: -1
+wildwest_desk_wildwest_desk_64_b_0_0.png
+  rotate: false
+  xy: 70, 28
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+wildwest_desk_wildwest_desk_64_b_4_0.png
+  rotate: false
+  xy: 2, 28
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+wildwest_desk_wildwest_desk_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+uni_vinyl.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_vinyl_uni_vinyl_64_a_4_0.png
+  rotate: false
+  xy: 212, 26
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1
+uni_vinyl_uni_vinyl_64_a_4_1.png
+  rotate: false
+  xy: 182, 2
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+uni_vinyl_uni_vinyl_64_a_4_2.png
+  rotate: false
+  xy: 92, 2
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+uni_vinyl_uni_vinyl_64_a_4_3.png
+  rotate: false
+  xy: 62, 2
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+uni_vinyl_uni_vinyl_64_a_4_4.png
+  rotate: false
+  xy: 32, 2
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+uni_vinyl_uni_vinyl_64_a_4_5.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+uni_vinyl_uni_vinyl_64_a_4_6.png
+  rotate: false
+  xy: 152, 2
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1
+uni_vinyl_uni_vinyl_64_a_4_7.png
+  rotate: false
+  xy: 122, 2
+  size: 28, 54
+  orig: 28, 54
+  offset: 0, 0
+  index: -1

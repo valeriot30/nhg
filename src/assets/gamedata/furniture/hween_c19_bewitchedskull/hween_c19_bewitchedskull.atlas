@@ -1,0 +1,27 @@
+
+hween_c19_bewitchedskull.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_bewitchedskull_hween_c19_bewitchedskull_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+hween_c19_bewitchedskull_hween_c19_bewitchedskull_64_a_0_1.png
+  rotate: false
+  xy: 2, 33
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+hween_c19_bewitchedskull_hween_c19_bewitchedskull_64_sd_0_0.png
+  rotate: false
+  xy: 32, 45
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1

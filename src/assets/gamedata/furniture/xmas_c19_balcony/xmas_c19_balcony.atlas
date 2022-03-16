@@ -1,0 +1,118 @@
+
+xmas_c19_balcony.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_balcony_xmas_c19_balcony_64_a_2_0.png
+  rotate: false
+  xy: 300, 2
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_a_4_0.png
+  rotate: false
+  xy: 263, 2
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_b_2_0.png
+  rotate: false
+  xy: 159, 31
+  size: 50, 222
+  orig: 50, 222
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_b_4_0.png
+  rotate: false
+  xy: 211, 31
+  size: 50, 222
+  orig: 50, 222
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_c_2_0.png
+  rotate: false
+  xy: 2, 39
+  size: 77, 214
+  orig: 77, 214
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_c_4_0.png
+  rotate: false
+  xy: 81, 39
+  size: 76, 214
+  orig: 76, 214
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_d_2_0.png
+  rotate: false
+  xy: 437, 199
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_d_4_0.png
+  rotate: false
+  xy: 437, 143
+  size: 30, 54
+  orig: 30, 54
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_d_4_1.png
+  rotate: false
+  xy: 437, 140
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_e_2_0.png
+  rotate: false
+  xy: 469, 201
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_e_4_0.png
+  rotate: false
+  xy: 469, 147
+  size: 29, 52
+  orig: 29, 52
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_f_2_0.png
+  rotate: false
+  xy: 350, 107
+  size: 85, 146
+  orig: 85, 146
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_f_4_0.png
+  rotate: false
+  xy: 263, 107
+  size: 85, 146
+  orig: 85, 146
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_sd_2_0.png
+  rotate: false
+  xy: 383, 44
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_64_sd_4_0.png
+  rotate: false
+  xy: 263, 44
+  size: 118, 61
+  orig: 118, 61
+  offset: 0, 0
+  index: -1
+xmas_c19_balcony_xmas_c19_balcony_icon_a.png
+  rotate: false
+  xy: 2, 7
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

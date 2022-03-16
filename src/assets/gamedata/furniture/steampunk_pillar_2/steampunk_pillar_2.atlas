@@ -1,0 +1,167 @@
+
+steampunk_pillar_2.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+steampunk_pillar_2_steampunk_pillar_2_32_b_0_0.png
+  rotate: false
+  xy: 164, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_0.png
+  rotate: false
+  xy: 2, 28
+  size: 52, 224
+  orig: 52, 224
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_1.png
+  rotate: false
+  xy: 56, 38
+  size: 52, 214
+  orig: 52, 214
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_10.png
+  rotate: false
+  xy: 542, 128
+  size: 52, 124
+  orig: 52, 124
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_11.png
+  rotate: false
+  xy: 596, 138
+  size: 52, 114
+  orig: 52, 114
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_12.png
+  rotate: false
+  xy: 650, 148
+  size: 52, 104
+  orig: 52, 104
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_13.png
+  rotate: false
+  xy: 704, 158
+  size: 52, 94
+  orig: 52, 94
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_14.png
+  rotate: false
+  xy: 758, 163
+  size: 52, 89
+  orig: 52, 89
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_15.png
+  rotate: false
+  xy: 812, 164
+  size: 52, 88
+  orig: 52, 88
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_16.png
+  rotate: false
+  xy: 866, 166
+  size: 52, 86
+  orig: 52, 86
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_2.png
+  rotate: false
+  xy: 110, 48
+  size: 52, 204
+  orig: 52, 204
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_3.png
+  rotate: false
+  xy: 164, 58
+  size: 52, 194
+  orig: 52, 194
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_4.png
+  rotate: false
+  xy: 218, 68
+  size: 52, 184
+  orig: 52, 184
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_5.png
+  rotate: false
+  xy: 272, 78
+  size: 52, 174
+  orig: 52, 174
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_6.png
+  rotate: false
+  xy: 326, 88
+  size: 52, 164
+  orig: 52, 164
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_7.png
+  rotate: false
+  xy: 380, 98
+  size: 52, 154
+  orig: 52, 154
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_8.png
+  rotate: false
+  xy: 434, 108
+  size: 52, 144
+  orig: 52, 144
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_a_0_9.png
+  rotate: false
+  xy: 488, 118
+  size: 52, 134
+  orig: 52, 134
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_b_0_1.png
+  rotate: false
+  xy: 2, 6
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_b_0_2.png
+  rotate: false
+  xy: 56, 2
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_b_0_3.png
+  rotate: false
+  xy: 920, 165
+  size: 76, 41
+  orig: 76, 41
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_64_b_0_4.png
+  rotate: false
+  xy: 920, 208
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+steampunk_pillar_2_steampunk_pillar_2_icon_a.png
+  rotate: false
+  xy: 998, 176
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

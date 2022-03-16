@@ -1,0 +1,237 @@
+
+ads_twi_windw.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_twi_windw_ads_twi_windw_32_d_4_0.png
+  rotate: false
+  xy: 740, 122
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_32_d_4_0.png
+  rotate: false
+  xy: 740, 119
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_32_d_4_0.png
+  rotate: false
+  xy: 740, 116
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_32_d_4_0.png
+  rotate: false
+  xy: 740, 113
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_2_mask.png
+  rotate: false
+  xy: 1416, 125
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_4_mask.png
+  rotate: false
+  xy: 740, 125
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_a_2_0.png
+  rotate: false
+  xy: 619, 103
+  size: 119, 143
+  orig: 119, 143
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_a_4_0.png
+  rotate: false
+  xy: 498, 103
+  size: 119, 143
+  orig: 119, 143
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_b_2_0.png
+  rotate: false
+  xy: 1628, 125
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_b_2_1.png
+  rotate: false
+  xy: 1734, 125
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_b_4_0.png
+  rotate: false
+  xy: 1522, 125
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_b_4_1.png
+  rotate: false
+  xy: 1310, 125
+  size: 104, 121
+  orig: 104, 121
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_c_2_0.png
+  rotate: false
+  xy: 250, 101
+  size: 122, 145
+  orig: 122, 145
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_c_2_1.png
+  rotate: false
+  xy: 374, 101
+  size: 122, 145
+  orig: 122, 145
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_c_4_0.png
+  rotate: false
+  xy: 126, 101
+  size: 122, 145
+  orig: 122, 145
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_c_4_1.png
+  rotate: false
+  xy: 2, 101
+  size: 122, 145
+  orig: 122, 145
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_d_2_1.png
+  rotate: false
+  xy: 644, 6
+  size: 97, 95
+  orig: 97, 95
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_d_2_2.png
+  rotate: false
+  xy: 544, 6
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_d_2_3.png
+  rotate: false
+  xy: 344, 3
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_d_2_4.png
+  rotate: false
+  xy: 444, 2
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_d_4_1.png
+  rotate: false
+  xy: 943, 52
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_d_4_2.png
+  rotate: false
+  xy: 846, 52
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_d_4_3.png
+  rotate: false
+  xy: 1840, 66
+  size: 95, 82
+  orig: 95, 82
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_d_4_4.png
+  rotate: false
+  xy: 743, 40
+  size: 95, 83
+  orig: 95, 83
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_e_2_1.png
+  rotate: false
+  xy: 1194, 135
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_e_2_2.png
+  rotate: false
+  xy: 1078, 135
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_e_2_3.png
+  rotate: false
+  xy: 962, 135
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_e_2_4.png
+  rotate: false
+  xy: 846, 135
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_e_4_1.png
+  rotate: false
+  xy: 230, 3
+  size: 112, 96
+  orig: 112, 96
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_e_4_2.png
+  rotate: false
+  xy: 1840, 150
+  size: 112, 96
+  orig: 112, 96
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_e_4_3.png
+  rotate: false
+  xy: 2, 3
+  size: 112, 96
+  orig: 112, 96
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_64_e_4_4.png
+  rotate: false
+  xy: 116, 3
+  size: 112, 96
+  orig: 112, 96
+  offset: 0, 0
+  index: -1
+ads_twi_windw_ads_twi_windw_icon_a.png
+  rotate: false
+  xy: 1954, 218
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+ktchn_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ktchn_wall_ktchn_wall_64_a_2_0.png
+  rotate: false
+  xy: 148, 53
+  size: 66, 141
+  orig: 66, 141
+  offset: 0, 0
+  index: -1
+ktchn_wall_ktchn_wall_64_a_4_0.png
+  rotate: false
+  xy: 216, 53
+  size: 66, 141
+  orig: 66, 141
+  offset: 0, 0
+  index: -1
+ktchn_wall_ktchn_wall_64_b_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 71, 160
+  orig: 71, 160
+  offset: 0, 0
+  index: -1
+ktchn_wall_ktchn_wall_64_b_4_0.png
+  rotate: false
+  xy: 75, 34
+  size: 71, 160
+  orig: 71, 160
+  offset: 0, 0
+  index: -1
+ktchn_wall_ktchn_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

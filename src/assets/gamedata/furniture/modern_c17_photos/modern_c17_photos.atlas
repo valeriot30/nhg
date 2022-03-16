@@ -1,0 +1,27 @@
+
+modern_c17_photos.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+modern_c17_photos_modern_c17_photos_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 122
+  orig: 31, 122
+  offset: 0, 0
+  index: -1
+modern_c17_photos_modern_c17_photos_64_a_0_1.png
+  rotate: false
+  xy: 2, 126
+  size: 31, 122
+  orig: 31, 122
+  offset: 0, 0
+  index: -1
+modern_c17_photos_modern_c17_photos_icon_a.png
+  rotate: false
+  xy: 35, 219
+  size: 10, 29
+  orig: 10, 29
+  offset: 0, 0
+  index: -1

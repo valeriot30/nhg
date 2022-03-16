@@ -1,0 +1,118 @@
+
+sfx_onetwo.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sfx_onetwo_sfx_onetwo_64_a_4_0.png
+  rotate: false
+  xy: 2, 31
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_2_1.png
+  rotate: false
+  xy: 108, 15
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_2_2.png
+  rotate: false
+  xy: 237, 87
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_2_3.png
+  rotate: false
+  xy: 199, 87
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_2_4.png
+  rotate: false
+  xy: 180, 87
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_2_5.png
+  rotate: false
+  xy: 218, 87
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_4_1.png
+  rotate: false
+  xy: 108, 53
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_4_2.png
+  rotate: false
+  xy: 89, 27
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_4_3.png
+  rotate: false
+  xy: 161, 87
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_4_4.png
+  rotate: false
+  xy: 127, 53
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_b_4_5.png
+  rotate: false
+  xy: 70, 27
+  size: 17, 36
+  orig: 17, 36
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_c_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_c_4_1.png
+  rotate: false
+  xy: 70, 65
+  size: 36, 24
+  orig: 36, 24
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_64_sd_4_0.png
+  rotate: false
+  xy: 70, 91
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+sfx_onetwo_sfx_onetwo_icon_a.png
+  rotate: false
+  xy: 134, 91
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

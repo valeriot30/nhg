@@ -1,0 +1,20 @@
+
+clothing_r18_diaparty.png
+size: 32,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r18_diaparty_clothing_r18_diaparty_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 26, 70
+  orig: 26, 70
+  offset: 0, 0
+  index: -1
+clothing_r18_diaparty_clothing_r18_diaparty_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

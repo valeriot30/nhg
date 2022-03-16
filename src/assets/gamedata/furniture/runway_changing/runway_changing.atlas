@@ -1,0 +1,41 @@
+
+runway_changing.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runway_changing_runway_changing_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 29, 86
+  orig: 29, 86
+  offset: 0, 0
+  index: -1
+runway_changing_runway_changing_64_b_2_0.png
+  rotate: false
+  xy: 2, 122
+  size: 68, 126
+  orig: 68, 126
+  offset: 0, 0
+  index: -1
+runway_changing_runway_changing_64_b_2_1.png
+  rotate: false
+  xy: 72, 122
+  size: 68, 126
+  orig: 68, 126
+  offset: 0, 0
+  index: -1
+runway_changing_runway_changing_64_sd_2_0.png
+  rotate: false
+  xy: 142, 216
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+runway_changing_runway_changing_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

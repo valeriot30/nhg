@@ -1,0 +1,125 @@
+
+pirate_dvdr3.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_dvdr3_pirate_dvdr3_32_b_4_0.png
+  rotate: false
+  xy: 246, 124
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_a_0_0.png
+  rotate: false
+  xy: 182, 72
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_a_2_0.png
+  rotate: false
+  xy: 116, 27
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_a_4_0.png
+  rotate: false
+  xy: 70, 35
+  size: 44, 54
+  orig: 44, 54
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_a_6_0.png
+  rotate: false
+  xy: 222, 63
+  size: 22, 62
+  orig: 22, 62
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_b_0_0.png
+  rotate: false
+  xy: 140, 74
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_b_2_0.png
+  rotate: false
+  xy: 140, 28
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_b_6_0.png
+  rotate: false
+  xy: 162, 26
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_c_0_0.png
+  rotate: false
+  xy: 2, 16
+  size: 40, 5
+  orig: 40, 5
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_c_0_1.png
+  rotate: false
+  xy: 2, 23
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 12
+  orig: 21, 12
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_c_2_1.png
+  rotate: false
+  xy: 2, 89
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_c_4_0.png
+  rotate: false
+  xy: 70, 19
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_c_4_1.png
+  rotate: false
+  xy: 70, 91
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_c_6_0.png
+  rotate: false
+  xy: 184, 17
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_64_c_6_1.png
+  rotate: false
+  xy: 2, 51
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+pirate_dvdr3_pirate_dvdr3_icon_a.png
+  rotate: false
+  xy: 184, 42
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1

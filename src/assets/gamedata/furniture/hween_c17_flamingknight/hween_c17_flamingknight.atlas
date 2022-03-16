@@ -1,0 +1,251 @@
+
+hween_c17_flamingknight.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_0.png
+  rotate: false
+  xy: 991, 112
+  size: 109, 142
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_1.png
+  rotate: false
+  xy: 767, 112
+  size: 110, 142
+  orig: 110, 142
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_10.png
+  rotate: false
+  xy: 1836, 110
+  size: 99, 144
+  orig: 99, 144
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_11.png
+  rotate: false
+  xy: 1320, 111
+  size: 104, 143
+  orig: 104, 143
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_12.png
+  rotate: false
+  xy: 1213, 111
+  size: 105, 143
+  orig: 105, 143
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_13.png
+  rotate: false
+  xy: 1102, 112
+  size: 109, 142
+  orig: 109, 142
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_14.png
+  rotate: false
+  xy: 1734, 111
+  size: 100, 143
+  orig: 100, 143
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_15.png
+  rotate: false
+  xy: 1632, 111
+  size: 100, 143
+  orig: 100, 143
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_16.png
+  rotate: false
+  xy: 1530, 111
+  size: 100, 143
+  orig: 100, 143
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_17.png
+  rotate: false
+  xy: 2269, 125
+  size: 82, 129
+  orig: 82, 129
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_18.png
+  rotate: false
+  xy: 2177, 121
+  size: 90, 133
+  orig: 90, 133
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_19.png
+  rotate: false
+  xy: 2, 2
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_2.png
+  rotate: false
+  xy: 879, 112
+  size: 110, 142
+  orig: 110, 142
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_20.png
+  rotate: false
+  xy: 2059, 134
+  size: 116, 120
+  orig: 116, 120
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_21.png
+  rotate: false
+  xy: 1937, 133
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_3.png
+  rotate: false
+  xy: 531, 112
+  size: 117, 142
+  orig: 117, 142
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_4.png
+  rotate: false
+  xy: 2, 111
+  size: 130, 143
+  orig: 130, 143
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_5.png
+  rotate: false
+  xy: 134, 111
+  size: 130, 143
+  orig: 130, 143
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_6.png
+  rotate: false
+  xy: 266, 112
+  size: 131, 142
+  orig: 131, 142
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_7.png
+  rotate: false
+  xy: 399, 112
+  size: 130, 142
+  orig: 130, 142
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_8.png
+  rotate: false
+  xy: 650, 112
+  size: 115, 142
+  orig: 115, 142
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_a_4_9.png
+  rotate: false
+  xy: 1426, 112
+  size: 102, 142
+  orig: 102, 142
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_0.png
+  rotate: false
+  xy: 2511, 245
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_1.png
+  rotate: false
+  xy: 2005, 122
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_10.png
+  rotate: false
+  xy: 2383, 245
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_2.png
+  rotate: false
+  xy: 2415, 234
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_3.png
+  rotate: false
+  xy: 2383, 234
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_4.png
+  rotate: false
+  xy: 2415, 245
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_5.png
+  rotate: false
+  xy: 2479, 245
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_6.png
+  rotate: false
+  xy: 2479, 234
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_7.png
+  rotate: false
+  xy: 2447, 245
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_8.png
+  rotate: false
+  xy: 2447, 234
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_b_4_9.png
+  rotate: false
+  xy: 1973, 122
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_64_sd_4_0.png
+  rotate: false
+  xy: 1937, 114
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+hween_c17_flamingknight_hween_c17_flamingknight_icon_a.png
+  rotate: false
+  xy: 2353, 224
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

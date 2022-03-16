@@ -1,0 +1,83 @@
+
+plant_mazegate.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plant_mazegate_plant_mazegate_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_64_a_2_1.png
+  rotate: false
+  xy: 55, 154
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_64_a_4_0.png
+  rotate: false
+  xy: 55, 229
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_64_a_4_1.png
+  rotate: false
+  xy: 2, 77
+  size: 50, 73
+  orig: 50, 73
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_64_b_2_0.png
+  rotate: false
+  xy: 2, 152
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_64_b_2_1.png
+  rotate: false
+  xy: 55, 304
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_64_b_4_0.png
+  rotate: false
+  xy: 2, 228
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_64_b_4_1.png
+  rotate: false
+  xy: 2, 304
+  size: 51, 74
+  orig: 51, 74
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_64_sd_2_0.png
+  rotate: false
+  xy: 2, 380
+  size: 104, 51
+  orig: 104, 51
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_64_sd_4_0.png
+  rotate: false
+  xy: 2, 433
+  size: 104, 51
+  orig: 104, 51
+  offset: 0, 0
+  index: -1
+plant_mazegate_plant_mazegate_icon_a.png
+  rotate: false
+  xy: 55, 120
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xmas_c18_curtaintopper.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_curtaintopper_xmas_c18_curtaintopper_64_a_2_0.png
+  rotate: false
+  xy: 2, 23
+  size: 42, 32
+  orig: 42, 32
+  offset: 0, 0
+  index: -1
+xmas_c18_curtaintopper_xmas_c18_curtaintopper_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+xmas_c18_curtaintopper_xmas_c18_curtaintopper_icon_a.png
+  rotate: false
+  xy: 46, 32
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1

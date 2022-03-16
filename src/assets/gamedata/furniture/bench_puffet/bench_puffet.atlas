@@ -1,0 +1,69 @@
+
+bench_puffet.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bench_puffet_bench_puffet_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+bench_puffet_bench_puffet_64_b_2_0.png
+  rotate: false
+  xy: 127, 8
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+bench_puffet_bench_puffet_64_b_4_0.png
+  rotate: false
+  xy: 211, 8
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+bench_puffet_bench_puffet_64_b_6_0.png
+  rotate: false
+  xy: 169, 8
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+bench_puffet_bench_puffet_64_c_2_0.png
+  rotate: false
+  xy: 65, 3
+  size: 60, 46
+  orig: 60, 46
+  offset: 0, 0
+  index: -1
+bench_puffet_bench_puffet_64_d_2_0.png
+  rotate: false
+  xy: 253, 10
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+bench_puffet_bench_puffet_64_d_4_0.png
+  rotate: false
+  xy: 291, 10
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+bench_puffet_bench_puffet_64_d_6_0.png
+  rotate: false
+  xy: 329, 10
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+bench_puffet_bench_puffet_icon_a.png
+  rotate: false
+  xy: 367, 22
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

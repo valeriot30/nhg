@@ -1,0 +1,20 @@
+
+clothing_featherflower.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_featherflower_clothing_featherflower_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 42, 57
+  orig: 42, 57
+  offset: 0, 0
+  index: -1
+clothing_featherflower_clothing_featherflower_icon_a.png
+  rotate: false
+  xy: 46, 30
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

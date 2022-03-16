@@ -1,0 +1,55 @@
+
+ads_clwall2.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_clwall2_ads_clwall2_64_a_2_0.png
+  rotate: false
+  xy: 82, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_clwall2_ads_clwall2_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 92
+  orig: 78, 92
+  offset: 0, 0
+  index: -1
+ads_clwall2_ads_clwall2_64_b_2_0.png
+  rotate: false
+  xy: 2, 96
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1
+ads_clwall2_ads_clwall2_64_b_4_0.png
+  rotate: false
+  xy: 126, 96
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1
+ads_clwall2_ads_clwall2_64_c_2_0.png
+  rotate: false
+  xy: 250, 96
+  size: 114, 135
+  orig: 114, 135
+  offset: 0, 0
+  index: -1
+ads_clwall2_ads_clwall2_64_c_4_0.png
+  rotate: false
+  xy: 366, 96
+  size: 114, 135
+  orig: 114, 135
+  offset: 0, 0
+  index: -1
+ads_clwall2_ads_clwall2_icon_a.png
+  rotate: false
+  xy: 482, 200
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

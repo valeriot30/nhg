@@ -1,0 +1,69 @@
+
+stone_stairs.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stone_stairs_stone_stairs_64_a_0_0.png
+  rotate: false
+  xy: 287, 15
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+stone_stairs_stone_stairs_64_a_2_0.png
+  rotate: false
+  xy: 220, 12
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+stone_stairs_stone_stairs_64_b_0_0.png
+  rotate: false
+  xy: 2, 9
+  size: 107, 48
+  orig: 107, 48
+  offset: 0, 0
+  index: -1
+stone_stairs_stone_stairs_64_b_2_0.png
+  rotate: false
+  xy: 111, 10
+  size: 107, 47
+  orig: 107, 47
+  offset: 0, 0
+  index: -1
+stone_stairs_stone_stairs_64_c_0_0.png
+  rotate: false
+  xy: 350, 27
+  size: 43, 30
+  orig: 43, 30
+  offset: 0, 0
+  index: -1
+stone_stairs_stone_stairs_64_c_2_0.png
+  rotate: false
+  xy: 395, 34
+  size: 41, 23
+  orig: 41, 23
+  offset: 0, 0
+  index: -1
+stone_stairs_stone_stairs_64_d_0_0.png
+  rotate: false
+  xy: 472, 31
+  size: 21, 26
+  orig: 21, 26
+  offset: 0, 0
+  index: -1
+stone_stairs_stone_stairs_64_d_2_0.png
+  rotate: false
+  xy: 350, 2
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+stone_stairs_stone_stairs_icon_a.png
+  rotate: false
+  xy: 438, 36
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1

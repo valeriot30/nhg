@@ -1,0 +1,69 @@
+
+st_wildwest_cards.png
+size: 512,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_wildwest_cards_st_wildwest_cards_64_a_0_0.png
+  rotate: false
+  xy: 298, 14
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+st_wildwest_cards_st_wildwest_cards_64_a_0_1.png
+  rotate: false
+  xy: 88, 8
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+st_wildwest_cards_st_wildwest_cards_64_a_0_2.png
+  rotate: false
+  xy: 181, 11
+  size: 43, 17
+  orig: 43, 17
+  offset: 0, 0
+  index: -1
+st_wildwest_cards_st_wildwest_cards_64_a_0_3.png
+  rotate: false
+  xy: 46, 4
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+st_wildwest_cards_st_wildwest_cards_64_a_4_0.png
+  rotate: false
+  xy: 314, 14
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+st_wildwest_cards_st_wildwest_cards_64_a_4_1.png
+  rotate: false
+  xy: 134, 11
+  size: 45, 17
+  orig: 45, 17
+  offset: 0, 0
+  index: -1
+st_wildwest_cards_st_wildwest_cards_64_a_4_2.png
+  rotate: false
+  xy: 226, 10
+  size: 41, 18
+  orig: 41, 18
+  offset: 0, 0
+  index: -1
+st_wildwest_cards_st_wildwest_cards_64_a_4_3.png
+  rotate: false
+  xy: 2, 4
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+st_wildwest_cards_st_wildwest_cards_icon_a.png
+  rotate: false
+  xy: 269, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1

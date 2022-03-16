@@ -1,0 +1,139 @@
+
+hs_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hs_wall_hs_wall_64_a_2_0.png
+  rotate: false
+  xy: 304, 71
+  size: 37, 174
+  orig: 37, 174
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_a_2_1.png
+  rotate: false
+  xy: 343, 71
+  size: 37, 174
+  orig: 37, 174
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_a_2_2.png
+  rotate: false
+  xy: 265, 71
+  size: 37, 174
+  orig: 37, 174
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_b_2_0.png
+  rotate: false
+  xy: 224, 69
+  size: 39, 176
+  orig: 39, 176
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_c_2_0.png
+  rotate: false
+  xy: 2, 90
+  size: 72, 155
+  orig: 72, 155
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_c_2_1.png
+  rotate: false
+  xy: 76, 120
+  size: 72, 125
+  orig: 72, 125
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_c_2_2.png
+  rotate: false
+  xy: 150, 139
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_0.png
+  rotate: false
+  xy: 158, 99
+  size: 37, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_1.png
+  rotate: false
+  xy: 382, 71
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_10.png
+  rotate: false
+  xy: 421, 71
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_2.png
+  rotate: false
+  xy: 119, 48
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_4.png
+  rotate: false
+  xy: 460, 143
+  size: 37, 102
+  orig: 37, 102
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_5.png
+  rotate: false
+  xy: 421, 127
+  size: 37, 118
+  orig: 37, 118
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_6.png
+  rotate: false
+  xy: 382, 127
+  size: 37, 118
+  orig: 37, 118
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_7.png
+  rotate: false
+  xy: 41, 2
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_8.png
+  rotate: false
+  xy: 80, 32
+  size: 37, 86
+  orig: 37, 86
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_64_d_2_9.png
+  rotate: false
+  xy: 460, 87
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+hs_wall_hs_wall_icon_a.png
+  rotate: false
+  xy: 499, 213
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1

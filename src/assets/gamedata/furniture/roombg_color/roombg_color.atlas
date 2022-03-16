@@ -1,0 +1,34 @@
+
+roombg_color.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+roombg_color_roombg_color_64_a_0_0.png
+  rotate: false
+  xy: 66, 2
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+roombg_color_roombg_color_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+roombg_color_roombg_color_64_sd_0_0.png
+  rotate: false
+  xy: 130, 13
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+roombg_color_roombg_color_icon_a.png
+  rotate: false
+  xy: 196, 14
+  size: 32, 31
+  orig: 32, 31
+  offset: 0, 0
+  index: -1

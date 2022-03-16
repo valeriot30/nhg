@@ -1,0 +1,62 @@
+
+classic9_bookshelf.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic9_bookshelf_classic9_bookshelf_64_a_0_0.png
+  rotate: false
+  xy: 338, 54
+  size: 64, 198
+  orig: 64, 198
+  offset: 0, 0
+  index: -1
+classic9_bookshelf_classic9_bookshelf_64_a_0_1.png
+  rotate: false
+  xy: 272, 54
+  size: 64, 198
+  orig: 64, 198
+  offset: 0, 0
+  index: -1
+classic9_bookshelf_classic9_bookshelf_64_a_0_2.png
+  rotate: false
+  xy: 206, 54
+  size: 64, 198
+  orig: 64, 198
+  offset: 0, 0
+  index: -1
+classic9_bookshelf_classic9_bookshelf_64_b_0_0.png
+  rotate: false
+  xy: 2, 53
+  size: 66, 199
+  orig: 66, 199
+  offset: 0, 0
+  index: -1
+classic9_bookshelf_classic9_bookshelf_64_b_0_1.png
+  rotate: false
+  xy: 70, 53
+  size: 66, 199
+  orig: 66, 199
+  offset: 0, 0
+  index: -1
+classic9_bookshelf_classic9_bookshelf_64_b_0_2.png
+  rotate: false
+  xy: 138, 53
+  size: 66, 199
+  orig: 66, 199
+  offset: 0, 0
+  index: -1
+classic9_bookshelf_classic9_bookshelf_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+classic9_bookshelf_classic9_bookshelf_icon_a.png
+  rotate: false
+  xy: 404, 222
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,209 @@
+
+hween09_stonewall.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween09_stonewall_hween09_stonewall_64_a_2_0.png
+  rotate: false
+  xy: 2061, 110
+  size: 63, 124
+  orig: 63, 124
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_a_4_0.png
+  rotate: false
+  xy: 1996, 110
+  size: 63, 124
+  orig: 63, 124
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_0.png
+  rotate: false
+  xy: 1619, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_1.png
+  rotate: false
+  xy: 1846, 2
+  size: 73, 232
+  orig: 73, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_10.png
+  rotate: false
+  xy: 2, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_11.png
+  rotate: false
+  xy: 79, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_12.png
+  rotate: false
+  xy: 156, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_2.png
+  rotate: false
+  xy: 1921, 2
+  size: 73, 232
+  orig: 73, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_3.png
+  rotate: false
+  xy: 1465, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_4.png
+  rotate: false
+  xy: 1542, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_5.png
+  rotate: false
+  xy: 1157, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_6.png
+  rotate: false
+  xy: 1234, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_7.png
+  rotate: false
+  xy: 1311, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_8.png
+  rotate: false
+  xy: 1388, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_2_9.png
+  rotate: false
+  xy: 1080, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_0.png
+  rotate: false
+  xy: 464, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_1.png
+  rotate: false
+  xy: 1771, 2
+  size: 73, 232
+  orig: 73, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_10.png
+  rotate: false
+  xy: 310, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_11.png
+  rotate: false
+  xy: 387, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_12.png
+  rotate: false
+  xy: 233, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_2.png
+  rotate: false
+  xy: 1696, 2
+  size: 73, 232
+  orig: 73, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_3.png
+  rotate: false
+  xy: 849, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_4.png
+  rotate: false
+  xy: 772, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_5.png
+  rotate: false
+  xy: 1003, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_6.png
+  rotate: false
+  xy: 926, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_7.png
+  rotate: false
+  xy: 618, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_8.png
+  rotate: false
+  xy: 541, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_64_b_4_9.png
+  rotate: false
+  xy: 695, 2
+  size: 75, 232
+  orig: 75, 232
+  offset: 0, 0
+  index: -1
+hween09_stonewall_hween09_stonewall_icon_a.png
+  rotate: false
+  xy: 1996, 76
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1

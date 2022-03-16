@@ -1,0 +1,125 @@
+
+pixel_memorial.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pixel_memorial_pixel_memorial_64_a_0_0.png
+  rotate: false
+  xy: 2, 40
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_b_0_0.png
+  rotate: false
+  xy: 64, 32
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_1.png
+  rotate: false
+  xy: 128, 24
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_10.png
+  rotate: false
+  xy: 216, 99
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_11.png
+  rotate: false
+  xy: 104, 24
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_12.png
+  rotate: false
+  xy: 74, 6
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_2.png
+  rotate: false
+  xy: 190, 64
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_4.png
+  rotate: false
+  xy: 166, 59
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_5.png
+  rotate: false
+  xy: 30, 2
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_6.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_7.png
+  rotate: false
+  xy: 142, 59
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_8.png
+  rotate: false
+  xy: 192, 93
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_c_0_9.png
+  rotate: false
+  xy: 54, 2
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_d_0_0.png
+  rotate: false
+  xy: 64, 73
+  size: 38, 53
+  orig: 38, 53
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_e_0_0.png
+  rotate: false
+  xy: 104, 51
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_64_sd_0_0.png
+  rotate: false
+  xy: 104, 97
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+pixel_memorial_pixel_memorial_icon_a.png
+  rotate: false
+  xy: 166, 94
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1

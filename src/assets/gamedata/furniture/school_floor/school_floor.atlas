@@ -1,0 +1,34 @@
+
+school_floor.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+school_floor_school_floor_64_a_0_0.png
+  rotate: false
+  xy: 203, 19
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+school_floor_school_floor_64_b_0_0.png
+  rotate: false
+  xy: 2, 19
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+school_floor_school_floor_64_c_0_0.png
+  rotate: false
+  xy: 134, 18
+  size: 67, 34
+  orig: 67, 34
+  offset: 0, 0
+  index: -1
+school_floor_school_floor_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1

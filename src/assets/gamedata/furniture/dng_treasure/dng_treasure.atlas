@@ -1,0 +1,132 @@
+
+dng_treasure.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+dng_treasure_dng_treasure_32_f_0_4.png
+  rotate: false
+  xy: 95, 17
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_32_f_0_4.png
+  rotate: false
+  xy: 209, 52
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_32_f_0_4.png
+  rotate: false
+  xy: 222, 63
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 74, 17
+  orig: 74, 17
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_a_0_1.png
+  rotate: false
+  xy: 133, 51
+  size: 74, 17
+  orig: 74, 17
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_b_0_0.png
+  rotate: false
+  xy: 133, 70
+  size: 127, 25
+  orig: 127, 25
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_b_0_1.png
+  rotate: false
+  xy: 263, 99
+  size: 127, 24
+  orig: 127, 24
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_c_0_0.png
+  rotate: false
+  xy: 133, 97
+  size: 128, 26
+  orig: 128, 26
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_c_0_1.png
+  rotate: false
+  xy: 2, 24
+  size: 128, 28
+  orig: 128, 28
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_d_0_0.png
+  rotate: false
+  xy: 132, 25
+  size: 69, 24
+  orig: 69, 24
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_d_0_1.png
+  rotate: false
+  xy: 392, 95
+  size: 70, 28
+  orig: 70, 28
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_g_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_g_0_1.png
+  rotate: false
+  xy: 507, 118
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_g_0_2.png
+  rotate: false
+  xy: 209, 59
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_g_0_3.png
+  rotate: false
+  xy: 78, 7
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_g_0_4.png
+  rotate: false
+  xy: 496, 114
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_64_h_0_1.png
+  rotate: false
+  xy: 2, 54
+  size: 129, 69
+  orig: 129, 69
+  offset: 0, 0
+  index: -1
+dng_treasure_dng_treasure_icon_a.png
+  rotate: false
+  xy: 464, 101
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+greek_c19_wall.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_c19_wall_greek_c19_wall_64_a_2_0.png
+  rotate: false
+  xy: 570, 107
+  size: 70, 121
+  orig: 70, 121
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_a_4_1.png
+  rotate: false
+  xy: 642, 107
+  size: 70, 121
+  orig: 70, 121
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_b_2_0.png
+  rotate: false
+  xy: 430, 91
+  size: 68, 137
+  orig: 68, 137
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_b_2_1.png
+  rotate: false
+  xy: 360, 91
+  size: 68, 137
+  orig: 68, 137
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_b_4_0.png
+  rotate: false
+  xy: 500, 91
+  size: 68, 137
+  orig: 68, 137
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_b_4_1.png
+  rotate: false
+  xy: 290, 91
+  size: 68, 137
+  orig: 68, 137
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_c_2_1.png
+  rotate: false
+  xy: 714, 52
+  size: 35, 120
+  orig: 35, 120
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_c_4_0.png
+  rotate: false
+  xy: 751, 52
+  size: 35, 120
+  orig: 35, 120
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_d_2_0.png
+  rotate: false
+  xy: 74, 90
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_d_2_1.png
+  rotate: false
+  xy: 2, 90
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_d_4_0.png
+  rotate: false
+  xy: 218, 90
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_d_4_1.png
+  rotate: false
+  xy: 146, 90
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_sd_2_0.png
+  rotate: false
+  xy: 714, 174
+  size: 105, 54
+  orig: 105, 54
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_64_sd_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 105, 54
+  orig: 105, 54
+  offset: 0, 0
+  index: -1
+greek_c19_wall_greek_c19_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

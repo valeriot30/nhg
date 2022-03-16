@@ -1,0 +1,27 @@
+
+window_single_default.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window_single_default_window_single_default_64_2_mask.png
+  rotate: false
+  xy: 68, 56
+  size: 37, 65
+  orig: 37, 65
+  offset: 0, 0
+  index: -1
+window_single_default_window_single_default_64_a_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 64, 97
+  orig: 64, 97
+  offset: 0, 0
+  index: -1
+window_single_default_window_single_default_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1

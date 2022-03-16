@@ -1,0 +1,27 @@
+
+pastel_c19_bedsidetable.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastel_c19_bedsidetable_pastel_c19_bedsidetable_64_a_0_0.png
+  rotate: false
+  xy: 2, 37
+  size: 66, 72
+  orig: 66, 72
+  offset: 0, 0
+  index: -1
+pastel_c19_bedsidetable_pastel_c19_bedsidetable_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+pastel_c19_bedsidetable_pastel_c19_bedsidetable_icon_a.png
+  rotate: false
+  xy: 70, 80
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

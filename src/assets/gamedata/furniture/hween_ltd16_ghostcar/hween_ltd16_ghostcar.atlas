@@ -1,0 +1,286 @@
+
+hween_ltd16_ghostcar.png
+size: 4096,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_a_0_0.png
+  rotate: false
+  xy: 2405, 106
+  size: 44, 20
+  orig: 44, 20
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_a_0_1.png
+  rotate: false
+  xy: 2339, 69
+  size: 47, 21
+  orig: 47, 21
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_a_0_2.png
+  rotate: false
+  xy: 129, 2
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_a_0_3.png
+  rotate: false
+  xy: 66, 3
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_a_0_4.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_a_0_5.png
+  rotate: false
+  xy: 2339, 92
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_b_0_0.png
+  rotate: false
+  xy: 1662, 42
+  size: 132, 84
+  orig: 132, 84
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_b_0_1.png
+  rotate: false
+  xy: 1528, 42
+  size: 132, 84
+  orig: 132, 84
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_b_0_2.png
+  rotate: false
+  xy: 614, 36
+  size: 134, 90
+  orig: 134, 90
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_b_0_3.png
+  rotate: false
+  xy: 324, 36
+  size: 144, 90
+  orig: 144, 90
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_b_0_4.png
+  rotate: false
+  xy: 177, 36
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_b_0_5.png
+  rotate: false
+  xy: 470, 37
+  size: 142, 89
+  orig: 142, 89
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_c_0_0.png
+  rotate: false
+  xy: 1399, 30
+  size: 127, 96
+  orig: 127, 96
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_c_0_1.png
+  rotate: false
+  xy: 750, 31
+  size: 131, 95
+  orig: 131, 95
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_c_0_2.png
+  rotate: false
+  xy: 1270, 28
+  size: 127, 98
+  orig: 127, 98
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_c_0_3.png
+  rotate: false
+  xy: 1141, 28
+  size: 127, 98
+  orig: 127, 98
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_c_0_4.png
+  rotate: false
+  xy: 1012, 29
+  size: 127, 97
+  orig: 127, 97
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_c_0_5.png
+  rotate: false
+  xy: 883, 30
+  size: 127, 96
+  orig: 127, 96
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_d_0_0.png
+  rotate: false
+  xy: 2267, 49
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_d_0_1.png
+  rotate: false
+  xy: 2123, 49
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_d_0_2.png
+  rotate: false
+  xy: 2195, 49
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_d_0_3.png
+  rotate: false
+  xy: 1979, 49
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_d_0_4.png
+  rotate: false
+  xy: 2051, 49
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_d_0_5.png
+  rotate: false
+  xy: 1907, 49
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_e_0_3.png
+  rotate: false
+  xy: 412, 3
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_e_0_4.png
+  rotate: false
+  xy: 388, 3
+  size: 22, 31
+  orig: 22, 31
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_e_0_5.png
+  rotate: false
+  xy: 363, 4
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_f_0_0.png
+  rotate: false
+  xy: 1796, 51
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_f_0_2.png
+  rotate: false
+  xy: 436, 13
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_f_0_5.png
+  rotate: false
+  xy: 1796, 54
+  size: 109, 72
+  orig: 109, 72
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_h_0_1.png
+  rotate: false
+  xy: 192, 8
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_h_0_2.png
+  rotate: false
+  xy: 227, 8
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_h_0_3.png
+  rotate: false
+  xy: 1469, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_h_0_4.png
+  rotate: false
+  xy: 1504, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_h_0_5.png
+  rotate: false
+  xy: 1399, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_h_0_6.png
+  rotate: false
+  xy: 1434, 2
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_h_0_7.png
+  rotate: false
+  xy: 297, 8
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_h_0_8.png
+  rotate: false
+  xy: 262, 8
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_64_sd_0_0.png
+  rotate: false
+  xy: 2, 37
+  size: 173, 89
+  orig: 173, 89
+  offset: 0, 0
+  index: -1
+hween_ltd16_ghostcar_hween_ltd16_ghostcar_icon_a.png
+  rotate: false
+  xy: 332, 12
+  size: 29, 22
+  orig: 29, 22
+  offset: 0, 0
+  index: -1

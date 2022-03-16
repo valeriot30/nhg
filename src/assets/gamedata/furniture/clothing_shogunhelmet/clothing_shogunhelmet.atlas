@@ -1,0 +1,20 @@
+
+clothing_shogunhelmet.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_shogunhelmet_clothing_shogunhelmet_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+clothing_shogunhelmet_clothing_shogunhelmet_icon_a.png
+  rotate: false
+  xy: 44, 24
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

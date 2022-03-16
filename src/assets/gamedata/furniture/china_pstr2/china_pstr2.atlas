@@ -1,0 +1,41 @@
+
+china_pstr2.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+china_pstr2_china_pstr2_64_a_2_0.png
+  rotate: false
+  xy: 134, 39
+  size: 64, 136
+  orig: 64, 136
+  offset: 0, 0
+  index: -1
+china_pstr2_china_pstr2_64_a_4_0.png
+  rotate: false
+  xy: 200, 39
+  size: 64, 136
+  orig: 64, 136
+  offset: 0, 0
+  index: -1
+china_pstr2_china_pstr2_64_b_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 64, 141
+  orig: 64, 141
+  offset: 0, 0
+  index: -1
+china_pstr2_china_pstr2_64_b_4_0.png
+  rotate: false
+  xy: 68, 34
+  size: 64, 141
+  orig: 64, 141
+  offset: 0, 0
+  index: -1
+china_pstr2_china_pstr2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

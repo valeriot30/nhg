@@ -1,0 +1,111 @@
+
+gothic_bowl.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gothic_bowl_gothic_bowl_64_a_0_0.png
+  rotate: false
+  xy: 2, 178
+  size: 58, 76
+  orig: 58, 76
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_0.png
+  rotate: false
+  xy: 28, 78
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_1.png
+  rotate: false
+  xy: 33, 114
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_10.png
+  rotate: false
+  xy: 2, 119
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_11.png
+  rotate: false
+  xy: 2, 158
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_12.png
+  rotate: false
+  xy: 2, 140
+  size: 49, 16
+  orig: 49, 16
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_3.png
+  rotate: false
+  xy: 43, 129
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_4.png
+  rotate: false
+  xy: 2, 11
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_5.png
+  rotate: false
+  xy: 2, 81
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_6.png
+  rotate: false
+  xy: 52, 166
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_7.png
+  rotate: false
+  xy: 2, 24
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_8.png
+  rotate: false
+  xy: 2, 61
+  size: 24, 18
+  orig: 24, 18
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_64_b_0_9.png
+  rotate: false
+  xy: 2, 98
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+gothic_bowl_gothic_bowl_icon_a.png
+  rotate: false
+  xy: 2, 41
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1

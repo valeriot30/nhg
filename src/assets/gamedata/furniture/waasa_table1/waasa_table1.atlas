@@ -1,0 +1,27 @@
+
+waasa_table1.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+waasa_table1_waasa_table1_64_a_0_0.png
+  rotate: false
+  xy: 2, 35
+  size: 68, 69
+  orig: 68, 69
+  offset: 0, 0
+  index: -1
+waasa_table1_waasa_table1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 31
+  orig: 64, 31
+  offset: 0, 0
+  index: -1
+waasa_table1_waasa_table1_icon_a.png
+  rotate: false
+  xy: 72, 81
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1

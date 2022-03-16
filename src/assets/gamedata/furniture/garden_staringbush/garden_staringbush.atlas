@@ -1,0 +1,90 @@
+
+garden_staringbush.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+garden_staringbush_garden_staringbush_64_a_4_0.png
+  rotate: false
+  xy: 191, 65
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_b_4_0.png
+  rotate: false
+  xy: 124, 67
+  size: 65, 59
+  orig: 65, 59
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_c_4_0.png
+  rotate: false
+  xy: 2, 8
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_d_4_0.png
+  rotate: false
+  xy: 22, 2
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_j_4_1.png
+  rotate: false
+  xy: 104, 51
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_j_4_2.png
+  rotate: false
+  xy: 104, 58
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_k_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_k_4_2.png
+  rotate: false
+  xy: 72, 27
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_l_4_1.png
+  rotate: false
+  xy: 12, 2
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_l_4_2.png
+  rotate: false
+  xy: 114, 59
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_64_sd_4_0.png
+  rotate: false
+  xy: 2, 68
+  size: 120, 58
+  orig: 120, 58
+  offset: 0, 0
+  index: -1
+garden_staringbush_garden_staringbush_icon_a.png
+  rotate: false
+  xy: 72, 36
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

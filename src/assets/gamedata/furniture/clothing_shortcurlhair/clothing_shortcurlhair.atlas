@@ -1,0 +1,20 @@
+
+clothing_shortcurlhair.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_shortcurlhair_clothing_shortcurlhair_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 46
+  orig: 31, 46
+  offset: 0, 0
+  index: -1
+clothing_shortcurlhair_clothing_shortcurlhair_icon_a.png
+  rotate: false
+  xy: 35, 18
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

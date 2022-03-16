@@ -1,0 +1,27 @@
+
+vikings_woodcrn.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_woodcrn_vikings_woodcrn_64_a_0_0.png
+  rotate: false
+  xy: 2, 66
+  size: 58, 73
+  orig: 58, 73
+  offset: 0, 0
+  index: -1
+vikings_woodcrn_vikings_woodcrn_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+vikings_woodcrn_vikings_woodcrn_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

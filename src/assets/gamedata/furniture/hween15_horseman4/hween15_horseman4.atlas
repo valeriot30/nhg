@@ -1,0 +1,195 @@
+
+hween15_horseman4.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween15_horseman4_hween15_horseman4_64_a_4_0.png
+  rotate: false
+  xy: 2, 33
+  size: 114, 171
+  orig: 114, 171
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_0.png
+  rotate: false
+  xy: 1714, 49
+  size: 82, 155
+  orig: 82, 155
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_1.png
+  rotate: false
+  xy: 1546, 46
+  size: 82, 158
+  orig: 82, 158
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_10.png
+  rotate: false
+  xy: 1378, 48
+  size: 82, 156
+  orig: 82, 156
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_11.png
+  rotate: false
+  xy: 2050, 51
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_12.png
+  rotate: false
+  xy: 1178, 49
+  size: 98, 155
+  orig: 98, 155
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_13.png
+  rotate: false
+  xy: 718, 45
+  size: 113, 159
+  orig: 113, 159
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_14.png
+  rotate: false
+  xy: 833, 50
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_15.png
+  rotate: false
+  xy: 478, 50
+  size: 118, 154
+  orig: 118, 154
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_16.png
+  rotate: false
+  xy: 238, 48
+  size: 118, 156
+  orig: 118, 156
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_17.png
+  rotate: false
+  xy: 598, 51
+  size: 118, 153
+  orig: 118, 153
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_18.png
+  rotate: false
+  xy: 358, 49
+  size: 118, 155
+  orig: 118, 155
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_19.png
+  rotate: false
+  xy: 118, 45
+  size: 118, 159
+  orig: 118, 159
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_2.png
+  rotate: false
+  xy: 2218, 51
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_20.png
+  rotate: false
+  xy: 948, 50
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_21.png
+  rotate: false
+  xy: 1063, 50
+  size: 113, 154
+  orig: 113, 154
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_22.png
+  rotate: false
+  xy: 1278, 48
+  size: 98, 156
+  orig: 98, 156
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_23.png
+  rotate: false
+  xy: 2386, 51
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_3.png
+  rotate: false
+  xy: 2134, 51
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_4.png
+  rotate: false
+  xy: 1462, 48
+  size: 82, 156
+  orig: 82, 156
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_5.png
+  rotate: false
+  xy: 2302, 51
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_6.png
+  rotate: false
+  xy: 1798, 49
+  size: 82, 155
+  orig: 82, 155
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_7.png
+  rotate: false
+  xy: 1630, 46
+  size: 82, 158
+  orig: 82, 158
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_8.png
+  rotate: false
+  xy: 1966, 50
+  size: 82, 154
+  orig: 82, 154
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_b_4_9.png
+  rotate: false
+  xy: 1882, 50
+  size: 82, 154
+  orig: 82, 154
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+hween15_horseman4_hween15_horseman4_icon_a.png
+  rotate: false
+  xy: 2470, 174
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

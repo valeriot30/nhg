@@ -1,0 +1,62 @@
+
+fest_c19_bgwall.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_bgwall_fest_c19_bgwall_64_a_4_0.png
+  rotate: false
+  xy: 158, 553
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+fest_c19_bgwall_fest_c19_bgwall_64_a_4_1.png
+  rotate: false
+  xy: 80, 36
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+fest_c19_bgwall_fest_c19_bgwall_64_a_4_2.png
+  rotate: false
+  xy: 80, 294
+  size: 64, 256
+  orig: 64, 256
+  offset: 0, 0
+  index: -1
+fest_c19_bgwall_fest_c19_bgwall_64_a_4_3.png
+  rotate: false
+  xy: 2, 34
+  size: 76, 257
+  orig: 76, 257
+  offset: 0, 0
+  index: -1
+fest_c19_bgwall_fest_c19_bgwall_64_a_4_4.png
+  rotate: false
+  xy: 2, 293
+  size: 76, 257
+  orig: 76, 257
+  offset: 0, 0
+  index: -1
+fest_c19_bgwall_fest_c19_bgwall_64_a_4_5.png
+  rotate: false
+  xy: 80, 552
+  size: 76, 257
+  orig: 76, 257
+  offset: 0, 0
+  index: -1
+fest_c19_bgwall_fest_c19_bgwall_64_a_4_6.png
+  rotate: false
+  xy: 2, 552
+  size: 76, 257
+  orig: 76, 257
+  offset: 0, 0
+  index: -1
+fest_c19_bgwall_fest_c19_bgwall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

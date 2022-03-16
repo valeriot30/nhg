@@ -1,0 +1,20 @@
+
+sw_hole.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sw_hole_sw_hole_64_a_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 42, 69
+  orig: 42, 69
+  offset: 0, 0
+  index: -1
+sw_hole_sw_hole_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1

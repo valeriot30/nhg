@@ -1,0 +1,55 @@
+
+xmas2011_snowlog.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas2011_snowlog_xmas2011_snowlog_64_a_2_0.png
+  rotate: false
+  xy: 303, 7
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+xmas2011_snowlog_xmas2011_snowlog_64_a_6_0.png
+  rotate: false
+  xy: 366, 6
+  size: 58, 47
+  orig: 58, 47
+  offset: 0, 0
+  index: -1
+xmas2011_snowlog_xmas2011_snowlog_64_b_2_0.png
+  rotate: false
+  xy: 178, 3
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+xmas2011_snowlog_xmas2011_snowlog_64_b_6_0.png
+  rotate: false
+  xy: 243, 2
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+xmas2011_snowlog_xmas2011_snowlog_64_sd_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 88, 45
+  orig: 88, 45
+  offset: 0, 0
+  index: -1
+xmas2011_snowlog_xmas2011_snowlog_64_sd_2_0.png
+  rotate: false
+  xy: 92, 10
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+xmas2011_snowlog_xmas2011_snowlog_icon_a.png
+  rotate: false
+  xy: 426, 30
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1

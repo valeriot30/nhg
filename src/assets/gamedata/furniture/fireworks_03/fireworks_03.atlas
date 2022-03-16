@@ -1,0 +1,90 @@
+
+fireworks_03.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fireworks_03_fireworks_03_64_a_0_0.png
+  rotate: false
+  xy: 324, 421
+  size: 47, 55
+  orig: 47, 55
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_a_0_1.png
+  rotate: false
+  xy: 2, 91
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_b_0_1.png
+  rotate: false
+  xy: 51, 110
+  size: 21, 69
+  orig: 21, 69
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_b_0_2.png
+  rotate: false
+  xy: 2, 21
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_b_0_3.png
+  rotate: false
+  xy: 324, 358
+  size: 29, 61
+  orig: 29, 61
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_c_0_0.png
+  rotate: false
+  xy: 324, 355
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_c_0_1.png
+  rotate: false
+  xy: 51, 105
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_c_0_2.png
+  rotate: false
+  xy: 33, 78
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_d_0_0.png
+  rotate: false
+  xy: 74, 178
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_d_0_1.png
+  rotate: false
+  xy: 2, 181
+  size: 320, 295
+  orig: 320, 295
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_64_e_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+fireworks_03_fireworks_03_icon_a.png
+  rotate: false
+  xy: 373, 445
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

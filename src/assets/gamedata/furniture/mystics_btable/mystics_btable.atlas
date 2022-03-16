@@ -1,0 +1,195 @@
+
+mystics_btable.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mystics_btable_mystics_btable_32_j_0_0.png
+  rotate: false
+  xy: 373, 91
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_32_j_0_0.png
+  rotate: false
+  xy: 376, 91
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_32_j_0_0.png
+  rotate: false
+  xy: 505, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_32_j_0_0.png
+  rotate: false
+  xy: 437, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_32_j_0_0.png
+  rotate: false
+  xy: 437, 94
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_a_0_0.png
+  rotate: false
+  xy: 2, 44
+  size: 61, 82
+  orig: 61, 82
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_b_0_0.png
+  rotate: false
+  xy: 130, 65
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_c_0_0.png
+  rotate: false
+  xy: 65, 66
+  size: 63, 60
+  orig: 63, 60
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_d_0_0.png
+  rotate: false
+  xy: 193, 67
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_e_0_0.png
+  rotate: false
+  xy: 109, 47
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_f_0_1.png
+  rotate: false
+  xy: 253, 69
+  size: 50, 57
+  orig: 50, 57
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_g_0_1.png
+  rotate: false
+  xy: 2, 13
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_h_0_1.png
+  rotate: false
+  xy: 342, 65
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_h_0_2.png
+  rotate: false
+  xy: 305, 65
+  size: 35, 23
+  orig: 35, 23
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_i_0_1.png
+  rotate: false
+  xy: 54, 16
+  size: 9, 26
+  orig: 9, 26
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_i_0_2.png
+  rotate: false
+  xy: 65, 14
+  size: 11, 26
+  orig: 11, 26
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_i_0_3.png
+  rotate: false
+  xy: 491, 99
+  size: 12, 27
+  orig: 12, 27
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_i_0_4.png
+  rotate: false
+  xy: 78, 11
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_j_0_1.png
+  rotate: false
+  xy: 21, 6
+  size: 10, 5
+  orig: 10, 5
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_j_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_j_0_3.png
+  rotate: false
+  xy: 410, 62
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_j_0_4.png
+  rotate: false
+  xy: 410, 76
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_j_0_5.png
+  rotate: false
+  xy: 65, 42
+  size: 42, 22
+  orig: 42, 22
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_j_0_6.png
+  rotate: false
+  xy: 437, 100
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_j_0_7.png
+  rotate: false
+  xy: 373, 94
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_64_j_0_8.png
+  rotate: false
+  xy: 305, 90
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+mystics_btable_mystics_btable_icon_a.png
+  rotate: false
+  xy: 379, 62
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

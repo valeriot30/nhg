@@ -1,0 +1,41 @@
+
+limo_w_mid2.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+limo_w_mid2_limo_w_mid2_64_a_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+limo_w_mid2_limo_w_mid2_64_b_2_0.png
+  rotate: false
+  xy: 119, 86
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+limo_w_mid2_limo_w_mid2_64_c_2_0.png
+  rotate: false
+  xy: 69, 28
+  size: 48, 57
+  orig: 48, 57
+  offset: 0, 0
+  index: -1
+limo_w_mid2_limo_w_mid2_64_sd_2_0.png
+  rotate: false
+  xy: 2, 87
+  size: 102, 37
+  orig: 102, 37
+  offset: 0, 0
+  index: -1
+limo_w_mid2_limo_w_mid2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1

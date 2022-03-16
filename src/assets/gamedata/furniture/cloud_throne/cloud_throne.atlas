@@ -1,0 +1,48 @@
+
+cloud_throne.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cloud_throne_cloud_throne_64_a_0_0.png
+  rotate: false
+  xy: 189, 169
+  size: 113, 67
+  orig: 113, 67
+  offset: 0, 0
+  index: -1
+cloud_throne_cloud_throne_64_b_0_0.png
+  rotate: false
+  xy: 189, 72
+  size: 74, 95
+  orig: 74, 95
+  offset: 0, 0
+  index: -1
+cloud_throne_cloud_throne_64_c_0_0.png
+  rotate: false
+  xy: 304, 205
+  size: 37, 31
+  orig: 37, 31
+  offset: 0, 0
+  index: -1
+cloud_throne_cloud_throne_64_d_0_0.png
+  rotate: false
+  xy: 2, 75
+  size: 185, 161
+  orig: 185, 161
+  offset: 0, 0
+  index: -1
+cloud_throne_cloud_throne_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 113, 71
+  orig: 113, 71
+  offset: 0, 0
+  index: -1
+cloud_throne_cloud_throne_icon_a.png
+  rotate: false
+  xy: 117, 43
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

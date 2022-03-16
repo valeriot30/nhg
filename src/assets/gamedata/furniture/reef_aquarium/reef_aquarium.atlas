@@ -1,0 +1,580 @@
+
+reef_aquarium.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+reef_aquarium_reef_aquarium_64_a_2_0.png
+  rotate: false
+  xy: 206, 263
+  size: 259, 247
+  orig: 259, 247
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_b_2_0.png
+  rotate: false
+  xy: 467, 231
+  size: 192, 279
+  orig: 192, 279
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_c_2_0.png
+  rotate: false
+  xy: 661, 199
+  size: 128, 311
+  orig: 128, 311
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_d_2_0.png
+  rotate: false
+  xy: 791, 168
+  size: 64, 342
+  orig: 64, 342
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_e_2_0.png
+  rotate: false
+  xy: 999, 347
+  size: 10, 117
+  orig: 10, 117
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_e_2_1.png
+  rotate: false
+  xy: 993, 232
+  size: 10, 113
+  orig: 10, 113
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_e_2_2.png
+  rotate: false
+  xy: 981, 186
+  size: 10, 114
+  orig: 10, 114
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_e_2_3.png
+  rotate: false
+  xy: 975, 302
+  size: 10, 117
+  orig: 10, 117
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_e_2_4.png
+  rotate: false
+  xy: 987, 347
+  size: 10, 117
+  orig: 10, 117
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_e_2_5.png
+  rotate: false
+  xy: 1011, 348
+  size: 10, 116
+  orig: 10, 116
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_0.png
+  rotate: false
+  xy: 248, 2
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_10.png
+  rotate: false
+  xy: 327, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_11.png
+  rotate: false
+  xy: 1005, 276
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_12.png
+  rotate: false
+  xy: 297, 2
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_2.png
+  rotate: false
+  xy: 344, 9
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_5.png
+  rotate: false
+  xy: 539, 31
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_6.png
+  rotate: false
+  xy: 924, 168
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_7.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_8.png
+  rotate: false
+  xy: 394, 6
+  size: 13, 12
+  orig: 13, 12
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_f_2_9.png
+  rotate: false
+  xy: 630, 41
+  size: 22, 14
+  orig: 22, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_g_2_0.png
+  rotate: false
+  xy: 1005, 331
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_g_2_1.png
+  rotate: false
+  xy: 1005, 315
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_g_2_2.png
+  rotate: false
+  xy: 642, 199
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_1.png
+  rotate: false
+  xy: 135, 5
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_10.png
+  rotate: false
+  xy: 970, 165
+  size: 10, 14
+  orig: 10, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_11.png
+  rotate: false
+  xy: 1005, 245
+  size: 15, 13
+  orig: 15, 13
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_13.png
+  rotate: false
+  xy: 177, 4
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_14.png
+  rotate: false
+  xy: 156, 5
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_15.png
+  rotate: false
+  xy: 909, 166
+  size: 13, 17
+  orig: 13, 17
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_16.png
+  rotate: false
+  xy: 1005, 299
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_3.png
+  rotate: false
+  xy: 642, 215
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_4.png
+  rotate: false
+  xy: 1005, 260
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_5.png
+  rotate: false
+  xy: 69, 2
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_6.png
+  rotate: false
+  xy: 87, 2
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_7.png
+  rotate: false
+  xy: 381, 9
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_8.png
+  rotate: false
+  xy: 468, 99
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_h_2_9.png
+  rotate: false
+  xy: 281, 3
+  size: 10, 18
+  orig: 10, 18
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_0.png
+  rotate: false
+  xy: 297, 24
+  size: 48, 27
+  orig: 48, 27
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_1.png
+  rotate: false
+  xy: 248, 23
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_10.png
+  rotate: false
+  xy: 924, 181
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_11.png
+  rotate: false
+  xy: 418, 186
+  size: 47, 75
+  orig: 47, 75
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_12.png
+  rotate: false
+  xy: 347, 23
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_13.png
+  rotate: false
+  xy: 689, 166
+  size: 40, 31
+  orig: 40, 31
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_14.png
+  rotate: false
+  xy: 539, 45
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_15.png
+  rotate: false
+  xy: 594, 5
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_16.png
+  rotate: false
+  xy: 759, 161
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_17.png
+  rotate: false
+  xy: 525, 120
+  size: 46, 70
+  orig: 46, 70
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_18.png
+  rotate: false
+  xy: 923, 258
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_19.png
+  rotate: false
+  xy: 468, 116
+  size: 55, 74
+  orig: 55, 74
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_2.png
+  rotate: false
+  xy: 418, 99
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_20.png
+  rotate: false
+  xy: 135, 21
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_21.png
+  rotate: false
+  xy: 857, 185
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_22.png
+  rotate: false
+  xy: 418, 28
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_23.png
+  rotate: false
+  xy: 576, 165
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_24.png
+  rotate: false
+  xy: 573, 103
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_25.png
+  rotate: false
+  xy: 573, 42
+  size: 55, 59
+  orig: 55, 59
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_26.png
+  rotate: false
+  xy: 484, 55
+  size: 46, 59
+  orig: 46, 59
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_28.png
+  rotate: false
+  xy: 948, 166
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_29.png
+  rotate: false
+  xy: 395, 20
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_3.png
+  rotate: false
+  xy: 923, 332
+  size: 50, 87
+  orig: 50, 87
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_30.png
+  rotate: false
+  xy: 572, 2
+  size: 20, 38
+  orig: 20, 38
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_31.png
+  rotate: false
+  xy: 630, 57
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_32.png
+  rotate: false
+  xy: 993, 185
+  size: 29, 45
+  orig: 29, 45
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_33.png
+  rotate: false
+  xy: 980, 466
+  size: 36, 44
+  orig: 36, 44
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_34.png
+  rotate: false
+  xy: 201, 9
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_35.png
+  rotate: false
+  xy: 467, 192
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_36.png
+  rotate: false
+  xy: 522, 192
+  size: 52, 37
+  orig: 52, 37
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_37.png
+  rotate: false
+  xy: 484, 28
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_38.png
+  rotate: false
+  xy: 857, 165
+  size: 50, 18
+  orig: 50, 18
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_39.png
+  rotate: false
+  xy: 642, 170
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_4.png
+  rotate: false
+  xy: 923, 421
+  size: 55, 89
+  orig: 55, 89
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_5.png
+  rotate: false
+  xy: 857, 422
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_6.png
+  rotate: false
+  xy: 2, 8
+  size: 65, 86
+  orig: 65, 86
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_7.png
+  rotate: false
+  xy: 857, 335
+  size: 64, 85
+  orig: 64, 85
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_8.png
+  rotate: false
+  xy: 69, 14
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_i_2_9.png
+  rotate: false
+  xy: 857, 257
+  size: 64, 76
+  orig: 64, 76
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_j_2_7.png
+  rotate: false
+  xy: 532, 80
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_k_2_0.png
+  rotate: false
+  xy: 210, 53
+  size: 206, 103
+  orig: 206, 103
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_k_2_1.png
+  rotate: false
+  xy: 210, 158
+  size: 206, 103
+  orig: 206, 103
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_k_2_2.png
+  rotate: false
+  xy: 2, 96
+  size: 206, 103
+  orig: 206, 103
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_64_l_2_2.png
+  rotate: false
+  xy: 2, 201
+  size: 202, 309
+  orig: 202, 309
+  offset: 0, 0
+  index: -1
+reef_aquarium_reef_aquarium_icon_a.png
+  rotate: false
+  xy: 731, 165
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1

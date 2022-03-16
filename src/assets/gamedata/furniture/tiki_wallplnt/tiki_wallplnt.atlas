@@ -1,0 +1,27 @@
+
+tiki_wallplnt.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tiki_wallplnt_tiki_wallplnt_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 74, 123
+  orig: 74, 123
+  offset: 0, 0
+  index: -1
+tiki_wallplnt_tiki_wallplnt_64_b_2_0.png
+  rotate: false
+  xy: 78, 13
+  size: 56, 112
+  orig: 56, 112
+  offset: 0, 0
+  index: -1
+tiki_wallplnt_tiki_wallplnt_icon_a.png
+  rotate: false
+  xy: 136, 95
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

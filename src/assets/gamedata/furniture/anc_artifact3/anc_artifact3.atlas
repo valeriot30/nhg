@@ -1,0 +1,174 @@
+
+anc_artifact3.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anc_artifact3_anc_artifact3_64_a_2_0.png
+  rotate: false
+  xy: 99, 59
+  size: 54, 177
+  orig: 54, 177
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_b_2_0.png
+  rotate: false
+  xy: 65, 27
+  size: 32, 209
+  orig: 32, 209
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 234
+  orig: 61, 234
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_0.png
+  rotate: false
+  xy: 177, 68
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_1.png
+  rotate: false
+  xy: 114, 4
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_14.png
+  rotate: false
+  xy: 218, 211
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_15.png
+  rotate: false
+  xy: 186, 211
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_2.png
+  rotate: false
+  xy: 139, 4
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_3.png
+  rotate: false
+  xy: 163, 4
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_32.png
+  rotate: false
+  xy: 186, 153
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_33.png
+  rotate: false
+  xy: 130, 29
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_34.png
+  rotate: false
+  xy: 154, 29
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_35.png
+  rotate: false
+  xy: 155, 180
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_36.png
+  rotate: false
+  xy: 155, 152
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_37.png
+  rotate: false
+  xy: 155, 209
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_4.png
+  rotate: false
+  xy: 92, 2
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_43.png
+  rotate: false
+  xy: 99, 29
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_44.png
+  rotate: false
+  xy: 186, 183
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_46.png
+  rotate: false
+  xy: 217, 181
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_5.png
+  rotate: false
+  xy: 65, 2
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_6.png
+  rotate: false
+  xy: 213, 154
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_7.png
+  rotate: false
+  xy: 155, 93
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_64_d_2_8.png
+  rotate: false
+  xy: 155, 122
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1
+anc_artifact3_anc_artifact3_icon_a.png
+  rotate: false
+  xy: 155, 59
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+hotel_c18_pool.png
+size: 2048,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hotel_c18_pool_hotel_c18_pool_64_a_0_0.png
+  rotate: false
+  xy: 1627, 27
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_a_2_0.png
+  rotate: false
+  xy: 1699, 27
+  size: 70, 34
+  orig: 70, 34
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_b_0_0.png
+  rotate: false
+  xy: 1359, 27
+  size: 134, 34
+  orig: 134, 34
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_b_2_0.png
+  rotate: false
+  xy: 1223, 27
+  size: 134, 34
+  orig: 134, 34
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_c_0_0.png
+  rotate: false
+  xy: 197, 21
+  size: 193, 40
+  orig: 193, 40
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_c_2_0.png
+  rotate: false
+  xy: 2, 21
+  size: 193, 40
+  orig: 193, 40
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_d_0_0.png
+  rotate: false
+  xy: 392, 21
+  size: 189, 40
+  orig: 189, 40
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_d_2_0.png
+  rotate: false
+  xy: 583, 21
+  size: 189, 40
+  orig: 189, 40
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_e_0_0.png
+  rotate: false
+  xy: 967, 23
+  size: 126, 38
+  orig: 126, 38
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_e_2_0.png
+  rotate: false
+  xy: 1095, 23
+  size: 126, 38
+  orig: 126, 38
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_f_0_0.png
+  rotate: false
+  xy: 1771, 24
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_f_2_0.png
+  rotate: false
+  xy: 1835, 24
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_g_0_0.png
+  rotate: false
+  xy: 1967, 3
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_g_2_0.png
+  rotate: false
+  xy: 1967, 33
+  size: 33, 28
+  orig: 33, 28
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_h_0_0.png
+  rotate: false
+  xy: 774, 3
+  size: 191, 28
+  orig: 191, 28
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_h_2_0.png
+  rotate: false
+  xy: 774, 33
+  size: 191, 28
+  orig: 191, 28
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_i_0_0.png
+  rotate: false
+  xy: 1495, 33
+  size: 130, 28
+  orig: 130, 28
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_i_2_0.png
+  rotate: false
+  xy: 1495, 3
+  size: 130, 28
+  orig: 130, 28
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_j_0_0.png
+  rotate: false
+  xy: 1899, 3
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_64_j_2_0.png
+  rotate: false
+  xy: 1899, 33
+  size: 66, 28
+  orig: 66, 28
+  offset: 0, 0
+  index: -1
+hotel_c18_pool_hotel_c18_pool_icon_a.png
+  rotate: false
+  xy: 967, 2
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1

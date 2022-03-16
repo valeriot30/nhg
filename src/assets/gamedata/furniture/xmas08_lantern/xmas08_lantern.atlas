@@ -1,0 +1,41 @@
+
+xmas08_lantern.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas08_lantern_xmas08_lantern_32_b_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas08_lantern_xmas08_lantern_64_a_0_0.png
+  rotate: false
+  xy: 54, 17
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+xmas08_lantern_xmas08_lantern_64_b_0_1.png
+  rotate: false
+  xy: 2, 9
+  size: 50, 47
+  orig: 50, 47
+  offset: 0, 0
+  index: -1
+xmas08_lantern_xmas08_lantern_64_sd_0_0.png
+  rotate: false
+  xy: 54, 2
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+xmas08_lantern_xmas08_lantern_icon_a.png
+  rotate: false
+  xy: 98, 36
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1

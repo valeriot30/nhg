@@ -1,0 +1,27 @@
+
+nest_ice.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+nest_ice_nest_ice_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+nest_ice_nest_ice_64_sd_2_0.png
+  rotate: false
+  xy: 71, 2
+  size: 67, 41
+  orig: 67, 41
+  offset: 0, 0
+  index: -1
+nest_ice_nest_ice_icon_a.png
+  rotate: false
+  xy: 140, 23
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+fest_c19_materials.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_materials_fest_c19_materials_64_a_0_0.png
+  rotate: false
+  xy: 2, 23
+  size: 56, 37
+  orig: 56, 37
+  offset: 0, 0
+  index: -1
+fest_c19_materials_fest_c19_materials_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1

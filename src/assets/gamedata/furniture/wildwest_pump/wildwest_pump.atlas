@@ -1,0 +1,118 @@
+
+wildwest_pump.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_pump_wildwest_pump_64_a_4_0.png
+  rotate: false
+  xy: 45, 14
+  size: 36, 42
+  orig: 36, 42
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_b_4_0.png
+  rotate: false
+  xy: 125, 16
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_b_4_1.png
+  rotate: false
+  xy: 83, 21
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_b_4_2.png
+  rotate: false
+  xy: 2, 15
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_c_4_0.png
+  rotate: false
+  xy: 93, 18
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_c_4_1.png
+  rotate: false
+  xy: 224, 53
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_c_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 3, 4
+  orig: 3, 4
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_c_4_3.png
+  rotate: false
+  xy: 159, 20
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_c_4_5.png
+  rotate: false
+  xy: 2, 8
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_c_4_6.png
+  rotate: false
+  xy: 83, 15
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_c_4_7.png
+  rotate: false
+  xy: 182, 31
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_c_4_8.png
+  rotate: false
+  xy: 11, 12
+  size: 5, 1
+  orig: 5, 1
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_d_4_1.png
+  rotate: false
+  xy: 213, 38
+  size: 9, 18
+  orig: 9, 18
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_d_4_2.png
+  rotate: false
+  xy: 198, 37
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_64_d_4_3.png
+  rotate: false
+  xy: 182, 36
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+wildwest_pump_wildwest_pump_icon_a.png
+  rotate: false
+  xy: 159, 27
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1

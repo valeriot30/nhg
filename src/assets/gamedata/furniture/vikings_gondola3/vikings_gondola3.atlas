@@ -1,0 +1,104 @@
+
+vikings_gondola3.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_gondola3_vikings_gondola3_64_a_0_0.png
+  rotate: false
+  xy: 118, 44
+  size: 117, 81
+  orig: 117, 81
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 114, 123
+  orig: 114, 123
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_b_0_0.png
+  rotate: false
+  xy: 407, 19
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_b_4_0.png
+  rotate: false
+  xy: 324, 47
+  size: 81, 78
+  orig: 81, 78
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_c_0_0.png
+  rotate: false
+  xy: 407, 73
+  size: 99, 52
+  orig: 99, 52
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_c_4_0.png
+  rotate: false
+  xy: 237, 56
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_d_0_0.png
+  rotate: false
+  xy: 118, 12
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_d_4_0.png
+  rotate: false
+  xy: 324, 28
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_d_4_1.png
+  rotate: false
+  xy: 293, 79
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_e_0_0.png
+  rotate: false
+  xy: 226, 24
+  size: 96, 18
+  orig: 96, 18
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_e_0_1.png
+  rotate: false
+  xy: 118, 15
+  size: 106, 27
+  orig: 106, 27
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_e_4_0.png
+  rotate: false
+  xy: 226, 2
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_64_e_4_1.png
+  rotate: false
+  xy: 287, 4
+  size: 57, 18
+  orig: 57, 18
+  offset: 0, 0
+  index: -1
+vikings_gondola3_vikings_gondola3_icon_a.png
+  rotate: false
+  xy: 293, 99
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1

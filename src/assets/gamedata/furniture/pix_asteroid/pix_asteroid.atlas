@@ -1,0 +1,125 @@
+
+pix_asteroid.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pix_asteroid_pix_asteroid_64_a_0_0.png
+  rotate: false
+  xy: 209, 11
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_1.png
+  rotate: false
+  xy: 314, 11
+  size: 50, 45
+  orig: 50, 45
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_10.png
+  rotate: false
+  xy: 262, 10
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_11.png
+  rotate: false
+  xy: 366, 7
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_12.png
+  rotate: false
+  xy: 466, 4
+  size: 46, 52
+  orig: 46, 52
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_13.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_14.png
+  rotate: false
+  xy: 50, 5
+  size: 49, 51
+  orig: 49, 51
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_2.png
+  rotate: false
+  xy: 155, 11
+  size: 52, 45
+  orig: 52, 45
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_3.png
+  rotate: false
+  xy: 101, 10
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_4.png
+  rotate: false
+  xy: 416, 7
+  size: 48, 49
+  orig: 48, 49
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_5.png
+  rotate: false
+  xy: 514, 6
+  size: 46, 50
+  orig: 46, 50
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_6.png
+  rotate: false
+  xy: 562, 6
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_7.png
+  rotate: false
+  xy: 609, 9
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_8.png
+  rotate: false
+  xy: 709, 13
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_a_0_9.png
+  rotate: false
+  xy: 658, 12
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_64_sd_0_0.png
+  rotate: false
+  xy: 759, 37
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+pix_asteroid_pix_asteroid_icon_a.png
+  rotate: false
+  xy: 759, 12
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

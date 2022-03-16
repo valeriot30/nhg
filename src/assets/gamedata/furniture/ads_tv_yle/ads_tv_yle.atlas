@@ -1,0 +1,671 @@
+
+ads_tv_yle.png
+size: 4096,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_tv_yle_ads_tv_yle_64_a_2_1.png
+  rotate: false
+  xy: 1201, 33
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_a_4_0.png
+  rotate: false
+  xy: 1323, 33
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_2_0.png
+  rotate: false
+  xy: 566, 155
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_2_1.png
+  rotate: false
+  xy: 566, 332
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_2_2.png
+  rotate: false
+  xy: 390, 155
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_2_3.png
+  rotate: false
+  xy: 390, 332
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_2_4.png
+  rotate: false
+  xy: 214, 155
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_2_5.png
+  rotate: false
+  xy: 214, 332
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_4_0.png
+  rotate: false
+  xy: 742, 332
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_4_1.png
+  rotate: false
+  xy: 1094, 332
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_4_2.png
+  rotate: false
+  xy: 918, 155
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_4_3.png
+  rotate: false
+  xy: 918, 332
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_4_4.png
+  rotate: false
+  xy: 742, 155
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_b_4_5.png
+  rotate: false
+  xy: 1094, 155
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_2_1.png
+  rotate: false
+  xy: 1439, 211
+  size: 140, 147
+  orig: 140, 147
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_2_2.png
+  rotate: false
+  xy: 2287, 362
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_2_3.png
+  rotate: false
+  xy: 2146, 362
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_2_4.png
+  rotate: false
+  xy: 2428, 362
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_2_5.png
+  rotate: false
+  xy: 2287, 215
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_2_6.png
+  rotate: false
+  xy: 2569, 362
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_2_7.png
+  rotate: false
+  xy: 2428, 215
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_2_8.png
+  rotate: false
+  xy: 2569, 215
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_4_1.png
+  rotate: false
+  xy: 1439, 360
+  size: 140, 147
+  orig: 140, 147
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_4_2.png
+  rotate: false
+  xy: 1723, 362
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_4_3.png
+  rotate: false
+  xy: 1723, 215
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_4_4.png
+  rotate: false
+  xy: 1864, 362
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_4_5.png
+  rotate: false
+  xy: 1864, 215
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_4_6.png
+  rotate: false
+  xy: 2005, 362
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_4_7.png
+  rotate: false
+  xy: 2005, 215
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_c_4_8.png
+  rotate: false
+  xy: 2146, 215
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_d_2_0.png
+  rotate: false
+  xy: 1581, 361
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_d_4_0.png
+  rotate: false
+  xy: 1581, 213
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_e_2_1.png
+  rotate: false
+  xy: 2, 87
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_e_4_0.png
+  rotate: false
+  xy: 1806, 112
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_e_4_1.png
+  rotate: false
+  xy: 2, 298
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_f_2_1.png
+  rotate: false
+  xy: 1270, 332
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_f_4_1.png
+  rotate: false
+  xy: 1270, 155
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_1.png
+  rotate: false
+  xy: 88, 51
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_10.png
+  rotate: false
+  xy: 2710, 373
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_11.png
+  rotate: false
+  xy: 2710, 237
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_12.png
+  rotate: false
+  xy: 2851, 373
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_13.png
+  rotate: false
+  xy: 3415, 373
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_14.png
+  rotate: false
+  xy: 3415, 237
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_15.png
+  rotate: false
+  xy: 3556, 373
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_16.png
+  rotate: false
+  xy: 3556, 237
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_17.png
+  rotate: false
+  xy: 3133, 237
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_18.png
+  rotate: false
+  xy: 3274, 373
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_19.png
+  rotate: false
+  xy: 3274, 237
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_2.png
+  rotate: false
+  xy: 1843, 66
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_20.png
+  rotate: false
+  xy: 3838, 237
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_21.png
+  rotate: false
+  xy: 214, 19
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_22.png
+  rotate: false
+  xy: 3697, 237
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_23.png
+  rotate: false
+  xy: 3838, 373
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_24.png
+  rotate: false
+  xy: 637, 19
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_25.png
+  rotate: false
+  xy: 778, 19
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_26.png
+  rotate: false
+  xy: 355, 19
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_27.png
+  rotate: false
+  xy: 496, 19
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_28.png
+  rotate: false
+  xy: 919, 19
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_29.png
+  rotate: false
+  xy: 1060, 19
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_3.png
+  rotate: false
+  xy: 2710, 215
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_30.png
+  rotate: false
+  xy: 1787, 31
+  size: 25, 79
+  orig: 25, 79
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_31.png
+  rotate: false
+  xy: 1814, 36
+  size: 27, 77
+  orig: 27, 77
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_32.png
+  rotate: false
+  xy: 1731, 33
+  size: 54, 77
+  orig: 54, 77
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_33.png
+  rotate: false
+  xy: 1675, 25
+  size: 54, 79
+  orig: 54, 79
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_34.png
+  rotate: false
+  xy: 2631, 120
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_35.png
+  rotate: false
+  xy: 1619, 11
+  size: 54, 93
+  orig: 54, 93
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_36.png
+  rotate: false
+  xy: 1887, 120
+  size: 82, 93
+  orig: 82, 93
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_37.png
+  rotate: false
+  xy: 2057, 120
+  size: 75, 93
+  orig: 75, 93
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_38.png
+  rotate: false
+  xy: 2562, 123
+  size: 67, 90
+  orig: 67, 90
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_39.png
+  rotate: false
+  xy: 2492, 123
+  size: 68, 90
+  orig: 68, 90
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_4.png
+  rotate: false
+  xy: 2687, 133
+  size: 39, 80
+  orig: 39, 80
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_40.png
+  rotate: false
+  xy: 1566, 119
+  size: 69, 90
+  orig: 69, 90
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_41.png
+  rotate: false
+  xy: 1445, 119
+  size: 119, 90
+  orig: 119, 90
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_42.png
+  rotate: false
+  xy: 3979, 410
+  size: 114, 97
+  orig: 114, 97
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_43.png
+  rotate: false
+  xy: 3979, 303
+  size: 104, 105
+  orig: 104, 105
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_44.png
+  rotate: false
+  xy: 3979, 209
+  size: 94, 92
+  orig: 94, 92
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_45.png
+  rotate: false
+  xy: 1971, 123
+  size: 84, 90
+  orig: 84, 90
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_46.png
+  rotate: false
+  xy: 2134, 122
+  size: 73, 91
+  orig: 73, 91
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_47.png
+  rotate: false
+  xy: 2282, 122
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_48.png
+  rotate: false
+  xy: 2422, 122
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_49.png
+  rotate: false
+  xy: 2352, 122
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_5.png
+  rotate: false
+  xy: 3697, 373
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_50.png
+  rotate: false
+  xy: 2209, 118
+  size: 71, 95
+  orig: 71, 95
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_51.png
+  rotate: false
+  xy: 1806, 115
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_52.png
+  rotate: false
+  xy: 1723, 112
+  size: 81, 101
+  orig: 81, 101
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_53.png
+  rotate: false
+  xy: 1637, 106
+  size: 84, 105
+  orig: 84, 105
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_54.png
+  rotate: false
+  xy: 1532, 8
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_55.png
+  rotate: false
+  xy: 1445, 8
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_56.png
+  rotate: false
+  xy: 2, 31
+  size: 84, 54
+  orig: 84, 54
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_57.png
+  rotate: false
+  xy: 4085, 401
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_6.png
+  rotate: false
+  xy: 3133, 373
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_7.png
+  rotate: false
+  xy: 2992, 237
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_8.png
+  rotate: false
+  xy: 2992, 373
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_64_g_2_9.png
+  rotate: false
+  xy: 2851, 237
+  size: 139, 134
+  orig: 139, 134
+  offset: 0, 0
+  index: -1
+ads_tv_yle_ads_tv_yle_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+hween_c19_bewitchedchair.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_bewitchedchair_hween_c19_bewitchedchair_64_a_0_0.png
+  rotate: false
+  xy: 48, 161
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+hween_c19_bewitchedchair_hween_c19_bewitchedchair_64_a_2_0.png
+  rotate: false
+  xy: 2, 174
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+hween_c19_bewitchedchair_hween_c19_bewitchedchair_64_b_0_0.png
+  rotate: false
+  xy: 2, 104
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+hween_c19_bewitchedchair_hween_c19_bewitchedchair_64_b_2_0.png
+  rotate: false
+  xy: 2, 55
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+hween_c19_bewitchedchair_hween_c19_bewitchedchair_64_sd_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+hween_c19_bewitchedchair_hween_c19_bewitchedchair_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1

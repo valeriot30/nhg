@@ -1,0 +1,27 @@
+
+hween_c19_birchtree.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_birchtree_hween_c19_birchtree_64_a_0_0.png
+  rotate: false
+  xy: 2, 52
+  size: 142, 345
+  orig: 142, 345
+  offset: 0, 0
+  index: -1
+hween_c19_birchtree_hween_c19_birchtree_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 79, 48
+  orig: 79, 48
+  offset: 0, 0
+  index: -1
+hween_c19_birchtree_hween_c19_birchtree_icon_a.png
+  rotate: false
+  xy: 146, 367
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

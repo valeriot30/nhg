@@ -1,0 +1,27 @@
+
+easter_c18_chiaplants.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c18_chiaplants_easter_c18_chiaplants_64_a_0_0.png
+  rotate: false
+  xy: 34, 2
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+easter_c18_chiaplants_easter_c18_chiaplants_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+easter_c18_chiaplants_easter_c18_chiaplants_64_sd_0_0.png
+  rotate: false
+  xy: 63, 15
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1

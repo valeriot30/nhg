@@ -1,0 +1,90 @@
+
+shallow_test.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+shallow_test_shallow_test_64_a_0_0.png
+  rotate: false
+  xy: 2, 56
+  size: 131, 70
+  orig: 131, 70
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_b_0_0.png
+  rotate: false
+  xy: 114, 35
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_c_0_0.png
+  rotate: false
+  xy: 135, 75
+  size: 51, 13
+  orig: 51, 13
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_d_0_0.png
+  rotate: false
+  xy: 2, 13
+  size: 75, 10
+  orig: 75, 10
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_e_0_0.png
+  rotate: false
+  xy: 135, 102
+  size: 95, 11
+  orig: 95, 11
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_f_0_0.png
+  rotate: false
+  xy: 135, 115
+  size: 118, 11
+  orig: 118, 11
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_g_0_0.png
+  rotate: false
+  xy: 2, 41
+  size: 126, 13
+  orig: 126, 13
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_h_0_0.png
+  rotate: false
+  xy: 2, 25
+  size: 110, 14
+  orig: 110, 14
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_i_0_0.png
+  rotate: false
+  xy: 135, 90
+  size: 68, 10
+  orig: 68, 10
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_j_0_0.png
+  rotate: false
+  xy: 135, 63
+  size: 52, 10
+  orig: 52, 10
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_64_k_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 9
+  orig: 23, 9
+  offset: 0, 0
+  index: -1
+shallow_test_shallow_test_icon_a.png
+  rotate: false
+  xy: 232, 83
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+bathroom_shower3.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bathroom_shower3_bathroom_shower3_32_b_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_64_a_2_0.png
+  rotate: false
+  xy: 138, 105
+  size: 66, 128
+  orig: 66, 128
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_64_a_2_1.png
+  rotate: false
+  xy: 206, 105
+  size: 66, 128
+  orig: 66, 128
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_64_b_2_0.png
+  rotate: false
+  xy: 274, 137
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_64_b_2_1.png
+  rotate: false
+  xy: 52, 6
+  size: 48, 96
+  orig: 48, 96
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_64_b_2_2.png
+  rotate: false
+  xy: 324, 138
+  size: 48, 95
+  orig: 48, 95
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_64_b_2_3.png
+  rotate: false
+  xy: 2, 5
+  size: 48, 97
+  orig: 48, 97
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_64_c_2_0.png
+  rotate: false
+  xy: 2, 104
+  size: 66, 129
+  orig: 66, 129
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_64_c_2_1.png
+  rotate: false
+  xy: 70, 104
+  size: 66, 129
+  orig: 66, 129
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_64_sd_2_0.png
+  rotate: false
+  xy: 374, 200
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+bathroom_shower3_bathroom_shower3_icon_a.png
+  rotate: false
+  xy: 274, 105
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+market_c19_icecreamtubs.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+market_c19_icecreamtubs_market_c19_icecreamtubs_64_a_0_0.png
+  rotate: false
+  xy: 348, 3
+  size: 66, 113
+  orig: 66, 113
+  offset: 0, 0
+  index: -1
+market_c19_icecreamtubs_market_c19_icecreamtubs_64_a_4_0.png
+  rotate: false
+  xy: 212, 3
+  size: 66, 113
+  orig: 66, 113
+  offset: 0, 0
+  index: -1
+market_c19_icecreamtubs_market_c19_icecreamtubs_64_a_4_1.png
+  rotate: false
+  xy: 280, 3
+  size: 66, 113
+  orig: 66, 113
+  offset: 0, 0
+  index: -1
+market_c19_icecreamtubs_market_c19_icecreamtubs_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 114
+  orig: 68, 114
+  offset: 0, 0
+  index: -1
+market_c19_icecreamtubs_market_c19_icecreamtubs_64_b_4_0.png
+  rotate: false
+  xy: 142, 2
+  size: 68, 114
+  orig: 68, 114
+  offset: 0, 0
+  index: -1
+market_c19_icecreamtubs_market_c19_icecreamtubs_64_b_4_1.png
+  rotate: false
+  xy: 72, 2
+  size: 68, 114
+  orig: 68, 114
+  offset: 0, 0
+  index: -1
+market_c19_icecreamtubs_market_c19_icecreamtubs_64_sd_0_0.png
+  rotate: false
+  xy: 416, 65
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+market_c19_icecreamtubs_market_c19_icecreamtubs_icon_a.png
+  rotate: false
+  xy: 416, 36
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1

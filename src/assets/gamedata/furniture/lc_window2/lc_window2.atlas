@@ -1,0 +1,41 @@
+
+lc_window2.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lc_window2_lc_window2_64_2_mask.png
+  rotate: false
+  xy: 334, 43
+  size: 138, 152
+  orig: 138, 152
+  offset: 0, 0
+  index: -1
+lc_window2_lc_window2_64_a_2_0.png
+  rotate: false
+  xy: 2, 19
+  size: 167, 176
+  orig: 167, 176
+  offset: 0, 0
+  index: -1
+lc_window2_lc_window2_64_b_2_0.png
+  rotate: false
+  xy: 171, 22
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+lc_window2_lc_window2_64_b_2_1.png
+  rotate: false
+  xy: 171, 40
+  size: 161, 155
+  orig: 161, 155
+  offset: 0, 0
+  index: -1
+lc_window2_lc_window2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 15
+  orig: 28, 15
+  offset: 0, 0
+  index: -1

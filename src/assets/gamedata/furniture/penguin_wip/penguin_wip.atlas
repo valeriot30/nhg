@@ -1,0 +1,104 @@
+
+penguin_wip.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_wip_penguin_wip_64_a_4_0.png
+  rotate: false
+  xy: 192, 33
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_1.png
+  rotate: false
+  xy: 54, 33
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_10.png
+  rotate: false
+  xy: 307, 20
+  size: 33, 81
+  orig: 33, 81
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_11.png
+  rotate: false
+  xy: 272, 20
+  size: 33, 81
+  orig: 33, 81
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_2.png
+  rotate: false
+  xy: 146, 33
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_3.png
+  rotate: false
+  xy: 462, 33
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_4.png
+  rotate: false
+  xy: 382, 33
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_5.png
+  rotate: false
+  xy: 422, 33
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_6.png
+  rotate: false
+  xy: 342, 33
+  size: 38, 68
+  orig: 38, 68
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_7.png
+  rotate: false
+  xy: 2, 33
+  size: 50, 68
+  orig: 50, 68
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_8.png
+  rotate: false
+  xy: 100, 33
+  size: 44, 68
+  orig: 44, 68
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_a_4_9.png
+  rotate: false
+  xy: 232, 27
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_64_sd_4_0.png
+  rotate: false
+  xy: 24, 15
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+penguin_wip_penguin_wip_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1

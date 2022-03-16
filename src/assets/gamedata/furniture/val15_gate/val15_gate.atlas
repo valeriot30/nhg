@@ -1,0 +1,48 @@
+
+val15_gate.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val15_gate_val15_gate_64_a_2_0.png
+  rotate: false
+  xy: 127, 151
+  size: 18, 103
+  orig: 18, 103
+  offset: 0, 0
+  index: -1
+val15_gate_val15_gate_64_b_2_0.png
+  rotate: false
+  xy: 179, 193
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+val15_gate_val15_gate_64_b_2_1.png
+  rotate: false
+  xy: 147, 193
+  size: 30, 61
+  orig: 30, 61
+  offset: 0, 0
+  index: -1
+val15_gate_val15_gate_64_d_2_0.png
+  rotate: false
+  xy: 2, 81
+  size: 123, 173
+  orig: 123, 173
+  offset: 0, 0
+  index: -1
+val15_gate_val15_gate_64_sd_2_0.png
+  rotate: false
+  xy: 2, 32
+  size: 96, 47
+  orig: 96, 47
+  offset: 0, 0
+  index: -1
+val15_gate_val15_gate_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

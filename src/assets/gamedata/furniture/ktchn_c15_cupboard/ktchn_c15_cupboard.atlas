@@ -1,0 +1,48 @@
+
+ktchn_c15_cupboard.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ktchn_c15_cupboard_ktchn_c15_cupboard_64_a_4_0.png
+  rotate: false
+  xy: 262, 33
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+ktchn_c15_cupboard_ktchn_c15_cupboard_64_a_4_1.png
+  rotate: false
+  xy: 197, 33
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+ktchn_c15_cupboard_ktchn_c15_cupboard_64_a_4_2.png
+  rotate: false
+  xy: 67, 33
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+ktchn_c15_cupboard_ktchn_c15_cupboard_64_a_4_3.png
+  rotate: false
+  xy: 2, 33
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+ktchn_c15_cupboard_ktchn_c15_cupboard_64_a_4_4.png
+  rotate: false
+  xy: 132, 33
+  size: 63, 74
+  orig: 63, 74
+  offset: 0, 0
+  index: -1
+ktchn_c15_cupboard_ktchn_c15_cupboard_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1

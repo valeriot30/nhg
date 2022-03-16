@@ -1,0 +1,48 @@
+
+jp_lantern.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jp_lantern_jp_lantern_32_a_0_0.png
+  rotate: false
+  xy: 50, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jp_lantern_jp_lantern_32_b_0_0.png
+  rotate: false
+  xy: 206, 49
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jp_lantern_jp_lantern_64_a_0_0.png
+  rotate: false
+  xy: 206, 52
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+jp_lantern_jp_lantern_64_b_0_1.png
+  rotate: false
+  xy: 2, 33
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+jp_lantern_jp_lantern_64_b_0_2.png
+  rotate: false
+  xy: 104, 33
+  size: 100, 76
+  orig: 100, 76
+  offset: 0, 0
+  index: -1
+jp_lantern_jp_lantern_64_sd_0_0.png
+  rotate: false
+  xy: 2, 12
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1

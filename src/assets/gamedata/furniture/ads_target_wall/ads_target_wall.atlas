@@ -1,0 +1,20 @@
+
+ads_target_wall.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_target_wall_ads_target_wall_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 147, 280
+  orig: 147, 280
+  offset: 0, 0
+  index: -1
+ads_target_wall_ads_target_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,125 @@
+
+xmas_c17_boy.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_boy_xmas_c17_boy_64_a_0_0.png
+  rotate: false
+  xy: 41, 182
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_1.png
+  rotate: false
+  xy: 2, 181
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_10.png
+  rotate: false
+  xy: 187, 182
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_11.png
+  rotate: false
+  xy: 41, 108
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_12.png
+  rotate: false
+  xy: 152, 182
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_13.png
+  rotate: false
+  xy: 113, 39
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_14.png
+  rotate: false
+  xy: 148, 111
+  size: 34, 68
+  orig: 34, 68
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_15.png
+  rotate: false
+  xy: 112, 110
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_16.png
+  rotate: false
+  xy: 77, 37
+  size: 34, 69
+  orig: 34, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_17.png
+  rotate: false
+  xy: 77, 108
+  size: 33, 71
+  orig: 33, 71
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_2.png
+  rotate: false
+  xy: 2, 107
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_3.png
+  rotate: false
+  xy: 2, 34
+  size: 37, 71
+  orig: 37, 71
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_5.png
+  rotate: false
+  xy: 41, 34
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_7.png
+  rotate: false
+  xy: 80, 181
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_a_0_9.png
+  rotate: false
+  xy: 116, 181
+  size: 34, 72
+  orig: 34, 72
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_64_sd_0_0.png
+  rotate: false
+  xy: 222, 239
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+xmas_c17_boy_xmas_c17_boy_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

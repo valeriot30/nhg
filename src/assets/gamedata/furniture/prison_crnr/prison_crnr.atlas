@@ -1,0 +1,41 @@
+
+prison_crnr.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prison_crnr_prison_crnr_64_a_0_0.png
+  rotate: false
+  xy: 2, 123
+  size: 48, 119
+  orig: 48, 119
+  offset: 0, 0
+  index: -1
+prison_crnr_prison_crnr_64_a_2_0.png
+  rotate: false
+  xy: 70, 110
+  size: 16, 132
+  orig: 16, 132
+  offset: 0, 0
+  index: -1
+prison_crnr_prison_crnr_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 119
+  orig: 44, 119
+  offset: 0, 0
+  index: -1
+prison_crnr_prison_crnr_64_a_6_0.png
+  rotate: false
+  xy: 52, 110
+  size: 16, 132
+  orig: 16, 132
+  offset: 0, 0
+  index: -1
+prison_crnr_prison_crnr_icon_a.png
+  rotate: false
+  xy: 88, 212
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

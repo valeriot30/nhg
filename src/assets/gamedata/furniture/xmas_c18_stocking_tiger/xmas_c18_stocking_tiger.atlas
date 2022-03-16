@@ -1,0 +1,48 @@
+
+xmas_c18_stocking_tiger.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_stocking_tiger_xmas_c18_stocking_tiger_64_a_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_tiger_xmas_c18_stocking_tiger_64_a_0_1.png
+  rotate: false
+  xy: 49, 22
+  size: 45, 65
+  orig: 45, 65
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_tiger_xmas_c18_stocking_tiger_64_a_0_2.png
+  rotate: false
+  xy: 143, 23
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_tiger_xmas_c18_stocking_tiger_64_a_0_3.png
+  rotate: false
+  xy: 96, 23
+  size: 45, 64
+  orig: 45, 64
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_tiger_xmas_c18_stocking_tiger_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_tiger_xmas_c18_stocking_tiger_icon_a.png
+  rotate: false
+  xy: 190, 60
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1

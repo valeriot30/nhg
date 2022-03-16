@@ -1,0 +1,27 @@
+
+xmas13_toyblock4.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas13_toyblock4_xmas13_toyblock4_64_a_2_0.png
+  rotate: false
+  xy: 70, 28
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+xmas13_toyblock4_xmas13_toyblock4_64_a_4_0.png
+  rotate: false
+  xy: 2, 28
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+xmas13_toyblock4_xmas13_toyblock4_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 24
+  orig: 23, 24
+  offset: 0, 0
+  index: -1

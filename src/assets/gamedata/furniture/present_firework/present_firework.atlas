@@ -1,0 +1,300 @@
+
+present_firework.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+present_firework_present_firework_32_e_0_1.png
+  rotate: false
+  xy: 1014, 489
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_10.png
+  rotate: false
+  xy: 2, 33
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_11.png
+  rotate: false
+  xy: 983, 477
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_12.png
+  rotate: false
+  xy: 822, 82
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_2.png
+  rotate: false
+  xy: 324, 152
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_3.png
+  rotate: false
+  xy: 494, 64
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_4.png
+  rotate: false
+  xy: 853, 82
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_5.png
+  rotate: false
+  xy: 983, 460
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_6.png
+  rotate: false
+  xy: 2, 16
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_7.png
+  rotate: false
+  xy: 33, 33
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_8.png
+  rotate: false
+  xy: 494, 47
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_32_e_0_9.png
+  rotate: false
+  xy: 525, 64
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_a_0_0.png
+  rotate: false
+  xy: 412, 2
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_a_0_1.png
+  rotate: false
+  xy: 330, 2
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_a_0_2.png
+  rotate: false
+  xy: 822, 99
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_a_0_3.png
+  rotate: false
+  xy: 740, 81
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_a_0_5.png
+  rotate: false
+  xy: 904, 99
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_b_0_0.png
+  rotate: false
+  xy: 819, 257
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_b_0_2.png
+  rotate: false
+  xy: 494, 81
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_b_0_3.png
+  rotate: false
+  xy: 901, 178
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_b_0_4.png
+  rotate: false
+  xy: 330, 81
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_b_0_5.png
+  rotate: false
+  xy: 84, 50
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_b_0_6.png
+  rotate: false
+  xy: 166, 50
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_0.png
+  rotate: false
+  xy: 819, 336
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_1.png
+  rotate: false
+  xy: 901, 415
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_10.png
+  rotate: false
+  xy: 658, 81
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_2.png
+  rotate: false
+  xy: 2, 50
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_3.png
+  rotate: false
+  xy: 819, 415
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_4.png
+  rotate: false
+  xy: 412, 81
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_5.png
+  rotate: false
+  xy: 576, 81
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_6.png
+  rotate: false
+  xy: 901, 257
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_7.png
+  rotate: false
+  xy: 248, 50
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_8.png
+  rotate: false
+  xy: 901, 336
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_c_0_9.png
+  rotate: false
+  xy: 819, 178
+  size: 80, 77
+  orig: 80, 77
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_d_0_1.png
+  rotate: false
+  xy: 654, 327
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_d_0_2.png
+  rotate: false
+  xy: 654, 160
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_d_0_3.png
+  rotate: false
+  xy: 324, 327
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_d_0_4.png
+  rotate: false
+  xy: 324, 160
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_d_0_5.png
+  rotate: false
+  xy: 489, 327
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_d_0_6.png
+  rotate: false
+  xy: 489, 160
+  size: 163, 165
+  orig: 163, 165
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_f_0_0.png
+  rotate: false
+  xy: 819, 175
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+present_firework_present_firework_64_f_0_1.png
+  rotate: false
+  xy: 2, 129
+  size: 320, 363
+  orig: 320, 363
+  offset: 0, 0
+  index: -1

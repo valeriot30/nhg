@@ -1,0 +1,34 @@
+
+duck_afro.png
+size: 32,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+duck_afro_duck_afro_64_a_4_0.png
+  rotate: false
+  xy: 2, 43
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+duck_afro_duck_afro_64_a_6_0.png
+  rotate: false
+  xy: 2, 79
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+duck_afro_duck_afro_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+duck_afro_duck_afro_icon_a.png
+  rotate: false
+  xy: 2, 11
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

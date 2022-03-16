@@ -1,0 +1,160 @@
+
+waasa_bunk_bed.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+waasa_bunk_bed_waasa_bunk_bed_32_d_4_0.png
+  rotate: false
+  xy: 578, 7
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_32_d_4_0.png
+  rotate: false
+  xy: 704, 17
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_32_d_4_0.png
+  rotate: false
+  xy: 832, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_32_d_4_0.png
+  rotate: false
+  xy: 958, 99
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_a_2_1.png
+  rotate: false
+  xy: 514, 6
+  size: 62, 119
+  orig: 62, 119
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_a_4_0.png
+  rotate: false
+  xy: 578, 10
+  size: 61, 115
+  orig: 61, 115
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_a_4_1.png
+  rotate: false
+  xy: 641, 10
+  size: 61, 115
+  orig: 61, 115
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_b_2_0.png
+  rotate: false
+  xy: 704, 20
+  size: 62, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_b_2_1.png
+  rotate: false
+  xy: 768, 20
+  size: 62, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_b_4_0.png
+  rotate: false
+  xy: 832, 23
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_b_4_1.png
+  rotate: false
+  xy: 895, 23
+  size: 61, 102
+  orig: 61, 102
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_c_2_0.png
+  rotate: false
+  xy: 202, 3
+  size: 64, 122
+  orig: 64, 122
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_c_2_1.png
+  rotate: false
+  xy: 136, 3
+  size: 64, 122
+  orig: 64, 122
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 123
+  orig: 65, 123
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_c_4_1.png
+  rotate: false
+  xy: 69, 2
+  size: 65, 123
+  orig: 65, 123
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_d_2_0.png
+  rotate: false
+  xy: 297, 45
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_e_2_1.png
+  rotate: false
+  xy: 268, 3
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_e_4_0.png
+  rotate: false
+  xy: 986, 110
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_f_4_0.png
+  rotate: false
+  xy: 958, 102
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_sd_2_0.png
+  rotate: false
+  xy: 268, 62
+  size: 121, 63
+  orig: 121, 63
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_64_sd_4_0.png
+  rotate: false
+  xy: 391, 62
+  size: 121, 63
+  orig: 121, 63
+  offset: 0, 0
+  index: -1
+waasa_bunk_bed_waasa_bunk_bed_icon_a.png
+  rotate: false
+  xy: 268, 28
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1

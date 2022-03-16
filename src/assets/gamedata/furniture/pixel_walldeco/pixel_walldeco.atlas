@@ -1,0 +1,20 @@
+
+pixel_walldeco.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pixel_walldeco_pixel_walldeco_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 38, 73
+  orig: 38, 73
+  offset: 0, 0
+  index: -1
+pixel_walldeco_pixel_walldeco_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

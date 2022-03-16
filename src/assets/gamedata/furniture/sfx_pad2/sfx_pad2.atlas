@@ -1,0 +1,139 @@
+
+sfx_pad2.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sfx_pad2_sfx_pad2_64_a_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_b_0_0.png
+  rotate: false
+  xy: 94, 8
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_b_0_1.png
+  rotate: false
+  xy: 122, 33
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_0.png
+  rotate: false
+  xy: 8, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_1.png
+  rotate: false
+  xy: 137, 25
+  size: 5, 6
+  orig: 5, 6
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_10.png
+  rotate: false
+  xy: 171, 51
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_11.png
+  rotate: false
+  xy: 21, 5
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_3.png
+  rotate: false
+  xy: 86, 2
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_4.png
+  rotate: false
+  xy: 122, 25
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_5.png
+  rotate: false
+  xy: 120, 9
+  size: 7, 14
+  orig: 7, 14
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_6.png
+  rotate: false
+  xy: 159, 53
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_7.png
+  rotate: false
+  xy: 70, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_8.png
+  rotate: false
+  xy: 8, 5
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_c_0_9.png
+  rotate: false
+  xy: 146, 53
+  size: 11, 9
+  orig: 11, 9
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_d_0_0.png
+  rotate: false
+  xy: 11, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_d_0_1.png
+  rotate: false
+  xy: 70, 15
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_64_sd_0_0.png
+  rotate: false
+  xy: 94, 50
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+sfx_pad2_sfx_pad2_icon_a.png
+  rotate: false
+  xy: 94, 25
+  size: 26, 23
+  orig: 26, 23
+  offset: 0, 0
+  index: -1

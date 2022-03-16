@@ -1,0 +1,188 @@
+
+pirate_parrot.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_parrot_pirate_parrot_64_a_0_1.png
+  rotate: false
+  xy: 367, 140
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_10.png
+  rotate: false
+  xy: 115, 9
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_16.png
+  rotate: false
+  xy: 262, 32
+  size: 34, 108
+  orig: 34, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_17.png
+  rotate: false
+  xy: 152, 16
+  size: 34, 108
+  orig: 34, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_18.png
+  rotate: false
+  xy: 188, 26
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_2.png
+  rotate: false
+  xy: 330, 140
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_21.png
+  rotate: false
+  xy: 225, 32
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_22.png
+  rotate: false
+  xy: 335, 31
+  size: 35, 107
+  orig: 35, 107
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_30.png
+  rotate: false
+  xy: 372, 33
+  size: 35, 105
+  orig: 35, 105
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_31.png
+  rotate: false
+  xy: 409, 35
+  size: 35, 103
+  orig: 35, 103
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_32.png
+  rotate: false
+  xy: 446, 37
+  size: 36, 101
+  orig: 36, 101
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_33.png
+  rotate: false
+  xy: 173, 136
+  size: 34, 112
+  orig: 34, 112
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_34.png
+  rotate: false
+  xy: 2, 115
+  size: 42, 133
+  orig: 42, 133
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_35.png
+  rotate: false
+  xy: 46, 117
+  size: 41, 131
+  orig: 41, 131
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_36.png
+  rotate: false
+  xy: 89, 119
+  size: 41, 129
+  orig: 41, 129
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_37.png
+  rotate: false
+  xy: 132, 126
+  size: 39, 122
+  orig: 39, 122
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_38.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 111
+  orig: 37, 111
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_39.png
+  rotate: false
+  xy: 209, 142
+  size: 38, 106
+  orig: 38, 106
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_4.png
+  rotate: false
+  xy: 404, 140
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_40.png
+  rotate: false
+  xy: 289, 145
+  size: 39, 103
+  orig: 39, 103
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_41.png
+  rotate: false
+  xy: 249, 142
+  size: 38, 106
+  orig: 38, 106
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_45.png
+  rotate: false
+  xy: 78, 7
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_5.png
+  rotate: false
+  xy: 441, 140
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_7.png
+  rotate: false
+  xy: 298, 31
+  size: 35, 107
+  orig: 35, 107
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_64_a_0_9.png
+  rotate: false
+  xy: 41, 5
+  size: 35, 108
+  orig: 35, 108
+  offset: 0, 0
+  index: -1
+pirate_parrot_pirate_parrot_icon_a.png
+  rotate: false
+  xy: 478, 218
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

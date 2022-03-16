@@ -1,0 +1,27 @@
+
+wintercabin_c19_glasstable.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wintercabin_c19_glasstable_wintercabin_c19_glasstable_64_a_0_0.png
+  rotate: false
+  xy: 2, 61
+  size: 54, 61
+  orig: 54, 61
+  offset: 0, 0
+  index: -1
+wintercabin_c19_glasstable_wintercabin_c19_glasstable_64_sd_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 49, 26
+  orig: 49, 26
+  offset: 0, 0
+  index: -1
+wintercabin_c19_glasstable_wintercabin_c19_glasstable_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

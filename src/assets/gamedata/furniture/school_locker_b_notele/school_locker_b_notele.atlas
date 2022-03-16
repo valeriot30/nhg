@@ -1,0 +1,27 @@
+
+school_locker_b_notele.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+school_locker_b_notele_school_locker_b_notele_64_a_4_0.png
+  rotate: false
+  xy: 2, 65
+  size: 58, 138
+  orig: 58, 138
+  offset: 0, 0
+  index: -1
+school_locker_b_notele_school_locker_b_notele_64_sd_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+school_locker_b_notele_school_locker_b_notele_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

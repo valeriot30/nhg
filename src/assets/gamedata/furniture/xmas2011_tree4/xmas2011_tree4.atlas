@@ -1,0 +1,41 @@
+
+xmas2011_tree4.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas2011_tree4_xmas2011_tree4_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 121
+  orig: 48, 121
+  offset: 0, 0
+  index: -1
+xmas2011_tree4_xmas2011_tree4_64_b_0_0.png
+  rotate: false
+  xy: 88, 252
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas2011_tree4_xmas2011_tree4_64_b_0_1.png
+  rotate: false
+  xy: 2, 125
+  size: 49, 128
+  orig: 49, 128
+  offset: 0, 0
+  index: -1
+xmas2011_tree4_xmas2011_tree4_64_sd_0_0.png
+  rotate: false
+  xy: 53, 238
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+xmas2011_tree4_xmas2011_tree4_icon_a.png
+  rotate: false
+  xy: 53, 206
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

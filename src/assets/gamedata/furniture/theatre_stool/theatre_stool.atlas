@@ -1,0 +1,27 @@
+
+theatre_stool.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+theatre_stool_theatre_stool_32_a_2_0.png
+  rotate: false
+  xy: 56, 2
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+theatre_stool_theatre_stool_64_a_2_0.png
+  rotate: false
+  xy: 2, 10
+  size: 52, 40
+  orig: 52, 40
+  offset: 0, 0
+  index: -1
+theatre_stool_theatre_stool_64_sd_2_0.png
+  rotate: false
+  xy: 56, 24
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1

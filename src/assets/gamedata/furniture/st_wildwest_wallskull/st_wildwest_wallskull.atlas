@@ -1,0 +1,27 @@
+
+st_wildwest_wallskull.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_wildwest_wallskull_st_wildwest_wallskull_64_a_4_0.png
+  rotate: false
+  xy: 2, 31
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+st_wildwest_wallskull_st_wildwest_wallskull_64_sd_4_0.png
+  rotate: false
+  xy: 101, 32
+  size: 95, 74
+  orig: 95, 74
+  offset: 0, 0
+  index: -1
+st_wildwest_wallskull_st_wildwest_wallskull_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

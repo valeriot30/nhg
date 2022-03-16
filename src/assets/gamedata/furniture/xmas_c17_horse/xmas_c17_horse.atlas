@@ -1,0 +1,146 @@
+
+xmas_c17_horse.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_horse_xmas_c17_horse_64_a_4_0.png
+  rotate: false
+  xy: 250, 50
+  size: 55, 76
+  orig: 55, 76
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_a_4_1.png
+  rotate: false
+  xy: 421, 56
+  size: 55, 70
+  orig: 55, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_a_4_2.png
+  rotate: false
+  xy: 364, 54
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_a_4_3.png
+  rotate: false
+  xy: 307, 51
+  size: 55, 75
+  orig: 55, 75
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_a_4_4.png
+  rotate: false
+  xy: 2, 50
+  size: 60, 76
+  orig: 60, 76
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_a_4_5.png
+  rotate: false
+  xy: 188, 56
+  size: 60, 70
+  orig: 60, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_a_4_6.png
+  rotate: false
+  xy: 126, 54
+  size: 60, 72
+  orig: 60, 72
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_a_4_7.png
+  rotate: false
+  xy: 64, 51
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_0.png
+  rotate: false
+  xy: 804, 79
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_1.png
+  rotate: false
+  xy: 757, 79
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_2.png
+  rotate: false
+  xy: 64, 2
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_3.png
+  rotate: false
+  xy: 113, 2
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_4.png
+  rotate: false
+  xy: 710, 78
+  size: 45, 48
+  orig: 45, 48
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_5.png
+  rotate: false
+  xy: 618, 57
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_6.png
+  rotate: false
+  xy: 572, 57
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_7.png
+  rotate: false
+  xy: 478, 57
+  size: 46, 69
+  orig: 46, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_8.png
+  rotate: false
+  xy: 526, 57
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_b_4_9.png
+  rotate: false
+  xy: 664, 57
+  size: 44, 69
+  orig: 44, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_64_sd_4_0.png
+  rotate: false
+  xy: 710, 59
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+xmas_c17_horse_xmas_c17_horse_icon_a.png
+  rotate: false
+  xy: 2, 18
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

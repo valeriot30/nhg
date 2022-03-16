@@ -1,0 +1,132 @@
+
+uni_doorhanging.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_doorhanging_uni_doorhanging_64_a_0_2.png
+  rotate: false
+  xy: 161, 13
+  size: 17, 110
+  orig: 17, 110
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_a_4_0.png
+  rotate: false
+  xy: 37, 5
+  size: 33, 118
+  orig: 33, 118
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_a_4_1.png
+  rotate: false
+  xy: 2, 5
+  size: 33, 118
+  orig: 33, 118
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_a_6_0.png
+  rotate: false
+  xy: 107, 5
+  size: 33, 118
+  orig: 33, 118
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_a_6_1.png
+  rotate: false
+  xy: 72, 5
+  size: 33, 118
+  orig: 33, 118
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_a_6_2.png
+  rotate: false
+  xy: 142, 13
+  size: 17, 110
+  orig: 17, 110
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_b_4_0.png
+  rotate: false
+  xy: 192, 14
+  size: 10, 109
+  orig: 10, 109
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_b_6_0.png
+  rotate: false
+  xy: 180, 14
+  size: 10, 109
+  orig: 10, 109
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_4_0.png
+  rotate: false
+  xy: 258, 61
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_4_1.png
+  rotate: false
+  xy: 204, 43
+  size: 25, 80
+  orig: 25, 80
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_4_2.png
+  rotate: false
+  xy: 312, 70
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_4_3.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_6_0.png
+  rotate: false
+  xy: 285, 61
+  size: 25, 62
+  orig: 25, 62
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_6_1.png
+  rotate: false
+  xy: 231, 43
+  size: 25, 80
+  orig: 25, 80
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_c_6_2.png
+  rotate: false
+  xy: 332, 70
+  size: 18, 53
+  orig: 18, 53
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_sd_0_0.png
+  rotate: false
+  xy: 352, 106
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_64_sd_2_0.png
+  rotate: false
+  xy: 204, 24
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+uni_doorhanging_uni_doorhanging_icon_a.png
+  rotate: false
+  xy: 352, 74
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

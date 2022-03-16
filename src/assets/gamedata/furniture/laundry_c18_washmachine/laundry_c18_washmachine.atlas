@@ -1,0 +1,97 @@
+
+laundry_c18_washmachine.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_0.png
+  rotate: false
+  xy: 671, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_1.png
+  rotate: false
+  xy: 603, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_10.png
+  rotate: false
+  xy: 739, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_2.png
+  rotate: false
+  xy: 281, 37
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_3.png
+  rotate: false
+  xy: 374, 37
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_4.png
+  rotate: false
+  xy: 95, 37
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_5.png
+  rotate: false
+  xy: 188, 37
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_6.png
+  rotate: false
+  xy: 2, 37
+  size: 91, 76
+  orig: 91, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_7.png
+  rotate: false
+  xy: 535, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_8.png
+  rotate: false
+  xy: 467, 37
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_a_0_9.png
+  rotate: false
+  xy: 807, 39
+  size: 66, 74
+  orig: 66, 74
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+laundry_c18_washmachine_laundry_c18_washmachine_icon_a.png
+  rotate: false
+  xy: 875, 83
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

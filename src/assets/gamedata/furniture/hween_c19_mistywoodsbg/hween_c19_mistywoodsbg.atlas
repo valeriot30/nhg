@@ -1,0 +1,48 @@
+
+hween_c19_mistywoodsbg.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_mistywoodsbg_hween_c19_mistywoodsbg_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 66, 407
+  orig: 66, 407
+  offset: 0, 0
+  index: -1
+hween_c19_mistywoodsbg_hween_c19_mistywoodsbg_64_a_2_1.png
+  rotate: false
+  xy: 70, 443
+  size: 66, 407
+  orig: 66, 407
+  offset: 0, 0
+  index: -1
+hween_c19_mistywoodsbg_hween_c19_mistywoodsbg_64_a_2_2.png
+  rotate: false
+  xy: 70, 34
+  size: 66, 407
+  orig: 66, 407
+  offset: 0, 0
+  index: -1
+hween_c19_mistywoodsbg_hween_c19_mistywoodsbg_64_a_2_3.png
+  rotate: false
+  xy: 138, 443
+  size: 66, 407
+  orig: 66, 407
+  offset: 0, 0
+  index: -1
+hween_c19_mistywoodsbg_hween_c19_mistywoodsbg_64_a_2_4.png
+  rotate: false
+  xy: 2, 443
+  size: 66, 407
+  orig: 66, 407
+  offset: 0, 0
+  index: -1
+hween_c19_mistywoodsbg_hween_c19_mistywoodsbg_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

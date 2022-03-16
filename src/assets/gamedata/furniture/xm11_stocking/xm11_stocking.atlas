@@ -1,0 +1,34 @@
+
+xm11_stocking.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm11_stocking_xm11_stocking_64_a_2_0.png
+  rotate: false
+  xy: 2, 100
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+xm11_stocking_xm11_stocking_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+xm11_stocking_xm11_stocking_64_c_2_0.png
+  rotate: false
+  xy: 2, 51
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+xm11_stocking_xm11_stocking_icon_a.png
+  rotate: false
+  xy: 33, 133
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

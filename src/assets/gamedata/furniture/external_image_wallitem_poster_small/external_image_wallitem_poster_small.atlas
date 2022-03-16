@@ -1,0 +1,27 @@
+
+external_image_wallitem_poster_small.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+external_image_wallitem_poster_small_external_image_wallitem_poster_small_64_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+external_image_wallitem_poster_small_external_image_wallitem_poster_small_64_c_4_0.png
+  rotate: false
+  xy: 20, 2
+  size: 16, 26
+  orig: 16, 26
+  offset: 0, 0
+  index: -1
+external_image_wallitem_poster_small_external_image_wallitem_poster_small_icon_a.png
+  rotate: false
+  xy: 38, 7
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+xmas_c19_elfeskimo.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_elfeskimo_xmas_c19_elfeskimo_64_a_0_0.png
+  rotate: false
+  xy: 117, 33
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+xmas_c19_elfeskimo_xmas_c19_elfeskimo_64_a_0_1.png
+  rotate: false
+  xy: 152, 33
+  size: 33, 62
+  orig: 33, 62
+  offset: 0, 0
+  index: -1
+xmas_c19_elfeskimo_xmas_c19_elfeskimo_64_a_0_2.png
+  rotate: false
+  xy: 187, 34
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+xmas_c19_elfeskimo_xmas_c19_elfeskimo_64_a_0_3.png
+  rotate: false
+  xy: 80, 33
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+xmas_c19_elfeskimo_xmas_c19_elfeskimo_64_a_0_4.png
+  rotate: false
+  xy: 2, 33
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+xmas_c19_elfeskimo_xmas_c19_elfeskimo_64_a_0_5.png
+  rotate: false
+  xy: 41, 33
+  size: 37, 62
+  orig: 37, 62
+  offset: 0, 0
+  index: -1
+xmas_c19_elfeskimo_xmas_c19_elfeskimo_64_sd_0_0.png
+  rotate: false
+  xy: 222, 81
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+xmas_c19_elfeskimo_xmas_c19_elfeskimo_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

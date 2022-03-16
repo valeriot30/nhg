@@ -1,0 +1,41 @@
+
+fest_c19_pole.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_pole_fest_c19_pole_64_a_0_0.png
+  rotate: false
+  xy: 48, 24
+  size: 44, 192
+  orig: 44, 192
+  offset: 0, 0
+  index: -1
+fest_c19_pole_fest_c19_pole_64_a_0_1.png
+  rotate: false
+  xy: 2, 24
+  size: 44, 192
+  orig: 44, 192
+  offset: 0, 0
+  index: -1
+fest_c19_pole_fest_c19_pole_64_a_0_2.png
+  rotate: false
+  xy: 94, 24
+  size: 44, 192
+  orig: 44, 192
+  offset: 0, 0
+  index: -1
+fest_c19_pole_fest_c19_pole_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+fest_c19_pole_fest_c19_pole_icon_a.png
+  rotate: false
+  xy: 140, 186
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

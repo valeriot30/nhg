@@ -1,0 +1,237 @@
+
+snowb_slope.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snowb_slope_snowb_slope_64_a_4_0.png
+  rotate: false
+  xy: 1119, 334
+  size: 80, 29
+  orig: 80, 29
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_a_4_1.png
+  rotate: false
+  xy: 979, 301
+  size: 96, 30
+  orig: 96, 30
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_a_4_2.png
+  rotate: false
+  xy: 421, 175
+  size: 97, 33
+  orig: 97, 33
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_a_4_3.png
+  rotate: false
+  xy: 421, 104
+  size: 90, 33
+  orig: 90, 33
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_a_4_4.png
+  rotate: false
+  xy: 421, 69
+  size: 90, 33
+  orig: 90, 33
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_a_4_5.png
+  rotate: false
+  xy: 1674, 410
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_a_4_6.png
+  rotate: false
+  xy: 421, 139
+  size: 90, 34
+  orig: 90, 34
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_a_4_7.png
+  rotate: false
+  xy: 1398, 376
+  size: 63, 24
+  orig: 63, 24
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_b_4_0.png
+  rotate: false
+  xy: 421, 210
+  size: 130, 45
+  orig: 130, 45
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_b_4_1.png
+  rotate: false
+  xy: 1808, 440
+  size: 133, 69
+  orig: 133, 69
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_b_4_2.png
+  rotate: false
+  xy: 1398, 402
+  size: 137, 107
+  orig: 137, 107
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_b_4_3.png
+  rotate: false
+  xy: 1119, 365
+  size: 137, 144
+  orig: 137, 144
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_b_4_4.png
+  rotate: false
+  xy: 2, 7
+  size: 137, 180
+  orig: 137, 180
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_b_4_5.png
+  rotate: false
+  xy: 700, 278
+  size: 137, 231
+  orig: 137, 231
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_b_4_6.png
+  rotate: false
+  xy: 421, 257
+  size: 137, 252
+  orig: 137, 252
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_b_4_7.png
+  rotate: false
+  xy: 142, 205
+  size: 137, 304
+  orig: 137, 304
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_c_4_0.png
+  rotate: false
+  xy: 351, 16
+  size: 60, 28
+  orig: 60, 28
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_c_4_1.png
+  rotate: false
+  xy: 211, 23
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_c_4_2.png
+  rotate: false
+  xy: 351, 46
+  size: 68, 75
+  orig: 68, 75
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_c_4_3.png
+  rotate: false
+  xy: 351, 123
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_c_4_4.png
+  rotate: false
+  xy: 211, 67
+  size: 68, 136
+  orig: 68, 136
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_c_4_5.png
+  rotate: false
+  xy: 141, 2
+  size: 68, 185
+  orig: 68, 185
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_c_4_6.png
+  rotate: false
+  xy: 281, 15
+  size: 68, 208
+  orig: 68, 208
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_c_4_7.png
+  rotate: false
+  xy: 1943, 252
+  size: 67, 257
+  orig: 67, 257
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_d_4_0.png
+  rotate: false
+  xy: 1674, 436
+  size: 132, 73
+  orig: 132, 73
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_d_4_1.png
+  rotate: false
+  xy: 1537, 407
+  size: 135, 102
+  orig: 135, 102
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_d_4_2.png
+  rotate: false
+  xy: 1258, 371
+  size: 138, 138
+  orig: 138, 138
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_d_4_3.png
+  rotate: false
+  xy: 979, 333
+  size: 138, 176
+  orig: 138, 176
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_d_4_4.png
+  rotate: false
+  xy: 839, 297
+  size: 138, 212
+  orig: 138, 212
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_d_4_5.png
+  rotate: false
+  xy: 560, 261
+  size: 138, 248
+  orig: 138, 248
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_d_4_6.png
+  rotate: false
+  xy: 281, 225
+  size: 138, 284
+  orig: 138, 284
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_64_d_4_7.png
+  rotate: false
+  xy: 2, 189
+  size: 138, 320
+  orig: 138, 320
+  offset: 0, 0
+  index: -1
+snowb_slope_snowb_slope_icon_a.png
+  rotate: false
+  xy: 2012, 480
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1

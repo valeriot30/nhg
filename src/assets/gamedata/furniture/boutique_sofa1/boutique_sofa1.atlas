@@ -1,0 +1,69 @@
+
+boutique_sofa1.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boutique_sofa1_boutique_sofa1_32_a_6_0.png
+  rotate: false
+  xy: 342, 22
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+boutique_sofa1_boutique_sofa1_64_a_0_0.png
+  rotate: false
+  xy: 49, 9
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+boutique_sofa1_boutique_sofa1_64_a_2_0.png
+  rotate: false
+  xy: 96, 2
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+boutique_sofa1_boutique_sofa1_64_a_4_0.png
+  rotate: false
+  xy: 2, 7
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+boutique_sofa1_boutique_sofa1_64_a_6_0.png
+  rotate: false
+  xy: 136, 2
+  size: 38, 44
+  orig: 38, 44
+  offset: 0, 0
+  index: -1
+boutique_sofa1_boutique_sofa1_64_sd_0_0.png
+  rotate: false
+  xy: 221, 20
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+boutique_sofa1_boutique_sofa1_64_sd_2_0.png
+  rotate: false
+  xy: 304, 15
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+boutique_sofa1_boutique_sofa1_64_sd_4_0.png
+  rotate: false
+  xy: 176, 20
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+boutique_sofa1_boutique_sofa1_64_sd_6_0.png
+  rotate: false
+  xy: 266, 15
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+xmas_c18_xmastree.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_xmastree_xmas_c18_xmastree_64_a_0_0.png
+  rotate: false
+  xy: 165, 128
+  size: 70, 125
+  orig: 70, 125
+  offset: 0, 0
+  index: -1
+xmas_c18_xmastree_xmas_c18_xmastree_64_b_0_0.png
+  rotate: false
+  xy: 237, 252
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c18_xmastree_xmas_c18_xmastree_64_b_0_1.png
+  rotate: false
+  xy: 2, 113
+  size: 86, 140
+  orig: 86, 140
+  offset: 0, 0
+  index: -1
+xmas_c18_xmastree_xmas_c18_xmastree_64_c_0_0.png
+  rotate: false
+  xy: 90, 114
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c18_xmastree_xmas_c18_xmastree_64_c_0_1.png
+  rotate: false
+  xy: 165, 2
+  size: 61, 124
+  orig: 61, 124
+  offset: 0, 0
+  index: -1
+xmas_c18_xmastree_xmas_c18_xmastree_64_d_0_1.png
+  rotate: false
+  xy: 90, 117
+  size: 73, 136
+  orig: 73, 136
+  offset: 0, 0
+  index: -1
+xmas_c18_xmastree_xmas_c18_xmastree_64_sd_0_0.png
+  rotate: false
+  xy: 2, 90
+  size: 41, 21
+  orig: 41, 21
+  offset: 0, 0
+  index: -1
+xmas_c18_xmastree_xmas_c18_xmastree_icon_a.png
+  rotate: false
+  xy: 2, 56
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

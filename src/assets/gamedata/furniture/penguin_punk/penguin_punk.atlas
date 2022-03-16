@@ -1,0 +1,83 @@
+
+penguin_punk.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_punk_penguin_punk_64_a_4_0.png
+  rotate: false
+  xy: 43, 87
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_64_a_4_1.png
+  rotate: false
+  xy: 2, 20
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_64_a_4_10.png
+  rotate: false
+  xy: 45, 154
+  size: 33, 65
+  orig: 33, 65
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_64_a_4_2.png
+  rotate: false
+  xy: 77, 89
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_64_a_4_4.png
+  rotate: false
+  xy: 80, 154
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_64_a_4_5.png
+  rotate: false
+  xy: 36, 22
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_64_a_4_6.png
+  rotate: false
+  xy: 2, 154
+  size: 41, 65
+  orig: 41, 65
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_64_a_4_7.png
+  rotate: false
+  xy: 2, 87
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_64_a_4_8.png
+  rotate: false
+  xy: 70, 24
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+penguin_punk_penguin_punk_icon_a.png
+  rotate: false
+  xy: 111, 122
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

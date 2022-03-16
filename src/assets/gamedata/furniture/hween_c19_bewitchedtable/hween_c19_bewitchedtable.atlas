@@ -1,0 +1,27 @@
+
+hween_c19_bewitchedtable.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_bewitchedtable_hween_c19_bewitchedtable_64_a_0_0.png
+  rotate: false
+  xy: 2, 44
+  size: 84, 61
+  orig: 84, 61
+  offset: 0, 0
+  index: -1
+hween_c19_bewitchedtable_hween_c19_bewitchedtable_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+hween_c19_bewitchedtable_hween_c19_bewitchedtable_icon_a.png
+  rotate: false
+  xy: 88, 80
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1

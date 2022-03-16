@@ -1,0 +1,34 @@
+
+greek_c19_statue.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_c19_statue_greek_c19_statue_64_a_2_0.png
+  rotate: false
+  xy: 98, 59
+  size: 86, 182
+  orig: 86, 182
+  offset: 0, 0
+  index: -1
+greek_c19_statue_greek_c19_statue_64_a_6_0.png
+  rotate: false
+  xy: 2, 37
+  size: 94, 204
+  orig: 94, 204
+  offset: 0, 0
+  index: -1
+greek_c19_statue_greek_c19_statue_64_sd_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+greek_c19_statue_greek_c19_statue_icon_a.png
+  rotate: false
+  xy: 186, 212
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1

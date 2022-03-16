@@ -1,0 +1,27 @@
+
+china_pstr5.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+china_pstr5_china_pstr5_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 141
+  orig: 64, 141
+  offset: 0, 0
+  index: -1
+china_pstr5_china_pstr5_64_a_4_0.png
+  rotate: false
+  xy: 2, 145
+  size: 64, 141
+  orig: 64, 141
+  offset: 0, 0
+  index: -1
+china_pstr5_china_pstr5_icon_a.png
+  rotate: false
+  xy: 68, 254
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+zengarden_c18_spikeyplant.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c18_spikeyplant_zengarden_c18_spikeyplant_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+zengarden_c18_spikeyplant_zengarden_c18_spikeyplant_64_sd_0_0.png
+  rotate: false
+  xy: 72, 34
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+zengarden_c18_spikeyplant_zengarden_c18_spikeyplant_icon_a.png
+  rotate: false
+  xy: 45, 21
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+snowb_rail.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+snowb_rail_snowb_rail_64_a_4_0.png
+  rotate: false
+  xy: 84, 8
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+snowb_rail_snowb_rail_64_b_4_0.png
+  rotate: false
+  xy: 128, 2
+  size: 38, 48
+  orig: 38, 48
+  offset: 0, 0
+  index: -1
+snowb_rail_snowb_rail_64_sd_4_0.png
+  rotate: false
+  xy: 2, 16
+  size: 80, 34
+  orig: 80, 34
+  offset: 0, 0
+  index: -1
+snowb_rail_snowb_rail_icon_a.png
+  rotate: false
+  xy: 168, 21
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

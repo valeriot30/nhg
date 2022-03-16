@@ -1,0 +1,55 @@
+
+waasa_wall_shelf2.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+waasa_wall_shelf2_waasa_wall_shelf2_64_a_2_0.png
+  rotate: false
+  xy: 2, 101
+  size: 37, 61
+  orig: 37, 61
+  offset: 0, 0
+  index: -1
+waasa_wall_shelf2_waasa_wall_shelf2_64_a_4_1.png
+  rotate: false
+  xy: 2, 36
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+waasa_wall_shelf2_waasa_wall_shelf2_64_b_2_0.png
+  rotate: false
+  xy: 2, 164
+  size: 56, 75
+  orig: 56, 75
+  offset: 0, 0
+  index: -1
+waasa_wall_shelf2_waasa_wall_shelf2_64_b_2_1.png
+  rotate: false
+  xy: 2, 241
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+waasa_wall_shelf2_waasa_wall_shelf2_64_b_4_0.png
+  rotate: false
+  xy: 2, 330
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+waasa_wall_shelf2_waasa_wall_shelf2_64_b_4_1.png
+  rotate: false
+  xy: 2, 419
+  size: 56, 87
+  orig: 56, 87
+  offset: 0, 0
+  index: -1
+waasa_wall_shelf2_waasa_wall_shelf2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1

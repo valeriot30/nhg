@@ -1,0 +1,27 @@
+
+rela_plant.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rela_plant_rela_plant_64_a_0_0.png
+  rotate: false
+  xy: 2, 57
+  size: 55, 96
+  orig: 55, 96
+  offset: 0, 0
+  index: -1
+rela_plant_rela_plant_64_sd_0_0.png
+  rotate: false
+  xy: 2, 36
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+rela_plant_rela_plant_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

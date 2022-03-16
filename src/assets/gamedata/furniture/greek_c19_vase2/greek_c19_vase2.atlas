@@ -1,0 +1,27 @@
+
+greek_c19_vase2.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_c19_vase2_greek_c19_vase2_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 45
+  orig: 36, 45
+  offset: 0, 0
+  index: -1
+greek_c19_vase2_greek_c19_vase2_64_sd_0_0.png
+  rotate: false
+  xy: 66, 33
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+greek_c19_vase2_greek_c19_vase2_icon_a.png
+  rotate: false
+  xy: 40, 17
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

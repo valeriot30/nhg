@@ -1,0 +1,41 @@
+
+brnd_cscape_wall.png
+size: 128,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+brnd_cscape_wall_brnd_cscape_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 292
+  size: 100, 256
+  orig: 100, 256
+  offset: 0, 0
+  index: -1
+brnd_cscape_wall_brnd_cscape_wall_64_a_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 100, 256
+  orig: 100, 256
+  offset: 0, 0
+  index: -1
+brnd_cscape_wall_brnd_cscape_wall_64_a_2_2.png
+  rotate: false
+  xy: 2, 550
+  size: 100, 256
+  orig: 100, 256
+  offset: 0, 0
+  index: -1
+brnd_cscape_wall_brnd_cscape_wall_64_b_2_0.png
+  rotate: false
+  xy: 104, 597
+  size: 7, 209
+  orig: 7, 209
+  offset: 0, 0
+  index: -1
+brnd_cscape_wall_brnd_cscape_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

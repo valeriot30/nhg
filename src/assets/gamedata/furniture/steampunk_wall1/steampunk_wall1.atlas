@@ -1,0 +1,202 @@
+
+steampunk_wall1.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+steampunk_wall1_steampunk_wall1_32_d_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_a_4_0.png
+  rotate: false
+  xy: 2, 755
+  size: 71, 258
+  orig: 71, 258
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_0.png
+  rotate: false
+  xy: 146, 890
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_1.png
+  rotate: false
+  xy: 2, 380
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_10.png
+  rotate: false
+  xy: 2, 255
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_11.png
+  rotate: false
+  xy: 2, 130
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_2.png
+  rotate: false
+  xy: 146, 765
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_3.png
+  rotate: false
+  xy: 2, 630
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_4.png
+  rotate: false
+  xy: 75, 890
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_5.png
+  rotate: false
+  xy: 2, 505
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_6.png
+  rotate: false
+  xy: 75, 765
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_7.png
+  rotate: false
+  xy: 2, 5
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_8.png
+  rotate: false
+  xy: 73, 630
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_b_4_9.png
+  rotate: false
+  xy: 73, 505
+  size: 69, 123
+  orig: 69, 123
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_2_0.png
+  rotate: false
+  xy: 73, 194
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_2_1.png
+  rotate: false
+  xy: 73, 241
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_2_2.png
+  rotate: false
+  xy: 73, 100
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_2_3.png
+  rotate: false
+  xy: 73, 147
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_2_4.png
+  rotate: false
+  xy: 73, 288
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_2_5.png
+  rotate: false
+  xy: 73, 335
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_4_0.png
+  rotate: false
+  xy: 217, 968
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_4_1.png
+  rotate: false
+  xy: 217, 921
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_4_2.png
+  rotate: false
+  xy: 217, 780
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_4_3.png
+  rotate: false
+  xy: 217, 733
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_4_4.png
+  rotate: false
+  xy: 217, 874
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_c_4_5.png
+  rotate: false
+  xy: 217, 827
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_64_d_4_1.png
+  rotate: false
+  xy: 73, 382
+  size: 68, 121
+  orig: 68, 121
+  offset: 0, 0
+  index: -1
+steampunk_wall1_steampunk_wall1_icon_a.png
+  rotate: false
+  xy: 112, 348
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1

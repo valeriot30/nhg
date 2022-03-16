@@ -1,0 +1,76 @@
+
+ads_super_pop.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_super_pop_ads_super_pop_64_a_2_0.png
+  rotate: false
+  xy: 108, 31
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+ads_super_pop_ads_super_pop_64_a_2_1.png
+  rotate: false
+  xy: 2, 12
+  size: 90, 59
+  orig: 90, 59
+  offset: 0, 0
+  index: -1
+ads_super_pop_ads_super_pop_64_a_4_0.png
+  rotate: false
+  xy: 108, 92
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+ads_super_pop_ads_super_pop_64_a_4_1.png
+  rotate: false
+  xy: 108, 174
+  size: 90, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+ads_super_pop_ads_super_pop_64_b_2_0.png
+  rotate: false
+  xy: 200, 202
+  size: 44, 52
+  orig: 44, 52
+  offset: 0, 0
+  index: -1
+ads_super_pop_ads_super_pop_64_b_4_0.png
+  rotate: false
+  xy: 94, 2
+  size: 43, 27
+  orig: 43, 27
+  offset: 0, 0
+  index: -1
+ads_super_pop_ads_super_pop_64_c_2_1.png
+  rotate: false
+  xy: 2, 73
+  size: 104, 75
+  orig: 104, 75
+  offset: 0, 0
+  index: -1
+ads_super_pop_ads_super_pop_64_c_4_0.png
+  rotate: false
+  xy: 246, 253
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_super_pop_ads_super_pop_64_c_4_1.png
+  rotate: false
+  xy: 2, 150
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+ads_super_pop_ads_super_pop_icon_a.png
+  rotate: false
+  xy: 200, 180
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

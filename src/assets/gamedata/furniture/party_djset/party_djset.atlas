@@ -1,0 +1,181 @@
+
+party_djset.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+party_djset_party_djset_32_e_2_0.png
+  rotate: false
+  xy: 59, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_32_e_2_0.png
+  rotate: false
+  xy: 119, 30
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_32_e_2_0.png
+  rotate: false
+  xy: 182, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_32_e_2_0.png
+  rotate: false
+  xy: 200, 157
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_a_2_0.png
+  rotate: false
+  xy: 130, 153
+  size: 68, 101
+  orig: 68, 101
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_a_6_0.png
+  rotate: false
+  xy: 2, 8
+  size: 55, 112
+  orig: 55, 112
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_b_2_0.png
+  rotate: false
+  xy: 59, 23
+  size: 58, 97
+  orig: 58, 97
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_b_6_0.png
+  rotate: false
+  xy: 70, 130
+  size: 58, 124
+  orig: 58, 124
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_c_2_0.png
+  rotate: false
+  xy: 119, 33
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_c_6_0.png
+  rotate: false
+  xy: 2, 122
+  size: 66, 132
+  orig: 66, 132
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_d_2_0.png
+  rotate: false
+  xy: 44, 2
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_d_2_1.png
+  rotate: false
+  xy: 30, 2
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_d_2_2.png
+  rotate: false
+  xy: 16, 2
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_d_2_3.png
+  rotate: false
+  xy: 2, 2
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_d_6_0.png
+  rotate: false
+  xy: 239, 244
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_d_6_1.png
+  rotate: false
+  xy: 239, 220
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_d_6_2.png
+  rotate: false
+  xy: 239, 232
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_d_6_3.png
+  rotate: false
+  xy: 239, 208
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_e_2_1.png
+  rotate: false
+  xy: 84, 122
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_e_2_2.png
+  rotate: false
+  xy: 70, 122
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_f_2_1.png
+  rotate: false
+  xy: 165, 130
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_f_2_2.png
+  rotate: false
+  xy: 130, 130
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_f_6_1.png
+  rotate: false
+  xy: 200, 224
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_64_f_6_2.png
+  rotate: false
+  xy: 200, 192
+  size: 37, 30
+  orig: 37, 30
+  offset: 0, 0
+  index: -1
+party_djset_party_djset_icon_a.png
+  rotate: false
+  xy: 200, 160
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

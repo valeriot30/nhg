@@ -1,0 +1,160 @@
+
+grand_piano.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+grand_piano_grand_piano_64_a_0_0.png
+  rotate: false
+  xy: 684, 21
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_a_0_1.png
+  rotate: false
+  xy: 789, 21
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_a_2_0.png
+  rotate: false
+  xy: 350, 36
+  size: 116, 86
+  orig: 116, 86
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_a_2_1.png
+  rotate: false
+  xy: 232, 36
+  size: 116, 86
+  orig: 116, 86
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_a_4_0.png
+  rotate: false
+  xy: 576, 30
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_a_4_1.png
+  rotate: false
+  xy: 468, 30
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_a_6_0.png
+  rotate: false
+  xy: 2, 26
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_a_6_1.png
+  rotate: false
+  xy: 117, 26
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_b_0_0.png
+  rotate: false
+  xy: 1667, 40
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_b_0_1.png
+  rotate: false
+  xy: 1564, 40
+  size: 101, 82
+  orig: 101, 82
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_b_2_0.png
+  rotate: false
+  xy: 1120, 48
+  size: 114, 74
+  orig: 114, 74
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_b_2_1.png
+  rotate: false
+  xy: 1236, 48
+  size: 114, 74
+  orig: 114, 74
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_b_4_0.png
+  rotate: false
+  xy: 1458, 42
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_b_4_1.png
+  rotate: false
+  xy: 1352, 42
+  size: 104, 80
+  orig: 104, 80
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_b_6_0.png
+  rotate: false
+  xy: 894, 45
+  size: 111, 77
+  orig: 111, 77
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_b_6_1.png
+  rotate: false
+  xy: 1007, 45
+  size: 111, 77
+  orig: 111, 77
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_sd_0_0.png
+  rotate: false
+  xy: 1887, 32
+  size: 101, 50
+  orig: 101, 50
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_sd_2_0.png
+  rotate: false
+  xy: 1887, 84
+  size: 113, 38
+  orig: 113, 38
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_sd_4_0.png
+  rotate: false
+  xy: 1770, 35
+  size: 102, 42
+  orig: 102, 42
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_64_sd_6_0.png
+  rotate: false
+  xy: 1770, 79
+  size: 115, 43
+  orig: 115, 43
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_icon_a.png
+  rotate: false
+  xy: 2002, 93
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+grand_piano_grand_piano_icon_b.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1

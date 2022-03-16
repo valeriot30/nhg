@@ -1,0 +1,76 @@
+
+stories_shakespeare_bench.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stories_shakespeare_bench_stories_shakespeare_bench_64_a_0_0.png
+  rotate: false
+  xy: 223, 76
+  size: 71, 50
+  orig: 71, 50
+  offset: 0, 0
+  index: -1
+stories_shakespeare_bench_stories_shakespeare_bench_64_a_4_0.png
+  rotate: false
+  xy: 75, 60
+  size: 76, 66
+  orig: 76, 66
+  offset: 0, 0
+  index: -1
+stories_shakespeare_bench_stories_shakespeare_bench_64_b_0_0.png
+  rotate: false
+  xy: 417, 80
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+stories_shakespeare_bench_stories_shakespeare_bench_64_b_4_0.png
+  rotate: false
+  xy: 75, 57
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+stories_shakespeare_bench_stories_shakespeare_bench_64_c_0_0.png
+  rotate: false
+  xy: 296, 76
+  size: 66, 50
+  orig: 66, 50
+  offset: 0, 0
+  index: -1
+stories_shakespeare_bench_stories_shakespeare_bench_64_c_4_0.png
+  rotate: false
+  xy: 2, 51
+  size: 71, 75
+  orig: 71, 75
+  offset: 0, 0
+  index: -1
+stories_shakespeare_bench_stories_shakespeare_bench_64_d_0_0.png
+  rotate: false
+  xy: 153, 72
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+stories_shakespeare_bench_stories_shakespeare_bench_64_d_4_0.png
+  rotate: false
+  xy: 364, 60
+  size: 51, 66
+  orig: 51, 66
+  offset: 0, 0
+  index: -1
+stories_shakespeare_bench_stories_shakespeare_bench_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+stories_shakespeare_bench_stories_shakespeare_bench_icon_a.png
+  rotate: false
+  xy: 466, 99
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

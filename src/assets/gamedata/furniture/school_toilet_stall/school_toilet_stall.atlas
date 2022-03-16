@@ -1,0 +1,48 @@
+
+school_toilet_stall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+school_toilet_stall_school_toilet_stall_64_a_2_0.png
+  rotate: false
+  xy: 2, 93
+  size: 67, 140
+  orig: 67, 140
+  offset: 0, 0
+  index: -1
+school_toilet_stall_school_toilet_stall_64_b_2_0.png
+  rotate: false
+  xy: 108, 144
+  size: 31, 89
+  orig: 31, 89
+  offset: 0, 0
+  index: -1
+school_toilet_stall_school_toilet_stall_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 89
+  orig: 32, 89
+  offset: 0, 0
+  index: -1
+school_toilet_stall_school_toilet_stall_64_c_2_0.png
+  rotate: false
+  xy: 71, 108
+  size: 35, 125
+  orig: 35, 125
+  offset: 0, 0
+  index: -1
+school_toilet_stall_school_toilet_stall_64_sd_2_0.png
+  rotate: false
+  xy: 141, 204
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+school_toilet_stall_school_toilet_stall_icon_a.png
+  rotate: false
+  xy: 36, 59
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

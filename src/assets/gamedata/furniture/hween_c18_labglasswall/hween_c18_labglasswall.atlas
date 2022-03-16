@@ -1,0 +1,83 @@
+
+hween_c18_labglasswall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_labglasswall_hween_c18_labglasswall_64_a_0_0.png
+  rotate: false
+  xy: 160, 71
+  size: 34, 160
+  orig: 34, 160
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_64_a_6_0.png
+  rotate: false
+  xy: 196, 71
+  size: 34, 160
+  orig: 34, 160
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_64_b_0_0.png
+  rotate: false
+  xy: 2, 69
+  size: 38, 162
+  orig: 38, 162
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_64_b_6_0.png
+  rotate: false
+  xy: 42, 69
+  size: 38, 162
+  orig: 38, 162
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_64_c_0_0.png
+  rotate: false
+  xy: 267, 73
+  size: 33, 158
+  orig: 33, 158
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_64_c_6_0.png
+  rotate: false
+  xy: 232, 73
+  size: 33, 158
+  orig: 33, 158
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_64_d_0_0.png
+  rotate: false
+  xy: 82, 71
+  size: 37, 160
+  orig: 37, 160
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_64_d_6_0.png
+  rotate: false
+  xy: 121, 71
+  size: 37, 160
+  orig: 37, 160
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_64_sd_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_64_sd_6_0.png
+  rotate: false
+  xy: 302, 196
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+hween_c18_labglasswall_hween_c18_labglasswall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+sporttrack3.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sporttrack3_sporttrack3_64_a_0_0.png
+  rotate: false
+  xy: 266, 38
+  size: 130, 67
+  orig: 130, 67
+  offset: 0, 0
+  index: -1
+sporttrack3_sporttrack3_64_b_0_0.png
+  rotate: false
+  xy: 398, 40
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+sporttrack3_sporttrack3_64_c_4_0.png
+  rotate: false
+  xy: 134, 37
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+sporttrack3_sporttrack3_64_c_6_0.png
+  rotate: false
+  xy: 2, 36
+  size: 130, 69
+  orig: 130, 69
+  offset: 0, 0
+  index: -1
+sporttrack3_sporttrack3_64_d_6_0.png
+  rotate: false
+  xy: 530, 81
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+sporttrack3_sporttrack3_icon_a.png
+  rotate: false
+  xy: 2, 13
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+sporttrack3_sporttrack3_icon_b.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+bonusrare18_1.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bonusrare18_1_bonusrare18_1_64_a_4_0.png
+  rotate: false
+  xy: 2, 157
+  size: 36, 86
+  orig: 36, 86
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_b_4_0.png
+  rotate: false
+  xy: 2, 107
+  size: 27, 48
+  orig: 27, 48
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_c_4_1.png
+  rotate: false
+  xy: 2, 37
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_c_4_2.png
+  rotate: false
+  xy: 2, 72
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_c_4_3.png
+  rotate: false
+  xy: 40, 169
+  size: 14, 33
+  orig: 14, 33
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_d_4_1.png
+  rotate: false
+  xy: 18, 54
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_e_4_1.png
+  rotate: false
+  xy: 18, 22
+  size: 10, 15
+  orig: 10, 15
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_f_4_1.png
+  rotate: false
+  xy: 56, 195
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_g_4_0.png
+  rotate: false
+  xy: 40, 204
+  size: 22, 39
+  orig: 22, 39
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_64_sd_4_0.png
+  rotate: false
+  xy: 18, 39
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_icon_a.png
+  rotate: false
+  xy: 18, 75
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+bonusrare18_1_bonusrare18_1_icon_b.png
+  rotate: false
+  xy: 30, 24
+  size: 11, 13
+  orig: 11, 13
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+sf_tele.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sf_tele_sf_tele_64_a_2_0.png
+  rotate: false
+  xy: 44, 23
+  size: 54, 38
+  orig: 54, 38
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_b_2_0.png
+  rotate: false
+  xy: 377, 99
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_c_2_1.png
+  rotate: false
+  xy: 2, 63
+  size: 137, 189
+  orig: 137, 189
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_c_2_2.png
+  rotate: false
+  xy: 141, 63
+  size: 134, 189
+  orig: 134, 189
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_c_2_3.png
+  rotate: false
+  xy: 333, 166
+  size: 61, 86
+  orig: 61, 86
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_c_2_4.png
+  rotate: false
+  xy: 396, 160
+  size: 51, 92
+  orig: 51, 92
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_c_2_5.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 59
+  orig: 40, 59
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_d_2_0.png
+  rotate: false
+  xy: 449, 165
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_d_2_2.png
+  rotate: false
+  xy: 333, 83
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_e_2_0.png
+  rotate: false
+  xy: 449, 168
+  size: 46, 84
+  orig: 46, 84
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_64_f_2_0.png
+  rotate: false
+  xy: 277, 90
+  size: 54, 162
+  orig: 54, 162
+  offset: 0, 0
+  index: -1
+sf_tele_sf_tele_icon_a.png
+  rotate: false
+  xy: 497, 222
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

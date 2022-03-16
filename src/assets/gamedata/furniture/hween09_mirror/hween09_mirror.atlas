@@ -1,0 +1,62 @@
+
+hween09_mirror.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween09_mirror_hween09_mirror_64_a_2_0.png
+  rotate: false
+  xy: 2, 23
+  size: 35, 78
+  orig: 35, 78
+  offset: 0, 0
+  index: -1
+hween09_mirror_hween09_mirror_64_b_2_0.png
+  rotate: false
+  xy: 39, 27
+  size: 33, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+hween09_mirror_hween09_mirror_64_b_2_1.png
+  rotate: false
+  xy: 74, 167
+  size: 33, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+hween09_mirror_hween09_mirror_64_c_2_0.png
+  rotate: false
+  xy: 74, 95
+  size: 25, 70
+  orig: 25, 70
+  offset: 0, 0
+  index: -1
+hween09_mirror_hween09_mirror_64_d_2_0.png
+  rotate: false
+  xy: 2, 103
+  size: 70, 138
+  orig: 70, 138
+  offset: 0, 0
+  index: -1
+hween09_mirror_hween09_mirror_64_e_2_0.png
+  rotate: false
+  xy: 74, 92
+  size: 9, 1
+  orig: 9, 1
+  offset: 0, 0
+  index: -1
+hween09_mirror_hween09_mirror_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+hween09_mirror_hween09_mirror_icon_a.png
+  rotate: false
+  xy: 109, 212
+  size: 17, 29
+  orig: 17, 29
+  offset: 0, 0
+  index: -1

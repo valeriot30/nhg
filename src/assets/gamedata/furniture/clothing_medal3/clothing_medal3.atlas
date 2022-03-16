@@ -1,0 +1,55 @@
+
+clothing_medal3.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_medal3_clothing_medal3_64_a_0_0.png
+  rotate: false
+  xy: 2, 129
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+clothing_medal3_clothing_medal3_64_a_0_1.png
+  rotate: false
+  xy: 2, 162
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+clothing_medal3_clothing_medal3_64_a_0_2.png
+  rotate: false
+  xy: 2, 63
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+clothing_medal3_clothing_medal3_64_a_0_3.png
+  rotate: false
+  xy: 2, 96
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+clothing_medal3_clothing_medal3_64_a_0_4.png
+  rotate: false
+  xy: 2, 30
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+clothing_medal3_clothing_medal3_64_a_0_5.png
+  rotate: false
+  xy: 56, 192
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+clothing_medal3_clothing_medal3_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1

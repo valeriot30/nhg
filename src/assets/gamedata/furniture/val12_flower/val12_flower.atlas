@@ -1,0 +1,160 @@
+
+val12_flower.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val12_flower_val12_flower_64_a_0_0.png
+  rotate: false
+  xy: 102, 113
+  size: 94, 141
+  orig: 94, 141
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_a_0_1.png
+  rotate: false
+  xy: 2, 114
+  size: 98, 140
+  orig: 98, 140
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_b_0_0.png
+  rotate: false
+  xy: 77, 44
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_b_0_1.png
+  rotate: false
+  xy: 77, 47
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_b_0_2.png
+  rotate: false
+  xy: 2, 40
+  size: 73, 72
+  orig: 73, 72
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_1.png
+  rotate: false
+  xy: 198, 212
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_10.png
+  rotate: false
+  xy: 29, 22
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_11.png
+  rotate: false
+  xy: 206, 221
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_12.png
+  rotate: false
+  xy: 247, 229
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_13.png
+  rotate: false
+  xy: 20, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_14.png
+  rotate: false
+  xy: 198, 221
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_15.png
+  rotate: false
+  xy: 143, 104
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_2.png
+  rotate: false
+  xy: 143, 95
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_3.png
+  rotate: false
+  xy: 152, 104
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_4.png
+  rotate: false
+  xy: 2, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_5.png
+  rotate: false
+  xy: 247, 238
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_6.png
+  rotate: false
+  xy: 29, 31
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_7.png
+  rotate: false
+  xy: 11, 2
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_8.png
+  rotate: false
+  xy: 247, 247
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_c_0_9.png
+  rotate: false
+  xy: 37, 31
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_64_sd_0_0.png
+  rotate: false
+  xy: 198, 230
+  size: 47, 24
+  orig: 47, 24
+  offset: 0, 0
+  index: -1
+val12_flower_val12_flower_icon_a.png
+  rotate: false
+  xy: 2, 11
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1

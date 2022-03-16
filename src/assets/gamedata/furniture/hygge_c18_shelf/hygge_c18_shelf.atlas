@@ -1,0 +1,48 @@
+
+hygge_c18_shelf.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hygge_c18_shelf_hygge_c18_shelf_64_a_0_0.png
+  rotate: false
+  xy: 2, 185
+  size: 54, 65
+  orig: 54, 65
+  offset: 0, 0
+  index: -1
+hygge_c18_shelf_hygge_c18_shelf_64_b_0_0.png
+  rotate: false
+  xy: 2, 112
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+hygge_c18_shelf_hygge_c18_shelf_64_b_0_1.png
+  rotate: false
+  xy: 2, 73
+  size: 27, 37
+  orig: 27, 37
+  offset: 0, 0
+  index: -1
+hygge_c18_shelf_hygge_c18_shelf_64_b_0_2.png
+  rotate: false
+  xy: 2, 34
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+hygge_c18_shelf_hygge_c18_shelf_64_sd_0_0.png
+  rotate: false
+  xy: 2, 156
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+hygge_c18_shelf_hygge_c18_shelf_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

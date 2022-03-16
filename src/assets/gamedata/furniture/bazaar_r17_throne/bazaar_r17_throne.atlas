@@ -1,0 +1,111 @@
+
+bazaar_r17_throne.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_r17_throne_bazaar_r17_throne_64_a_0_0.png
+  rotate: false
+  xy: 695, 99
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_a_2_0.png
+  rotate: false
+  xy: 248, 40
+  size: 93, 86
+  orig: 93, 86
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_b_0_0.png
+  rotate: false
+  xy: 433, 61
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_b_2_0.png
+  rotate: false
+  xy: 595, 80
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_c_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_c_2_0.png
+  rotate: false
+  xy: 125, 5
+  size: 121, 121
+  orig: 121, 121
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_e_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_e_0_1.png
+  rotate: false
+  xy: 553, 86
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_f_2_2.png
+  rotate: false
+  xy: 320, 31
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_f_2_3.png
+  rotate: false
+  xy: 343, 50
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_h_0_0.png
+  rotate: false
+  xy: 343, 61
+  size: 88, 65
+  orig: 88, 65
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_h_2_0.png
+  rotate: false
+  xy: 645, 80
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_sd_0_0.png
+  rotate: false
+  xy: 248, 6
+  size: 70, 32
+  orig: 70, 32
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_64_sd_2_0.png
+  rotate: false
+  xy: 523, 91
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+bazaar_r17_throne_bazaar_r17_throne_icon_a.png
+  rotate: false
+  xy: 523, 61
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

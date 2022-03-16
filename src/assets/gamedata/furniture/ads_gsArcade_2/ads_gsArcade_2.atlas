@@ -1,0 +1,97 @@
+
+ads_gsArcade_2.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_gsArcade_2_ads_gsArcade_2_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 111
+  orig: 64, 111
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_0.png
+  rotate: false
+  xy: 94, 84
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_1.png
+  rotate: false
+  xy: 68, 53
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_10.png
+  rotate: false
+  xy: 146, 53
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_2.png
+  rotate: false
+  xy: 68, 84
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_3.png
+  rotate: false
+  xy: 120, 22
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_4.png
+  rotate: false
+  xy: 146, 84
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_5.png
+  rotate: false
+  xy: 120, 53
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_6.png
+  rotate: false
+  xy: 94, 22
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_7.png
+  rotate: false
+  xy: 120, 84
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_8.png
+  rotate: false
+  xy: 94, 53
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_64_b_2_9.png
+  rotate: false
+  xy: 68, 22
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1
+ads_gsArcade_2_ads_gsArcade_2_icon_a.png
+  rotate: false
+  xy: 172, 83
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

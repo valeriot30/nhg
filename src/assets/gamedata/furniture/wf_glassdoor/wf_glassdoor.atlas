@@ -1,0 +1,90 @@
+
+wf_glassdoor.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wf_glassdoor_wf_glassdoor_64_a_0_0.png
+  rotate: false
+  xy: 66, 2
+  size: 48, 29
+  orig: 48, 29
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_1.png
+  rotate: false
+  xy: 116, 4
+  size: 48, 34
+  orig: 48, 34
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_10.png
+  rotate: false
+  xy: 2, 12
+  size: 62, 111
+  orig: 62, 111
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_2.png
+  rotate: false
+  xy: 416, 82
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_3.png
+  rotate: false
+  xy: 366, 75
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_4.png
+  rotate: false
+  xy: 316, 68
+  size: 48, 55
+  orig: 48, 55
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_5.png
+  rotate: false
+  xy: 266, 61
+  size: 48, 62
+  orig: 48, 62
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_6.png
+  rotate: false
+  xy: 216, 54
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_7.png
+  rotate: false
+  xy: 166, 47
+  size: 48, 76
+  orig: 48, 76
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_8.png
+  rotate: false
+  xy: 116, 40
+  size: 48, 83
+  orig: 48, 83
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_64_a_0_9.png
+  rotate: false
+  xy: 66, 33
+  size: 48, 90
+  orig: 48, 90
+  offset: 0, 0
+  index: -1
+wf_glassdoor_wf_glassdoor_icon_a.png
+  rotate: false
+  xy: 166, 15
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

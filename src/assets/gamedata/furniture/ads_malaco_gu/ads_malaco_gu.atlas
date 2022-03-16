@@ -1,0 +1,27 @@
+
+ads_malaco_gu.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_malaco_gu_ads_malaco_gu_64_a_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 35, 77
+  orig: 35, 77
+  offset: 0, 0
+  index: -1
+ads_malaco_gu_ads_malaco_gu_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+ads_malaco_gu_ads_malaco_gu_icon_a.png
+  rotate: false
+  xy: 39, 68
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

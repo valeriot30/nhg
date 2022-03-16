@@ -1,0 +1,62 @@
+
+hblooza14_ballsign.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_ballsign_hblooza14_ballsign_64_a_4_0.png
+  rotate: false
+  xy: 276, 33
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+hblooza14_ballsign_hblooza14_ballsign_64_a_4_1.png
+  rotate: false
+  xy: 210, 33
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+hblooza14_ballsign_hblooza14_ballsign_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 100
+  orig: 51, 100
+  offset: 0, 0
+  index: -1
+hblooza14_ballsign_hblooza14_ballsign_64_b_4_1.png
+  rotate: false
+  xy: 108, 2
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
+hblooza14_ballsign_hblooza14_ballsign_64_b_4_2.png
+  rotate: false
+  xy: 159, 3
+  size: 49, 99
+  orig: 49, 99
+  offset: 0, 0
+  index: -1
+hblooza14_ballsign_hblooza14_ballsign_64_b_4_3.png
+  rotate: false
+  xy: 55, 3
+  size: 51, 99
+  orig: 51, 99
+  offset: 0, 0
+  index: -1
+hblooza14_ballsign_hblooza14_ballsign_64_sd_4_0.png
+  rotate: false
+  xy: 342, 71
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+hblooza14_ballsign_hblooza14_ballsign_icon_a.png
+  rotate: false
+  xy: 342, 40
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

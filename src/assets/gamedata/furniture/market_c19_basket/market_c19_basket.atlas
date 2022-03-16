@@ -1,0 +1,97 @@
+
+market_c19_basket.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+market_c19_basket_market_c19_basket_64_a_0_0.png
+  rotate: false
+  xy: 343, 30
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_a_0_1.png
+  rotate: false
+  xy: 269, 22
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_a_0_2.png
+  rotate: false
+  xy: 39, 14
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_a_0_3.png
+  rotate: false
+  xy: 117, 21
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_a_0_4.png
+  rotate: false
+  xy: 158, 18
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_a_6_0.png
+  rotate: false
+  xy: 306, 30
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_a_6_1.png
+  rotate: false
+  xy: 232, 22
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_a_6_2.png
+  rotate: false
+  xy: 2, 14
+  size: 35, 48
+  orig: 35, 48
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_a_6_3.png
+  rotate: false
+  xy: 76, 21
+  size: 39, 41
+  orig: 39, 41
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_a_6_4.png
+  rotate: false
+  xy: 195, 18
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_sd_0_0.png
+  rotate: false
+  xy: 111, 2
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_64_sd_6_0.png
+  rotate: false
+  xy: 76, 2
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+market_c19_basket_market_c19_basket_icon_a.png
+  rotate: false
+  xy: 380, 37
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1

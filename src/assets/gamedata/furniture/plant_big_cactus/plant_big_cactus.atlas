@@ -1,0 +1,27 @@
+
+plant_big_cactus.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plant_big_cactus_plant_big_cactus_64_a_0_0.png
+  rotate: false
+  xy: 2, 62
+  size: 47, 105
+  orig: 47, 105
+  offset: 0, 0
+  index: -1
+plant_big_cactus_plant_big_cactus_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+plant_big_cactus_plant_big_cactus_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

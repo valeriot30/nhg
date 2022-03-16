@@ -1,0 +1,34 @@
+
+prizetrophy8.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prizetrophy8_prizetrophy8_64_a_0_0.png
+  rotate: false
+  xy: 2, 95
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+prizetrophy8_prizetrophy8_64_b_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+prizetrophy8_prizetrophy8_64_c_0_0.png
+  rotate: false
+  xy: 2, 156
+  size: 34, 98
+  orig: 34, 98
+  offset: 0, 0
+  index: -1
+prizetrophy8_prizetrophy8_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

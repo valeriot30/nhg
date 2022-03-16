@@ -1,0 +1,69 @@
+
+toilet.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+toilet_toilet_64_a_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+toilet_toilet_64_a_4_1.png
+  rotate: false
+  xy: 44, 6
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+toilet_toilet_64_a_6_0.png
+  rotate: false
+  xy: 86, 6
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+toilet_toilet_64_a_6_1.png
+  rotate: false
+  xy: 128, 7
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+toilet_toilet_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+toilet_toilet_64_b_4_1.png
+  rotate: false
+  xy: 202, 8
+  size: 27, 42
+  orig: 27, 42
+  offset: 0, 0
+  index: -1
+toilet_toilet_64_b_6_1.png
+  rotate: false
+  xy: 170, 6
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+toilet_toilet_64_sd_0_0.png
+  rotate: false
+  xy: 231, 27
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1
+toilet_toilet_icon_a.png
+  rotate: false
+  xy: 277, 20
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

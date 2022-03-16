@@ -1,0 +1,195 @@
+
+ads_kfp2_tv.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_kfp2_tv_ads_kfp2_tv_32_d_2_0.png
+  rotate: false
+  xy: 426, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_32_d_2_0.png
+  rotate: false
+  xy: 2876, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_32_d_2_0.png
+  rotate: false
+  xy: 3442, 116
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_32_d_2_0.png
+  rotate: false
+  xy: 3686, 238
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_a_2_0.png
+  rotate: false
+  xy: 3564, 119
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_a_4_1.png
+  rotate: false
+  xy: 3442, 119
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_2_0.png
+  rotate: false
+  xy: 1834, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_2_1.png
+  rotate: false
+  xy: 1658, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_2_2.png
+  rotate: false
+  xy: 1482, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_2_3.png
+  rotate: false
+  xy: 2362, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_2_4.png
+  rotate: false
+  xy: 2186, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_2_5.png
+  rotate: false
+  xy: 2010, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_4_0.png
+  rotate: false
+  xy: 1306, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_4_1.png
+  rotate: false
+  xy: 778, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_4_2.png
+  rotate: false
+  xy: 602, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_4_3.png
+  rotate: false
+  xy: 1130, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_4_4.png
+  rotate: false
+  xy: 954, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_b_4_5.png
+  rotate: false
+  xy: 426, 64
+  size: 174, 175
+  orig: 174, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_c_2_1.png
+  rotate: false
+  xy: 3160, 94
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_c_4_1.png
+  rotate: false
+  xy: 3301, 94
+  size: 139, 145
+  orig: 139, 145
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_d_2_0.png
+  rotate: false
+  xy: 3018, 93
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_d_4_0.png
+  rotate: false
+  xy: 2876, 93
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_e_2_1.png
+  rotate: false
+  xy: 2, 30
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_e_4_1.png
+  rotate: false
+  xy: 214, 30
+  size: 210, 209
+  orig: 210, 209
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_f_2_0.png
+  rotate: false
+  xy: 2538, 64
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_64_f_4_0.png
+  rotate: false
+  xy: 2707, 64
+  size: 167, 175
+  orig: 167, 175
+  offset: 0, 0
+  index: -1
+ads_kfp2_tv_ads_kfp2_tv_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1

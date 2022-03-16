@@ -1,0 +1,69 @@
+
+bw_croc.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bw_croc_bw_croc_64_a_0_0.png
+  rotate: false
+  xy: 308, 43
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+bw_croc_bw_croc_64_a_0_1.png
+  rotate: false
+  xy: 308, 22
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+bw_croc_bw_croc_64_b_0_0.png
+  rotate: false
+  xy: 207, 19
+  size: 51, 43
+  orig: 51, 43
+  offset: 0, 0
+  index: -1
+bw_croc_bw_croc_64_b_0_1.png
+  rotate: false
+  xy: 260, 20
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+bw_croc_bw_croc_64_c_0_0.png
+  rotate: false
+  xy: 94, 16
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+bw_croc_bw_croc_64_c_0_1.png
+  rotate: false
+  xy: 151, 19
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+bw_croc_bw_croc_64_d_0_0.png
+  rotate: false
+  xy: 2, 15
+  size: 90, 47
+  orig: 90, 47
+  offset: 0, 0
+  index: -1
+bw_croc_bw_croc_64_d_0_1.png
+  rotate: false
+  xy: 340, 58
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+bw_croc_bw_croc_icon_a.png
+  rotate: false
+  xy: 308, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

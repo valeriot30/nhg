@@ -1,0 +1,55 @@
+
+uni_floppy.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_floppy_uni_floppy_32_a_4_0.png
+  rotate: false
+  xy: 230, 28
+  size: 19, 28
+  orig: 19, 28
+  offset: 0, 0
+  index: -1
+uni_floppy_uni_floppy_64_a_2_0.png
+  rotate: false
+  xy: 154, 2
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+uni_floppy_uni_floppy_64_a_2_1.png
+  rotate: false
+  xy: 192, 2
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+uni_floppy_uni_floppy_64_a_2_2.png
+  rotate: false
+  xy: 116, 2
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+uni_floppy_uni_floppy_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+uni_floppy_uni_floppy_64_a_4_1.png
+  rotate: false
+  xy: 40, 2
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+uni_floppy_uni_floppy_64_a_4_2.png
+  rotate: false
+  xy: 78, 2
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1

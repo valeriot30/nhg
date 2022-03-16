@@ -1,0 +1,48 @@
+
+petfood19.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+petfood19_petfood19_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 27
+  orig: 31, 27
+  offset: 0, 0
+  index: -1
+petfood19_petfood19_64_a_4_1.png
+  rotate: false
+  xy: 35, 2
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+petfood19_petfood19_64_a_4_2.png
+  rotate: false
+  xy: 67, 7
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+petfood19_petfood19_64_a_4_3.png
+  rotate: false
+  xy: 102, 7
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1
+petfood19_petfood19_64_sd_4_0.png
+  rotate: false
+  xy: 164, 17
+  size: 28, 12
+  orig: 28, 12
+  offset: 0, 0
+  index: -1
+petfood19_petfood19_icon_a.png
+  rotate: false
+  xy: 134, 5
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,454 @@
+
+bb_apparatus_rc1.png
+size: 2048,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bb_apparatus_rc1_bb_apparatus_rc1_64_a_0_0.png
+  rotate: false
+  xy: 680, 339
+  size: 89, 171
+  orig: 89, 171
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_0.png
+  rotate: false
+  xy: 1957, 407
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_1.png
+  rotate: false
+  xy: 1761, 15
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_10.png
+  rotate: false
+  xy: 1580, 187
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_11.png
+  rotate: false
+  xy: 1655, 195
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_12.png
+  rotate: false
+  xy: 1730, 195
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_13.png
+  rotate: false
+  xy: 1611, 15
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_14.png
+  rotate: false
+  xy: 1430, 187
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_15.png
+  rotate: false
+  xy: 1355, 185
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_16.png
+  rotate: false
+  xy: 1386, 12
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_17.png
+  rotate: false
+  xy: 1505, 187
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_18.png
+  rotate: false
+  xy: 1536, 12
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_19.png
+  rotate: false
+  xy: 1461, 12
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_2.png
+  rotate: false
+  xy: 1686, 15
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_20.png
+  rotate: false
+  xy: 1280, 185
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_21.png
+  rotate: false
+  xy: 1130, 166
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_22.png
+  rotate: false
+  xy: 1205, 166
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_23.png
+  rotate: false
+  xy: 980, 149
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_24.png
+  rotate: false
+  xy: 1055, 166
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_25.png
+  rotate: false
+  xy: 905, 149
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_26.png
+  rotate: false
+  xy: 830, 140
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_27.png
+  rotate: false
+  xy: 755, 140
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_28.png
+  rotate: false
+  xy: 680, 140
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_3.png
+  rotate: false
+  xy: 1957, 442
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_4.png
+  rotate: false
+  xy: 1957, 477
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_5.png
+  rotate: false
+  xy: 1880, 203
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_6.png
+  rotate: false
+  xy: 1805, 203
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_7.png
+  rotate: false
+  xy: 1841, 59
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_8.png
+  rotate: false
+  xy: 1836, 16
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_b_0_9.png
+  rotate: false
+  xy: 1766, 51
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_c_0_1.png
+  rotate: false
+  xy: 1209, 220
+  size: 196, 143
+  orig: 196, 143
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_c_0_2.png
+  rotate: false
+  xy: 1407, 222
+  size: 196, 143
+  orig: 196, 143
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_c_0_3.png
+  rotate: false
+  xy: 1300, 367
+  size: 196, 143
+  orig: 196, 143
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_c_0_4.png
+  rotate: false
+  xy: 1498, 367
+  size: 196, 143
+  orig: 196, 143
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_d_0_1.png
+  rotate: false
+  xy: 551, 326
+  size: 127, 184
+  orig: 127, 184
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_d_0_2.png
+  rotate: false
+  xy: 551, 140
+  size: 127, 184
+  orig: 127, 184
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_d_0_3.png
+  rotate: false
+  xy: 422, 326
+  size: 127, 184
+  orig: 127, 184
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_d_0_4.png
+  rotate: false
+  xy: 422, 140
+  size: 127, 184
+  orig: 127, 184
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_e_0_1.png
+  rotate: false
+  xy: 992, 2
+  size: 195, 145
+  orig: 195, 145
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_e_0_2.png
+  rotate: false
+  xy: 1103, 365
+  size: 195, 145
+  orig: 195, 145
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_e_0_3.png
+  rotate: false
+  xy: 1012, 201
+  size: 195, 145
+  orig: 195, 145
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_e_0_4.png
+  rotate: false
+  xy: 1189, 19
+  size: 195, 145
+  orig: 195, 145
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_f_0_1.png
+  rotate: false
+  xy: 2, 259
+  size: 208, 251
+  orig: 208, 251
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_f_0_2.png
+  rotate: false
+  xy: 2, 6
+  size: 208, 251
+  orig: 208, 251
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_f_0_3.png
+  rotate: false
+  xy: 212, 259
+  size: 208, 251
+  orig: 208, 251
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_f_0_4.png
+  rotate: false
+  xy: 212, 6
+  size: 208, 251
+  orig: 208, 251
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_g_0_1.png
+  rotate: false
+  xy: 1795, 238
+  size: 188, 135
+  orig: 188, 135
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_g_0_2.png
+  rotate: false
+  xy: 1605, 230
+  size: 188, 135
+  orig: 188, 135
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_g_0_3.png
+  rotate: false
+  xy: 1696, 375
+  size: 188, 135
+  orig: 188, 135
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_g_0_4.png
+  rotate: false
+  xy: 1576, 50
+  size: 188, 135
+  orig: 188, 135
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_h_0_1.png
+  rotate: false
+  xy: 771, 348
+  size: 164, 162
+  orig: 164, 162
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_h_0_2.png
+  rotate: false
+  xy: 680, 175
+  size: 164, 162
+  orig: 164, 162
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_h_0_3.png
+  rotate: false
+  xy: 937, 348
+  size: 164, 162
+  orig: 164, 162
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_h_0_4.png
+  rotate: false
+  xy: 846, 184
+  size: 164, 162
+  orig: 164, 162
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_i_0_0.png
+  rotate: false
+  xy: 2, 3
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_i_0_1.png
+  rotate: false
+  xy: 422, 2
+  size: 188, 136
+  orig: 188, 136
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_i_0_2.png
+  rotate: false
+  xy: 1386, 47
+  size: 188, 136
+  orig: 188, 136
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_i_0_3.png
+  rotate: false
+  xy: 802, 2
+  size: 188, 136
+  orig: 188, 136
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_i_0_4.png
+  rotate: false
+  xy: 612, 2
+  size: 188, 136
+  orig: 188, 136
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_j_0_1.png
+  rotate: false
+  xy: 1886, 403
+  size: 69, 107
+  orig: 69, 107
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_j_0_2.png
+  rotate: false
+  xy: 1766, 86
+  size: 69, 107
+  orig: 69, 107
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_j_0_3.png
+  rotate: false
+  xy: 1837, 94
+  size: 69, 107
+  orig: 69, 107
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_64_j_0_4.png
+  rotate: false
+  xy: 1908, 94
+  size: 69, 107
+  orig: 69, 107
+  offset: 0, 0
+  index: -1
+bb_apparatus_rc1_bb_apparatus_rc1_icon_a.png
+  rotate: false
+  xy: 1886, 375
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,300 @@
+
+steampunk_rack.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+steampunk_rack_steampunk_rack_64_a_0_0.png
+  rotate: false
+  xy: 133, 110
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_a_0_1.png
+  rotate: false
+  xy: 63, 110
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_b_0_1.png
+  rotate: false
+  xy: 203, 79
+  size: 29, 118
+  orig: 29, 118
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_b_0_2.png
+  rotate: false
+  xy: 33, 68
+  size: 28, 129
+  orig: 28, 129
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_b_0_3.png
+  rotate: false
+  xy: 2, 59
+  size: 29, 138
+  orig: 29, 138
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_0.png
+  rotate: false
+  xy: 31, 56
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_1.png
+  rotate: false
+  xy: 240, 182
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_10.png
+  rotate: false
+  xy: 246, 195
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_11.png
+  rotate: false
+  xy: 250, 190
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_12.png
+  rotate: false
+  xy: 74, 96
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_15.png
+  rotate: false
+  xy: 234, 178
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_16.png
+  rotate: false
+  xy: 2, 14
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_17.png
+  rotate: false
+  xy: 33, 62
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_18.png
+  rotate: false
+  xy: 8, 22
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_19.png
+  rotate: false
+  xy: 2, 7
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_2.png
+  rotate: false
+  xy: 63, 99
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_20.png
+  rotate: false
+  xy: 19, 22
+  size: 2, 4
+  orig: 2, 4
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_23.png
+  rotate: false
+  xy: 63, 87
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_24.png
+  rotate: false
+  xy: 234, 191
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_25.png
+  rotate: false
+  xy: 234, 184
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_26.png
+  rotate: false
+  xy: 63, 105
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_27.png
+  rotate: false
+  xy: 15, 21
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_28.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_3.png
+  rotate: false
+  xy: 8, 18
+  size: 5, 2
+  orig: 5, 2
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_30.png
+  rotate: false
+  xy: 70, 94
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_31.png
+  rotate: false
+  xy: 2, 20
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_32.png
+  rotate: false
+  xy: 240, 192
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_33.png
+  rotate: false
+  xy: 42, 63
+  size: 7, 3
+  orig: 7, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_34.png
+  rotate: false
+  xy: 246, 188
+  size: 2, 5
+  orig: 2, 5
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_37.png
+  rotate: false
+  xy: 67, 89
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_38.png
+  rotate: false
+  xy: 63, 94
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_39.png
+  rotate: false
+  xy: 70, 101
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_4.png
+  rotate: false
+  xy: 51, 64
+  size: 6, 2
+  orig: 6, 2
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_40.png
+  rotate: false
+  xy: 240, 187
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_41.png
+  rotate: false
+  xy: 63, 82
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_42.png
+  rotate: false
+  xy: 78, 100
+  size: 1, 3
+  orig: 1, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_43.png
+  rotate: false
+  xy: 33, 59
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_5.png
+  rotate: false
+  xy: 234, 173
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_6.png
+  rotate: false
+  xy: 59, 64
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_8.png
+  rotate: false
+  xy: 79, 105
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_64_c_0_9.png
+  rotate: false
+  xy: 72, 105
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+steampunk_rack_steampunk_rack_icon_a.png
+  rotate: false
+  xy: 2, 28
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

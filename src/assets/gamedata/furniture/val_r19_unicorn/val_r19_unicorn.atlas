@@ -1,0 +1,41 @@
+
+val_r19_unicorn.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_r19_unicorn_val_r19_unicorn_64_a_0_0.png
+  rotate: false
+  xy: 48, 2
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+val_r19_unicorn_val_r19_unicorn_64_a_0_1.png
+  rotate: false
+  xy: 94, 2
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+val_r19_unicorn_val_r19_unicorn_64_a_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 59
+  orig: 44, 59
+  offset: 0, 0
+  index: -1
+val_r19_unicorn_val_r19_unicorn_64_sd_0_0.png
+  rotate: false
+  xy: 140, 36
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+val_r19_unicorn_val_r19_unicorn_icon_a.png
+  rotate: false
+  xy: 140, 5
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1

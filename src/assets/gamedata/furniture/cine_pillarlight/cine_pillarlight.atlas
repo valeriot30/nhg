@@ -1,0 +1,83 @@
+
+cine_pillarlight.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cine_pillarlight_cine_pillarlight_64_a_2_0.png
+  rotate: false
+  xy: 34, 13
+  size: 39, 215
+  orig: 39, 215
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_64_b_2_0.png
+  rotate: false
+  xy: 113, 20
+  size: 29, 208
+  orig: 29, 208
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_64_c_2_0.png
+  rotate: false
+  xy: 75, 13
+  size: 36, 215
+  orig: 36, 215
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_64_d_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 226
+  orig: 30, 226
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_64_e_2_0.png
+  rotate: false
+  xy: 208, 28
+  size: 30, 200
+  orig: 30, 200
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_64_e_2_1.png
+  rotate: false
+  xy: 304, 29
+  size: 30, 199
+  orig: 30, 199
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_64_e_2_2.png
+  rotate: false
+  xy: 272, 28
+  size: 30, 200
+  orig: 30, 200
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_64_e_2_3.png
+  rotate: false
+  xy: 240, 28
+  size: 30, 200
+  orig: 30, 200
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_64_e_2_4.png
+  rotate: false
+  xy: 176, 28
+  size: 30, 200
+  orig: 30, 200
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_64_e_2_5.png
+  rotate: false
+  xy: 144, 28
+  size: 30, 200
+  orig: 30, 200
+  offset: 0, 0
+  index: -1
+cine_pillarlight_cine_pillarlight_icon_a.png
+  rotate: false
+  xy: 336, 199
+  size: 16, 29
+  orig: 16, 29
+  offset: 0, 0
+  index: -1

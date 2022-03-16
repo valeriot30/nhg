@@ -1,0 +1,153 @@
+
+cine_r18_buggy.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cine_r18_buggy_cine_r18_buggy_64_a_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 73, 52
+  orig: 73, 52
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_a_4_0.png
+  rotate: false
+  xy: 717, 27
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_a_4_1.png
+  rotate: false
+  xy: 939, 126
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_b_0_0.png
+  rotate: false
+  xy: 201, 2
+  size: 48, 64
+  orig: 48, 64
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_b_4_0.png
+  rotate: false
+  xy: 717, 68
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_b_4_1.png
+  rotate: false
+  xy: 771, 68
+  size: 52, 74
+  orig: 52, 74
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_c_0_0.png
+  rotate: false
+  xy: 251, 23
+  size: 37, 43
+  orig: 37, 43
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_c_4_0.png
+  rotate: false
+  xy: 882, 115
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_c_4_1.png
+  rotate: false
+  xy: 825, 92
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_d_0_1.png
+  rotate: false
+  xy: 764, 25
+  size: 37, 41
+  orig: 37, 41
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_d_4_0.png
+  rotate: false
+  xy: 77, 3
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_d_4_1.png
+  rotate: false
+  xy: 139, 3
+  size: 60, 63
+  orig: 60, 63
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_e_0_1.png
+  rotate: false
+  xy: 712, 144
+  size: 157, 101
+  orig: 157, 101
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_e_4_0.png
+  rotate: false
+  xy: 558, 124
+  size: 152, 121
+  orig: 152, 121
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_f_0_0.png
+  rotate: false
+  xy: 419, 84
+  size: 137, 161
+  orig: 137, 161
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_f_0_1.png
+  rotate: false
+  xy: 280, 84
+  size: 137, 161
+  orig: 137, 161
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_f_4_0.png
+  rotate: false
+  xy: 2, 68
+  size: 137, 177
+  orig: 137, 177
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_f_4_1.png
+  rotate: false
+  xy: 141, 68
+  size: 137, 177
+  orig: 137, 177
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_sd_0_0.png
+  rotate: false
+  xy: 558, 42
+  size: 157, 80
+  orig: 157, 80
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_64_sd_4_0.png
+  rotate: false
+  xy: 871, 167
+  size: 151, 78
+  orig: 151, 78
+  offset: 0, 0
+  index: -1
+cine_r18_buggy_cine_r18_buggy_icon_a.png
+  rotate: false
+  xy: 986, 135
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

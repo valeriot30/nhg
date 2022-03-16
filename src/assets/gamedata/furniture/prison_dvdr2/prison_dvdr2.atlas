@@ -1,0 +1,83 @@
+
+prison_dvdr2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prison_dvdr2_prison_dvdr2_64_a_0_0.png
+  rotate: false
+  xy: 69, 97
+  size: 63, 154
+  orig: 63, 154
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_64_b_0_0.png
+  rotate: false
+  xy: 136, 21
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_64_b_0_1.png
+  rotate: false
+  xy: 201, 173
+  size: 31, 78
+  orig: 31, 78
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_64_b_0_2.png
+  rotate: false
+  xy: 201, 122
+  size: 31, 49
+  orig: 31, 49
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_64_b_0_3.png
+  rotate: false
+  xy: 136, 72
+  size: 31, 60
+  orig: 31, 60
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_64_c_0_0.png
+  rotate: false
+  xy: 2, 83
+  size: 65, 168
+  orig: 65, 168
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_64_d_0_0.png
+  rotate: false
+  xy: 134, 134
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_64_d_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_64_d_0_2.png
+  rotate: false
+  xy: 69, 45
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_64_d_0_3.png
+  rotate: false
+  xy: 134, 186
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+prison_dvdr2_prison_dvdr2_icon_a.png
+  rotate: false
+  xy: 234, 221
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

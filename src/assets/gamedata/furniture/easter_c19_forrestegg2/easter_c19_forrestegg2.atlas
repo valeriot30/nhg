@@ -1,0 +1,27 @@
+
+easter_c19_forrestegg2.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c19_forrestegg2_easter_c19_forrestegg2_64_a_0_0.png
+  rotate: false
+  xy: 2, 63
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1
+easter_c19_forrestegg2_easter_c19_forrestegg2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 55, 27
+  orig: 55, 27
+  offset: 0, 0
+  index: -1
+easter_c19_forrestegg2_easter_c19_forrestegg2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

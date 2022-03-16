@@ -1,0 +1,41 @@
+
+SF_crate_2.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SF_crate_2_SF_crate_2_64_a_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+SF_crate_2_SF_crate_2_64_a_0_1.png
+  rotate: false
+  xy: 71, 31
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+SF_crate_2_SF_crate_2_64_b_0_0.png
+  rotate: false
+  xy: 140, 33
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+SF_crate_2_SF_crate_2_64_b_0_1.png
+  rotate: false
+  xy: 205, 33
+  size: 63, 65
+  orig: 63, 65
+  offset: 0, 0
+  index: -1
+SF_crate_2_SF_crate_2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1

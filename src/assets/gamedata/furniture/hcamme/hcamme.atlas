@@ -1,0 +1,118 @@
+
+hcamme.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hcamme_hcamme_64_a_0_0.png
+  rotate: false
+  xy: 71, 77
+  size: 68, 49
+  orig: 68, 49
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_b_0_0.png
+  rotate: false
+  xy: 141, 59
+  size: 45, 67
+  orig: 45, 67
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_c_0_0.png
+  rotate: false
+  xy: 218, 58
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_d_0_0.png
+  rotate: false
+  xy: 2, 61
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_e_0_1.png
+  rotate: false
+  xy: 2, 31
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_f_0_1.png
+  rotate: false
+  xy: 63, 16
+  size: 39, 18
+  orig: 39, 18
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_f_0_2.png
+  rotate: false
+  xy: 63, 36
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_f_0_3.png
+  rotate: false
+  xy: 71, 57
+  size: 40, 18
+  orig: 40, 18
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_g_0_0.png
+  rotate: false
+  xy: 63, 58
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_g_0_1.png
+  rotate: false
+  xy: 2, 4
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_h_0_1.png
+  rotate: false
+  xy: 218, 110
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_h_0_2.png
+  rotate: false
+  xy: 218, 93
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_h_0_3.png
+  rotate: false
+  xy: 117, 8
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_i_0_0.png
+  rotate: false
+  xy: 188, 53
+  size: 28, 73
+  orig: 28, 73
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_64_i_2_0.png
+  rotate: false
+  xy: 104, 2
+  size: 11, 32
+  orig: 11, 32
+  offset: 0, 0
+  index: -1
+hcamme_hcamme_icon_a.png
+  rotate: false
+  xy: 218, 30
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

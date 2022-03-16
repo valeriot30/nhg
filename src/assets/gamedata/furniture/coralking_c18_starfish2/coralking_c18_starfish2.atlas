@@ -1,0 +1,27 @@
+
+coralking_c18_starfish2.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_starfish2_coralking_c18_starfish2_64_a_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 40, 30
+  orig: 40, 30
+  offset: 0, 0
+  index: -1
+coralking_c18_starfish2_coralking_c18_starfish2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+coralking_c18_starfish2_coralking_c18_starfish2_icon_a.png
+  rotate: false
+  xy: 44, 39
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+hween_c19_firechild.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_firechild_hween_c19_firechild_64_a_4_5.png
+  rotate: false
+  xy: 128, 44
+  size: 61, 150
+  orig: 61, 150
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_a_4_6.png
+  rotate: false
+  xy: 191, 44
+  size: 61, 150
+  orig: 61, 150
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_a_4_7.png
+  rotate: false
+  xy: 65, 38
+  size: 61, 156
+  orig: 61, 156
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_a_4_8.png
+  rotate: false
+  xy: 2, 31
+  size: 61, 163
+  orig: 61, 163
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_a_4_9.png
+  rotate: false
+  xy: 254, 46
+  size: 61, 148
+  orig: 61, 148
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_b_4_0.png
+  rotate: false
+  xy: 603, 63
+  size: 51, 131
+  orig: 51, 131
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_b_4_1.png
+  rotate: false
+  xy: 491, 54
+  size: 53, 140
+  orig: 53, 140
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_b_4_4.png
+  rotate: false
+  xy: 433, 50
+  size: 56, 144
+  orig: 56, 144
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_b_4_5.png
+  rotate: false
+  xy: 656, 63
+  size: 51, 131
+  orig: 51, 131
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_b_4_7.png
+  rotate: false
+  xy: 546, 66
+  size: 55, 128
+  orig: 55, 128
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_b_4_8.png
+  rotate: false
+  xy: 317, 47
+  size: 56, 147
+  orig: 56, 147
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_64_b_4_9.png
+  rotate: false
+  xy: 375, 50
+  size: 56, 144
+  orig: 56, 144
+  offset: 0, 0
+  index: -1
+hween_c19_firechild_hween_c19_firechild_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 27
+  orig: 14, 27
+  offset: 0, 0
+  index: -1

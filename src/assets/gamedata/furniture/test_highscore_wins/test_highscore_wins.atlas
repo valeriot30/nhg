@@ -1,0 +1,48 @@
+
+test_highscore_wins.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+test_highscore_wins_test_highscore_wins_64_a_0_0.png
+  rotate: false
+  xy: 136, 22
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+test_highscore_wins_test_highscore_wins_64_a_0_1.png
+  rotate: false
+  xy: 70, 22
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+test_highscore_wins_test_highscore_wins_64_a_2_0.png
+  rotate: false
+  xy: 202, 22
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+test_highscore_wins_test_highscore_wins_64_a_2_1.png
+  rotate: false
+  xy: 268, 22
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+test_highscore_wins_test_highscore_wins_64_b_0_0.png
+  rotate: false
+  xy: 2, 20
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+test_highscore_wins_test_highscore_wins_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1

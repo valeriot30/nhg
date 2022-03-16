@@ -1,0 +1,853 @@
+
+hblooza14_duckhook.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_duckhook_hblooza14_duckhook_64_a_0_0.png
+  rotate: false
+  xy: 2, 50
+  size: 90, 201
+  orig: 90, 201
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_b_0_0.png
+  rotate: false
+  xy: 94, 51
+  size: 74, 32
+  orig: 74, 32
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_b_0_1.png
+  rotate: false
+  xy: 439, 83
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_c_0_0.png
+  rotate: false
+  xy: 731, 59
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_c_0_1.png
+  rotate: false
+  xy: 438, 3
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_c_0_2.png
+  rotate: false
+  xy: 789, 59
+  size: 56, 26
+  orig: 56, 26
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_d_0_0.png
+  rotate: false
+  xy: 170, 54
+  size: 69, 29
+  orig: 69, 29
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_d_0_1.png
+  rotate: false
+  xy: 170, 26
+  size: 67, 26
+  orig: 67, 26
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_d_0_2.png
+  rotate: false
+  xy: 443, 103
+  size: 65, 26
+  orig: 65, 26
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_0.png
+  rotate: false
+  xy: 1814, 211
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_1.png
+  rotate: false
+  xy: 583, 211
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_10.png
+  rotate: false
+  xy: 94, 211
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_100.png
+  rotate: false
+  xy: 575, 129
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_101.png
+  rotate: false
+  xy: 511, 129
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_102.png
+  rotate: false
+  xy: 1273, 128
+  size: 61, 39
+  orig: 61, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_103.png
+  rotate: false
+  xy: 1399, 129
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_104.png
+  rotate: false
+  xy: 1765, 130
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_105.png
+  rotate: false
+  xy: 1888, 130
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_106.png
+  rotate: false
+  xy: 1827, 130
+  size: 59, 38
+  orig: 59, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_107.png
+  rotate: false
+  xy: 1336, 129
+  size: 61, 38
+  orig: 61, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_108.png
+  rotate: false
+  xy: 1768, 170
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_109.png
+  rotate: false
+  xy: 1833, 170
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_11.png
+  rotate: false
+  xy: 374, 169
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_12.png
+  rotate: false
+  xy: 1134, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_13.png
+  rotate: false
+  xy: 1066, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_14.png
+  rotate: false
+  xy: 372, 2
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_15.png
+  rotate: false
+  xy: 239, 2
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_16.png
+  rotate: false
+  xy: 241, 43
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_17.png
+  rotate: false
+  xy: 1149, 127
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_18.png
+  rotate: false
+  xy: 1211, 127
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_19.png
+  rotate: false
+  xy: 1963, 170
+  size: 58, 39
+  orig: 58, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_2.png
+  rotate: false
+  xy: 514, 211
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_20.png
+  rotate: false
+  xy: 688, 87
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_21.png
+  rotate: false
+  xy: 629, 87
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_22.png
+  rotate: false
+  xy: 806, 87
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_23.png
+  rotate: false
+  xy: 747, 87
+  size: 57, 39
+  orig: 57, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_24.png
+  rotate: false
+  xy: 1583, 128
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_25.png
+  rotate: false
+  xy: 1462, 127
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_26.png
+  rotate: false
+  xy: 1704, 129
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_27.png
+  rotate: false
+  xy: 1023, 127
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_28.png
+  rotate: false
+  xy: 912, 169
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_29.png
+  rotate: false
+  xy: 978, 169
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_3.png
+  rotate: false
+  xy: 94, 85
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_30.png
+  rotate: false
+  xy: 1542, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_31.png
+  rotate: false
+  xy: 1610, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_32.png
+  rotate: false
+  xy: 443, 131
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_33.png
+  rotate: false
+  xy: 859, 211
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_34.png
+  rotate: false
+  xy: 928, 211
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_35.png
+  rotate: false
+  xy: 304, 127
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_36.png
+  rotate: false
+  xy: 997, 211
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_37.png
+  rotate: false
+  xy: 1678, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_38.png
+  rotate: false
+  xy: 1746, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_39.png
+  rotate: false
+  xy: 1110, 169
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_4.png
+  rotate: false
+  xy: 1338, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_40.png
+  rotate: false
+  xy: 703, 128
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_41.png
+  rotate: false
+  xy: 895, 127
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_42.png
+  rotate: false
+  xy: 1086, 127
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_43.png
+  rotate: false
+  xy: 1898, 170
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_44.png
+  rotate: false
+  xy: 579, 170
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_45.png
+  rotate: false
+  xy: 646, 170
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_46.png
+  rotate: false
+  xy: 1701, 171
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_47.png
+  rotate: false
+  xy: 713, 170
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_48.png
+  rotate: false
+  xy: 1176, 169
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_49.png
+  rotate: false
+  xy: 959, 127
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_5.png
+  rotate: false
+  xy: 1406, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_50.png
+  rotate: false
+  xy: 767, 128
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_51.png
+  rotate: false
+  xy: 831, 128
+  size: 62, 39
+  orig: 62, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_52.png
+  rotate: false
+  xy: 1502, 170
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_53.png
+  rotate: false
+  xy: 1568, 170
+  size: 64, 39
+  orig: 64, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_54.png
+  rotate: false
+  xy: 374, 86
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_55.png
+  rotate: false
+  xy: 444, 172
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_56.png
+  rotate: false
+  xy: 1634, 171
+  size: 65, 38
+  orig: 65, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_57.png
+  rotate: false
+  xy: 512, 170
+  size: 65, 39
+  orig: 65, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_58.png
+  rotate: false
+  xy: 372, 44
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_59.png
+  rotate: false
+  xy: 1044, 169
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_6.png
+  rotate: false
+  xy: 1270, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_60.png
+  rotate: false
+  xy: 305, 2
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_61.png
+  rotate: false
+  xy: 790, 211
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_62.png
+  rotate: false
+  xy: 721, 211
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_63.png
+  rotate: false
+  xy: 234, 169
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_64.png
+  rotate: false
+  xy: 374, 211
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_65.png
+  rotate: false
+  xy: 234, 85
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_66.png
+  rotate: false
+  xy: 234, 127
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_67.png
+  rotate: false
+  xy: 304, 169
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_68.png
+  rotate: false
+  xy: 304, 211
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_69.png
+  rotate: false
+  xy: 164, 85
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_7.png
+  rotate: false
+  xy: 374, 127
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_70.png
+  rotate: false
+  xy: 1474, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_71.png
+  rotate: false
+  xy: 1881, 211
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_72.png
+  rotate: false
+  xy: 639, 128
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_73.png
+  rotate: false
+  xy: 1521, 128
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_74.png
+  rotate: false
+  xy: 1949, 128
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_75.png
+  rotate: false
+  xy: 439, 21
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_76.png
+  rotate: false
+  xy: 442, 63
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_77.png
+  rotate: false
+  xy: 616, 47
+  size: 56, 38
+  orig: 56, 38
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_78.png
+  rotate: false
+  xy: 500, 46
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_79.png
+  rotate: false
+  xy: 558, 46
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_8.png
+  rotate: false
+  xy: 304, 86
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_80.png
+  rotate: false
+  xy: 674, 46
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_81.png
+  rotate: false
+  xy: 570, 87
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_82.png
+  rotate: false
+  xy: 510, 87
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_83.png
+  rotate: false
+  xy: 1642, 129
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_84.png
+  rotate: false
+  xy: 1437, 169
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_85.png
+  rotate: false
+  xy: 1372, 169
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_86.png
+  rotate: false
+  xy: 305, 44
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_87.png
+  rotate: false
+  xy: 1948, 211
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_88.png
+  rotate: false
+  xy: 652, 211
+  size: 67, 40
+  orig: 67, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_89.png
+  rotate: false
+  xy: 164, 127
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_9.png
+  rotate: false
+  xy: 234, 211
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_90.png
+  rotate: false
+  xy: 94, 127
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_91.png
+  rotate: false
+  xy: 164, 169
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_92.png
+  rotate: false
+  xy: 444, 212
+  size: 68, 39
+  orig: 68, 39
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_93.png
+  rotate: false
+  xy: 164, 211
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_94.png
+  rotate: false
+  xy: 94, 169
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_95.png
+  rotate: false
+  xy: 1202, 211
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_96.png
+  rotate: false
+  xy: 846, 169
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_97.png
+  rotate: false
+  xy: 1307, 169
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_98.png
+  rotate: false
+  xy: 1242, 169
+  size: 63, 40
+  orig: 63, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_e_0_99.png
+  rotate: false
+  xy: 780, 169
+  size: 64, 40
+  orig: 64, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_64_sd_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 88, 40
+  orig: 88, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckhook_hblooza14_duckhook_icon_a.png
+  rotate: false
+  xy: 2015, 221
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

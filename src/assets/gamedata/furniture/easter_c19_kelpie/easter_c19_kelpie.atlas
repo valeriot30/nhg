@@ -1,0 +1,104 @@
+
+easter_c19_kelpie.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c19_kelpie_easter_c19_kelpie_64_a_0_0.png
+  rotate: false
+  xy: 262, 32
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_a_0_1.png
+  rotate: false
+  xy: 197, 32
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_a_0_2.png
+  rotate: false
+  xy: 132, 32
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_a_0_3.png
+  rotate: false
+  xy: 67, 32
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_a_0_4.png
+  rotate: false
+  xy: 2, 32
+  size: 63, 84
+  orig: 63, 84
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_b_0_0.png
+  rotate: false
+  xy: 430, 81
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_b_0_1.png
+  rotate: false
+  xy: 29, 14
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_b_0_2.png
+  rotate: false
+  xy: 327, 34
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_b_0_3.png
+  rotate: false
+  xy: 466, 106
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_c_0_0.png
+  rotate: false
+  xy: 327, 47
+  size: 35, 69
+  orig: 35, 69
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_c_0_1.png
+  rotate: false
+  xy: 364, 56
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_c_0_2.png
+  rotate: false
+  xy: 398, 57
+  size: 30, 59
+  orig: 30, 59
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_64_sd_0_0.png
+  rotate: false
+  xy: 430, 99
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+easter_c19_kelpie_easter_c19_kelpie_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1

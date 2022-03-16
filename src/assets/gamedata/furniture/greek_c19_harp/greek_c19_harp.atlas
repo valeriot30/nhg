@@ -1,0 +1,27 @@
+
+greek_c19_harp.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_c19_harp_greek_c19_harp_64_a_0_0.png
+  rotate: false
+  xy: 2, 22
+  size: 34, 64
+  orig: 34, 64
+  offset: 0, 0
+  index: -1
+greek_c19_harp_greek_c19_harp_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+greek_c19_harp_greek_c19_harp_icon_a.png
+  rotate: false
+  xy: 38, 56
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+laundry_r18_vacuum.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+laundry_r18_vacuum_laundry_r18_vacuum_64_a_0_0.png
+  rotate: false
+  xy: 242, 32
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_64_a_0_1.png
+  rotate: false
+  xy: 194, 32
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_64_a_0_2.png
+  rotate: false
+  xy: 50, 31
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_64_a_0_3.png
+  rotate: false
+  xy: 338, 32
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_64_a_0_4.png
+  rotate: false
+  xy: 2, 31
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_64_a_0_5.png
+  rotate: false
+  xy: 290, 32
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_64_a_0_6.png
+  rotate: false
+  xy: 146, 31
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_64_a_0_7.png
+  rotate: false
+  xy: 386, 32
+  size: 46, 79
+  orig: 46, 79
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_64_a_0_8.png
+  rotate: false
+  xy: 98, 31
+  size: 46, 80
+  orig: 46, 80
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 27
+  orig: 46, 27
+  offset: 0, 0
+  index: -1
+laundry_r18_vacuum_laundry_r18_vacuum_icon_a.png
+  rotate: false
+  xy: 434, 81
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+bazaar_c17_flycarpet.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_0.png
+  rotate: false
+  xy: 336, 92
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_1.png
+  rotate: false
+  xy: 264, 88
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_2.png
+  rotate: false
+  xy: 185, 74
+  size: 77, 52
+  orig: 77, 52
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_3.png
+  rotate: false
+  xy: 94, 54
+  size: 89, 72
+  orig: 89, 72
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_4.png
+  rotate: false
+  xy: 2, 30
+  size: 90, 96
+  orig: 90, 96
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_5.png
+  rotate: false
+  xy: 264, 85
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_6.png
+  rotate: false
+  xy: 94, 18
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_7.png
+  rotate: false
+  xy: 404, 92
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_8.png
+  rotate: false
+  xy: 162, 2
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_64_a_0_9.png
+  rotate: false
+  xy: 185, 38
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+bazaar_c17_flycarpet_bazaar_c17_flycarpet_icon_a.png
+  rotate: false
+  xy: 472, 108
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1

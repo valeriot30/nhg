@@ -1,0 +1,41 @@
+
+val_c19_food.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_c19_food_val_c19_food_64_a_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+val_c19_food_val_c19_food_64_a_0_1.png
+  rotate: false
+  xy: 44, 2
+  size: 35, 26
+  orig: 35, 26
+  offset: 0, 0
+  index: -1
+val_c19_food_val_c19_food_64_a_0_2.png
+  rotate: false
+  xy: 81, 9
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+val_c19_food_val_c19_food_64_sd_0_0.png
+  rotate: false
+  xy: 121, 9
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+val_c19_food_val_c19_food_icon_a.png
+  rotate: false
+  xy: 156, 7
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1

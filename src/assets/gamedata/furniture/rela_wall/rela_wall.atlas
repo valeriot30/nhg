@@ -1,0 +1,76 @@
+
+rela_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rela_wall_rela_wall_32_c_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rela_wall_rela_wall_64_a_2_0.png
+  rotate: false
+  xy: 386, 105
+  size: 62, 138
+  orig: 62, 138
+  offset: 0, 0
+  index: -1
+rela_wall_rela_wall_64_b_2_0.png
+  rotate: false
+  xy: 322, 104
+  size: 62, 139
+  orig: 62, 139
+  offset: 0, 0
+  index: -1
+rela_wall_rela_wall_64_b_2_1.png
+  rotate: false
+  xy: 194, 104
+  size: 62, 139
+  orig: 62, 139
+  offset: 0, 0
+  index: -1
+rela_wall_rela_wall_64_b_2_2.png
+  rotate: false
+  xy: 258, 104
+  size: 62, 139
+  orig: 62, 139
+  offset: 0, 0
+  index: -1
+rela_wall_rela_wall_64_c_2_1.png
+  rotate: false
+  xy: 2, 5
+  size: 96, 95
+  orig: 96, 95
+  offset: 0, 0
+  index: -1
+rela_wall_rela_wall_64_d_2_0.png
+  rotate: false
+  xy: 130, 102
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+rela_wall_rela_wall_64_d_2_1.png
+  rotate: false
+  xy: 66, 102
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+rela_wall_rela_wall_64_d_2_2.png
+  rotate: false
+  xy: 2, 102
+  size: 62, 141
+  orig: 62, 141
+  offset: 0, 0
+  index: -1
+rela_wall_rela_wall_icon_a.png
+  rotate: false
+  xy: 450, 213
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1

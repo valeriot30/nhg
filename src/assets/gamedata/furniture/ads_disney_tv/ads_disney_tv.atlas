@@ -1,0 +1,83 @@
+
+ads_disney_tv.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_disney_tv_ads_disney_tv_64_a_0_0.png
+  rotate: false
+  xy: 160, 18
+  size: 41, 93
+  orig: 41, 93
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_64_b_0_0.png
+  rotate: false
+  xy: 109, 30
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_64_c_0_0.png
+  rotate: false
+  xy: 203, 34
+  size: 33, 77
+  orig: 33, 77
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_64_d_0_0.png
+  rotate: false
+  xy: 104, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_64_d_0_1.png
+  rotate: false
+  xy: 238, 73
+  size: 16, 38
+  orig: 16, 38
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_64_e_0_1.png
+  rotate: false
+  xy: 70, 10
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_64_e_0_2.png
+  rotate: false
+  xy: 2, 10
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_64_e_0_3.png
+  rotate: false
+  xy: 36, 10
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_64_f_0_1.png
+  rotate: false
+  xy: 238, 40
+  size: 2, 31
+  orig: 2, 31
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_64_sd_0_0.png
+  rotate: false
+  xy: 2, 58
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+ads_disney_tv_ads_disney_tv_icon_a.png
+  rotate: false
+  xy: 203, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,188 @@
+
+penguin_magician.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_magician_penguin_magician_64_a_4_0.png
+  rotate: false
+  xy: 1098, 26
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_1.png
+  rotate: false
+  xy: 1032, 26
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_10.png
+  rotate: false
+  xy: 629, 26
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_11.png
+  rotate: false
+  xy: 484, 26
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_12.png
+  rotate: false
+  xy: 332, 26
+  size: 75, 83
+  orig: 75, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_13.png
+  rotate: false
+  xy: 1230, 16
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_14.png
+  rotate: false
+  xy: 266, 8
+  size: 64, 101
+  orig: 64, 101
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_15.png
+  rotate: false
+  xy: 134, 4
+  size: 64, 105
+  orig: 64, 105
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_16.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 107
+  orig: 64, 107
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_17.png
+  rotate: false
+  xy: 68, 4
+  size: 64, 105
+  orig: 64, 105
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_18.png
+  rotate: false
+  xy: 200, 8
+  size: 64, 101
+  orig: 64, 101
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_19.png
+  rotate: false
+  xy: 1164, 16
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_2.png
+  rotate: false
+  xy: 559, 26
+  size: 68, 83
+  orig: 68, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_20.png
+  rotate: false
+  xy: 768, 26
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_21.png
+  rotate: false
+  xy: 1494, 32
+  size: 64, 77
+  orig: 64, 77
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_22.png
+  rotate: false
+  xy: 1428, 30
+  size: 64, 79
+  orig: 64, 79
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_23.png
+  rotate: false
+  xy: 1296, 28
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_3.png
+  rotate: false
+  xy: 900, 26
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_4.png
+  rotate: false
+  xy: 966, 26
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_5.png
+  rotate: false
+  xy: 1362, 28
+  size: 64, 81
+  orig: 64, 81
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_6.png
+  rotate: false
+  xy: 834, 26
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_7.png
+  rotate: false
+  xy: 1560, 26
+  size: 60, 83
+  orig: 60, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_8.png
+  rotate: false
+  xy: 409, 26
+  size: 73, 83
+  orig: 73, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_a_4_9.png
+  rotate: false
+  xy: 699, 26
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_64_sd_4_0.png
+  rotate: false
+  xy: 332, 8
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+penguin_magician_penguin_magician_icon_a.png
+  rotate: false
+  xy: 1622, 79
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

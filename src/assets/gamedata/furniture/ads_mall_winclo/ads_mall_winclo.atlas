@@ -1,0 +1,83 @@
+
+ads_mall_winclo.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_mall_winclo_ads_mall_winclo_64_a_2_0.png
+  rotate: false
+  xy: 610, 92
+  size: 118, 144
+  orig: 118, 144
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_64_a_4_0.png
+  rotate: false
+  xy: 490, 92
+  size: 118, 144
+  orig: 118, 144
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_64_b_2_0.png
+  rotate: false
+  xy: 246, 90
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_64_b_4_0.png
+  rotate: false
+  xy: 2, 90
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_64_c_2_0.png
+  rotate: false
+  xy: 730, 106
+  size: 110, 130
+  orig: 110, 130
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_64_c_4_0.png
+  rotate: false
+  xy: 842, 106
+  size: 110, 130
+  orig: 110, 130
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_64_d_2_0.png
+  rotate: false
+  xy: 124, 90
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_64_d_4_0.png
+  rotate: false
+  xy: 368, 90
+  size: 120, 146
+  orig: 120, 146
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_64_e_2_0.png
+  rotate: false
+  xy: 124, 2
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_64_e_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+ads_mall_winclo_ads_mall_winclo_icon_a.png
+  rotate: false
+  xy: 954, 208
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

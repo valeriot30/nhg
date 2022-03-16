@@ -1,0 +1,76 @@
+
+ads_clearasil_tile1.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_clearasil_tile1_ads_clearasil_tile1_32_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_clearasil_tile1_ads_clearasil_tile1_64_a_0_0.png
+  rotate: false
+  xy: 220, 25
+  size: 60, 31
+  orig: 60, 31
+  offset: 0, 0
+  index: -1
+ads_clearasil_tile1_ads_clearasil_tile1_64_b_0_0.png
+  rotate: false
+  xy: 156, 23
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+ads_clearasil_tile1_ads_clearasil_tile1_64_c_0_1.png
+  rotate: false
+  xy: 2, 5
+  size: 50, 51
+  orig: 50, 51
+  offset: 0, 0
+  index: -1
+ads_clearasil_tile1_ads_clearasil_tile1_64_c_0_2.png
+  rotate: false
+  xy: 106, 5
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+ads_clearasil_tile1_ads_clearasil_tile1_64_c_0_3.png
+  rotate: false
+  xy: 54, 7
+  size: 50, 49
+  orig: 50, 49
+  offset: 0, 0
+  index: -1
+ads_clearasil_tile1_ads_clearasil_tile1_64_c_0_4.png
+  rotate: false
+  xy: 330, 8
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+ads_clearasil_tile1_ads_clearasil_tile1_64_c_0_5.png
+  rotate: false
+  xy: 282, 11
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+ads_clearasil_tile1_ads_clearasil_tile1_64_c_0_6.png
+  rotate: false
+  xy: 378, 27
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+ads_clearasil_tile1_ads_clearasil_tile1_icon_a.png
+  rotate: false
+  xy: 156, 5
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1

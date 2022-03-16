@@ -1,0 +1,20 @@
+
+clothing_floppyhair.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_floppyhair_clothing_floppyhair_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 44
+  orig: 30, 44
+  offset: 0, 0
+  index: -1
+clothing_floppyhair_clothing_floppyhair_icon_a.png
+  rotate: false
+  xy: 34, 16
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

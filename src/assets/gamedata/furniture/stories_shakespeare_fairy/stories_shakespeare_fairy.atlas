@@ -1,0 +1,20 @@
+
+stories_shakespeare_fairy.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stories_shakespeare_fairy_stories_shakespeare_fairy_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 49, 98
+  orig: 49, 98
+  offset: 0, 0
+  index: -1
+stories_shakespeare_fairy_stories_shakespeare_fairy_icon_a.png
+  rotate: false
+  xy: 53, 68
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1

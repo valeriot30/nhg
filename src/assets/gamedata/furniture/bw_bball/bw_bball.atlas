@@ -1,0 +1,97 @@
+
+bw_bball.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bw_bball_bw_bball_64_a_1_1.png
+  rotate: false
+  xy: 274, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_1_2.png
+  rotate: false
+  xy: 240, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_1_3.png
+  rotate: false
+  xy: 342, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_1_4.png
+  rotate: false
+  xy: 308, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_2_1.png
+  rotate: false
+  xy: 104, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_2_2.png
+  rotate: false
+  xy: 36, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_2_3.png
+  rotate: false
+  xy: 2, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_2_4.png
+  rotate: false
+  xy: 206, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_3_1.png
+  rotate: false
+  xy: 172, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_3_2.png
+  rotate: false
+  xy: 138, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_a_3_4.png
+  rotate: false
+  xy: 70, 19
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 15
+  orig: 30, 15
+  offset: 0, 0
+  index: -1
+bw_bball_bw_bball_icon_a.png
+  rotate: false
+  xy: 376, 21
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

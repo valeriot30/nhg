@@ -1,0 +1,27 @@
+
+bw_jaws.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bw_jaws_bw_jaws_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 90, 104
+  orig: 90, 104
+  offset: 0, 0
+  index: -1
+bw_jaws_bw_jaws_64_sd_4_0.png
+  rotate: false
+  xy: 94, 6
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+bw_jaws_bw_jaws_icon_a.png
+  rotate: false
+  xy: 186, 76
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

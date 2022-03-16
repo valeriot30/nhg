@@ -1,0 +1,188 @@
+
+bathroom_toilet1.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bathroom_toilet1_bathroom_toilet1_32_b_6_7.png
+  rotate: false
+  xy: 60, 41
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_32_b_6_7.png
+  rotate: false
+  xy: 120, 44
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_32_b_6_7.png
+  rotate: false
+  xy: 178, 55
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_a_4_0.png
+  rotate: false
+  xy: 120, 47
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_a_4_1.png
+  rotate: false
+  xy: 2, 41
+  size: 56, 84
+  orig: 56, 84
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_a_6_0.png
+  rotate: false
+  xy: 178, 58
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_a_6_1.png
+  rotate: false
+  xy: 60, 44
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_4_0.png
+  rotate: false
+  xy: 336, 75
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_4_1.png
+  rotate: false
+  xy: 278, 45
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_4_3.png
+  rotate: false
+  xy: 365, 114
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_4_4.png
+  rotate: false
+  xy: 336, 88
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_4_5.png
+  rotate: false
+  xy: 365, 101
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_4_6.png
+  rotate: false
+  xy: 393, 114
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_6_0.png
+  rotate: false
+  xy: 410, 101
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_6_1.png
+  rotate: false
+  xy: 381, 88
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_6_2.png
+  rotate: false
+  xy: 364, 75
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_6_3.png
+  rotate: false
+  xy: 421, 114
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_6_4.png
+  rotate: false
+  xy: 393, 101
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_6_5.png
+  rotate: false
+  xy: 364, 88
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_b_6_6.png
+  rotate: false
+  xy: 30, 2
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_c_6_0.png
+  rotate: false
+  xy: 238, 44
+  size: 38, 81
+  orig: 38, 81
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_c_6_1.png
+  rotate: false
+  xy: 278, 58
+  size: 34, 67
+  orig: 34, 67
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_sd_4_0.png
+  rotate: false
+  xy: 2, 15
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_64_sd_6_0.png
+  rotate: false
+  xy: 314, 101
+  size: 49, 24
+  orig: 49, 24
+  offset: 0, 0
+  index: -1
+bathroom_toilet1_bathroom_toilet1_icon_a.png
+  rotate: false
+  xy: 314, 69
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

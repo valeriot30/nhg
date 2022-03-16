@@ -1,0 +1,69 @@
+
+market_c19_vegfruit.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+market_c19_vegfruit_market_c19_vegfruit_64_a_4_0.png
+  rotate: false
+  xy: 267, 14
+  size: 13, 51
+  orig: 13, 51
+  offset: 0, 0
+  index: -1
+market_c19_vegfruit_market_c19_vegfruit_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+market_c19_vegfruit_market_c19_vegfruit_64_b_4_0.png
+  rotate: false
+  xy: 371, 69
+  size: 10, 49
+  orig: 10, 49
+  offset: 0, 0
+  index: -1
+market_c19_vegfruit_market_c19_vegfruit_64_c_0_0.png
+  rotate: false
+  xy: 213, 12
+  size: 52, 106
+  orig: 52, 106
+  offset: 0, 0
+  index: -1
+market_c19_vegfruit_market_c19_vegfruit_64_c_4_0.png
+  rotate: false
+  xy: 73, 5
+  size: 68, 113
+  orig: 68, 113
+  offset: 0, 0
+  index: -1
+market_c19_vegfruit_market_c19_vegfruit_64_d_0_0.png
+  rotate: false
+  xy: 143, 11
+  size: 68, 107
+  orig: 68, 107
+  offset: 0, 0
+  index: -1
+market_c19_vegfruit_market_c19_vegfruit_64_d_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 69, 113
+  orig: 69, 113
+  offset: 0, 0
+  index: -1
+market_c19_vegfruit_market_c19_vegfruit_64_sd_0_0.png
+  rotate: false
+  xy: 267, 67
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+market_c19_vegfruit_market_c19_vegfruit_icon_a.png
+  rotate: false
+  xy: 282, 35
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

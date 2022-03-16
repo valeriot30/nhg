@@ -1,0 +1,20 @@
+
+xmas_c15_advent9.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c15_advent9_xmas_c15_advent9_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 43, 51
+  orig: 43, 51
+  offset: 0, 0
+  index: -1
+xmas_c15_advent9_xmas_c15_advent9_icon_a.png
+  rotate: false
+  xy: 47, 23
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+easter11_mushroom2.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter11_mushroom2_easter11_mushroom2_64_a_0_0.png
+  rotate: false
+  xy: 2, 130
+  size: 48, 91
+  orig: 48, 91
+  offset: 0, 0
+  index: -1
+easter11_mushroom2_easter11_mushroom2_64_a_0_1.png
+  rotate: false
+  xy: 2, 36
+  size: 39, 92
+  orig: 39, 92
+  offset: 0, 0
+  index: -1
+easter11_mushroom2_easter11_mushroom2_64_a_0_2.png
+  rotate: false
+  xy: 2, 223
+  size: 43, 114
+  orig: 43, 114
+  offset: 0, 0
+  index: -1
+easter11_mushroom2_easter11_mushroom2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1

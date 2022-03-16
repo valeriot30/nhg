@@ -1,0 +1,62 @@
+
+runway_fabric.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runway_fabric_runway_fabric_64_a_2_0.png
+  rotate: false
+  xy: 410, 33
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+runway_fabric_runway_fabric_64_a_2_1.png
+  rotate: false
+  xy: 342, 33
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+runway_fabric_runway_fabric_64_a_2_2.png
+  rotate: false
+  xy: 274, 33
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+runway_fabric_runway_fabric_64_a_2_3.png
+  rotate: false
+  xy: 206, 33
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+runway_fabric_runway_fabric_64_a_2_4.png
+  rotate: false
+  xy: 138, 33
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+runway_fabric_runway_fabric_64_a_2_5.png
+  rotate: false
+  xy: 70, 33
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+runway_fabric_runway_fabric_64_a_2_6.png
+  rotate: false
+  xy: 2, 33
+  size: 66, 90
+  orig: 66, 90
+  offset: 0, 0
+  index: -1
+runway_fabric_runway_fabric_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1

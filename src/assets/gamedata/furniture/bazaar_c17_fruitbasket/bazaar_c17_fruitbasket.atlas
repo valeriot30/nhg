@@ -1,0 +1,41 @@
+
+bazaar_c17_fruitbasket.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_fruitbasket_bazaar_c17_fruitbasket_64_a_0_0.png
+  rotate: false
+  xy: 110, 2
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+bazaar_c17_fruitbasket_bazaar_c17_fruitbasket_64_a_0_1.png
+  rotate: false
+  xy: 56, 2
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+bazaar_c17_fruitbasket_bazaar_c17_fruitbasket_64_a_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 48
+  orig: 52, 48
+  offset: 0, 0
+  index: -1
+bazaar_c17_fruitbasket_bazaar_c17_fruitbasket_64_sd_0_0.png
+  rotate: false
+  xy: 164, 24
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+bazaar_c17_fruitbasket_bazaar_c17_fruitbasket_icon_a.png
+  rotate: false
+  xy: 218, 21
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

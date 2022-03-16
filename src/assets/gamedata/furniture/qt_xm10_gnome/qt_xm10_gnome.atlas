@@ -1,0 +1,125 @@
+
+qt_xm10_gnome.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+qt_xm10_gnome_qt_xm10_gnome_32_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_32_c_0_8.png
+  rotate: false
+  xy: 55, 99
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_32_c_0_8.png
+  rotate: false
+  xy: 55, 92
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_a_0_0.png
+  rotate: false
+  xy: 55, 106
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_a_0_1.png
+  rotate: false
+  xy: 34, 2
+  size: 10, 21
+  orig: 10, 21
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_a_0_2.png
+  rotate: false
+  xy: 41, 53
+  size: 12, 22
+  orig: 12, 22
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_a_0_3.png
+  rotate: false
+  xy: 41, 77
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_a_0_4.png
+  rotate: false
+  xy: 20, 22
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_a_0_5.png
+  rotate: false
+  xy: 41, 102
+  size: 12, 24
+  orig: 12, 24
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_a_0_6.png
+  rotate: false
+  xy: 34, 25
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_a_0_7.png
+  rotate: false
+  xy: 49, 31
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_b_0_0.png
+  rotate: false
+  xy: 2, 48
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_c_0_10.png
+  rotate: false
+  xy: 46, 8
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_c_0_3.png
+  rotate: false
+  xy: 55, 119
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_c_0_4.png
+  rotate: false
+  xy: 2, 5
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_64_c_0_6.png
+  rotate: false
+  xy: 41, 48
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+qt_xm10_gnome_qt_xm10_gnome_icon_a.png
+  rotate: false
+  xy: 2, 18
+  size: 16, 28
+  orig: 16, 28
+  offset: 0, 0
+  index: -1

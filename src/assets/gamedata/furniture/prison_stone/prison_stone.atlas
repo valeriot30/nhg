@@ -1,0 +1,41 @@
+
+prison_stone.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prison_stone_prison_stone_64_a_0_0.png
+  rotate: false
+  xy: 59, 2
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+prison_stone_prison_stone_64_a_0_1.png
+  rotate: false
+  xy: 154, 12
+  size: 51, 30
+  orig: 51, 30
+  offset: 0, 0
+  index: -1
+prison_stone_prison_stone_64_a_0_2.png
+  rotate: false
+  xy: 109, 2
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+prison_stone_prison_stone_64_a_0_3.png
+  rotate: false
+  xy: 2, 3
+  size: 55, 39
+  orig: 55, 39
+  offset: 0, 0
+  index: -1
+prison_stone_prison_stone_icon_a.png
+  rotate: false
+  xy: 207, 21
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1

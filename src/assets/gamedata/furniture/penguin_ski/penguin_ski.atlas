@@ -1,0 +1,76 @@
+
+penguin_ski.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+penguin_ski_penguin_ski_64_a_4_0.png
+  rotate: false
+  xy: 108, 35
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+penguin_ski_penguin_ski_64_a_4_1.png
+  rotate: false
+  xy: 160, 35
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+penguin_ski_penguin_ski_64_a_4_2.png
+  rotate: false
+  xy: 212, 35
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+penguin_ski_penguin_ski_64_a_4_3.png
+  rotate: false
+  xy: 264, 35
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+penguin_ski_penguin_ski_64_a_4_4.png
+  rotate: false
+  xy: 56, 35
+  size: 50, 65
+  orig: 50, 65
+  offset: 0, 0
+  index: -1
+penguin_ski_penguin_ski_64_a_4_5.png
+  rotate: false
+  xy: 368, 37
+  size: 50, 63
+  orig: 50, 63
+  offset: 0, 0
+  index: -1
+penguin_ski_penguin_ski_64_a_4_6.png
+  rotate: false
+  xy: 316, 36
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+penguin_ski_penguin_ski_64_a_4_7.png
+  rotate: false
+  xy: 2, 34
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+penguin_ski_penguin_ski_64_sd_4_0.png
+  rotate: false
+  xy: 420, 84
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+penguin_ski_penguin_ski_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

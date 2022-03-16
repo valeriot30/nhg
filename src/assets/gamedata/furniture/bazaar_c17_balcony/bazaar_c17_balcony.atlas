@@ -1,0 +1,125 @@
+
+bazaar_c17_balcony.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_balcony_bazaar_c17_balcony_64_a_2_0.png
+  rotate: false
+  xy: 421, 109
+  size: 1, 99
+  orig: 1, 99
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_b_4_0.png
+  rotate: false
+  xy: 418, 112
+  size: 1, 96
+  orig: 1, 96
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_c_2_0.png
+  rotate: false
+  xy: 304, 83
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_d_2_0.png
+  rotate: false
+  xy: 415, 210
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_d_4_0.png
+  rotate: false
+  xy: 113, 43
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_e_2_0.png
+  rotate: false
+  xy: 349, 102
+  size: 43, 84
+  orig: 43, 84
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_e_4_0.png
+  rotate: false
+  xy: 304, 102
+  size: 43, 84
+  orig: 43, 84
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_f_2_0.png
+  rotate: false
+  xy: 236, 79
+  size: 66, 163
+  orig: 66, 163
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_f_4_0.png
+  rotate: false
+  xy: 168, 79
+  size: 66, 163
+  orig: 66, 163
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_g_2_0.png
+  rotate: false
+  xy: 394, 118
+  size: 22, 68
+  orig: 22, 68
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_g_4_0.png
+  rotate: false
+  xy: 424, 140
+  size: 22, 68
+  orig: 22, 68
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_h_2_0.png
+  rotate: false
+  xy: 2, 77
+  size: 81, 165
+  orig: 81, 165
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_h_4_0.png
+  rotate: false
+  xy: 85, 77
+  size: 81, 165
+  orig: 81, 165
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_sd_2_0.png
+  rotate: false
+  xy: 304, 188
+  size: 109, 54
+  orig: 109, 54
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_64_sd_4_0.png
+  rotate: false
+  xy: 2, 21
+  size: 109, 54
+  orig: 109, 54
+  offset: 0, 0
+  index: -1
+bazaar_c17_balcony_bazaar_c17_balcony_icon_a.png
+  rotate: false
+  xy: 481, 212
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

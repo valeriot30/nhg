@@ -1,0 +1,27 @@
+
+tree2.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tree2_tree2_64_a_0_0.png
+  rotate: false
+  xy: 2, 54
+  size: 56, 122
+  orig: 56, 122
+  offset: 0, 0
+  index: -1
+tree2_tree2_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 44, 18
+  orig: 44, 18
+  offset: 0, 0
+  index: -1
+tree2_tree2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

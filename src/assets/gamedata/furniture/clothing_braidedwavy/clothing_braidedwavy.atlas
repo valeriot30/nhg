@@ -1,0 +1,20 @@
+
+clothing_braidedwavy.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_braidedwavy_clothing_braidedwavy_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 45
+  orig: 38, 45
+  offset: 0, 0
+  index: -1
+clothing_braidedwavy_clothing_braidedwavy_icon_a.png
+  rotate: false
+  xy: 42, 17
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+vikings_chair_g.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_chair_g_vikings_chair_g_32_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+vikings_chair_g_vikings_chair_g_64_a_0_0.png
+  rotate: false
+  xy: 37, 99
+  size: 23, 41
+  orig: 23, 41
+  offset: 0, 0
+  index: -1
+vikings_chair_g_vikings_chair_g_64_a_4_0.png
+  rotate: false
+  xy: 2, 142
+  size: 55, 111
+  orig: 55, 111
+  offset: 0, 0
+  index: -1
+vikings_chair_g_vikings_chair_g_64_b_0_0.png
+  rotate: false
+  xy: 2, 40
+  size: 33, 100
+  orig: 33, 100
+  offset: 0, 0
+  index: -1
+vikings_chair_g_vikings_chair_g_64_sd_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+vikings_chair_g_vikings_chair_g_icon_a.png
+  rotate: false
+  xy: 37, 68
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1

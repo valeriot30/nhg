@@ -1,0 +1,293 @@
+
+pink_flamingo.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pink_flamingo_pink_flamingo_64_a_0_0.png
+  rotate: false
+  xy: 693, 88
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_a_0_1.png
+  rotate: false
+  xy: 652, 87
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_a_0_2.png
+  rotate: false
+  xy: 610, 88
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_b_0_0.png
+  rotate: false
+  xy: 734, 102
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_b_0_1.png
+  rotate: false
+  xy: 828, 103
+  size: 45, 23
+  orig: 45, 23
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_b_0_2.png
+  rotate: false
+  xy: 780, 104
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_b_0_3.png
+  rotate: false
+  xy: 507, 59
+  size: 46, 22
+  orig: 46, 22
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_0.png
+  rotate: false
+  xy: 146, 2
+  size: 29, 59
+  orig: 29, 59
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_1.png
+  rotate: false
+  xy: 41, 3
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_10.png
+  rotate: false
+  xy: 455, 52
+  size: 24, 74
+  orig: 24, 74
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_11.png
+  rotate: false
+  xy: 481, 49
+  size: 24, 77
+  orig: 24, 77
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_12.png
+  rotate: false
+  xy: 734, 42
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_13.png
+  rotate: false
+  xy: 814, 43
+  size: 22, 58
+  orig: 22, 58
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_14.png
+  rotate: false
+  xy: 788, 44
+  size: 24, 58
+  orig: 24, 58
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_15.png
+  rotate: false
+  xy: 177, 2
+  size: 28, 59
+  orig: 28, 59
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_16.png
+  rotate: false
+  xy: 906, 68
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_17.png
+  rotate: false
+  xy: 240, 2
+  size: 28, 56
+  orig: 28, 56
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_18.png
+  rotate: false
+  xy: 761, 42
+  size: 25, 58
+  orig: 25, 58
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_19.png
+  rotate: false
+  xy: 270, 2
+  size: 26, 56
+  orig: 26, 56
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_2.png
+  rotate: false
+  xy: 875, 68
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_3.png
+  rotate: false
+  xy: 207, 2
+  size: 31, 56
+  orig: 31, 56
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_4.png
+  rotate: false
+  xy: 507, 83
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_5.png
+  rotate: false
+  xy: 558, 85
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_6.png
+  rotate: false
+  xy: 146, 63
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_7.png
+  rotate: false
+  xy: 189, 63
+  size: 41, 63
+  orig: 41, 63
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_8.png
+  rotate: false
+  xy: 115, 4
+  size: 29, 58
+  orig: 29, 58
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_c_0_9.png
+  rotate: false
+  xy: 424, 57
+  size: 29, 69
+  orig: 29, 69
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_0.png
+  rotate: false
+  xy: 316, 61
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_1.png
+  rotate: false
+  xy: 232, 60
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_10.png
+  rotate: false
+  xy: 99, 64
+  size: 45, 62
+  orig: 45, 62
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_11.png
+  rotate: false
+  xy: 2, 64
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_12.png
+  rotate: false
+  xy: 51, 64
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_2.png
+  rotate: false
+  xy: 274, 60
+  size: 40, 66
+  orig: 40, 66
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_3.png
+  rotate: false
+  xy: 392, 63
+  size: 30, 63
+  orig: 30, 63
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_4.png
+  rotate: false
+  xy: 358, 63
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_5.png
+  rotate: false
+  xy: 967, 63
+  size: 27, 63
+  orig: 27, 63
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_6.png
+  rotate: false
+  xy: 996, 63
+  size: 24, 63
+  orig: 24, 63
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_7.png
+  rotate: false
+  xy: 937, 68
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_8.png
+  rotate: false
+  xy: 78, 4
+  size: 35, 58
+  orig: 35, 58
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_64_d_0_9.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 60
+  orig: 37, 60
+  offset: 0, 0
+  index: -1
+pink_flamingo_pink_flamingo_icon_a.png
+  rotate: false
+  xy: 298, 28
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xmas_c17_thread.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_thread_xmas_c17_thread_64_a_0_0.png
+  rotate: false
+  xy: 2, 25
+  size: 29, 37
+  orig: 29, 37
+  offset: 0, 0
+  index: -1
+xmas_c17_thread_xmas_c17_thread_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+xmas_c17_thread_xmas_c17_thread_icon_a.png
+  rotate: false
+  xy: 33, 33
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

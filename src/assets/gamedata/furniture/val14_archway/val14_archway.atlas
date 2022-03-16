@@ -1,0 +1,55 @@
+
+val14_archway.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val14_archway_val14_archway_64_a_2_0.png
+  rotate: false
+  xy: 463, 110
+  size: 16, 94
+  orig: 16, 94
+  offset: 0, 0
+  index: -1
+val14_archway_val14_archway_64_b_2_0.png
+  rotate: false
+  xy: 103, 55
+  size: 92, 149
+  orig: 92, 149
+  offset: 0, 0
+  index: -1
+val14_archway_val14_archway_64_c_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 99, 170
+  orig: 99, 170
+  offset: 0, 0
+  index: -1
+val14_archway_val14_archway_64_d_2_0.png
+  rotate: false
+  xy: 481, 110
+  size: 15, 94
+  orig: 15, 94
+  offset: 0, 0
+  index: -1
+val14_archway_val14_archway_64_e_2_0.png
+  rotate: false
+  xy: 197, 109
+  size: 128, 95
+  orig: 128, 95
+  offset: 0, 0
+  index: -1
+val14_archway_val14_archway_64_sd_2_0.png
+  rotate: false
+  xy: 327, 136
+  size: 134, 68
+  orig: 134, 68
+  offset: 0, 0
+  index: -1
+val14_archway_val14_archway_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

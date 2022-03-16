@@ -1,0 +1,27 @@
+
+china_ox.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+china_ox_china_ox_64_a_0_0.png
+  rotate: false
+  xy: 2, 48
+  size: 52, 100
+  orig: 52, 100
+  offset: 0, 0
+  index: -1
+china_ox_china_ox_64_sd_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+china_ox_china_ox_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

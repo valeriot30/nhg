@@ -1,0 +1,27 @@
+
+clothing_flipflopsocks.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_flipflopsocks_clothing_flipflopsocks_64_a_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+clothing_flipflopsocks_clothing_flipflopsocks_64_sd_0_0.png
+  rotate: false
+  xy: 52, 34
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+clothing_flipflopsocks_clothing_flipflopsocks_icon_a.png
+  rotate: false
+  xy: 52, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

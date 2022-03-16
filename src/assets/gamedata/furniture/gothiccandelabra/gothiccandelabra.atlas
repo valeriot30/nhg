@@ -1,0 +1,90 @@
+
+gothiccandelabra.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gothiccandelabra_gothiccandelabra_64_a_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 53, 121
+  orig: 53, 121
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_b_0_1.png
+  rotate: false
+  xy: 449, 67
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_b_0_2.png
+  rotate: false
+  xy: 402, 67
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_b_0_3.png
+  rotate: false
+  xy: 402, 6
+  size: 45, 59
+  orig: 45, 59
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_c_0_2.png
+  rotate: false
+  xy: 264, 40
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_c_0_3.png
+  rotate: false
+  xy: 333, 40
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_c_0_4.png
+  rotate: false
+  xy: 57, 40
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_c_0_5.png
+  rotate: false
+  xy: 126, 40
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_c_0_6.png
+  rotate: false
+  xy: 195, 40
+  size: 67, 86
+  orig: 67, 86
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_64_sd_0_0.png
+  rotate: false
+  xy: 57, 19
+  size: 37, 19
+  orig: 37, 19
+  offset: 0, 0
+  index: -1
+gothiccandelabra_gothiccandelabra_icon_a.png
+  rotate: false
+  xy: 449, 33
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

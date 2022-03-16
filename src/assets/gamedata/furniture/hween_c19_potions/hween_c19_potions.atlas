@@ -1,0 +1,55 @@
+
+hween_c19_potions.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_potions_hween_c19_potions_64_a_0_0.png
+  rotate: false
+  xy: 59, 5
+  size: 41, 55
+  orig: 41, 55
+  offset: 0, 0
+  index: -1
+hween_c19_potions_hween_c19_potions_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 58
+  orig: 55, 58
+  offset: 0, 0
+  index: -1
+hween_c19_potions_hween_c19_potions_64_a_0_2.png
+  rotate: false
+  xy: 150, 23
+  size: 19, 37
+  orig: 19, 37
+  offset: 0, 0
+  index: -1
+hween_c19_potions_hween_c19_potions_64_a_0_3.png
+  rotate: false
+  xy: 102, 14
+  size: 16, 46
+  orig: 16, 46
+  offset: 0, 0
+  index: -1
+hween_c19_potions_hween_c19_potions_64_a_0_4.png
+  rotate: false
+  xy: 120, 27
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+hween_c19_potions_hween_c19_potions_64_sd_0_0.png
+  rotate: false
+  xy: 171, 43
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+hween_c19_potions_hween_c19_potions_icon_a.png
+  rotate: false
+  xy: 171, 11
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

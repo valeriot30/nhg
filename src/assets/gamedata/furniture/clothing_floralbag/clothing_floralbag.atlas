@@ -1,0 +1,20 @@
+
+clothing_floralbag.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_floralbag_clothing_floralbag_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+clothing_floralbag_clothing_floralbag_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xmas_c19_angelfigure.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_angelfigure_xmas_c19_angelfigure_64_a_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
+xmas_c19_angelfigure_xmas_c19_angelfigure_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+xmas_c19_angelfigure_xmas_c19_angelfigure_icon_a.png
+  rotate: false
+  xy: 36, 33
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1

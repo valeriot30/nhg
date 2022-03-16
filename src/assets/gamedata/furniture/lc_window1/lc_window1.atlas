@@ -1,0 +1,41 @@
+
+lc_window1.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lc_window1_lc_window1_32_b_2_0.png
+  rotate: false
+  xy: 45, 106
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+lc_window1_lc_window1_64_2_mask.png
+  rotate: false
+  xy: 81, 176
+  size: 36, 66
+  orig: 36, 66
+  offset: 0, 0
+  index: -1
+lc_window1_lc_window1_64_a_2_0.png
+  rotate: false
+  xy: 2, 109
+  size: 77, 133
+  orig: 77, 133
+  offset: 0, 0
+  index: -1
+lc_window1_lc_window1_64_b_2_1.png
+  rotate: false
+  xy: 2, 28
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+lc_window1_lc_window1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1

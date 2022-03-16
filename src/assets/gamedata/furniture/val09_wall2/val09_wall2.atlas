@@ -1,0 +1,83 @@
+
+val09_wall2.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val09_wall2_val09_wall2_64_a_2_0.png
+  rotate: false
+  xy: 148, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_64_a_2_1.png
+  rotate: false
+  xy: 221, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_64_a_2_2.png
+  rotate: false
+  xy: 2, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_64_a_2_3.png
+  rotate: false
+  xy: 75, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_64_a_2_4.png
+  rotate: false
+  xy: 659, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_64_a_4_0.png
+  rotate: false
+  xy: 367, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_64_a_4_1.png
+  rotate: false
+  xy: 294, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_64_a_4_2.png
+  rotate: false
+  xy: 513, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_64_a_4_3.png
+  rotate: false
+  xy: 586, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_64_a_4_4.png
+  rotate: false
+  xy: 440, 36
+  size: 71, 181
+  orig: 71, 181
+  offset: 0, 0
+  index: -1
+val09_wall2_val09_wall2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1

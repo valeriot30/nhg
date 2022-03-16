@@ -1,0 +1,272 @@
+
+xmas_c17_bench.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_bench_xmas_c17_bench_64_a_0_0.png
+  rotate: false
+  xy: 144, 49
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_a_4_0.png
+  rotate: false
+  xy: 2, 41
+  size: 78, 85
+  orig: 78, 85
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_b_0_0.png
+  rotate: false
+  xy: 979, 105
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_b_4_0.png
+  rotate: false
+  xy: 1021, 122
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_c_0_0.png
+  rotate: false
+  xy: 370, 61
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_c_4_0.png
+  rotate: false
+  xy: 431, 67
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_d_0_0.png
+  rotate: false
+  xy: 303, 65
+  size: 65, 61
+  orig: 65, 61
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_d_4_0.png
+  rotate: false
+  xy: 494, 57
+  size: 50, 69
+  orig: 50, 69
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_1.png
+  rotate: false
+  xy: 965, 70
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_10.png
+  rotate: false
+  xy: 260, 70
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_12.png
+  rotate: false
+  xy: 271, 70
+  size: 3, 9
+  orig: 3, 9
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_2.png
+  rotate: false
+  xy: 972, 87
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_3.png
+  rotate: false
+  xy: 249, 70
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_4.png
+  rotate: false
+  xy: 797, 98
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_5.png
+  rotate: false
+  xy: 669, 89
+  size: 64, 37
+  orig: 64, 37
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_6.png
+  rotate: false
+  xy: 74, 2
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_7.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_8.png
+  rotate: false
+  xy: 233, 81
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_e_0_9.png
+  rotate: false
+  xy: 735, 109
+  size: 68, 17
+  orig: 68, 17
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_0.png
+  rotate: false
+  xy: 1021, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_10.png
+  rotate: false
+  xy: 588, 56
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_11.png
+  rotate: false
+  xy: 630, 56
+  size: 37, 70
+  orig: 37, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_3.png
+  rotate: false
+  xy: 735, 82
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_4.png
+  rotate: false
+  xy: 866, 101
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_5.png
+  rotate: false
+  xy: 669, 62
+  size: 60, 25
+  orig: 60, 25
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_6.png
+  rotate: false
+  xy: 805, 101
+  size: 59, 25
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_7.png
+  rotate: false
+  xy: 82, 48
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_8.png
+  rotate: false
+  xy: 927, 64
+  size: 26, 62
+  orig: 26, 62
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_f_0_9.png
+  rotate: false
+  xy: 546, 56
+  size: 40, 70
+  orig: 40, 70
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_g_0_1.png
+  rotate: false
+  xy: 1010, 111
+  size: 9, 15
+  orig: 9, 15
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_g_0_2.png
+  rotate: false
+  xy: 955, 81
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_g_0_3.png
+  rotate: false
+  xy: 213, 58
+  size: 18, 23
+  orig: 18, 23
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_g_0_4.png
+  rotate: false
+  xy: 233, 63
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_g_0_5.png
+  rotate: false
+  xy: 955, 64
+  size: 8, 15
+  orig: 8, 15
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_g_0_6.png
+  rotate: false
+  xy: 979, 94
+  size: 5, 9
+  orig: 5, 9
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_g_0_7.png
+  rotate: false
+  xy: 797, 88
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_64_sd_0_0.png
+  rotate: false
+  xy: 144, 83
+  size: 87, 43
+  orig: 87, 43
+  offset: 0, 0
+  index: -1
+xmas_c17_bench_xmas_c17_bench_icon_a.png
+  rotate: false
+  xy: 955, 98
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1

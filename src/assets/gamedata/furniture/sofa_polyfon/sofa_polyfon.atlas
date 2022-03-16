@@ -1,0 +1,153 @@
+
+sofa_polyfon.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sofa_polyfon_sofa_polyfon_32_g_2_0.png
+  rotate: false
+  xy: 43, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_32_g_2_0.png
+  rotate: false
+  xy: 46, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_32_g_2_0.png
+  rotate: false
+  xy: 49, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_32_g_2_0.png
+  rotate: false
+  xy: 52, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_a_0_0.png
+  rotate: false
+  xy: 219, 83
+  size: 67, 43
+  orig: 67, 43
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_a_2_0.png
+  rotate: false
+  xy: 429, 93
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_b_0_0.png
+  rotate: false
+  xy: 345, 82
+  size: 35, 44
+  orig: 35, 44
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_b_2_0.png
+  rotate: false
+  xy: 95, 62
+  size: 59, 64
+  orig: 59, 64
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_c_0_0.png
+  rotate: false
+  xy: 40, 5
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_d_2_0.png
+  rotate: false
+  xy: 156, 65
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_e_0_0.png
+  rotate: false
+  xy: 382, 81
+  size: 44, 22
+  orig: 44, 22
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_e_2_0.png
+  rotate: false
+  xy: 95, 20
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_f_0_0.png
+  rotate: false
+  xy: 382, 105
+  size: 45, 21
+  orig: 45, 21
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_f_2_0.png
+  rotate: false
+  xy: 288, 90
+  size: 55, 36
+  orig: 55, 36
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_g_0_0.png
+  rotate: false
+  xy: 219, 67
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_g_2_0.png
+  rotate: false
+  xy: 40, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_h_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 16
+  orig: 36, 16
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_sd_0_0.png
+  rotate: false
+  xy: 2, 74
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_64_sd_6_0.png
+  rotate: false
+  xy: 2, 20
+  size: 91, 52
+  orig: 91, 52
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_icon_a.png
+  rotate: false
+  xy: 463, 103
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+sofa_polyfon_sofa_polyfon_icon_b.png
+  rotate: false
+  xy: 251, 66
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1

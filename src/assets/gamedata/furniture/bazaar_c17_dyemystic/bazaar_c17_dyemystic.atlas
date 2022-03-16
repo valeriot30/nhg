@@ -1,0 +1,27 @@
+
+bazaar_c17_dyemystic.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_dyemystic_bazaar_c17_dyemystic_64_a_0_0.png
+  rotate: false
+  xy: 2, 19
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+bazaar_c17_dyemystic_bazaar_c17_dyemystic_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+bazaar_c17_dyemystic_bazaar_c17_dyemystic_icon_a.png
+  rotate: false
+  xy: 35, 54
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1

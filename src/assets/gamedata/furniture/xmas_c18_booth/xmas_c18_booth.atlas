@@ -1,0 +1,55 @@
+
+xmas_c18_booth.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_booth_xmas_c18_booth_64_a_4_0.png
+  rotate: false
+  xy: 62, 226
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+xmas_c18_booth_xmas_c18_booth_64_b_4_0.png
+  rotate: false
+  xy: 2, 77
+  size: 58, 175
+  orig: 58, 175
+  offset: 0, 0
+  index: -1
+xmas_c18_booth_xmas_c18_booth_64_c_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+xmas_c18_booth_xmas_c18_booth_64_c_4_1.png
+  rotate: false
+  xy: 62, 182
+  size: 20, 42
+  orig: 20, 42
+  offset: 0, 0
+  index: -1
+xmas_c18_booth_xmas_c18_booth_64_d_4_0.png
+  rotate: false
+  xy: 110, 241
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+xmas_c18_booth_xmas_c18_booth_64_sd_4_0.png
+  rotate: false
+  xy: 2, 46
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1
+xmas_c18_booth_xmas_c18_booth_icon_a.png
+  rotate: false
+  xy: 24, 14
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1

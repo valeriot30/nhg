@@ -1,0 +1,27 @@
+
+bazaar_c17_clothroof2.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_clothroof2_bazaar_c17_clothroof2_64_a_0_0.png
+  rotate: false
+  xy: 130, 2
+  size: 126, 97
+  orig: 126, 97
+  offset: 0, 0
+  index: -1
+bazaar_c17_clothroof2_bazaar_c17_clothroof2_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 126, 97
+  orig: 126, 97
+  offset: 0, 0
+  index: -1
+bazaar_c17_clothroof2_bazaar_c17_clothroof2_icon_a.png
+  rotate: false
+  xy: 258, 72
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

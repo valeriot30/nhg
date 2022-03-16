@@ -1,0 +1,55 @@
+
+rainyday_c19_lamp.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainyday_c19_lamp_rainyday_c19_lamp_64_a_2_0.png
+  rotate: false
+  xy: 94, 47
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+rainyday_c19_lamp_rainyday_c19_lamp_64_a_6_0.png
+  rotate: false
+  xy: 137, 43
+  size: 37, 55
+  orig: 37, 55
+  offset: 0, 0
+  index: -1
+rainyday_c19_lamp_rainyday_c19_lamp_64_b_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 43, 74
+  orig: 43, 74
+  offset: 0, 0
+  index: -1
+rainyday_c19_lamp_rainyday_c19_lamp_64_b_6_0.png
+  rotate: false
+  xy: 47, 47
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+rainyday_c19_lamp_rainyday_c19_lamp_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+rainyday_c19_lamp_rainyday_c19_lamp_64_sd_6_0.png
+  rotate: false
+  xy: 47, 25
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+rainyday_c19_lamp_rainyday_c19_lamp_icon_a.png
+  rotate: false
+  xy: 176, 69
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1

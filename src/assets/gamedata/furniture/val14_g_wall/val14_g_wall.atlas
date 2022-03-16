@@ -1,0 +1,181 @@
+
+val14_g_wall.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val14_g_wall_val14_g_wall_64_a_0_0.png
+  rotate: false
+  xy: 1307, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_0_1.png
+  rotate: false
+  xy: 1369, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_0_2.png
+  rotate: false
+  xy: 686, 3
+  size: 61, 121
+  orig: 61, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_2_0.png
+  rotate: false
+  xy: 1183, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_2_1.png
+  rotate: false
+  xy: 1121, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_2_2.png
+  rotate: false
+  xy: 1431, 4
+  size: 60, 120
+  orig: 60, 120
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_4_0.png
+  rotate: false
+  xy: 873, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_4_1.png
+  rotate: false
+  xy: 811, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_4_2.png
+  rotate: false
+  xy: 749, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_6_0.png
+  rotate: false
+  xy: 997, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_6_1.png
+  rotate: false
+  xy: 1059, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_a_6_2.png
+  rotate: false
+  xy: 935, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_0_0.png
+  rotate: false
+  xy: 562, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_0_1.png
+  rotate: false
+  xy: 624, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_0_2.png
+  rotate: false
+  xy: 1245, 3
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_2_0.png
+  rotate: false
+  xy: 252, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_2_1.png
+  rotate: false
+  xy: 314, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 122
+  orig: 62, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_4_0.png
+  rotate: false
+  xy: 190, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_4_1.png
+  rotate: false
+  xy: 66, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_4_2.png
+  rotate: false
+  xy: 128, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_6_0.png
+  rotate: false
+  xy: 500, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_6_1.png
+  rotate: false
+  xy: 376, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_64_b_6_2.png
+  rotate: false
+  xy: 438, 2
+  size: 60, 122
+  orig: 60, 122
+  offset: 0, 0
+  index: -1
+val14_g_wall_val14_g_wall_icon_a.png
+  rotate: false
+  xy: 1493, 94
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

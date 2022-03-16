@@ -1,0 +1,111 @@
+
+easter14_pillar.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter14_pillar_easter14_pillar_64_a_2_0.png
+  rotate: false
+  xy: 72, 86
+  size: 66, 163
+  orig: 66, 163
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_a_2_1.png
+  rotate: false
+  xy: 2, 85
+  size: 68, 164
+  orig: 68, 164
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_b_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_b_2_5.png
+  rotate: false
+  xy: 230, 200
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_b_2_6.png
+  rotate: false
+  xy: 230, 149
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_c_2_4.png
+  rotate: false
+  xy: 216, 119
+  size: 12, 41
+  orig: 12, 41
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_d_2_0.png
+  rotate: false
+  xy: 181, 73
+  size: 16, 87
+  orig: 16, 87
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_d_2_1.png
+  rotate: false
+  xy: 165, 162
+  size: 20, 87
+  orig: 20, 87
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_d_2_2.png
+  rotate: false
+  xy: 209, 162
+  size: 19, 87
+  orig: 19, 87
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_d_2_3.png
+  rotate: false
+  xy: 187, 162
+  size: 20, 87
+  orig: 20, 87
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_d_2_4.png
+  rotate: false
+  xy: 140, 162
+  size: 23, 87
+  orig: 23, 87
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_d_2_5.png
+  rotate: false
+  xy: 140, 73
+  size: 19, 87
+  orig: 19, 87
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_d_2_6.png
+  rotate: false
+  xy: 161, 73
+  size: 18, 87
+  orig: 18, 87
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_64_d_2_7.png
+  rotate: false
+  xy: 199, 73
+  size: 15, 87
+  orig: 15, 87
+  offset: 0, 0
+  index: -1
+easter14_pillar_easter14_pillar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

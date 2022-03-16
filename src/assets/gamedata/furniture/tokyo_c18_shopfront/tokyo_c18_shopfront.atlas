@@ -1,0 +1,132 @@
+
+tokyo_c18_shopfront.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_a_2_0.png
+  rotate: false
+  xy: 106, 57
+  size: 102, 179
+  orig: 102, 179
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_a_4_0.png
+  rotate: false
+  xy: 2, 57
+  size: 102, 179
+  orig: 102, 179
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_b_2_0.png
+  rotate: false
+  xy: 518, 75
+  size: 68, 161
+  orig: 68, 161
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_b_2_1.png
+  rotate: false
+  xy: 448, 75
+  size: 68, 161
+  orig: 68, 161
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_b_4_0.png
+  rotate: false
+  xy: 720, 80
+  size: 63, 156
+  orig: 63, 156
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_b_4_1.png
+  rotate: false
+  xy: 655, 80
+  size: 63, 156
+  orig: 63, 156
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_c_2_0.png
+  rotate: false
+  xy: 588, 76
+  size: 65, 160
+  orig: 65, 160
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_c_2_1.png
+  rotate: false
+  xy: 210, 76
+  size: 86, 160
+  orig: 86, 160
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_c_4_0.png
+  rotate: false
+  xy: 373, 75
+  size: 73, 161
+  orig: 73, 161
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_c_4_1.png
+  rotate: false
+  xy: 298, 75
+  size: 73, 161
+  orig: 73, 161
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_d_2_0.png
+  rotate: false
+  xy: 785, 132
+  size: 26, 104
+  orig: 26, 104
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_d_4_0.png
+  rotate: false
+  xy: 870, 140
+  size: 24, 96
+  orig: 24, 96
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_e_2_0.png
+  rotate: false
+  xy: 841, 138
+  size: 27, 98
+  orig: 27, 98
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_e_4_0.png
+  rotate: false
+  xy: 813, 132
+  size: 26, 104
+  orig: 26, 104
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_f_2_0.png
+  rotate: false
+  xy: 108, 36
+  size: 100, 19
+  orig: 100, 19
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_f_4_0.png
+  rotate: false
+  xy: 896, 217
+  size: 100, 19
+  orig: 100, 19
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 104, 53
+  orig: 104, 53
+  offset: 0, 0
+  index: -1
+tokyo_c18_shopfront_tokyo_c18_shopfront_icon_a.png
+  rotate: false
+  xy: 210, 45
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1

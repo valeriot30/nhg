@@ -1,0 +1,41 @@
+
+val15_fujiwall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val15_fujiwall_val15_fujiwall_64_a_2_0.png
+  rotate: false
+  xy: 68, 2
+  size: 64, 231
+  orig: 64, 231
+  offset: 0, 0
+  index: -1
+val15_fujiwall_val15_fujiwall_64_a_2_1.png
+  rotate: false
+  xy: 200, 3
+  size: 64, 230
+  orig: 64, 230
+  offset: 0, 0
+  index: -1
+val15_fujiwall_val15_fujiwall_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 231
+  orig: 64, 231
+  offset: 0, 0
+  index: -1
+val15_fujiwall_val15_fujiwall_64_a_4_1.png
+  rotate: false
+  xy: 134, 3
+  size: 64, 230
+  orig: 64, 230
+  offset: 0, 0
+  index: -1
+val15_fujiwall_val15_fujiwall_icon_a.png
+  rotate: false
+  xy: 266, 203
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,230 @@
+
+xmas12_window.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas12_window_xmas12_window_32_b_2_0.png
+  rotate: false
+  xy: 382, 80
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_32_b_2_0.png
+  rotate: false
+  xy: 469, 86
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_a_2_0.png
+  rotate: false
+  xy: 90, 14
+  size: 86, 230
+  orig: 86, 230
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_a_2_1.png
+  rotate: false
+  xy: 2, 14
+  size: 86, 230
+  orig: 86, 230
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_a_2_2.png
+  rotate: false
+  xy: 178, 14
+  size: 86, 230
+  orig: 86, 230
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_1.png
+  rotate: false
+  xy: 498, 94
+  size: 27, 150
+  orig: 27, 150
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_10.png
+  rotate: false
+  xy: 670, 179
+  size: 18, 65
+  orig: 18, 65
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_11.png
+  rotate: false
+  xy: 302, 8
+  size: 18, 65
+  orig: 18, 65
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_12.png
+  rotate: false
+  xy: 710, 179
+  size: 18, 65
+  orig: 18, 65
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_13.png
+  rotate: false
+  xy: 690, 179
+  size: 18, 65
+  orig: 18, 65
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_2.png
+  rotate: false
+  xy: 469, 89
+  size: 27, 155
+  orig: 27, 155
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_3.png
+  rotate: false
+  xy: 440, 85
+  size: 27, 159
+  orig: 27, 159
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_4.png
+  rotate: false
+  xy: 382, 83
+  size: 27, 161
+  orig: 27, 161
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_5.png
+  rotate: false
+  xy: 411, 83
+  size: 27, 161
+  orig: 27, 161
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_6.png
+  rotate: false
+  xy: 353, 78
+  size: 27, 166
+  orig: 27, 166
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_7.png
+  rotate: false
+  xy: 324, 76
+  size: 27, 168
+  orig: 27, 168
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_8.png
+  rotate: false
+  xy: 266, 71
+  size: 27, 173
+  orig: 27, 173
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_b_2_9.png
+  rotate: false
+  xy: 295, 75
+  size: 27, 169
+  orig: 27, 169
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 10
+  orig: 16, 10
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_10.png
+  rotate: false
+  xy: 730, 200
+  size: 21, 44
+  orig: 21, 44
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_11.png
+  rotate: false
+  xy: 616, 191
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_12.png
+  rotate: false
+  xy: 775, 201
+  size: 18, 43
+  orig: 18, 43
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_13.png
+  rotate: false
+  xy: 753, 199
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_2.png
+  rotate: false
+  xy: 266, 14
+  size: 34, 55
+  orig: 34, 55
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_3.png
+  rotate: false
+  xy: 574, 145
+  size: 40, 51
+  orig: 40, 51
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_4.png
+  rotate: false
+  xy: 624, 197
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_5.png
+  rotate: false
+  xy: 574, 198
+  size: 48, 46
+  orig: 48, 46
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_6.png
+  rotate: false
+  xy: 527, 94
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_7.png
+  rotate: false
+  xy: 527, 143
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_8.png
+  rotate: false
+  xy: 527, 194
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_64_c_2_9.png
+  rotate: false
+  xy: 795, 204
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+xmas12_window_xmas12_window_icon_a.png
+  rotate: false
+  xy: 817, 212
+  size: 13, 32
+  orig: 13, 32
+  offset: 0, 0
+  index: -1

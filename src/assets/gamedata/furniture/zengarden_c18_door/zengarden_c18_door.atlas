@@ -1,0 +1,104 @@
+
+zengarden_c18_door.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c18_door_zengarden_c18_door_64_a_2_0.png
+  rotate: false
+  xy: 154, 2
+  size: 34, 123
+  orig: 34, 123
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_a_2_1.png
+  rotate: false
+  xy: 154, 127
+  size: 34, 127
+  orig: 34, 127
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_a_4_0.png
+  rotate: false
+  xy: 190, 2
+  size: 34, 123
+  orig: 34, 123
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_a_4_1.png
+  rotate: false
+  xy: 190, 127
+  size: 34, 127
+  orig: 34, 127
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_b_0_0.png
+  rotate: false
+  xy: 2, 103
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_b_0_1.png
+  rotate: false
+  xy: 40, 126
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_b_6_0.png
+  rotate: false
+  xy: 2, 80
+  size: 34, 21
+  orig: 34, 21
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_b_6_1.png
+  rotate: false
+  xy: 2, 126
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_c_4_0.png
+  rotate: false
+  xy: 226, 235
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_c_6_0.png
+  rotate: false
+  xy: 38, 105
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_d_0_0.png
+  rotate: false
+  xy: 116, 126
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_d_6_0.png
+  rotate: false
+  xy: 78, 126
+  size: 36, 128
+  orig: 36, 128
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_64_d_6_1.png
+  rotate: false
+  xy: 226, 232
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+zengarden_c18_door_zengarden_c18_door_icon_a.png
+  rotate: false
+  xy: 2, 48
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

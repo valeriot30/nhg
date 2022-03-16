@@ -1,0 +1,104 @@
+
+uni_trashcan.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_trashcan_uni_trashcan_32_b_0_0.png
+  rotate: false
+  xy: 317, 20
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_a_0_0.png
+  rotate: false
+  xy: 353, 23
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_a_0_1.png
+  rotate: false
+  xy: 227, 16
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_a_0_2.png
+  rotate: false
+  xy: 122, 17
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_a_0_3.png
+  rotate: false
+  xy: 389, 23
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_a_0_4.png
+  rotate: false
+  xy: 272, 16
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_a_0_5.png
+  rotate: false
+  xy: 62, 17
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_a_0_6.png
+  rotate: false
+  xy: 317, 23
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_a_0_7.png
+  rotate: false
+  xy: 182, 16
+  size: 43, 44
+  orig: 43, 44
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_a_0_8.png
+  rotate: false
+  xy: 2, 17
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_b_0_1.png
+  rotate: false
+  xy: 425, 23
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_b_0_2.png
+  rotate: false
+  xy: 457, 46
+  size: 18, 14
+  orig: 18, 14
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_64_b_0_3.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 13
+  orig: 24, 13
+  offset: 0, 0
+  index: -1
+uni_trashcan_uni_trashcan_icon_a.png
+  rotate: false
+  xy: 425, 37
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

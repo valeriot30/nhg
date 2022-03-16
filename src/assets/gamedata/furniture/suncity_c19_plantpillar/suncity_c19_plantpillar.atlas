@@ -1,0 +1,27 @@
+
+suncity_c19_plantpillar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_plantpillar_suncity_c19_plantpillar_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 47, 105
+  orig: 47, 105
+  offset: 0, 0
+  index: -1
+suncity_c19_plantpillar_suncity_c19_plantpillar_64_a_0_1.png
+  rotate: false
+  xy: 2, 141
+  size: 47, 106
+  orig: 47, 106
+  offset: 0, 0
+  index: -1
+suncity_c19_plantpillar_suncity_c19_plantpillar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+pastel_c19_stardeco.png
+size: 32,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastel_c19_stardeco_pastel_c19_stardeco_64_a_0_0.png
+  rotate: false
+  xy: 2, 43
+  size: 26, 80
+  orig: 26, 80
+  offset: 0, 0
+  index: -1
+pastel_c19_stardeco_pastel_c19_stardeco_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 9
+  orig: 16, 9
+  offset: 0, 0
+  index: -1
+pastel_c19_stardeco_pastel_c19_stardeco_icon_a.png
+  rotate: false
+  xy: 2, 13
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1

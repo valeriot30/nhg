@@ -1,0 +1,20 @@
+
+horse_shoe_wall.png
+size: 32,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+horse_shoe_wall_horse_shoe_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 36
+  size: 27, 40
+  orig: 27, 40
+  offset: 0, 0
+  index: -1
+horse_shoe_wall_horse_shoe_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

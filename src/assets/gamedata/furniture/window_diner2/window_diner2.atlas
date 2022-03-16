@@ -1,0 +1,41 @@
+
+window_diner2.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window_diner2_window_diner2_64_2_mask.png
+  rotate: false
+  xy: 2, 29
+  size: 17, 52
+  orig: 17, 52
+  offset: 0, 0
+  index: -1
+window_diner2_window_diner2_64_a_2_0.png
+  rotate: false
+  xy: 2, 148
+  size: 36, 82
+  orig: 36, 82
+  offset: 0, 0
+  index: -1
+window_diner2_window_diner2_64_b_2_0.png
+  rotate: false
+  xy: 40, 169
+  size: 21, 61
+  orig: 21, 61
+  offset: 0, 0
+  index: -1
+window_diner2_window_diner2_64_b_2_1.png
+  rotate: false
+  xy: 2, 83
+  size: 21, 63
+  orig: 21, 63
+  offset: 0, 0
+  index: -1
+window_diner2_window_diner2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1

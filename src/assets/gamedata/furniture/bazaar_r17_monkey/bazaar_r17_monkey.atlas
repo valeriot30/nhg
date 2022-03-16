@@ -1,0 +1,62 @@
+
+bazaar_r17_monkey.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_r17_monkey_bazaar_r17_monkey_64_a_0_0.png
+  rotate: false
+  xy: 74, 2
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+bazaar_r17_monkey_bazaar_r17_monkey_64_a_0_1.png
+  rotate: false
+  xy: 287, 141
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+bazaar_r17_monkey_bazaar_r17_monkey_64_a_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 104
+  orig: 70, 104
+  offset: 0, 0
+  index: -1
+bazaar_r17_monkey_bazaar_r17_monkey_64_b_0_0.png
+  rotate: false
+  xy: 192, 108
+  size: 93, 137
+  orig: 93, 137
+  offset: 0, 0
+  index: -1
+bazaar_r17_monkey_bazaar_r17_monkey_64_b_0_1.png
+  rotate: false
+  xy: 97, 108
+  size: 93, 137
+  orig: 93, 137
+  offset: 0, 0
+  index: -1
+bazaar_r17_monkey_bazaar_r17_monkey_64_b_0_2.png
+  rotate: false
+  xy: 2, 108
+  size: 93, 137
+  orig: 93, 137
+  offset: 0, 0
+  index: -1
+bazaar_r17_monkey_bazaar_r17_monkey_64_sd_0_0.png
+  rotate: false
+  xy: 359, 212
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+bazaar_r17_monkey_bazaar_r17_monkey_icon_a.png
+  rotate: false
+  xy: 287, 109
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

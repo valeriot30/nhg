@@ -1,0 +1,34 @@
+
+hween_c18_bloodfloorstreak.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_bloodfloorstreak_hween_c18_bloodfloorstreak_64_a_0_0.png
+  rotate: false
+  xy: 101, 9
+  size: 99, 51
+  orig: 99, 51
+  offset: 0, 0
+  index: -1
+hween_c18_bloodfloorstreak_hween_c18_bloodfloorstreak_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 97, 58
+  orig: 97, 58
+  offset: 0, 0
+  index: -1
+hween_c18_bloodfloorstreak_hween_c18_bloodfloorstreak_64_a_0_2.png
+  rotate: false
+  xy: 202, 7
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1
+hween_c18_bloodfloorstreak_hween_c18_bloodfloorstreak_icon_a.png
+  rotate: false
+  xy: 294, 40
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

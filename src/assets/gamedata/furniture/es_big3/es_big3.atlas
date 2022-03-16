@@ -1,0 +1,27 @@
+
+es_big3.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+es_big3_es_big3_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 146, 77
+  orig: 146, 77
+  offset: 0, 0
+  index: -1
+es_big3_es_big3_64_b_2_0.png
+  rotate: false
+  xy: 2, 81
+  size: 148, 401
+  orig: 148, 401
+  offset: 0, 0
+  index: -1
+es_big3_es_big3_icon_a.png
+  rotate: false
+  xy: 152, 452
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+transparent_floor.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+transparent_floor_transparent_floor_64_a_0_0.png
+  rotate: false
+  xy: 2, 186
+  size: 128, 67
+  orig: 128, 67
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_b_2_0.png
+  rotate: false
+  xy: 2, 22
+  size: 126, 32
+  orig: 126, 32
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_c_2_0.png
+  rotate: false
+  xy: 132, 125
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_d_2_0.png
+  rotate: false
+  xy: 388, 192
+  size: 121, 61
+  orig: 121, 61
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_e_0_0.png
+  rotate: false
+  xy: 2, 121
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_e_0_1.png
+  rotate: false
+  xy: 132, 190
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_e_0_2.png
+  rotate: false
+  xy: 2, 56
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_e_0_3.png
+  rotate: false
+  xy: 260, 190
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_e_2_0.png
+  rotate: false
+  xy: 260, 125
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_e_2_1.png
+  rotate: false
+  xy: 130, 60
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_e_2_2.png
+  rotate: false
+  xy: 388, 149
+  size: 82, 41
+  orig: 82, 41
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_64_e_2_3.png
+  rotate: false
+  xy: 258, 60
+  size: 126, 63
+  orig: 126, 63
+  offset: 0, 0
+  index: -1
+transparent_floor_transparent_floor_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1

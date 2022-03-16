@@ -1,0 +1,20 @@
+
+clothing_dragonplushhat.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_dragonplushhat_clothing_dragonplushhat_64_a_0_0.png
+  rotate: false
+  xy: 2, 31
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+clothing_dragonplushhat_clothing_dragonplushhat_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1

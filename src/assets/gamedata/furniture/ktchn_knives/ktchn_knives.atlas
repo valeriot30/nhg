@@ -1,0 +1,48 @@
+
+ktchn_knives.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ktchn_knives_ktchn_knives_64_a_2_0.png
+  rotate: false
+  xy: 290, 9
+  size: 66, 49
+  orig: 66, 49
+  offset: 0, 0
+  index: -1
+ktchn_knives_ktchn_knives_64_b_2_0.png
+  rotate: false
+  xy: 218, 7
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+ktchn_knives_ktchn_knives_64_b_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+ktchn_knives_ktchn_knives_64_b_2_2.png
+  rotate: false
+  xy: 146, 3
+  size: 70, 55
+  orig: 70, 55
+  offset: 0, 0
+  index: -1
+ktchn_knives_ktchn_knives_64_b_2_3.png
+  rotate: false
+  xy: 74, 2
+  size: 70, 56
+  orig: 70, 56
+  offset: 0, 0
+  index: -1
+ktchn_knives_ktchn_knives_icon_a.png
+  rotate: false
+  xy: 358, 33
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

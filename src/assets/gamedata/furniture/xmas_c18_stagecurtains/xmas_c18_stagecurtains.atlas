@@ -1,0 +1,48 @@
+
+xmas_c18_stagecurtains.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_stagecurtains_xmas_c18_stagecurtains_64_a_2_0.png
+  rotate: false
+  xy: 94, 25
+  size: 42, 190
+  orig: 42, 190
+  offset: 0, 0
+  index: -1
+xmas_c18_stagecurtains_xmas_c18_stagecurtains_64_a_2_1.png
+  rotate: false
+  xy: 48, 25
+  size: 44, 190
+  orig: 44, 190
+  offset: 0, 0
+  index: -1
+xmas_c18_stagecurtains_xmas_c18_stagecurtains_64_a_2_2.png
+  rotate: false
+  xy: 2, 23
+  size: 44, 192
+  orig: 44, 192
+  offset: 0, 0
+  index: -1
+xmas_c18_stagecurtains_xmas_c18_stagecurtains_64_a_2_3.png
+  rotate: false
+  xy: 138, 31
+  size: 41, 184
+  orig: 41, 184
+  offset: 0, 0
+  index: -1
+xmas_c18_stagecurtains_xmas_c18_stagecurtains_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+xmas_c18_stagecurtains_xmas_c18_stagecurtains_icon_a.png
+  rotate: false
+  xy: 181, 185
+  size: 9, 30
+  orig: 9, 30
+  offset: 0, 0
+  index: -1

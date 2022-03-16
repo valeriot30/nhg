@@ -1,0 +1,55 @@
+
+ads_twi_crest.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_twi_crest_ads_twi_crest_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 110
+  orig: 64, 110
+  offset: 0, 0
+  index: -1
+ads_twi_crest_ads_twi_crest_64_a_4_0.png
+  rotate: false
+  xy: 68, 2
+  size: 64, 110
+  orig: 64, 110
+  offset: 0, 0
+  index: -1
+ads_twi_crest_ads_twi_crest_64_b_2_0.png
+  rotate: false
+  xy: 331, 24
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+ads_twi_crest_ads_twi_crest_64_b_4_0.png
+  rotate: false
+  xy: 266, 24
+  size: 63, 88
+  orig: 63, 88
+  offset: 0, 0
+  index: -1
+ads_twi_crest_ads_twi_crest_64_c_2_0.png
+  rotate: false
+  xy: 134, 18
+  size: 64, 94
+  orig: 64, 94
+  offset: 0, 0
+  index: -1
+ads_twi_crest_ads_twi_crest_64_c_4_0.png
+  rotate: false
+  xy: 200, 18
+  size: 64, 94
+  orig: 64, 94
+  offset: 0, 0
+  index: -1
+ads_twi_crest_ads_twi_crest_icon_a.png
+  rotate: false
+  xy: 396, 82
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

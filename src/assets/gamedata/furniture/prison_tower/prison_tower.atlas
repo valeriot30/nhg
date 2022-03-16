@@ -1,0 +1,62 @@
+
+prison_tower.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prison_tower_prison_tower_32_d_4_0.png
+  rotate: false
+  xy: 581, 183
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+prison_tower_prison_tower_64_a_4_0.png
+  rotate: false
+  xy: 2, 83
+  size: 70, 49
+  orig: 70, 49
+  offset: 0, 0
+  index: -1
+prison_tower_prison_tower_64_b_4_0.png
+  rotate: false
+  xy: 479, 2
+  size: 100, 224
+  orig: 100, 224
+  offset: 0, 0
+  index: -1
+prison_tower_prison_tower_64_c_4_0.png
+  rotate: false
+  xy: 2, 41
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+prison_tower_prison_tower_64_c_6_0.png
+  rotate: false
+  xy: 581, 186
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+prison_tower_prison_tower_64_d_4_1.png
+  rotate: false
+  xy: 328, 24
+  size: 149, 202
+  orig: 149, 202
+  offset: 0, 0
+  index: -1
+prison_tower_prison_tower_64_d_6_1.png
+  rotate: false
+  xy: 2, 134
+  size: 324, 92
+  orig: 324, 92
+  offset: 0, 0
+  index: -1
+prison_tower_prison_tower_icon_a.png
+  rotate: false
+  xy: 74, 102
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

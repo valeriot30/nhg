@@ -1,0 +1,41 @@
+
+boutique_hcsign.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boutique_hcsign_boutique_hcsign_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+boutique_hcsign_boutique_hcsign_64_a_2_0.png
+  rotate: false
+  xy: 53, 2
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+boutique_hcsign_boutique_hcsign_64_sd.png
+  rotate: false
+  xy: 156, 21
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+boutique_hcsign_boutique_hcsign_64_sd_2_0.png
+  rotate: false
+  xy: 104, 21
+  size: 50, 26
+  orig: 50, 26
+  offset: 0, 0
+  index: -1
+boutique_hcsign_boutique_hcsign_icon_a.png
+  rotate: false
+  xy: 208, 20
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,139 @@
+
+hotel_c18_roof.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hotel_c18_roof_hotel_c18_roof_64_a_0_0.png
+  rotate: false
+  xy: 422, 60
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_0_1.png
+  rotate: false
+  xy: 144, 60
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_0_2.png
+  rotate: false
+  xy: 2, 59
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_0_3.png
+  rotate: false
+  xy: 354, 60
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_2_0.png
+  rotate: false
+  xy: 490, 60
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_2_1.png
+  rotate: false
+  xy: 214, 60
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_2_2.png
+  rotate: false
+  xy: 628, 72
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_2_3.png
+  rotate: false
+  xy: 284, 60
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_4_1.png
+  rotate: false
+  xy: 72, 2
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_4_2.png
+  rotate: false
+  xy: 698, 81
+  size: 70, 45
+  orig: 70, 45
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_4_3.png
+  rotate: false
+  xy: 142, 3
+  size: 66, 55
+  orig: 66, 55
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_6_1.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 55
+  orig: 68, 55
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_6_2.png
+  rotate: false
+  xy: 558, 72
+  size: 68, 54
+  orig: 68, 54
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_a_6_3.png
+  rotate: false
+  xy: 74, 60
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_b_0_3.png
+  rotate: false
+  xy: 770, 94
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_b_2_0.png
+  rotate: false
+  xy: 210, 26
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_b_4_3.png
+  rotate: false
+  xy: 278, 26
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_64_b_6_3.png
+  rotate: false
+  xy: 346, 26
+  size: 1, 32
+  orig: 1, 32
+  offset: 0, 0
+  index: -1
+hotel_c18_roof_hotel_c18_roof_icon_a.png
+  rotate: false
+  xy: 838, 96
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1

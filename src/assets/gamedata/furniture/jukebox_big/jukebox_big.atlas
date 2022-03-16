@@ -1,0 +1,496 @@
+
+jukebox_big.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jukebox_big_jukebox_big_32_f_0_0.png
+  rotate: false
+  xy: 25, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_32_f_0_0.png
+  rotate: false
+  xy: 28, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_32_f_0_0.png
+  rotate: false
+  xy: 31, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_a_0_0.png
+  rotate: false
+  xy: 756, 22
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_a_0_9.png
+  rotate: false
+  xy: 695, 22
+  size: 59, 104
+  orig: 59, 104
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_0.png
+  rotate: false
+  xy: 632, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_1.png
+  rotate: false
+  xy: 506, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_10.png
+  rotate: false
+  xy: 569, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_2.png
+  rotate: false
+  xy: 443, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_3.png
+  rotate: false
+  xy: 380, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_4.png
+  rotate: false
+  xy: 317, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_5.png
+  rotate: false
+  xy: 254, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_6.png
+  rotate: false
+  xy: 191, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_7.png
+  rotate: false
+  xy: 128, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_8.png
+  rotate: false
+  xy: 65, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_b_0_9.png
+  rotate: false
+  xy: 2, 23
+  size: 61, 103
+  orig: 61, 103
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_0.png
+  rotate: false
+  xy: 46, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_1.png
+  rotate: false
+  xy: 967, 61
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_10.png
+  rotate: false
+  xy: 235, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_11.png
+  rotate: false
+  xy: 151, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_12.png
+  rotate: false
+  xy: 172, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_13.png
+  rotate: false
+  xy: 193, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_14.png
+  rotate: false
+  xy: 214, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_15.png
+  rotate: false
+  xy: 424, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_16.png
+  rotate: false
+  xy: 403, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_17.png
+  rotate: false
+  xy: 382, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_18.png
+  rotate: false
+  xy: 361, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_19.png
+  rotate: false
+  xy: 340, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_2.png
+  rotate: false
+  xy: 25, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_20.png
+  rotate: false
+  xy: 298, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_21.png
+  rotate: false
+  xy: 319, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_22.png
+  rotate: false
+  xy: 256, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_23.png
+  rotate: false
+  xy: 277, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_3.png
+  rotate: false
+  xy: 967, 79
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_4.png
+  rotate: false
+  xy: 988, 61
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_5.png
+  rotate: false
+  xy: 88, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_6.png
+  rotate: false
+  xy: 988, 79
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_7.png
+  rotate: false
+  xy: 67, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_8.png
+  rotate: false
+  xy: 109, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_c_0_9.png
+  rotate: false
+  xy: 130, 5
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_0.png
+  rotate: false
+  xy: 664, 13
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_1.png
+  rotate: false
+  xy: 642, 10
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_12.png
+  rotate: false
+  xy: 511, 7
+  size: 19, 14
+  orig: 19, 14
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_13.png
+  rotate: false
+  xy: 467, 7
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_14.png
+  rotate: false
+  xy: 489, 7
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_15.png
+  rotate: false
+  xy: 628, 11
+  size: 12, 10
+  orig: 12, 10
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_16.png
+  rotate: false
+  xy: 551, 9
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_17.png
+  rotate: false
+  xy: 445, 7
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_18.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_19.png
+  rotate: false
+  xy: 929, 71
+  size: 22, 24
+  orig: 22, 24
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_2.png
+  rotate: false
+  xy: 585, 7
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_20.png
+  rotate: false
+  xy: 916, 97
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_21.png
+  rotate: false
+  xy: 891, 97
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_22.png
+  rotate: false
+  xy: 866, 97
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_23.png
+  rotate: false
+  xy: 845, 41
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_24.png
+  rotate: false
+  xy: 991, 97
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_25.png
+  rotate: false
+  xy: 966, 97
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_26.png
+  rotate: false
+  xy: 941, 97
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_27.png
+  rotate: false
+  xy: 817, 9
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_28.png
+  rotate: false
+  xy: 879, 66
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_29.png
+  rotate: false
+  xy: 904, 66
+  size: 23, 29
+  orig: 23, 29
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_3.png
+  rotate: false
+  xy: 532, 4
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_30.png
+  rotate: false
+  xy: 601, 6
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_4.png
+  rotate: false
+  xy: 569, 7
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_5.png
+  rotate: false
+  xy: 615, 10
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_6.png
+  rotate: false
+  xy: 654, 13
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_d_0_8.png
+  rotate: false
+  xy: 866, 72
+  size: 11, 23
+  orig: 11, 23
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_e_0_1.png
+  rotate: false
+  xy: 953, 56
+  size: 12, 39
+  orig: 12, 39
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_64_f_0_1.png
+  rotate: false
+  xy: 817, 72
+  size: 47, 54
+  orig: 47, 54
+  offset: 0, 0
+  index: -1
+jukebox_big_jukebox_big_icon_a.png
+  rotate: false
+  xy: 817, 40
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

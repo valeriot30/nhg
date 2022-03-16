@@ -1,0 +1,90 @@
+
+ads_mall_kiosk.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_mall_kiosk_ads_mall_kiosk_64_a_0_0.png
+  rotate: false
+  xy: 170, 42
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_c_0_0.png
+  rotate: false
+  xy: 169, 98
+  size: 59, 82
+  orig: 59, 82
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_d_0_0.png
+  rotate: false
+  xy: 2, 167
+  size: 96, 84
+  orig: 96, 84
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_e_0_0.png
+  rotate: false
+  xy: 51, 61
+  size: 46, 104
+  orig: 46, 104
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_f_0_0.png
+  rotate: false
+  xy: 2, 60
+  size: 47, 105
+  orig: 47, 105
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_g_0_0.png
+  rotate: false
+  xy: 100, 184
+  size: 83, 67
+  orig: 83, 67
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_h_0_0.png
+  rotate: false
+  xy: 185, 182
+  size: 64, 69
+  orig: 64, 69
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_i_0_0.png
+  rotate: false
+  xy: 100, 121
+  size: 67, 61
+  orig: 67, 61
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_j_0_0.png
+  rotate: false
+  xy: 99, 58
+  size: 60, 61
+  orig: 60, 61
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_64_sd_0_0.png
+  rotate: false
+  xy: 68, 21
+  size: 100, 35
+  orig: 100, 35
+  offset: 0, 0
+  index: -1
+ads_mall_kiosk_ads_mall_kiosk_icon_a.png
+  rotate: false
+  xy: 230, 157
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+tokyo_c18_magazinerack.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_a_0_0.png
+  rotate: false
+  xy: 2, 37
+  size: 43, 89
+  orig: 43, 89
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_b_0_0.png
+  rotate: false
+  xy: 269, 48
+  size: 28, 78
+  orig: 28, 78
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_c_0_0.png
+  rotate: false
+  xy: 162, 46
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_c_0_1.png
+  rotate: false
+  xy: 198, 46
+  size: 34, 80
+  orig: 34, 80
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_c_0_2.png
+  rotate: false
+  xy: 299, 46
+  size: 23, 80
+  orig: 23, 80
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_c_0_3.png
+  rotate: false
+  xy: 342, 54
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_d_0_0.png
+  rotate: false
+  xy: 88, 47
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_d_0_1.png
+  rotate: false
+  xy: 125, 47
+  size: 35, 79
+  orig: 35, 79
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_d_0_2.png
+  rotate: false
+  xy: 342, 77
+  size: 24, 49
+  orig: 24, 49
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_d_0_3.png
+  rotate: false
+  xy: 324, 49
+  size: 16, 77
+  orig: 16, 77
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_e_0_0.png
+  rotate: false
+  xy: 234, 51
+  size: 33, 75
+  orig: 33, 75
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_f_0_0.png
+  rotate: false
+  xy: 47, 44
+  size: 39, 82
+  orig: 39, 82
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_64_sd_0_0.png
+  rotate: false
+  xy: 47, 2
+  size: 77, 40
+  orig: 77, 40
+  offset: 0, 0
+  index: -1
+tokyo_c18_magazinerack_tokyo_c18_magazinerack_icon_a.png
+  rotate: false
+  xy: 2, 5
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

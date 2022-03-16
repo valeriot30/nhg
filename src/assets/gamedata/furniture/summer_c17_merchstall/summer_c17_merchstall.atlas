@@ -1,0 +1,48 @@
+
+summer_c17_merchstall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+summer_c17_merchstall_summer_c17_merchstall_64_a_4_0.png
+  rotate: false
+  xy: 2, 78
+  size: 82, 150
+  orig: 82, 150
+  offset: 0, 0
+  index: -1
+summer_c17_merchstall_summer_c17_merchstall_64_b_4_0.png
+  rotate: false
+  xy: 86, 154
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+summer_c17_merchstall_summer_c17_merchstall_64_b_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 59, 74
+  orig: 59, 74
+  offset: 0, 0
+  index: -1
+summer_c17_merchstall_summer_c17_merchstall_64_b_4_2.png
+  rotate: false
+  xy: 86, 78
+  size: 40, 74
+  orig: 40, 74
+  offset: 0, 0
+  index: -1
+summer_c17_merchstall_summer_c17_merchstall_64_sd_4_0.png
+  rotate: false
+  xy: 128, 194
+  size: 66, 34
+  orig: 66, 34
+  offset: 0, 0
+  index: -1
+summer_c17_merchstall_summer_c17_merchstall_icon_a.png
+  rotate: false
+  xy: 63, 46
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

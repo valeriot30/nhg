@@ -1,0 +1,104 @@
+
+runway_oldecamera.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runway_oldecamera_runway_oldecamera_64_a_2_0.png
+  rotate: false
+  xy: 433, 97
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_1.png
+  rotate: false
+  xy: 504, 97
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_10.png
+  rotate: false
+  xy: 2, 35
+  size: 69, 180
+  orig: 69, 180
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_11.png
+  rotate: false
+  xy: 788, 101
+  size: 69, 114
+  orig: 69, 114
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_2.png
+  rotate: false
+  xy: 575, 98
+  size: 69, 117
+  orig: 69, 117
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_3.png
+  rotate: false
+  xy: 717, 99
+  size: 69, 116
+  orig: 69, 116
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_4.png
+  rotate: false
+  xy: 646, 99
+  size: 69, 116
+  orig: 69, 116
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_5.png
+  rotate: false
+  xy: 286, 67
+  size: 73, 148
+  orig: 73, 148
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_6.png
+  rotate: false
+  xy: 361, 67
+  size: 70, 148
+  orig: 70, 148
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_7.png
+  rotate: false
+  xy: 215, 58
+  size: 69, 157
+  orig: 69, 157
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_8.png
+  rotate: false
+  xy: 144, 49
+  size: 69, 166
+  orig: 69, 166
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_a_2_9.png
+  rotate: false
+  xy: 73, 39
+  size: 69, 176
+  orig: 69, 176
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 31
+  orig: 62, 31
+  offset: 0, 0
+  index: -1
+runway_oldecamera_runway_oldecamera_icon_a.png
+  rotate: false
+  xy: 859, 185
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

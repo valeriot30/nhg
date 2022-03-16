@@ -1,0 +1,132 @@
+
+exe_c15_wall.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exe_c15_wall_exe_c15_wall_64_a_2_0.png
+  rotate: false
+  xy: 214, 240
+  size: 104, 265
+  orig: 104, 265
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_a_2_1.png
+  rotate: false
+  xy: 108, 240
+  size: 104, 265
+  orig: 104, 265
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_a_2_2.png
+  rotate: false
+  xy: 2, 240
+  size: 104, 265
+  orig: 104, 265
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_1.png
+  rotate: false
+  xy: 411, 373
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_10.png
+  rotate: false
+  xy: 95, 106
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_2.png
+  rotate: false
+  xy: 199, 106
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_3.png
+  rotate: false
+  xy: 827, 373
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_4.png
+  rotate: false
+  xy: 411, 239
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_5.png
+  rotate: false
+  xy: 515, 239
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_6.png
+  rotate: false
+  xy: 619, 239
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_7.png
+  rotate: false
+  xy: 515, 373
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_8.png
+  rotate: false
+  xy: 619, 373
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_b_2_9.png
+  rotate: false
+  xy: 723, 373
+  size: 102, 132
+  orig: 102, 132
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_c_2_0.png
+  rotate: false
+  xy: 931, 504
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_c_2_1.png
+  rotate: false
+  xy: 95, 97
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_d_2_0.png
+  rotate: false
+  xy: 320, 301
+  size: 89, 204
+  orig: 89, 204
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_64_d_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 91, 204
+  orig: 91, 204
+  offset: 0, 0
+  index: -1
+exe_c15_wall_exe_c15_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

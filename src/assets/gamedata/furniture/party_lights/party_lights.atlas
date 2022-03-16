@@ -1,0 +1,447 @@
+
+party_lights.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+party_lights_party_lights_64_a_2_0.png
+  rotate: false
+  xy: 2762, 160
+  size: 62, 67
+  orig: 62, 67
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_1.png
+  rotate: false
+  xy: 1842, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_10.png
+  rotate: false
+  xy: 2670, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_11.png
+  rotate: false
+  xy: 2670, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_12.png
+  rotate: false
+  xy: 2578, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_13.png
+  rotate: false
+  xy: 2578, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_14.png
+  rotate: false
+  xy: 2486, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_15.png
+  rotate: false
+  xy: 2394, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_16.png
+  rotate: false
+  xy: 2486, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_17.png
+  rotate: false
+  xy: 2302, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_18.png
+  rotate: false
+  xy: 2394, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_19.png
+  rotate: false
+  xy: 2302, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_2.png
+  rotate: false
+  xy: 1934, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_20.png
+  rotate: false
+  xy: 646, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_21.png
+  rotate: false
+  xy: 646, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_22.png
+  rotate: false
+  xy: 738, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_23.png
+  rotate: false
+  xy: 830, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_24.png
+  rotate: false
+  xy: 922, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_25.png
+  rotate: false
+  xy: 922, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_26.png
+  rotate: false
+  xy: 186, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_27.png
+  rotate: false
+  xy: 94, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_28.png
+  rotate: false
+  xy: 370, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_29.png
+  rotate: false
+  xy: 278, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_3.png
+  rotate: false
+  xy: 1934, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_30.png
+  rotate: false
+  xy: 2, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_4.png
+  rotate: false
+  xy: 2118, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_5.png
+  rotate: false
+  xy: 2118, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_6.png
+  rotate: false
+  xy: 2210, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_7.png
+  rotate: false
+  xy: 2210, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_8.png
+  rotate: false
+  xy: 2026, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_2_9.png
+  rotate: false
+  xy: 2026, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_0.png
+  rotate: false
+  xy: 2762, 90
+  size: 59, 68
+  orig: 59, 68
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_1.png
+  rotate: false
+  xy: 1474, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_10.png
+  rotate: false
+  xy: 1106, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_11.png
+  rotate: false
+  xy: 1014, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_12.png
+  rotate: false
+  xy: 1014, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_13.png
+  rotate: false
+  xy: 1198, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_14.png
+  rotate: false
+  xy: 1290, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_15.png
+  rotate: false
+  xy: 1106, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_16.png
+  rotate: false
+  xy: 1198, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_17.png
+  rotate: false
+  xy: 1382, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_18.png
+  rotate: false
+  xy: 1382, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_19.png
+  rotate: false
+  xy: 1290, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_2.png
+  rotate: false
+  xy: 1566, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_20.png
+  rotate: false
+  xy: 462, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_21.png
+  rotate: false
+  xy: 462, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_22.png
+  rotate: false
+  xy: 554, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_23.png
+  rotate: false
+  xy: 554, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_24.png
+  rotate: false
+  xy: 94, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_25.png
+  rotate: false
+  xy: 186, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_26.png
+  rotate: false
+  xy: 278, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_27.png
+  rotate: false
+  xy: 370, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_28.png
+  rotate: false
+  xy: 830, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_29.png
+  rotate: false
+  xy: 738, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_3.png
+  rotate: false
+  xy: 1658, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_30.png
+  rotate: false
+  xy: 2, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_4.png
+  rotate: false
+  xy: 1474, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_5.png
+  rotate: false
+  xy: 1566, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_6.png
+  rotate: false
+  xy: 1750, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_7.png
+  rotate: false
+  xy: 1842, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_8.png
+  rotate: false
+  xy: 1658, 25
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_64_a_4_9.png
+  rotate: false
+  xy: 1750, 127
+  size: 90, 100
+  orig: 90, 100
+  offset: 0, 0
+  index: -1
+party_lights_party_lights_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 21
+  orig: 24, 21
+  offset: 0, 0
+  index: -1

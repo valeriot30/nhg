@@ -1,0 +1,48 @@
+
+bolly_lamp.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bolly_lamp_bolly_lamp_64_a_0_0.png
+  rotate: false
+  xy: 142, 49
+  size: 45, 149
+  orig: 45, 149
+  offset: 0, 0
+  index: -1
+bolly_lamp_bolly_lamp_64_a_0_1.png
+  rotate: false
+  xy: 95, 49
+  size: 45, 149
+  orig: 45, 149
+  offset: 0, 0
+  index: -1
+bolly_lamp_bolly_lamp_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 14
+  orig: 45, 14
+  offset: 0, 0
+  index: -1
+bolly_lamp_bolly_lamp_64_c_0_0.png
+  rotate: false
+  xy: 95, 46
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bolly_lamp_bolly_lamp_64_c_0_1.png
+  rotate: false
+  xy: 2, 18
+  size: 91, 180
+  orig: 91, 180
+  offset: 0, 0
+  index: -1
+bolly_lamp_bolly_lamp_icon_a.png
+  rotate: false
+  xy: 189, 166
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1

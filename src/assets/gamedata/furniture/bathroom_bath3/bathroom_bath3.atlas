@@ -1,0 +1,209 @@
+
+bathroom_bath3.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bathroom_bath3_bathroom_bath3_64_a_0_0.png
+  rotate: false
+  xy: 398, 40
+  size: 68, 86
+  orig: 68, 86
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_a_4_0.png
+  rotate: false
+  xy: 468, 49
+  size: 68, 77
+  orig: 68, 77
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_b_0_0.png
+  rotate: false
+  xy: 326, 47
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_b_4_0.png
+  rotate: false
+  xy: 254, 47
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_c_0_0.png
+  rotate: false
+  xy: 74, 21
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_c_0_1.png
+  rotate: false
+  xy: 221, 30
+  size: 31, 15
+  orig: 31, 15
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_c_0_2.png
+  rotate: false
+  xy: 802, 67
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_c_4_0.png
+  rotate: false
+  xy: 958, 107
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_c_4_1.png
+  rotate: false
+  xy: 187, 29
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_c_4_2.png
+  rotate: false
+  xy: 802, 97
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_d_0_0.png
+  rotate: false
+  xy: 468, 40
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_d_0_1.png
+  rotate: false
+  xy: 112, 27
+  size: 38, 18
+  orig: 38, 18
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_d_0_2.png
+  rotate: false
+  xy: 863, 100
+  size: 46, 26
+  orig: 46, 26
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_d_4_0.png
+  rotate: false
+  xy: 538, 52
+  size: 14, 6
+  orig: 14, 6
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_d_4_1.png
+  rotate: false
+  xy: 109, 2
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_d_4_2.png
+  rotate: false
+  xy: 911, 100
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_e_0_0.png
+  rotate: false
+  xy: 74, 2
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_e_4_0.png
+  rotate: false
+  xy: 152, 27
+  size: 33, 18
+  orig: 33, 18
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_e_4_1.png
+  rotate: false
+  xy: 802, 64
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_f_0_0.png
+  rotate: false
+  xy: 760, 63
+  size: 40, 63
+  orig: 40, 63
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_f_0_1.png
+  rotate: false
+  xy: 663, 63
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_f_4_0.png
+  rotate: false
+  xy: 718, 61
+  size: 40, 65
+  orig: 40, 65
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_f_4_1.png
+  rotate: false
+  xy: 610, 61
+  size: 51, 65
+  orig: 51, 65
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_g_0_0.png
+  rotate: false
+  xy: 538, 60
+  size: 70, 66
+  orig: 70, 66
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_g_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 70, 67
+  orig: 70, 67
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_g_4_0.png
+  rotate: false
+  xy: 110, 47
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_g_4_1.png
+  rotate: false
+  xy: 182, 47
+  size: 70, 79
+  orig: 70, 79
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_64_sd_0_0.png
+  rotate: false
+  xy: 2, 71
+  size: 106, 55
+  orig: 106, 55
+  offset: 0, 0
+  index: -1
+bathroom_bath3_bathroom_bath3_icon_a.png
+  rotate: false
+  xy: 74, 41
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

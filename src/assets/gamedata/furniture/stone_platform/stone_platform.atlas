@@ -1,0 +1,132 @@
+
+stone_platform.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stone_platform_stone_platform_64_a_0_0.png
+  rotate: false
+  xy: 664, 88
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_a_0_2.png
+  rotate: false
+  xy: 810, 91
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_a_2_0.png
+  rotate: false
+  xy: 737, 88
+  size: 71, 36
+  orig: 71, 36
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_a_2_1.png
+  rotate: false
+  xy: 946, 91
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_a_2_2.png
+  rotate: false
+  xy: 878, 91
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_b_0_0.png
+  rotate: false
+  xy: 266, 41
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_b_0_1.png
+  rotate: false
+  xy: 266, 76
+  size: 130, 48
+  orig: 130, 48
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_b_0_2.png
+  rotate: false
+  xy: 134, 62
+  size: 130, 62
+  orig: 130, 62
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_b_2_0.png
+  rotate: false
+  xy: 134, 27
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_b_2_1.png
+  rotate: false
+  xy: 2, 12
+  size: 130, 48
+  orig: 130, 48
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_b_2_2.png
+  rotate: false
+  xy: 2, 62
+  size: 130, 62
+  orig: 130, 62
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_c_0_0.png
+  rotate: false
+  xy: 466, 28
+  size: 65, 32
+  orig: 65, 32
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_c_0_1.png
+  rotate: false
+  xy: 534, 77
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_c_0_2.png
+  rotate: false
+  xy: 398, 62
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_c_2_0.png
+  rotate: false
+  xy: 398, 28
+  size: 66, 32
+  orig: 66, 32
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_c_2_1.png
+  rotate: false
+  xy: 599, 77
+  size: 63, 47
+  orig: 63, 47
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_64_c_2_2.png
+  rotate: false
+  xy: 466, 62
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+stone_platform_stone_platform_icon_a.png
+  rotate: false
+  xy: 134, 2
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

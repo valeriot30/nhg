@@ -1,0 +1,76 @@
+
+hblooza14_duckgate.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_duckgate_hblooza14_duckgate_64_a_4_0.png
+  rotate: false
+  xy: 339, 143
+  size: 44, 90
+  orig: 44, 90
+  offset: 0, 0
+  index: -1
+hblooza14_duckgate_hblooza14_duckgate_64_b_4_0.png
+  rotate: false
+  xy: 168, 107
+  size: 55, 126
+  orig: 55, 126
+  offset: 0, 0
+  index: -1
+hblooza14_duckgate_hblooza14_duckgate_64_b_4_1.png
+  rotate: false
+  xy: 282, 145
+  size: 55, 88
+  orig: 55, 88
+  offset: 0, 0
+  index: -1
+hblooza14_duckgate_hblooza14_duckgate_64_b_4_2.png
+  rotate: false
+  xy: 111, 53
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+hblooza14_duckgate_hblooza14_duckgate_64_b_4_3.png
+  rotate: false
+  xy: 168, 63
+  size: 55, 42
+  orig: 55, 42
+  offset: 0, 0
+  index: -1
+hblooza14_duckgate_hblooza14_duckgate_64_b_4_4.png
+  rotate: false
+  xy: 225, 131
+  size: 55, 102
+  orig: 55, 102
+  offset: 0, 0
+  index: -1
+hblooza14_duckgate_hblooza14_duckgate_64_b_4_5.png
+  rotate: false
+  xy: 111, 105
+  size: 55, 128
+  orig: 55, 128
+  offset: 0, 0
+  index: -1
+hblooza14_duckgate_hblooza14_duckgate_64_c_4_0.png
+  rotate: false
+  xy: 2, 44
+  size: 107, 189
+  orig: 107, 189
+  offset: 0, 0
+  index: -1
+hblooza14_duckgate_hblooza14_duckgate_64_sd_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+hblooza14_duckgate_hblooza14_duckgate_icon_a.png
+  rotate: false
+  xy: 225, 99
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

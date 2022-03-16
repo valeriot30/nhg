@@ -1,0 +1,34 @@
+
+teddy_basic.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teddy_basic_teddy_basic_64_a_2_0.png
+  rotate: false
+  xy: 2, 127
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+teddy_basic_teddy_basic_64_a_2_1.png
+  rotate: false
+  xy: 2, 62
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+teddy_basic_teddy_basic_64_sd_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+teddy_basic_teddy_basic_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

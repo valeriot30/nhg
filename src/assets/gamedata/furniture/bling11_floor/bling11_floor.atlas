@@ -1,0 +1,90 @@
+
+bling11_floor.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bling11_floor_bling11_floor_64_a_0_0.png
+  rotate: false
+  xy: 2, 57
+  size: 130, 68
+  orig: 130, 68
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_b_0_0.png
+  rotate: false
+  xy: 134, 59
+  size: 128, 66
+  orig: 128, 66
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_c_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_c_0_1.png
+  rotate: false
+  xy: 336, 21
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_c_0_2.png
+  rotate: false
+  xy: 414, 21
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_c_0_3.png
+  rotate: false
+  xy: 420, 87
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_c_0_4.png
+  rotate: false
+  xy: 258, 19
+  size: 76, 38
+  orig: 76, 38
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_c_0_5.png
+  rotate: false
+  xy: 2, 17
+  size: 126, 38
+  orig: 126, 38
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_c_0_6.png
+  rotate: false
+  xy: 342, 61
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_c_0_7.png
+  rotate: false
+  xy: 130, 17
+  size: 126, 38
+  orig: 126, 38
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_64_c_0_8.png
+  rotate: false
+  xy: 264, 61
+  size: 76, 64
+  orig: 76, 64
+  offset: 0, 0
+  index: -1
+bling11_floor_bling11_floor_icon_a.png
+  rotate: false
+  xy: 336, 2
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1

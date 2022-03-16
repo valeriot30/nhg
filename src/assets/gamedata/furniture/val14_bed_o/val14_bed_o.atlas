@@ -1,0 +1,55 @@
+
+val14_bed_o.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val14_bed_o_val14_bed_o_64_a_0_0.png
+  rotate: false
+  xy: 147, 23
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+val14_bed_o_val14_bed_o_64_b_0_0.png
+  rotate: false
+  xy: 2, 9
+  size: 72, 53
+  orig: 72, 53
+  offset: 0, 0
+  index: -1
+val14_bed_o_val14_bed_o_64_c_0_0.png
+  rotate: false
+  xy: 193, 37
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+val14_bed_o_val14_bed_o_64_d_0_0.png
+  rotate: false
+  xy: 227, 46
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1
+val14_bed_o_val14_bed_o_64_e_0_0.png
+  rotate: false
+  xy: 108, 10
+  size: 13, 14
+  orig: 13, 14
+  offset: 0, 0
+  index: -1
+val14_bed_o_val14_bed_o_64_sd_0_0.png
+  rotate: false
+  xy: 76, 26
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+val14_bed_o_val14_bed_o_icon_a.png
+  rotate: false
+  xy: 76, 2
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1

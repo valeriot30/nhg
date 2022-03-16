@@ -1,0 +1,41 @@
+
+table_polyfon_med.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+table_polyfon_med_table_polyfon_med_64_a_0_0.png
+  rotate: false
+  xy: 103, 24
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+table_polyfon_med_table_polyfon_med_64_a_2_0.png
+  rotate: false
+  xy: 305, 24
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+table_polyfon_med_table_polyfon_med_64_sd_0_0.png
+  rotate: false
+  xy: 204, 24
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+table_polyfon_med_table_polyfon_med_64_sd_2_0.png
+  rotate: false
+  xy: 2, 24
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+table_polyfon_med_table_polyfon_med_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

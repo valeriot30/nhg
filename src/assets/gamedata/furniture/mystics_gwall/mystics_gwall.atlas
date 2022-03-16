@@ -1,0 +1,27 @@
+
+mystics_gwall.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mystics_gwall_mystics_gwall_64_a_2_0.png
+  rotate: false
+  xy: 2, 234
+  size: 80, 230
+  orig: 80, 230
+  offset: 0, 0
+  index: -1
+mystics_gwall_mystics_gwall_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 80, 230
+  orig: 80, 230
+  offset: 0, 0
+  index: -1
+mystics_gwall_mystics_gwall_icon_a.png
+  rotate: false
+  xy: 84, 432
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+hween12_moon.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween12_moon_hween12_moon_64_a_2_0.png
+  rotate: false
+  xy: 490, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_a_2_1.png
+  rotate: false
+  xy: 612, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_a_2_2.png
+  rotate: false
+  xy: 368, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_a_2_3.png
+  rotate: false
+  xy: 974, 4
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_a_2_4.png
+  rotate: false
+  xy: 734, 4
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_a_2_5.png
+  rotate: false
+  xy: 854, 4
+  size: 118, 118
+  orig: 118, 118
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_a_2_6.png
+  rotate: false
+  xy: 2, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_a_2_7.png
+  rotate: false
+  xy: 124, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_a_2_8.png
+  rotate: false
+  xy: 246, 2
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_b_2_0.png
+  rotate: false
+  xy: 1346, 40
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_b_2_1.png
+  rotate: false
+  xy: 1262, 40
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_b_2_2.png
+  rotate: false
+  xy: 1178, 40
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_64_b_2_3.png
+  rotate: false
+  xy: 1094, 40
+  size: 82, 82
+  orig: 82, 82
+  offset: 0, 0
+  index: -1
+hween12_moon_hween12_moon_icon_a.png
+  rotate: false
+  xy: 1094, 6
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

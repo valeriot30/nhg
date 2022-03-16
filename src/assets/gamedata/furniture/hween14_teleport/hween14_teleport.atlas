@@ -1,0 +1,307 @@
+
+hween14_teleport.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween14_teleport_hween14_teleport_32_e_4_0.png
+  rotate: false
+  xy: 230, 90
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_32_e_4_0.png
+  rotate: false
+  xy: 306, 97
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_32_e_4_12.png
+  rotate: false
+  xy: 529, 100
+  size: 4, 10
+  orig: 4, 10
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_32_e_4_13.png
+  rotate: false
+  xy: 961, 195
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_a_4_0.png
+  rotate: false
+  xy: 66, 57
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_a_4_1.png
+  rotate: false
+  xy: 765, 123
+  size: 58, 37
+  orig: 58, 37
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_b_4_0.png
+  rotate: false
+  xy: 677, 111
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_b_4_1.png
+  rotate: false
+  xy: 478, 83
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_c_4_0.png
+  rotate: false
+  xy: 1001, 230
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_c_4_1.png
+  rotate: false
+  xy: 126, 71
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_d_4_1.png
+  rotate: false
+  xy: 709, 113
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_1.png
+  rotate: false
+  xy: 640, 114
+  size: 35, 16
+  orig: 35, 16
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_10.png
+  rotate: false
+  xy: 946, 153
+  size: 13, 44
+  orig: 13, 44
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_11.png
+  rotate: false
+  xy: 938, 127
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_14.png
+  rotate: false
+  xy: 825, 139
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_15.png
+  rotate: false
+  xy: 979, 199
+  size: 6, 20
+  orig: 6, 20
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_16.png
+  rotate: false
+  xy: 920, 106
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_2.png
+  rotate: false
+  xy: 2, 3
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_3.png
+  rotate: false
+  xy: 835, 155
+  size: 42, 83
+  orig: 42, 83
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_4.png
+  rotate: false
+  xy: 709, 122
+  size: 54, 116
+  orig: 54, 116
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_5.png
+  rotate: false
+  xy: 478, 112
+  size: 55, 126
+  orig: 55, 126
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_6.png
+  rotate: false
+  xy: 535, 111
+  size: 53, 127
+  orig: 53, 127
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_7.png
+  rotate: false
+  xy: 590, 113
+  size: 48, 125
+  orig: 48, 125
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_8.png
+  rotate: false
+  xy: 440, 77
+  size: 36, 161
+  orig: 36, 161
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_e_4_9.png
+  rotate: false
+  xy: 879, 103
+  size: 26, 135
+  orig: 26, 135
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_0.png
+  rotate: false
+  xy: 907, 199
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_1.png
+  rotate: false
+  xy: 765, 162
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_10.png
+  rotate: false
+  xy: 907, 103
+  size: 11, 20
+  orig: 11, 20
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_11.png
+  rotate: false
+  xy: 154, 72
+  size: 10, 16
+  orig: 10, 16
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_12.png
+  rotate: false
+  xy: 946, 143
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_13.png
+  rotate: false
+  xy: 46, 30
+  size: 13, 27
+  orig: 13, 27
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_14.png
+  rotate: false
+  xy: 46, 2
+  size: 12, 26
+  orig: 12, 26
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_15.png
+  rotate: false
+  xy: 965, 196
+  size: 12, 23
+  orig: 12, 23
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_2.png
+  rotate: false
+  xy: 640, 132
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_3.png
+  rotate: false
+  xy: 306, 100
+  size: 78, 138
+  orig: 78, 138
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_4.png
+  rotate: false
+  xy: 66, 90
+  size: 81, 148
+  orig: 81, 148
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_5.png
+  rotate: false
+  xy: 149, 90
+  size: 79, 148
+  orig: 79, 148
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_6.png
+  rotate: false
+  xy: 230, 93
+  size: 74, 145
+  orig: 74, 145
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_7.png
+  rotate: false
+  xy: 2, 59
+  size: 62, 179
+  orig: 62, 179
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_8.png
+  rotate: false
+  xy: 386, 84
+  size: 52, 154
+  orig: 52, 154
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_f_4_9.png
+  rotate: false
+  xy: 907, 143
+  size: 37, 54
+  orig: 37, 54
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_64_sd_4_0.png
+  rotate: false
+  xy: 965, 221
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+hween14_teleport_hween14_teleport_icon_a.png
+  rotate: false
+  xy: 907, 125
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1

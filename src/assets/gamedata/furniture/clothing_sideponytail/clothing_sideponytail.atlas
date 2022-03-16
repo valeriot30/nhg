@@ -1,0 +1,20 @@
+
+clothing_sideponytail.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_sideponytail_clothing_sideponytail_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+clothing_sideponytail_clothing_sideponytail_icon_a.png
+  rotate: false
+  xy: 41, 22
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

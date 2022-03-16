@@ -1,0 +1,202 @@
+
+ny2013_res.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ny2013_res_ny2013_res_64_a_0_0.png
+  rotate: false
+  xy: 510, 75
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_a_0_1.png
+  rotate: false
+  xy: 246, 52
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_a_0_2.png
+  rotate: false
+  xy: 320, 52
+  size: 72, 74
+  orig: 72, 74
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_a_0_3.png
+  rotate: false
+  xy: 631, 91
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_b_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_b_0_2.png
+  rotate: false
+  xy: 448, 37
+  size: 10, 27
+  orig: 10, 27
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_b_0_3.png
+  rotate: false
+  xy: 837, 42
+  size: 10, 50
+  orig: 10, 50
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_b_0_4.png
+  rotate: false
+  xy: 805, 53
+  size: 10, 73
+  orig: 10, 73
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_b_0_5.png
+  rotate: false
+  xy: 849, 41
+  size: 4, 51
+  orig: 4, 51
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_b_0_6.png
+  rotate: false
+  xy: 851, 94
+  size: 2, 32
+  orig: 2, 32
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_b_0_7.png
+  rotate: false
+  xy: 855, 100
+  size: 3, 26
+  orig: 3, 26
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_c_0_1.png
+  rotate: false
+  xy: 775, 71
+  size: 28, 55
+  orig: 28, 55
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_d_0_1.png
+  rotate: false
+  xy: 817, 57
+  size: 18, 35
+  orig: 18, 35
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_e_0_1.png
+  rotate: false
+  xy: 740, 70
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_e_0_2.png
+  rotate: false
+  xy: 394, 34
+  size: 52, 92
+  orig: 52, 92
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_f_0_1.png
+  rotate: false
+  xy: 2, 13
+  size: 74, 113
+  orig: 74, 113
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_g_0_1.png
+  rotate: false
+  xy: 693, 81
+  size: 45, 45
+  orig: 45, 45
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_g_0_2.png
+  rotate: false
+  xy: 576, 74
+  size: 53, 52
+  orig: 53, 52
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_g_0_3.png
+  rotate: false
+  xy: 169, 51
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_g_0_4.png
+  rotate: false
+  xy: 78, 38
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_h_0_0.png
+  rotate: false
+  xy: 817, 54
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_h_0_1.png
+  rotate: false
+  xy: 448, 66
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_j_0_1.png
+  rotate: false
+  xy: 460, 61
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_j_0_2.png
+  rotate: false
+  xy: 631, 84
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_j_0_3.png
+  rotate: false
+  xy: 510, 66
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_j_0_4.png
+  rotate: false
+  xy: 169, 38
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_64_j_0_5.png
+  rotate: false
+  xy: 78, 21
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+ny2013_res_ny2013_res_icon_a.png
+  rotate: false
+  xy: 817, 94
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

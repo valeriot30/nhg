@@ -1,0 +1,125 @@
+
+ads_puffet_tv.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_puffet_tv_ads_puffet_tv_64_a_2_0.png
+  rotate: false
+  xy: 475, 84
+  size: 122, 53
+  orig: 122, 53
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_2_1.png
+  rotate: false
+  xy: 220, 2
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_2_2.png
+  rotate: false
+  xy: 111, 2
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_2_3.png
+  rotate: false
+  xy: 584, 139
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_2_4.png
+  rotate: false
+  xy: 2, 2
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_2_5.png
+  rotate: false
+  xy: 475, 139
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_4_0.png
+  rotate: false
+  xy: 599, 84
+  size: 121, 53
+  orig: 121, 53
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_4_1.png
+  rotate: false
+  xy: 802, 139
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_4_2.png
+  rotate: false
+  xy: 329, 2
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_4_3.png
+  rotate: false
+  xy: 693, 139
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_4_4.png
+  rotate: false
+  xy: 722, 31
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_a_4_5.png
+  rotate: false
+  xy: 911, 139
+  size: 107, 106
+  orig: 107, 106
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_b_2_0.png
+  rotate: false
+  xy: 126, 110
+  size: 115, 135
+  orig: 115, 135
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_b_4_0.png
+  rotate: false
+  xy: 2, 110
+  size: 122, 135
+  orig: 122, 135
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_c_2_0.png
+  rotate: false
+  xy: 359, 110
+  size: 114, 135
+  orig: 114, 135
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_64_c_4_0.png
+  rotate: false
+  xy: 243, 110
+  size: 114, 135
+  orig: 114, 135
+  offset: 0, 0
+  index: -1
+ads_puffet_tv_ads_puffet_tv_icon_a.png
+  rotate: false
+  xy: 438, 78
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

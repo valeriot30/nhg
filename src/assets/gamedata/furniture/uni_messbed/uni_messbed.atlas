@@ -1,0 +1,83 @@
+
+uni_messbed.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_messbed_uni_messbed_64_a_0_0.png
+  rotate: false
+  xy: 64, 33
+  size: 34, 22
+  orig: 34, 22
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_64_b_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_64_c_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 60, 22
+  orig: 60, 22
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_64_d_0_0.png
+  rotate: false
+  xy: 134, 41
+  size: 69, 81
+  orig: 69, 81
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_64_d_0_1.png
+  rotate: false
+  xy: 205, 41
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_64_e_0_0.png
+  rotate: false
+  xy: 410, 62
+  size: 66, 60
+  orig: 66, 60
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_64_e_0_1.png
+  rotate: false
+  xy: 410, 2
+  size: 67, 58
+  orig: 67, 58
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_64_f_0_0.png
+  rotate: false
+  xy: 341, 57
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_64_f_0_1.png
+  rotate: false
+  xy: 272, 56
+  size: 67, 66
+  orig: 67, 66
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_64_sd_0_0.png
+  rotate: false
+  xy: 2, 57
+  size: 130, 65
+  orig: 130, 65
+  offset: 0, 0
+  index: -1
+uni_messbed_uni_messbed_icon_a.png
+  rotate: false
+  xy: 478, 95
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+classic8_statue.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic8_statue_classic8_statue_64_a_0_0.png
+  rotate: false
+  xy: 46, 12
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+classic8_statue_classic8_statue_64_a_0_1.png
+  rotate: false
+  xy: 89, 21
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+classic8_statue_classic8_statue_64_a_4_0.png
+  rotate: false
+  xy: 2, 12
+  size: 42, 50
+  orig: 42, 50
+  offset: 0, 0
+  index: -1
+classic8_statue_classic8_statue_64_a_4_1.png
+  rotate: false
+  xy: 132, 22
+  size: 42, 40
+  orig: 42, 40
+  offset: 0, 0
+  index: -1
+classic8_statue_classic8_statue_64_sd_0_0.png
+  rotate: false
+  xy: 89, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+classic8_statue_classic8_statue_icon_a.png
+  rotate: false
+  xy: 176, 38
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1

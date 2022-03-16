@@ -1,0 +1,55 @@
+
+celestial_c19_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+celestial_c19_wall_celestial_c19_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 64, 207
+  orig: 64, 207
+  offset: 0, 0
+  index: -1
+celestial_c19_wall_celestial_c19_wall_64_b_2_0.png
+  rotate: false
+  xy: 187, 79
+  size: 56, 162
+  orig: 56, 162
+  offset: 0, 0
+  index: -1
+celestial_c19_wall_celestial_c19_wall_64_b_2_1.png
+  rotate: false
+  xy: 129, 79
+  size: 56, 162
+  orig: 56, 162
+  offset: 0, 0
+  index: -1
+celestial_c19_wall_celestial_c19_wall_64_b_2_2.png
+  rotate: false
+  xy: 68, 79
+  size: 59, 162
+  orig: 59, 162
+  offset: 0, 0
+  index: -1
+celestial_c19_wall_celestial_c19_wall_64_b_2_3.png
+  rotate: false
+  xy: 245, 109
+  size: 59, 132
+  orig: 59, 132
+  offset: 0, 0
+  index: -1
+celestial_c19_wall_celestial_c19_wall_64_b_2_4.png
+  rotate: false
+  xy: 306, 109
+  size: 59, 132
+  orig: 59, 132
+  offset: 0, 0
+  index: -1
+celestial_c19_wall_celestial_c19_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 12, 30
+  orig: 12, 30
+  offset: 0, 0
+  index: -1

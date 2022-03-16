@@ -1,0 +1,20 @@
+
+boutique_speakers.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boutique_speakers_boutique_speakers_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+boutique_speakers_boutique_speakers_icon_a.png
+  rotate: false
+  xy: 64, 23
+  size: 31, 23
+  orig: 31, 23
+  offset: 0, 0
+  index: -1

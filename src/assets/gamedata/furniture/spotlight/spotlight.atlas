@@ -1,0 +1,104 @@
+
+spotlight.png
+size: 4096,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+spotlight_spotlight_64_a_2_0.png
+  rotate: false
+  xy: 2001, 108
+  size: 54, 127
+  orig: 54, 127
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_a_6_0.png
+  rotate: false
+  xy: 2057, 108
+  size: 54, 127
+  orig: 54, 127
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_b_6_0.png
+  rotate: false
+  xy: 1749, 105
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_c_2_1.png
+  rotate: false
+  xy: 2, 17
+  size: 248, 218
+  orig: 248, 218
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_c_2_2.png
+  rotate: false
+  xy: 750, 23
+  size: 247, 212
+  orig: 247, 212
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_c_2_3.png
+  rotate: false
+  xy: 501, 23
+  size: 247, 212
+  orig: 247, 212
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_c_2_4.png
+  rotate: false
+  xy: 252, 23
+  size: 247, 212
+  orig: 247, 212
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_c_6_0.png
+  rotate: false
+  xy: 252, 19
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_c_6_1.png
+  rotate: false
+  xy: 1749, 108
+  size: 250, 127
+  orig: 250, 127
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_c_6_2.png
+  rotate: false
+  xy: 1499, 98
+  size: 248, 137
+  orig: 248, 137
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_c_6_3.png
+  rotate: false
+  xy: 1249, 98
+  size: 248, 137
+  orig: 248, 137
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_c_6_4.png
+  rotate: false
+  xy: 999, 98
+  size: 248, 137
+  orig: 248, 137
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 51, 13
+  orig: 51, 13
+  offset: 0, 0
+  index: -1
+spotlight_spotlight_icon_a.png
+  rotate: false
+  xy: 999, 68
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1

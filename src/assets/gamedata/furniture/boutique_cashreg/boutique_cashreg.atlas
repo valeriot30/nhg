@@ -1,0 +1,41 @@
+
+boutique_cashreg.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boutique_cashreg_boutique_cashreg_32_a_2_0.png
+  rotate: false
+  xy: 189, 25
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+boutique_cashreg_boutique_cashreg_64_a_0_0.png
+  rotate: false
+  xy: 145, 15
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+boutique_cashreg_boutique_cashreg_64_a_0_1.png
+  rotate: false
+  xy: 96, 15
+  size: 47, 31
+  orig: 47, 31
+  offset: 0, 0
+  index: -1
+boutique_cashreg_boutique_cashreg_64_a_2_0.png
+  rotate: false
+  xy: 53, 5
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+boutique_cashreg_boutique_cashreg_64_a_2_1.png
+  rotate: false
+  xy: 2, 2
+  size: 49, 44
+  orig: 49, 44
+  offset: 0, 0
+  index: -1

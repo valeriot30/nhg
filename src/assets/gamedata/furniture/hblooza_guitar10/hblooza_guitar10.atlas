@@ -1,0 +1,34 @@
+
+hblooza_guitar10.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza_guitar10_hblooza_guitar10_64_a_0_0.png
+  rotate: false
+  xy: 2, 37
+  size: 68, 213
+  orig: 68, 213
+  offset: 0, 0
+  index: -1
+hblooza_guitar10_hblooza_guitar10_64_a_2_0.png
+  rotate: false
+  xy: 2, 252
+  size: 68, 213
+  orig: 68, 213
+  offset: 0, 0
+  index: -1
+hblooza_guitar10_hblooza_guitar10_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+hblooza_guitar10_hblooza_guitar10_icon_a.png
+  rotate: false
+  xy: 72, 434
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1

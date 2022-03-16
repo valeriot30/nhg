@@ -1,0 +1,27 @@
+
+sw_stone.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sw_stone_sw_stone_64_a_2_0.png
+  rotate: false
+  xy: 2, 76
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+sw_stone_sw_stone_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+sw_stone_sw_stone_icon_a.png
+  rotate: false
+  xy: 42, 118
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

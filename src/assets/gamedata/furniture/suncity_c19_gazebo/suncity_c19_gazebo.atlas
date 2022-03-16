@@ -1,0 +1,41 @@
+
+suncity_c19_gazebo.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_gazebo_suncity_c19_gazebo_64_a_0_0.png
+  rotate: false
+  xy: 148, 32
+  size: 136, 84
+  orig: 136, 84
+  offset: 0, 0
+  index: -1
+suncity_c19_gazebo_suncity_c19_gazebo_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 144, 114
+  orig: 144, 114
+  offset: 0, 0
+  index: -1
+suncity_c19_gazebo_suncity_c19_gazebo_64_c_0_0.png
+  rotate: false
+  xy: 422, 14
+  size: 36, 102
+  orig: 36, 102
+  offset: 0, 0
+  index: -1
+suncity_c19_gazebo_suncity_c19_gazebo_64_sd_0_0.png
+  rotate: false
+  xy: 286, 49
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+suncity_c19_gazebo_suncity_c19_gazebo_icon_a.png
+  rotate: false
+  xy: 460, 86
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

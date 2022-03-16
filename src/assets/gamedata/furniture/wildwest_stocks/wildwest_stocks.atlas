@@ -1,0 +1,62 @@
+
+wildwest_stocks.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_stocks_wildwest_stocks_64_a_2_0.png
+  rotate: false
+  xy: 56, 13
+  size: 47, 100
+  orig: 47, 100
+  offset: 0, 0
+  index: -1
+wildwest_stocks_wildwest_stocks_64_b_2_0.png
+  rotate: false
+  xy: 2, 18
+  size: 52, 95
+  orig: 52, 95
+  offset: 0, 0
+  index: -1
+wildwest_stocks_wildwest_stocks_64_c_2_0.png
+  rotate: false
+  xy: 187, 38
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+wildwest_stocks_wildwest_stocks_64_c_2_1.png
+  rotate: false
+  xy: 187, 76
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+wildwest_stocks_wildwest_stocks_64_c_2_2.png
+  rotate: false
+  xy: 146, 34
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+wildwest_stocks_wildwest_stocks_64_c_2_3.png
+  rotate: false
+  xy: 105, 33
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+wildwest_stocks_wildwest_stocks_64_sd_2_0.png
+  rotate: false
+  xy: 105, 73
+  size: 80, 40
+  orig: 80, 40
+  offset: 0, 0
+  index: -1
+wildwest_stocks_wildwest_stocks_icon_a.png
+  rotate: false
+  xy: 105, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

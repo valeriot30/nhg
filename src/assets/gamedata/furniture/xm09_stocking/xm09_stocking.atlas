@@ -1,0 +1,104 @@
+
+xm09_stocking.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm09_stocking_xm09_stocking_64_a_2_0.png
+  rotate: false
+  xy: 2, 53
+  size: 29, 63
+  orig: 29, 63
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_a_2_1.png
+  rotate: false
+  xy: 126, 12
+  size: 18, 55
+  orig: 18, 55
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_b_2_0.png
+  rotate: false
+  xy: 128, 69
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_b_2_1.png
+  rotate: false
+  xy: 95, 20
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_b_2_2.png
+  rotate: false
+  xy: 33, 67
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_b_2_3.png
+  rotate: false
+  xy: 211, 69
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_c_2_0.png
+  rotate: false
+  xy: 96, 69
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_c_2_1.png
+  rotate: false
+  xy: 64, 69
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_c_2_2.png
+  rotate: false
+  xy: 160, 69
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_c_2_3.png
+  rotate: false
+  xy: 64, 20
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_c_2_4.png
+  rotate: false
+  xy: 33, 18
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_c_2_5.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 49
+  orig: 29, 49
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_64_c_2_6.png
+  rotate: false
+  xy: 191, 69
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+xm09_stocking_xm09_stocking_icon_a.png
+  rotate: false
+  xy: 146, 37
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

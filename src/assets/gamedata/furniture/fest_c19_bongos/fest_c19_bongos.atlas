@@ -1,0 +1,27 @@
+
+fest_c19_bongos.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_bongos_fest_c19_bongos_64_a_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+fest_c19_bongos_fest_c19_bongos_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+fest_c19_bongos_fest_c19_bongos_icon_a.png
+  rotate: false
+  xy: 48, 35
+  size: 31, 26
+  orig: 31, 26
+  offset: 0, 0
+  index: -1

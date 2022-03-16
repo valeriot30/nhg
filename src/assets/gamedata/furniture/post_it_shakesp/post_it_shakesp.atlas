@@ -1,0 +1,27 @@
+
+post_it_shakesp.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+post_it_shakesp_post_it_shakesp_64_a_2_0.png
+  rotate: false
+  xy: 45, 2
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+post_it_shakesp_post_it_shakesp_64_a_4_0.png
+  rotate: false
+  xy: 29, 2
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+post_it_shakesp_post_it_shakesp_icon_a.png
+  rotate: false
+  xy: 2, 10
+  size: 25, 11
+  orig: 25, 11
+  offset: 0, 0
+  index: -1

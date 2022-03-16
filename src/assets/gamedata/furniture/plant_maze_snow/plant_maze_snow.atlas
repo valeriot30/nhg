@@ -1,0 +1,55 @@
+
+plant_maze_snow.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plant_maze_snow_plant_maze_snow_64_a_2_0.png
+  rotate: false
+  xy: 74, 38
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+plant_maze_snow_plant_maze_snow_64_a_4_0.png
+  rotate: false
+  xy: 2, 36
+  size: 70, 90
+  orig: 70, 90
+  offset: 0, 0
+  index: -1
+plant_maze_snow_plant_maze_snow_64_b_2_0.png
+  rotate: false
+  xy: 428, 39
+  size: 68, 87
+  orig: 68, 87
+  offset: 0, 0
+  index: -1
+plant_maze_snow_plant_maze_snow_64_b_4_0.png
+  rotate: false
+  xy: 146, 35
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+plant_maze_snow_plant_maze_snow_64_sd_2_0.png
+  rotate: false
+  xy: 322, 75
+  size: 104, 51
+  orig: 104, 51
+  offset: 0, 0
+  index: -1
+plant_maze_snow_plant_maze_snow_64_sd_4_0.png
+  rotate: false
+  xy: 216, 75
+  size: 104, 51
+  orig: 104, 51
+  offset: 0, 0
+  index: -1
+plant_maze_snow_plant_maze_snow_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

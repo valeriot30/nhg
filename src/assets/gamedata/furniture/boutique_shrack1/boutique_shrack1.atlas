@@ -1,0 +1,27 @@
+
+boutique_shrack1.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+boutique_shrack1_boutique_shrack1_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 82, 137
+  orig: 82, 137
+  offset: 0, 0
+  index: -1
+boutique_shrack1_boutique_shrack1_64_a_2_1.png
+  rotate: false
+  xy: 2, 141
+  size: 82, 137
+  orig: 82, 137
+  offset: 0, 0
+  index: -1
+boutique_shrack1_boutique_shrack1_icon_a.png
+  rotate: false
+  xy: 86, 246
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

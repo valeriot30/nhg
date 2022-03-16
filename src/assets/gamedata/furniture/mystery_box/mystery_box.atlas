@@ -1,0 +1,188 @@
+
+mystery_box.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mystery_box_mystery_box_64_a_0_0.png
+  rotate: false
+  xy: 1478, 38
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_1.png
+  rotate: false
+  xy: 1540, 38
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_10.png
+  rotate: false
+  xy: 1106, 38
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_11.png
+  rotate: false
+  xy: 71, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_12.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_13.png
+  rotate: false
+  xy: 1230, 38
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_14.png
+  rotate: false
+  xy: 278, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_15.png
+  rotate: false
+  xy: 347, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_16.png
+  rotate: false
+  xy: 1292, 38
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_17.png
+  rotate: false
+  xy: 209, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_18.png
+  rotate: false
+  xy: 140, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_19.png
+  rotate: false
+  xy: 1168, 38
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_2.png
+  rotate: false
+  xy: 692, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_20.png
+  rotate: false
+  xy: 968, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_21.png
+  rotate: false
+  xy: 1037, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_22.png
+  rotate: false
+  xy: 1602, 38
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_23.png
+  rotate: false
+  xy: 899, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_24.png
+  rotate: false
+  xy: 830, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_3.png
+  rotate: false
+  xy: 761, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_4.png
+  rotate: false
+  xy: 1416, 38
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_5.png
+  rotate: false
+  xy: 623, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_6.png
+  rotate: false
+  xy: 554, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_7.png
+  rotate: false
+  xy: 1354, 38
+  size: 60, 69
+  orig: 60, 69
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_8.png
+  rotate: false
+  xy: 485, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_64_a_0_9.png
+  rotate: false
+  xy: 416, 2
+  size: 67, 105
+  orig: 67, 105
+  offset: 0, 0
+  index: -1
+mystery_box_mystery_box_icon_a.png
+  rotate: false
+  xy: 1106, 6
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

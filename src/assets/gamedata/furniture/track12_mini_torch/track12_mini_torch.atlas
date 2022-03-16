@@ -1,0 +1,118 @@
+
+track12_mini_torch.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+track12_mini_torch_track12_mini_torch_64_a_0_0.png
+  rotate: false
+  xy: 2, 54
+  size: 37, 72
+  orig: 37, 72
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_b_0_0.png
+  rotate: false
+  xy: 171, 37
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_b_0_1.png
+  rotate: false
+  xy: 48, 21
+  size: 34, 46
+  orig: 34, 46
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_b_0_2.png
+  rotate: false
+  xy: 136, 35
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_b_0_3.png
+  rotate: false
+  xy: 207, 16
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_b_0_4.png
+  rotate: false
+  xy: 171, 2
+  size: 34, 33
+  orig: 34, 33
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_b_0_5.png
+  rotate: false
+  xy: 205, 46
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_c_0_0.png
+  rotate: false
+  xy: 136, 77
+  size: 44, 49
+  orig: 44, 49
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_c_0_1.png
+  rotate: false
+  xy: 41, 69
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_c_0_2.png
+  rotate: false
+  xy: 89, 75
+  size: 45, 51
+  orig: 45, 51
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_c_0_3.png
+  rotate: false
+  xy: 89, 34
+  size: 45, 39
+  orig: 45, 39
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_c_0_4.png
+  rotate: false
+  xy: 182, 82
+  size: 45, 44
+  orig: 45, 44
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_c_0_5.png
+  rotate: false
+  xy: 2, 7
+  size: 44, 45
+  orig: 44, 45
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_c_0_6.png
+  rotate: false
+  xy: 41, 66
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_64_sd_0_0.png
+  rotate: false
+  xy: 48, 8
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+track12_mini_torch_track12_mini_torch_icon_a.png
+  rotate: false
+  xy: 229, 107
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

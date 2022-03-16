@@ -1,0 +1,90 @@
+
+bling11_sofa.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bling11_sofa_bling11_sofa_64_a_2_0.png
+  rotate: false
+  xy: 63, 78
+  size: 54, 52
+  orig: 54, 52
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_a_6_0.png
+  rotate: false
+  xy: 40, 13
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_b_2_0.png
+  rotate: false
+  xy: 124, 251
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_b_6_0.png
+  rotate: false
+  xy: 84, 35
+  size: 42, 41
+  orig: 42, 41
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_c_2_0.png
+  rotate: false
+  xy: 63, 132
+  size: 55, 57
+  orig: 55, 57
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_c_6_0.png
+  rotate: false
+  xy: 84, 13
+  size: 39, 20
+  orig: 39, 20
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_d_6_0.png
+  rotate: false
+  xy: 41, 34
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_e_2_0.png
+  rotate: false
+  xy: 2, 122
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_e_6_0.png
+  rotate: false
+  xy: 2, 28
+  size: 36, 38
+  orig: 36, 38
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_f_6_0.png
+  rotate: false
+  xy: 2, 68
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_64_sd_2_0.png
+  rotate: false
+  xy: 2, 191
+  size: 120, 61
+  orig: 120, 61
+  offset: 0, 0
+  index: -1
+bling11_sofa_bling11_sofa_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1

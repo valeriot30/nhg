@@ -1,0 +1,83 @@
+
+anc_sun.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anc_sun_anc_sun_64_a_2_0.png
+  rotate: false
+  xy: 323, 106
+  size: 142, 142
+  orig: 142, 142
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_64_a_2_1.png
+  rotate: false
+  xy: 605, 113
+  size: 135, 135
+  orig: 135, 135
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_64_a_2_2.png
+  rotate: false
+  xy: 875, 117
+  size: 130, 131
+  orig: 130, 131
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_64_b_2_0.png
+  rotate: false
+  xy: 177, 106
+  size: 144, 142
+  orig: 144, 142
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_64_b_2_1.png
+  rotate: false
+  xy: 467, 114
+  size: 136, 134
+  orig: 136, 134
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_64_b_2_2.png
+  rotate: false
+  xy: 742, 118
+  size: 131, 130
+  orig: 131, 130
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_64_c_2_0.png
+  rotate: false
+  xy: 2, 74
+  size: 173, 174
+  orig: 173, 174
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_64_d_2_0.png
+  rotate: false
+  xy: 687, 2
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_64_d_2_1.png
+  rotate: false
+  xy: 467, 3
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_64_d_2_2.png
+  rotate: false
+  xy: 577, 2
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+anc_sun_anc_sun_icon_a.png
+  rotate: false
+  xy: 2, 41
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+paris_c15_wall.png
+size: 256,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+paris_c15_wall_paris_c15_wall_64_a_2_0.png
+  rotate: false
+  xy: 71, 46
+  size: 67, 371
+  orig: 67, 371
+  offset: 0, 0
+  index: -1
+paris_c15_wall_paris_c15_wall_64_a_2_1.png
+  rotate: false
+  xy: 2, 46
+  size: 67, 371
+  orig: 67, 371
+  offset: 0, 0
+  index: -1
+paris_c15_wall_paris_c15_wall_64_a_2_2.png
+  rotate: false
+  xy: 140, 46
+  size: 67, 371
+  orig: 67, 371
+  offset: 0, 0
+  index: -1
+paris_c15_wall_paris_c15_wall_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 9, 42
+  orig: 9, 42
+  offset: 0, 0
+  index: -1
+paris_c15_wall_paris_c15_wall_icon_a.png
+  rotate: false
+  xy: 209, 385
+  size: 15, 32
+  orig: 15, 32
+  offset: 0, 0
+  index: -1

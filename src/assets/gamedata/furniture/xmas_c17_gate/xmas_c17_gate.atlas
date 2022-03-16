@@ -1,0 +1,41 @@
+
+xmas_c17_gate.png
+size: 64,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_gate_xmas_c17_gate_64_a_6_0.png
+  rotate: false
+  xy: 2, 256
+  size: 38, 108
+  orig: 38, 108
+  offset: 0, 0
+  index: -1
+xmas_c17_gate_xmas_c17_gate_64_a_6_1.png
+  rotate: false
+  xy: 2, 36
+  size: 32, 109
+  orig: 32, 109
+  offset: 0, 0
+  index: -1
+xmas_c17_gate_xmas_c17_gate_64_b_6_0.png
+  rotate: false
+  xy: 2, 366
+  size: 34, 119
+  orig: 34, 119
+  offset: 0, 0
+  index: -1
+xmas_c17_gate_xmas_c17_gate_64_b_6_1.png
+  rotate: false
+  xy: 2, 147
+  size: 38, 107
+  orig: 38, 107
+  offset: 0, 0
+  index: -1
+xmas_c17_gate_xmas_c17_gate_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1

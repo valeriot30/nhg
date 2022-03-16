@@ -1,0 +1,83 @@
+
+romantique_divan.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+romantique_divan_romantique_divan_64_a_0_0.png
+  rotate: false
+  xy: 230, 28
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_64_a_4_0.png
+  rotate: false
+  xy: 98, 9
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_64_b_0_0.png
+  rotate: false
+  xy: 340, 31
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_64_b_4_0.png
+  rotate: false
+  xy: 166, 13
+  size: 62, 49
+  orig: 62, 49
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_64_c_0_0.png
+  rotate: false
+  xy: 291, 17
+  size: 47, 45
+  orig: 47, 45
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_64_c_4_0.png
+  rotate: false
+  xy: 166, 10
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_64_d_0_0.png
+  rotate: false
+  xy: 387, 41
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_64_d_4_0.png
+  rotate: false
+  xy: 427, 43
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_64_sd_0_0.png
+  rotate: false
+  xy: 2, 15
+  size: 94, 47
+  orig: 94, 47
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_icon_a.png
+  rotate: false
+  xy: 461, 37
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1
+romantique_divan_romantique_divan_icon_b.png
+  rotate: false
+  xy: 2, 2
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1

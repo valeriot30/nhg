@@ -1,0 +1,27 @@
+
+xmas_c17_snowybasket.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c17_snowybasket_xmas_c17_snowybasket_64_a_0_0.png
+  rotate: false
+  xy: 2, 58
+  size: 47, 88
+  orig: 47, 88
+  offset: 0, 0
+  index: -1
+xmas_c17_snowybasket_xmas_c17_snowybasket_64_sd_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 40, 23
+  orig: 40, 23
+  offset: 0, 0
+  index: -1
+xmas_c17_snowybasket_xmas_c17_snowybasket_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1

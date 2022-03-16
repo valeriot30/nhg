@@ -1,0 +1,48 @@
+
+easter14_jar.png
+size: 32,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter14_jar_easter14_jar_64_a_2_0.png
+  rotate: false
+  xy: 2, 87
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+easter14_jar_easter14_jar_64_a_2_1.png
+  rotate: false
+  xy: 2, 41
+  size: 20, 44
+  orig: 20, 44
+  offset: 0, 0
+  index: -1
+easter14_jar_easter14_jar_64_a_6_0.png
+  rotate: false
+  xy: 2, 133
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+easter14_jar_easter14_jar_64_a_6_1.png
+  rotate: false
+  xy: 2, 180
+  size: 20, 45
+  orig: 20, 45
+  offset: 0, 0
+  index: -1
+easter14_jar_easter14_jar_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 9
+  orig: 18, 9
+  offset: 0, 0
+  index: -1
+easter14_jar_easter14_jar_icon_a.png
+  rotate: false
+  xy: 2, 13
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+lt_wall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lt_wall_lt_wall_64_a_2_0.png
+  rotate: false
+  xy: 82, 34
+  size: 73, 140
+  orig: 73, 140
+  offset: 0, 0
+  index: -1
+lt_wall_lt_wall_64_a_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 78, 140
+  orig: 78, 140
+  offset: 0, 0
+  index: -1
+lt_wall_lt_wall_64_b_2_0.png
+  rotate: false
+  xy: 157, 165
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+lt_wall_lt_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,699 @@
+
+ads_capri_lava.png
+size: 4096,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_capri_lava_ads_capri_lava_32_g_0_0.png
+  rotate: false
+  xy: 1770, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_a_0_0.png
+  rotate: false
+  xy: 2038, 52
+  size: 38, 74
+  orig: 38, 74
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_b_0_0.png
+  rotate: false
+  xy: 2078, 27
+  size: 38, 99
+  orig: 38, 99
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_0.png
+  rotate: false
+  xy: 3347, 107
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_1.png
+  rotate: false
+  xy: 3279, 104
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_10.png
+  rotate: false
+  xy: 2462, 72
+  size: 32, 54
+  orig: 32, 54
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_11.png
+  rotate: false
+  xy: 2360, 69
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_12.png
+  rotate: false
+  xy: 2156, 67
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_13.png
+  rotate: false
+  xy: 1770, 5
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_14.png
+  rotate: false
+  xy: 1632, 2
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_15.png
+  rotate: false
+  xy: 3313, 105
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_16.png
+  rotate: false
+  xy: 3245, 101
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_17.png
+  rotate: false
+  xy: 3075, 96
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_18.png
+  rotate: false
+  xy: 2973, 93
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_19.png
+  rotate: false
+  xy: 2905, 90
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_2.png
+  rotate: false
+  xy: 3177, 100
+  size: 32, 26
+  orig: 32, 26
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_20.png
+  rotate: false
+  xy: 2735, 84
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_21.png
+  rotate: false
+  xy: 2599, 80
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_22.png
+  rotate: false
+  xy: 1168, 2
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_23.png
+  rotate: false
+  xy: 2496, 74
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_24.png
+  rotate: false
+  xy: 1342, 2
+  size: 33, 54
+  orig: 33, 54
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_25.png
+  rotate: false
+  xy: 2394, 69
+  size: 32, 57
+  orig: 32, 57
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_26.png
+  rotate: false
+  xy: 2190, 67
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_27.png
+  rotate: false
+  xy: 1700, 3
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_28.png
+  rotate: false
+  xy: 1735, 3
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_29.png
+  rotate: false
+  xy: 1666, 2
+  size: 32, 60
+  orig: 32, 60
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_3.png
+  rotate: false
+  xy: 3109, 96
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_4.png
+  rotate: false
+  xy: 3007, 93
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_5.png
+  rotate: false
+  xy: 2939, 90
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_59.png
+  rotate: false
+  xy: 2292, 68
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_6.png
+  rotate: false
+  xy: 2803, 87
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_60.png
+  rotate: false
+  xy: 2258, 67
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_61.png
+  rotate: false
+  xy: 2224, 67
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_62.png
+  rotate: false
+  xy: 2326, 68
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_63.png
+  rotate: false
+  xy: 2428, 71
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_64.png
+  rotate: false
+  xy: 2565, 77
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_65.png
+  rotate: false
+  xy: 2667, 81
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_66.png
+  rotate: false
+  xy: 2769, 84
+  size: 32, 42
+  orig: 32, 42
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_67.png
+  rotate: false
+  xy: 2837, 87
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_68.png
+  rotate: false
+  xy: 2871, 89
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_69.png
+  rotate: false
+  xy: 3041, 93
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_7.png
+  rotate: false
+  xy: 2701, 83
+  size: 32, 43
+  orig: 32, 43
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_70.png
+  rotate: false
+  xy: 3143, 97
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_71.png
+  rotate: false
+  xy: 3211, 101
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_72.png
+  rotate: false
+  xy: 2190, 44
+  size: 32, 21
+  orig: 32, 21
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_73.png
+  rotate: false
+  xy: 2156, 43
+  size: 32, 22
+  orig: 32, 22
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_74.png
+  rotate: false
+  xy: 2224, 45
+  size: 32, 20
+  orig: 32, 20
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_8.png
+  rotate: false
+  xy: 2633, 80
+  size: 32, 46
+  orig: 32, 46
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_c_0_9.png
+  rotate: false
+  xy: 2531, 77
+  size: 32, 49
+  orig: 32, 49
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_0.png
+  rotate: false
+  xy: 819, 2
+  size: 56, 43
+  orig: 56, 43
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_1.png
+  rotate: false
+  xy: 993, 2
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_10.png
+  rotate: false
+  xy: 994, 49
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_11.png
+  rotate: false
+  xy: 761, 46
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_12.png
+  rotate: false
+  xy: 471, 44
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_13.png
+  rotate: false
+  xy: 529, 44
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_14.png
+  rotate: false
+  xy: 413, 44
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_15.png
+  rotate: false
+  xy: 1922, 81
+  size: 56, 45
+  orig: 56, 45
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_16.png
+  rotate: false
+  xy: 1110, 2
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_17.png
+  rotate: false
+  xy: 1806, 73
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_18.png
+  rotate: false
+  xy: 1458, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_19.png
+  rotate: false
+  xy: 1690, 66
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_2.png
+  rotate: false
+  xy: 1052, 2
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_20.png
+  rotate: false
+  xy: 1400, 60
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_21.png
+  rotate: false
+  xy: 1226, 56
+  size: 56, 70
+  orig: 56, 70
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_22.png
+  rotate: false
+  xy: 1052, 53
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_23.png
+  rotate: false
+  xy: 935, 50
+  size: 57, 76
+  orig: 57, 76
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_24.png
+  rotate: false
+  xy: 877, 48
+  size: 56, 78
+  orig: 56, 78
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_25.png
+  rotate: false
+  xy: 703, 46
+  size: 56, 80
+  orig: 56, 80
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_26.png
+  rotate: false
+  xy: 239, 44
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_27.png
+  rotate: false
+  xy: 64, 42
+  size: 57, 84
+  orig: 57, 84
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_28.png
+  rotate: false
+  xy: 123, 43
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_29.png
+  rotate: false
+  xy: 181, 43
+  size: 56, 83
+  orig: 56, 83
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_3.png
+  rotate: false
+  xy: 1284, 2
+  size: 56, 53
+  orig: 56, 53
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_4.png
+  rotate: false
+  xy: 1400, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_5.png
+  rotate: false
+  xy: 1574, 2
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_59.png
+  rotate: false
+  xy: 587, 45
+  size: 56, 81
+  orig: 56, 81
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_6.png
+  rotate: false
+  xy: 1632, 64
+  size: 56, 62
+  orig: 56, 62
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_60.png
+  rotate: false
+  xy: 355, 44
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_61.png
+  rotate: false
+  xy: 297, 44
+  size: 56, 82
+  orig: 56, 82
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_62.png
+  rotate: false
+  xy: 645, 45
+  size: 56, 81
+  orig: 56, 81
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_63.png
+  rotate: false
+  xy: 819, 47
+  size: 56, 79
+  orig: 56, 79
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_64.png
+  rotate: false
+  xy: 1168, 53
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_65.png
+  rotate: false
+  xy: 1342, 58
+  size: 56, 68
+  orig: 56, 68
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_66.png
+  rotate: false
+  xy: 1516, 60
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_67.png
+  rotate: false
+  xy: 1574, 63
+  size: 56, 63
+  orig: 56, 63
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_68.png
+  rotate: false
+  xy: 1748, 66
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_69.png
+  rotate: false
+  xy: 1516, 2
+  size: 56, 56
+  orig: 56, 56
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_7.png
+  rotate: false
+  xy: 1458, 60
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_70.png
+  rotate: false
+  xy: 1226, 2
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_71.png
+  rotate: false
+  xy: 1864, 78
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_72.png
+  rotate: false
+  xy: 1980, 82
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_73.png
+  rotate: false
+  xy: 935, 2
+  size: 56, 46
+  orig: 56, 46
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_74.png
+  rotate: false
+  xy: 877, 2
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_8.png
+  rotate: false
+  xy: 1284, 57
+  size: 56, 69
+  orig: 56, 69
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_d_0_9.png
+  rotate: false
+  xy: 1110, 53
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_e_0_0.png
+  rotate: false
+  xy: 2118, 42
+  size: 36, 84
+  orig: 36, 84
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_f_0_0.png
+  rotate: false
+  xy: 2, 18
+  size: 60, 108
+  orig: 60, 108
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_64_sd_0_0.png
+  rotate: false
+  xy: 64, 20
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1
+ads_capri_lava_ads_capri_lava_icon_a.png
+  rotate: false
+  xy: 1202, 21
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

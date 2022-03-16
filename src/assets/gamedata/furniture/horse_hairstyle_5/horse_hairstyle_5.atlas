@@ -1,0 +1,20 @@
+
+horse_hairstyle_5.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+horse_hairstyle_5_horse_hairstyle_5_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 47, 100
+  orig: 47, 100
+  offset: 0, 0
+  index: -1
+horse_hairstyle_5_horse_hairstyle_5_icon_a.png
+  rotate: false
+  xy: 51, 70
+  size: 25, 32
+  orig: 25, 32
+  offset: 0, 0
+  index: -1

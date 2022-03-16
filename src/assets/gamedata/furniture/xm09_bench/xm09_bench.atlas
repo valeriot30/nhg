@@ -1,0 +1,62 @@
+
+xm09_bench.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm09_bench_xm09_bench_64_a_2_0.png
+  rotate: false
+  xy: 293, 68
+  size: 67, 45
+  orig: 67, 45
+  offset: 0, 0
+  index: -1
+xm09_bench_xm09_bench_64_b_2_0.png
+  rotate: false
+  xy: 362, 38
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+xm09_bench_xm09_bench_64_c_2_0.png
+  rotate: false
+  xy: 430, 76
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+xm09_bench_xm09_bench_64_d_2_0.png
+  rotate: false
+  xy: 226, 25
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+xm09_bench_xm09_bench_64_e_2_0.png
+  rotate: false
+  xy: 362, 76
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+xm09_bench_xm09_bench_64_f_2_0.png
+  rotate: false
+  xy: 226, 63
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+xm09_bench_xm09_bench_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 222, 111
+  orig: 222, 111
+  offset: 0, 0
+  index: -1
+xm09_bench_xm09_bench_icon_a.png
+  rotate: false
+  xy: 226, 7
+  size: 26, 16
+  orig: 26, 16
+  offset: 0, 0
+  index: -1

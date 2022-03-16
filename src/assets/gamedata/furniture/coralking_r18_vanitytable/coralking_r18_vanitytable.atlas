@@ -1,0 +1,62 @@
+
+coralking_r18_vanitytable.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_r18_vanitytable_coralking_r18_vanitytable_64_a_0_0.png
+  rotate: false
+  xy: 142, 26
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+coralking_r18_vanitytable_coralking_r18_vanitytable_64_a_0_1.png
+  rotate: false
+  xy: 214, 26
+  size: 70, 98
+  orig: 70, 98
+  offset: 0, 0
+  index: -1
+coralking_r18_vanitytable_coralking_r18_vanitytable_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 122
+  orig: 68, 122
+  offset: 0, 0
+  index: -1
+coralking_r18_vanitytable_coralking_r18_vanitytable_64_b_0_1.png
+  rotate: false
+  xy: 72, 2
+  size: 68, 122
+  orig: 68, 122
+  offset: 0, 0
+  index: -1
+coralking_r18_vanitytable_coralking_r18_vanitytable_64_c_0_0.png
+  rotate: false
+  xy: 286, 38
+  size: 32, 35
+  orig: 32, 35
+  offset: 0, 0
+  index: -1
+coralking_r18_vanitytable_coralking_r18_vanitytable_64_c_0_1.png
+  rotate: false
+  xy: 142, 23
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+coralking_r18_vanitytable_coralking_r18_vanitytable_64_sd_0_0.png
+  rotate: false
+  xy: 286, 75
+  size: 98, 49
+  orig: 98, 49
+  offset: 0, 0
+  index: -1
+coralking_r18_vanitytable_coralking_r18_vanitytable_icon_a.png
+  rotate: false
+  xy: 386, 94
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

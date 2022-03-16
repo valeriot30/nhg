@@ -1,0 +1,41 @@
+
+xmas_c18_groundlight.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_groundlight_xmas_c18_groundlight_64_a_0_0.png
+  rotate: false
+  xy: 31, 20
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+xmas_c18_groundlight_xmas_c18_groundlight_64_a_0_1.png
+  rotate: false
+  xy: 83, 181
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+xmas_c18_groundlight_xmas_c18_groundlight_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas_c18_groundlight_xmas_c18_groundlight_64_c_0_1.png
+  rotate: false
+  xy: 2, 39
+  size: 79, 159
+  orig: 79, 159
+  offset: 0, 0
+  index: -1
+xmas_c18_groundlight_xmas_c18_groundlight_icon_a.png
+  rotate: false
+  xy: 2, 5
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1

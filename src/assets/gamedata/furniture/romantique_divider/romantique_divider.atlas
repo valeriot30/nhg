@@ -1,0 +1,83 @@
+
+romantique_divider.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+romantique_divider_romantique_divider_64_a_0_0.png
+  rotate: false
+  xy: 188, 37
+  size: 29, 87
+  orig: 29, 87
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_64_b_0_0.png
+  rotate: false
+  xy: 44, 21
+  size: 32, 103
+  orig: 32, 103
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_64_c_0_0.png
+  rotate: false
+  xy: 78, 31
+  size: 33, 93
+  orig: 33, 93
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_64_d_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 40, 118
+  orig: 40, 118
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_64_e_0_0.png
+  rotate: false
+  xy: 219, 4
+  size: 29, 53
+  orig: 29, 53
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_64_f_0_0.png
+  rotate: false
+  xy: 151, 16
+  size: 31, 70
+  orig: 31, 70
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_64_g_0_0.png
+  rotate: false
+  xy: 113, 32
+  size: 36, 54
+  orig: 36, 54
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_64_h_0_0.png
+  rotate: false
+  xy: 219, 59
+  size: 28, 65
+  orig: 28, 65
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_64_sd_0_0.png
+  rotate: false
+  xy: 113, 88
+  size: 73, 36
+  orig: 73, 36
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_icon_a.png
+  rotate: false
+  xy: 78, 2
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+romantique_divider_romantique_divider_icon_b.png
+  rotate: false
+  xy: 99, 4
+  size: 15, 25
+  orig: 15, 25
+  offset: 0, 0
+  index: -1

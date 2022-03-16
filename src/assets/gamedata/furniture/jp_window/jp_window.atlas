@@ -1,0 +1,55 @@
+
+jp_window.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jp_window_jp_window_64_2_mask.png
+  rotate: false
+  xy: 396, 94
+  size: 59, 92
+  orig: 59, 92
+  offset: 0, 0
+  index: -1
+jp_window_jp_window_64_a_4_0.png
+  rotate: false
+  xy: 2, 24
+  size: 96, 162
+  orig: 96, 162
+  offset: 0, 0
+  index: -1
+jp_window_jp_window_64_b_4_0.png
+  rotate: false
+  xy: 100, 80
+  size: 72, 106
+  orig: 72, 106
+  offset: 0, 0
+  index: -1
+jp_window_jp_window_64_b_4_1.png
+  rotate: false
+  xy: 174, 82
+  size: 72, 104
+  orig: 72, 104
+  offset: 0, 0
+  index: -1
+jp_window_jp_window_64_b_4_2.png
+  rotate: false
+  xy: 248, 84
+  size: 72, 102
+  orig: 72, 102
+  offset: 0, 0
+  index: -1
+jp_window_jp_window_64_b_4_3.png
+  rotate: false
+  xy: 322, 85
+  size: 72, 101
+  orig: 72, 101
+  offset: 0, 0
+  index: -1
+jp_window_jp_window_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+runway_shelf.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+runway_shelf_runway_shelf_64_a_2_0.png
+  rotate: false
+  xy: 2, 56
+  size: 87, 68
+  orig: 87, 68
+  offset: 0, 0
+  index: -1
+runway_shelf_runway_shelf_64_b_2_0.png
+  rotate: false
+  xy: 75, 53
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+runway_shelf_runway_shelf_64_b_2_1.png
+  rotate: false
+  xy: 91, 49
+  size: 70, 75
+  orig: 70, 75
+  offset: 0, 0
+  index: -1
+runway_shelf_runway_shelf_64_b_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 71, 52
+  orig: 71, 52
+  offset: 0, 0
+  index: -1
+runway_shelf_runway_shelf_64_b_2_3.png
+  rotate: false
+  xy: 163, 78
+  size: 62, 46
+  orig: 62, 46
+  offset: 0, 0
+  index: -1
+runway_shelf_runway_shelf_64_c_2_0.png
+  rotate: false
+  xy: 227, 107
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+runway_shelf_runway_shelf_icon_a.png
+  rotate: false
+  xy: 163, 51
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1

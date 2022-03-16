@@ -1,0 +1,1202 @@
+
+wildwest_bgland.png
+size: 4096,4096
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_bgland_wildwest_bgland_64_a_0_0.png
+  rotate: false
+  xy: 34, 3953
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_0.png
+  rotate: false
+  xy: 1465, 3039
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_1.png
+  rotate: false
+  xy: 2651, 3759
+  size: 360, 227
+  orig: 360, 227
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_10.png
+  rotate: false
+  xy: 726, 3530
+  size: 360, 230
+  orig: 360, 230
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_11.png
+  rotate: false
+  xy: 2204, 3522
+  size: 360, 235
+  orig: 360, 235
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_12.png
+  rotate: false
+  xy: 3350, 3263
+  size: 360, 241
+  orig: 360, 241
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_13.png
+  rotate: false
+  xy: 1827, 3037
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_14.png
+  rotate: false
+  xy: 2189, 3035
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_15.png
+  rotate: false
+  xy: 3712, 3263
+  size: 360, 241
+  orig: 360, 241
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_16.png
+  rotate: false
+  xy: 2, 2804
+  size: 360, 247
+  orig: 360, 247
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_17.png
+  rotate: false
+  xy: 1110, 2537
+  size: 360, 253
+  orig: 360, 253
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_18.png
+  rotate: false
+  xy: 1064, 2017
+  size: 360, 259
+  orig: 360, 259
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_19.png
+  rotate: false
+  xy: 1133, 1742
+  size: 360, 265
+  orig: 360, 265
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_2.png
+  rotate: false
+  xy: 2289, 3759
+  size: 360, 227
+  orig: 360, 227
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_20.png
+  rotate: false
+  xy: 2134, 1463
+  size: 360, 271
+  orig: 360, 271
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_21.png
+  rotate: false
+  xy: 2888, 887
+  size: 360, 277
+  orig: 360, 277
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_22.png
+  rotate: false
+  xy: 3242, 602
+  size: 360, 282
+  orig: 360, 282
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_23.png
+  rotate: false
+  xy: 3604, 602
+  size: 360, 282
+  orig: 360, 282
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_24.png
+  rotate: false
+  xy: 1064, 348
+  size: 360, 282
+  orig: 360, 282
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_25.png
+  rotate: false
+  xy: 3275, 3018
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_26.png
+  rotate: false
+  xy: 2551, 3034
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_27.png
+  rotate: false
+  xy: 2913, 3033
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_3.png
+  rotate: false
+  xy: 1550, 3759
+  size: 360, 227
+  orig: 360, 227
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_4.png
+  rotate: false
+  xy: 1188, 3762
+  size: 360, 224
+  orig: 360, 224
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_5.png
+  rotate: false
+  xy: 2, 3537
+  size: 360, 228
+  orig: 360, 228
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_6.png
+  rotate: false
+  xy: 3375, 3758
+  size: 360, 228
+  orig: 360, 228
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_7.png
+  rotate: false
+  xy: 3013, 3758
+  size: 360, 228
+  orig: 360, 228
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_8.png
+  rotate: false
+  xy: 102, 3767
+  size: 360, 219
+  orig: 360, 219
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_e_0_9.png
+  rotate: false
+  xy: 826, 3762
+  size: 360, 224
+  orig: 360, 224
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_0.png
+  rotate: false
+  xy: 2157, 890
+  size: 352, 277
+  orig: 352, 277
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_1.png
+  rotate: false
+  xy: 1064, 916
+  size: 352, 277
+  orig: 352, 277
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_10.png
+  rotate: false
+  xy: 1818, 2269
+  size: 352, 258
+  orig: 352, 258
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_11.png
+  rotate: false
+  xy: 2211, 2784
+  size: 352, 248
+  orig: 352, 248
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_12.png
+  rotate: false
+  xy: 2196, 2528
+  size: 352, 254
+  orig: 352, 254
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_13.png
+  rotate: false
+  xy: 2, 2029
+  size: 352, 260
+  orig: 352, 260
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_14.png
+  rotate: false
+  xy: 2219, 1736
+  size: 352, 266
+  orig: 352, 266
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_15.png
+  rotate: false
+  xy: 2, 1220
+  size: 352, 272
+  orig: 352, 272
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_16.png
+  rotate: false
+  xy: 3627, 886
+  size: 352, 278
+  orig: 352, 278
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_17.png
+  rotate: false
+  xy: 2, 660
+  size: 352, 279
+  orig: 352, 279
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_18.png
+  rotate: false
+  xy: 710, 1479
+  size: 352, 269
+  orig: 352, 269
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_19.png
+  rotate: false
+  xy: 1418, 1190
+  size: 352, 275
+  orig: 352, 275
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_2.png
+  rotate: false
+  xy: 710, 925
+  size: 352, 277
+  orig: 352, 277
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_20.png
+  rotate: false
+  xy: 2888, 604
+  size: 352, 281
+  orig: 352, 281
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_21.png
+  rotate: false
+  xy: 710, 355
+  size: 352, 287
+  orig: 352, 287
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_22.png
+  rotate: false
+  xy: 356, 69
+  size: 352, 293
+  orig: 352, 293
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_23.png
+  rotate: false
+  xy: 2126, 20
+  size: 352, 299
+  orig: 352, 299
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_24.png
+  rotate: false
+  xy: 2834, 13
+  size: 352, 302
+  orig: 352, 302
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_25.png
+  rotate: false
+  xy: 3188, 10
+  size: 352, 302
+  orig: 352, 302
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_26.png
+  rotate: false
+  xy: 2480, 16
+  size: 352, 301
+  orig: 352, 301
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_27.png
+  rotate: false
+  xy: 2, 941
+  size: 352, 277
+  orig: 352, 277
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_3.png
+  rotate: false
+  xy: 356, 932
+  size: 352, 277
+  orig: 352, 277
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_4.png
+  rotate: false
+  xy: 710, 2283
+  size: 352, 257
+  orig: 352, 257
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_5.png
+  rotate: false
+  xy: 356, 2288
+  size: 352, 257
+  orig: 352, 257
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_6.png
+  rotate: false
+  xy: 2, 2291
+  size: 352, 257
+  orig: 352, 257
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_7.png
+  rotate: false
+  xy: 2, 2550
+  size: 352, 252
+  orig: 352, 252
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_8.png
+  rotate: false
+  xy: 2926, 2250
+  size: 352, 258
+  orig: 352, 258
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_f_0_9.png
+  rotate: false
+  xy: 3280, 2250
+  size: 352, 258
+  orig: 352, 258
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_0.png
+  rotate: false
+  xy: 2549, 2266
+  size: 375, 258
+  orig: 375, 258
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_1.png
+  rotate: false
+  xy: 2172, 2268
+  size: 375, 258
+  orig: 375, 258
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_10.png
+  rotate: false
+  xy: 1465, 3524
+  size: 375, 233
+  orig: 375, 233
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_11.png
+  rotate: false
+  xy: 2973, 3278
+  size: 375, 239
+  orig: 375, 239
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_12.png
+  rotate: false
+  xy: 741, 2796
+  size: 375, 245
+  orig: 375, 245
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_13.png
+  rotate: false
+  xy: 356, 2547
+  size: 375, 251
+  orig: 375, 251
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_14.png
+  rotate: false
+  xy: 1064, 2278
+  size: 375, 257
+  orig: 375, 257
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_15.png
+  rotate: false
+  xy: 2903, 1988
+  size: 375, 260
+  orig: 375, 260
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_16.png
+  rotate: false
+  xy: 2527, 2004
+  size: 374, 260
+  orig: 374, 260
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_17.png
+  rotate: false
+  xy: 2565, 2783
+  size: 362, 248
+  orig: 362, 248
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_18.png
+  rotate: false
+  xy: 2150, 2006
+  size: 375, 260
+  orig: 375, 260
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_19.png
+  rotate: false
+  xy: 2573, 1720
+  size: 375, 266
+  orig: 375, 266
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_2.png
+  rotate: false
+  xy: 3290, 3519
+  size: 375, 237
+  orig: 375, 237
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_20.png
+  rotate: false
+  xy: 3212, 1441
+  size: 375, 272
+  orig: 375, 272
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_21.png
+  rotate: false
+  xy: 3250, 886
+  size: 375, 278
+  orig: 375, 278
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_22.png
+  rotate: false
+  xy: 2142, 321
+  size: 375, 283
+  orig: 375, 283
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_23.png
+  rotate: false
+  xy: 2519, 319
+  size: 375, 283
+  orig: 375, 283
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_24.png
+  rotate: false
+  xy: 2896, 317
+  size: 375, 283
+  orig: 375, 283
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_25.png
+  rotate: false
+  xy: 756, 1750
+  size: 375, 265
+  orig: 375, 265
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_26.png
+  rotate: false
+  xy: 3658, 2507
+  size: 373, 257
+  orig: 373, 257
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_27.png
+  rotate: false
+  xy: 1441, 2271
+  size: 375, 258
+  orig: 375, 258
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_3.png
+  rotate: false
+  xy: 1465, 3284
+  size: 375, 238
+  orig: 375, 238
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_4.png
+  rotate: false
+  xy: 1842, 3282
+  size: 375, 238
+  orig: 375, 238
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_5.png
+  rotate: false
+  xy: 1088, 3529
+  size: 375, 231
+  orig: 375, 231
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_6.png
+  rotate: false
+  xy: 3667, 3506
+  size: 375, 237
+  orig: 375, 237
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_7.png
+  rotate: false
+  xy: 2596, 3279
+  size: 375, 239
+  orig: 375, 239
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_8.png
+  rotate: false
+  xy: 2219, 3280
+  size: 375, 239
+  orig: 375, 239
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_g_0_9.png
+  rotate: false
+  xy: 1912, 3759
+  size: 375, 227
+  orig: 375, 227
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_0.png
+  rotate: false
+  xy: 1795, 626
+  size: 360, 279
+  orig: 360, 279
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_1.png
+  rotate: false
+  xy: 1426, 345
+  size: 360, 285
+  orig: 360, 285
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_10.png
+  rotate: false
+  xy: 1472, 2531
+  size: 360, 254
+  orig: 360, 254
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_11.png
+  rotate: false
+  xy: 1426, 2009
+  size: 360, 260
+  orig: 360, 260
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_12.png
+  rotate: false
+  xy: 1495, 1739
+  size: 360, 266
+  orig: 360, 266
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_13.png
+  rotate: false
+  xy: 2850, 1441
+  size: 360, 272
+  orig: 360, 272
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_14.png
+  rotate: false
+  xy: 2134, 1185
+  size: 360, 276
+  orig: 360, 276
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_15.png
+  rotate: false
+  xy: 1795, 907
+  size: 360, 276
+  orig: 360, 276
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_16.png
+  rotate: false
+  xy: 1772, 1189
+  size: 360, 274
+  orig: 360, 274
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_17.png
+  rotate: false
+  xy: 1103, 3043
+  size: 360, 243
+  orig: 360, 243
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_18.png
+  rotate: false
+  xy: 1103, 3288
+  size: 360, 239
+  orig: 360, 239
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_19.png
+  rotate: false
+  xy: 2, 3297
+  size: 360, 238
+  orig: 360, 238
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_2.png
+  rotate: false
+  xy: 1772, 1465
+  size: 360, 271
+  orig: 360, 271
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_20.png
+  rotate: false
+  xy: 2928, 3520
+  size: 360, 236
+  orig: 360, 236
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_21.png
+  rotate: false
+  xy: 364, 3047
+  size: 360, 242
+  orig: 360, 242
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_22.png
+  rotate: false
+  xy: 1849, 2785
+  size: 360, 248
+  orig: 360, 248
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_23.png
+  rotate: false
+  xy: 1834, 2529
+  size: 360, 254
+  orig: 360, 254
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_24.png
+  rotate: false
+  xy: 1788, 2007
+  size: 360, 260
+  orig: 360, 260
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_25.png
+  rotate: false
+  xy: 1857, 1738
+  size: 360, 266
+  orig: 360, 266
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_26.png
+  rotate: false
+  xy: 3589, 1441
+  size: 360, 272
+  orig: 360, 272
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_3.png
+  rotate: false
+  xy: 741, 3289
+  size: 360, 238
+  orig: 360, 238
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_4.png
+  rotate: false
+  xy: 1842, 3523
+  size: 360, 234
+  orig: 360, 234
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_5.png
+  rotate: false
+  xy: 464, 3762
+  size: 360, 224
+  orig: 360, 224
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_6.png
+  rotate: false
+  xy: 364, 3530
+  size: 360, 230
+  orig: 360, 230
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_7.png
+  rotate: false
+  xy: 2566, 3521
+  size: 360, 236
+  orig: 360, 236
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_8.png
+  rotate: false
+  xy: 2, 3053
+  size: 360, 242
+  orig: 360, 242
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_h_0_9.png
+  rotate: false
+  xy: 1487, 2787
+  size: 360, 248
+  orig: 360, 248
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_0.png
+  rotate: false
+  xy: 3650, 308
+  size: 352, 292
+  orig: 352, 292
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_1.png
+  rotate: false
+  xy: 1772, 33
+  size: 352, 298
+  orig: 352, 298
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_10.png
+  rotate: false
+  xy: 3704, 1715
+  size: 352, 267
+  orig: 352, 267
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_11.png
+  rotate: false
+  xy: 356, 1211
+  size: 352, 273
+  orig: 352, 273
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_12.png
+  rotate: false
+  xy: 356, 651
+  size: 352, 279
+  orig: 352, 279
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_13.png
+  rotate: false
+  xy: 2, 373
+  size: 352, 285
+  orig: 352, 285
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_14.png
+  rotate: false
+  xy: 1788, 333
+  size: 352, 291
+  orig: 352, 291
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_15.png
+  rotate: false
+  xy: 1418, 47
+  size: 352, 296
+  orig: 352, 296
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_16.png
+  rotate: false
+  xy: 1064, 51
+  size: 352, 295
+  orig: 352, 295
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_17.png
+  rotate: false
+  xy: 710, 59
+  size: 352, 294
+  orig: 352, 294
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_18.png
+  rotate: false
+  xy: 710, 644
+  size: 352, 279
+  orig: 352, 279
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_19.png
+  rotate: false
+  xy: 2496, 1169
+  size: 352, 276
+  orig: 352, 276
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_2.png
+  rotate: false
+  xy: 3542, 2
+  size: 352, 304
+  orig: 352, 304
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_20.png
+  rotate: false
+  xy: 2157, 608
+  size: 352, 280
+  orig: 352, 280
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_21.png
+  rotate: false
+  xy: 1418, 1467
+  size: 352, 270
+  orig: 352, 270
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_22.png
+  rotate: false
+  xy: 1064, 1471
+  size: 352, 269
+  orig: 352, 269
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_23.png
+  rotate: false
+  xy: 2, 1494
+  size: 352, 267
+  orig: 352, 267
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_24.png
+  rotate: false
+  xy: 710, 1204
+  size: 352, 273
+  orig: 352, 273
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_25.png
+  rotate: false
+  xy: 1064, 635
+  size: 352, 279
+  orig: 352, 279
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_26.png
+  rotate: false
+  xy: 356, 364
+  size: 352, 285
+  orig: 352, 285
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_3.png
+  rotate: false
+  xy: 2, 79
+  size: 352, 292
+  orig: 352, 292
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_4.png
+  rotate: false
+  xy: 1064, 1195
+  size: 352, 274
+  orig: 352, 274
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_5.png
+  rotate: false
+  xy: 2496, 1447
+  size: 352, 271
+  orig: 352, 271
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_6.png
+  rotate: false
+  xy: 356, 1486
+  size: 352, 268
+  orig: 352, 268
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_7.png
+  rotate: false
+  xy: 356, 2026
+  size: 352, 260
+  orig: 352, 260
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_8.png
+  rotate: false
+  xy: 3304, 2510
+  size: 352, 255
+  orig: 352, 255
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_i_0_9.png
+  rotate: false
+  xy: 710, 2020
+  size: 352, 261
+  orig: 352, 261
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_0.png
+  rotate: false
+  xy: 3273, 314
+  size: 375, 286
+  orig: 375, 286
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_1.png
+  rotate: false
+  xy: 3604, 1166
+  size: 375, 273
+  orig: 375, 273
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_10.png
+  rotate: false
+  xy: 3280, 1984
+  size: 375, 261
+  orig: 375, 261
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_11.png
+  rotate: false
+  xy: 2950, 1715
+  size: 375, 267
+  orig: 375, 267
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_12.png
+  rotate: false
+  xy: 2850, 1166
+  size: 375, 273
+  orig: 375, 273
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_13.png
+  rotate: false
+  xy: 1418, 632
+  size: 375, 278
+  orig: 375, 278
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_14.png
+  rotate: false
+  xy: 2511, 887
+  size: 375, 277
+  orig: 375, 277
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_15.png
+  rotate: false
+  xy: 1418, 912
+  size: 375, 275
+  orig: 375, 275
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_16.png
+  rotate: false
+  xy: 3657, 1984
+  size: 375, 261
+  orig: 375, 261
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_17.png
+  rotate: false
+  xy: 3634, 2247
+  size: 375, 258
+  orig: 375, 258
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_18.png
+  rotate: false
+  xy: 379, 1756
+  size: 375, 262
+  orig: 375, 262
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_19.png
+  rotate: false
+  xy: 733, 2542
+  size: 375, 252
+  orig: 375, 252
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_2.png
+  rotate: false
+  xy: 1118, 2792
+  size: 367, 245
+  orig: 367, 245
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_20.png
+  rotate: false
+  xy: 3683, 2766
+  size: 375, 250
+  orig: 375, 250
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_21.png
+  rotate: false
+  xy: 2929, 2767
+  size: 375, 249
+  orig: 375, 249
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_22.png
+  rotate: false
+  xy: 2550, 2526
+  size: 375, 255
+  orig: 375, 255
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_23.png
+  rotate: false
+  xy: 2, 1763
+  size: 375, 261
+  orig: 375, 261
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_24.png
+  rotate: false
+  xy: 3327, 1715
+  size: 375, 267
+  orig: 375, 267
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_25.png
+  rotate: false
+  xy: 3227, 1166
+  size: 375, 273
+  orig: 375, 273
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_26.png
+  rotate: false
+  xy: 2511, 606
+  size: 375, 279
+  orig: 375, 279
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_3.png
+  rotate: false
+  xy: 3737, 3745
+  size: 355, 241
+  orig: 355, 241
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_4.png
+  rotate: false
+  xy: 3637, 3018
+  size: 375, 243
+  orig: 375, 243
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_5.png
+  rotate: false
+  xy: 726, 3045
+  size: 375, 242
+  orig: 375, 242
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_6.png
+  rotate: false
+  xy: 364, 3291
+  size: 375, 237
+  orig: 375, 237
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_7.png
+  rotate: false
+  xy: 364, 2800
+  size: 375, 243
+  orig: 375, 243
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_8.png
+  rotate: false
+  xy: 3306, 2767
+  size: 375, 249
+  orig: 375, 249
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_j_0_9.png
+  rotate: false
+  xy: 2927, 2510
+  size: 375, 255
+  orig: 375, 255
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_icon_a.png
+  rotate: false
+  xy: 2, 3956
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+
+wildwest_bgland2.png
+size: 512,2048
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wildwest_bgland_wildwest_bgland_64_b_0_0.png
+  rotate: false
+  xy: 2, 570
+  size: 375, 547
+  orig: 375, 547
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 352, 566
+  orig: 352, 566
+  offset: 0, 0
+  index: -1
+wildwest_bgland_wildwest_bgland_64_d_0_0.png
+  rotate: false
+  xy: 2, 1119
+  size: 392, 582
+  orig: 392, 582
+  offset: 0, 0
+  index: -1

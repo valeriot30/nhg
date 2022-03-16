@@ -1,0 +1,55 @@
+
+stories_shakespeare_tree.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stories_shakespeare_tree_stories_shakespeare_tree_64_a_0_0.png
+  rotate: false
+  xy: 2, 113
+  size: 150, 134
+  orig: 150, 134
+  offset: 0, 0
+  index: -1
+stories_shakespeare_tree_stories_shakespeare_tree_64_b_0_0.png
+  rotate: false
+  xy: 154, 132
+  size: 73, 115
+  orig: 73, 115
+  offset: 0, 0
+  index: -1
+stories_shakespeare_tree_stories_shakespeare_tree_64_c_0_0.png
+  rotate: false
+  xy: 229, 246
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+stories_shakespeare_tree_stories_shakespeare_tree_64_c_0_1.png
+  rotate: false
+  xy: 2, 48
+  size: 137, 63
+  orig: 137, 63
+  offset: 0, 0
+  index: -1
+stories_shakespeare_tree_stories_shakespeare_tree_64_d_0_1.png
+  rotate: false
+  xy: 154, 44
+  size: 68, 86
+  orig: 68, 86
+  offset: 0, 0
+  index: -1
+stories_shakespeare_tree_stories_shakespeare_tree_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 88, 44
+  orig: 88, 44
+  offset: 0, 0
+  index: -1
+stories_shakespeare_tree_stories_shakespeare_tree_icon_a.png
+  rotate: false
+  xy: 92, 20
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1

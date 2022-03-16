@@ -1,0 +1,223 @@
+
+anc_ele_rock.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anc_ele_rock_anc_ele_rock_64_a_0_0.png
+  rotate: false
+  xy: 415, 2
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_0_1.png
+  rotate: false
+  xy: 1573, 81
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_0_2.png
+  rotate: false
+  xy: 1165, 64
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_0_3.png
+  rotate: false
+  xy: 757, 48
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_0_4.png
+  rotate: false
+  xy: 280, 32
+  size: 66, 94
+  orig: 66, 94
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_4_0.png
+  rotate: false
+  xy: 1847, 95
+  size: 65, 31
+  orig: 65, 31
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_4_1.png
+  rotate: false
+  xy: 1439, 80
+  size: 65, 46
+  orig: 65, 46
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_4_2.png
+  rotate: false
+  xy: 1031, 63
+  size: 65, 63
+  orig: 65, 63
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_4_3.png
+  rotate: false
+  xy: 623, 47
+  size: 65, 79
+  orig: 65, 79
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_4_4.png
+  rotate: false
+  xy: 212, 31
+  size: 66, 95
+  orig: 66, 95
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_6_0.png
+  rotate: false
+  xy: 348, 2
+  size: 65, 30
+  orig: 65, 30
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_6_1.png
+  rotate: false
+  xy: 1506, 81
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_6_2.png
+  rotate: false
+  xy: 1098, 64
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_6_3.png
+  rotate: false
+  xy: 690, 48
+  size: 65, 78
+  orig: 65, 78
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_a_6_4.png
+  rotate: false
+  xy: 348, 34
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_0_0.png
+  rotate: false
+  xy: 1778, 94
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_0_1.png
+  rotate: false
+  xy: 1370, 79
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_0_2.png
+  rotate: false
+  xy: 962, 62
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_0_3.png
+  rotate: false
+  xy: 554, 46
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_0_4.png
+  rotate: false
+  xy: 72, 30
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_4_0.png
+  rotate: false
+  xy: 1640, 93
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_4_1.png
+  rotate: false
+  xy: 1232, 78
+  size: 67, 48
+  orig: 67, 48
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_4_2.png
+  rotate: false
+  xy: 824, 61
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_4_3.png
+  rotate: false
+  xy: 416, 45
+  size: 67, 81
+  orig: 67, 81
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_4_4.png
+  rotate: false
+  xy: 2, 29
+  size: 68, 97
+  orig: 68, 97
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_6_0.png
+  rotate: false
+  xy: 1709, 94
+  size: 67, 32
+  orig: 67, 32
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_6_1.png
+  rotate: false
+  xy: 1301, 79
+  size: 67, 47
+  orig: 67, 47
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_6_2.png
+  rotate: false
+  xy: 893, 62
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_6_3.png
+  rotate: false
+  xy: 485, 46
+  size: 67, 80
+  orig: 67, 80
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_64_b_6_4.png
+  rotate: false
+  xy: 142, 32
+  size: 68, 94
+  orig: 68, 94
+  offset: 0, 0
+  index: -1
+anc_ele_rock_anc_ele_rock_icon_a.png
+  rotate: false
+  xy: 1914, 97
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

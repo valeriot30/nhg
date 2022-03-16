@@ -1,0 +1,27 @@
+
+lm_palm1.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lm_palm1_lm_palm1_64_a_0_0.png
+  rotate: false
+  xy: 2, 22
+  size: 91, 155
+  orig: 91, 155
+  offset: 0, 0
+  index: -1
+lm_palm1_lm_palm1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+lm_palm1_lm_palm1_icon_a.png
+  rotate: false
+  xy: 95, 147
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

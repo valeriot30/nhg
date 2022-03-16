@@ -1,0 +1,41 @@
+
+window_romantic_wide.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window_romantic_wide_window_romantic_wide_64_2_mask.png
+  rotate: false
+  xy: 223, 31
+  size: 60, 93
+  orig: 60, 93
+  offset: 0, 0
+  index: -1
+window_romantic_wide_window_romantic_wide_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 88, 122
+  orig: 88, 122
+  offset: 0, 0
+  index: -1
+window_romantic_wide_window_romantic_wide_64_b_2_0.png
+  rotate: false
+  xy: 92, 26
+  size: 68, 98
+  orig: 68, 98
+  offset: 0, 0
+  index: -1
+window_romantic_wide_window_romantic_wide_64_b_2_1.png
+  rotate: false
+  xy: 162, 27
+  size: 59, 97
+  orig: 59, 97
+  offset: 0, 0
+  index: -1
+window_romantic_wide_window_romantic_wide_icon_a.png
+  rotate: false
+  xy: 92, 3
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1

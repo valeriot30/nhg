@@ -1,0 +1,27 @@
+
+bling11_pillar.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bling11_pillar_bling11_pillar_64_a_0_0.png
+  rotate: false
+  xy: 60, 34
+  size: 56, 130
+  orig: 56, 130
+  offset: 0, 0
+  index: -1
+bling11_pillar_bling11_pillar_64_a_0_1.png
+  rotate: false
+  xy: 2, 34
+  size: 56, 130
+  orig: 56, 130
+  offset: 0, 0
+  index: -1
+bling11_pillar_bling11_pillar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

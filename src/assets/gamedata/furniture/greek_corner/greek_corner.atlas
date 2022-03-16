@@ -1,0 +1,41 @@
+
+greek_corner.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_corner_greek_corner_64_a_0_0.png
+  rotate: false
+  xy: 121, 30
+  size: 49, 131
+  orig: 49, 131
+  offset: 0, 0
+  index: -1
+greek_corner_greek_corner_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 59, 127
+  orig: 59, 127
+  offset: 0, 0
+  index: -1
+greek_corner_greek_corner_64_a_4_0.png
+  rotate: false
+  xy: 172, 30
+  size: 49, 131
+  orig: 49, 131
+  offset: 0, 0
+  index: -1
+greek_corner_greek_corner_64_a_6_0.png
+  rotate: false
+  xy: 63, 34
+  size: 56, 127
+  orig: 56, 127
+  offset: 0, 0
+  index: -1
+greek_corner_greek_corner_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

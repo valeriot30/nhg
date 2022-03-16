@@ -1,0 +1,34 @@
+
+hc20_6.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc20_6_hc20_6_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+hc20_6_hc20_6_64_a_4_0.png
+  rotate: false
+  xy: 37, 2
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+hc20_6_hc20_6_64_sd_4_0.png
+  rotate: false
+  xy: 72, 11
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+hc20_6_hc20_6_icon_a.png
+  rotate: false
+  xy: 72, 27
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1

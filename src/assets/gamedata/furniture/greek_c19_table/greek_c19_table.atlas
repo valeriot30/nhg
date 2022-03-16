@@ -1,0 +1,27 @@
+
+greek_c19_table.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+greek_c19_table_greek_c19_table_64_a_0_0.png
+  rotate: false
+  xy: 2, 3
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+greek_c19_table_greek_c19_table_64_sd_0_0.png
+  rotate: false
+  xy: 70, 32
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+greek_c19_table_greek_c19_table_icon_a.png
+  rotate: false
+  xy: 70, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

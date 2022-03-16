@@ -1,0 +1,48 @@
+
+rela_hchair.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rela_hchair_rela_hchair_64_a_4_0.png
+  rotate: false
+  xy: 130, 98
+  size: 66, 100
+  orig: 66, 100
+  offset: 0, 0
+  index: -1
+rela_hchair_rela_hchair_64_a_6_0.png
+  rotate: false
+  xy: 130, 76
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+rela_hchair_rela_hchair_64_b_4_0.png
+  rotate: false
+  xy: 74, 27
+  size: 54, 171
+  orig: 54, 171
+  offset: 0, 0
+  index: -1
+rela_hchair_rela_hchair_64_b_6_0.png
+  rotate: false
+  xy: 2, 27
+  size: 70, 171
+  orig: 70, 171
+  offset: 0, 0
+  index: -1
+rela_hchair_rela_hchair_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+rela_hchair_rela_hchair_icon_a.png
+  rotate: false
+  xy: 198, 166
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1

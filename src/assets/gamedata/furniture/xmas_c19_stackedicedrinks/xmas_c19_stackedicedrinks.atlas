@@ -1,0 +1,41 @@
+
+xmas_c19_stackedicedrinks.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_stackedicedrinks_xmas_c19_stackedicedrinks_64_a_0_0.png
+  rotate: false
+  xy: 2, 120
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+xmas_c19_stackedicedrinks_xmas_c19_stackedicedrinks_64_a_0_1.png
+  rotate: false
+  xy: 2, 34
+  size: 30, 84
+  orig: 30, 84
+  offset: 0, 0
+  index: -1
+xmas_c19_stackedicedrinks_xmas_c19_stackedicedrinks_64_b_0_0.png
+  rotate: false
+  xy: 34, 123
+  size: 28, 81
+  orig: 28, 81
+  offset: 0, 0
+  index: -1
+xmas_c19_stackedicedrinks_xmas_c19_stackedicedrinks_64_sd_0_0.png
+  rotate: false
+  xy: 34, 103
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+xmas_c19_stackedicedrinks_xmas_c19_stackedicedrinks_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+lc_wall2.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lc_wall2_lc_wall2_64_a_2_0.png
+  rotate: false
+  xy: 59, 38
+  size: 55, 138
+  orig: 55, 138
+  offset: 0, 0
+  index: -1
+lc_wall2_lc_wall2_64_a_4_0.png
+  rotate: false
+  xy: 2, 36
+  size: 55, 140
+  orig: 55, 140
+  offset: 0, 0
+  index: -1
+lc_wall2_lc_wall2_64_b_2_0.png
+  rotate: false
+  xy: 2, 178
+  size: 72, 155
+  orig: 72, 155
+  offset: 0, 0
+  index: -1
+lc_wall2_lc_wall2_64_b_4_0.png
+  rotate: false
+  xy: 2, 335
+  size: 72, 155
+  orig: 72, 155
+  offset: 0, 0
+  index: -1
+lc_wall2_lc_wall2_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 32
+  orig: 18, 32
+  offset: 0, 0
+  index: -1

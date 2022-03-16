@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Condensed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import './loader/loader.scss';
+@import './static/static.scss';
+@import './room/room.scss';
+@import './navigator/navigator.scss';
+@import './friends/friendsMenu.scss';
+@import './general/previewbox.scss';
+@import './general/furnilist.scss';
+@import './catalogue/catalogue.scss';
+@import './room/roominfo.scss';
+@import './room//roomeditinfo.scss';
+@import './login/login.scss';
+@import './room/userpanel.scss';
+
+html, body {
+    overflow: hidden;
+}
+
+
+.loginContainer {
+    pointer-events: all !important;
+}
+
+#app {
+    pointer-events: none;
+}
+
+body {
+    background-color: #000;
+    font-family: 'Manrope', sans-serif;
+}
+
+html, body, #app, #gameContainer {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box; 
+    box-sizing: border-box; 
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.hidden {
+  display: none !important;
+}

@@ -1,0 +1,83 @@
+
+mystics_bthrone.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+mystics_bthrone_mystics_bthrone_64_a_2_0.png
+  rotate: false
+  xy: 2, 113
+  size: 67, 130
+  orig: 67, 130
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_64_b_2_0.png
+  rotate: false
+  xy: 71, 121
+  size: 38, 122
+  orig: 38, 122
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_64_c_2_0.png
+  rotate: false
+  xy: 2, 78
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_64_d_2_0.png
+  rotate: false
+  xy: 94, 92
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_64_e_2_0.png
+  rotate: false
+  xy: 111, 176
+  size: 13, 31
+  orig: 13, 31
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_64_f_2_0.png
+  rotate: false
+  xy: 111, 144
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_64_g_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_64_h_2_0.png
+  rotate: false
+  xy: 111, 209
+  size: 15, 34
+  orig: 15, 34
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_64_i_2_0.png
+  rotate: false
+  xy: 2, 38
+  size: 19, 38
+  orig: 19, 38
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_64_sd_2_0.png
+  rotate: false
+  xy: 31, 91
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+mystics_bthrone_mystics_bthrone_icon_a.png
+  rotate: false
+  xy: 73, 90
+  size: 19, 29
+  orig: 19, 29
+  offset: 0, 0
+  index: -1

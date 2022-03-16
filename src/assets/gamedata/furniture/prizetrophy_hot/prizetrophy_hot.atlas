@@ -1,0 +1,20 @@
+
+prizetrophy_hot.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+prizetrophy_hot_prizetrophy_hot_64_a_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 38, 77
+  orig: 38, 77
+  offset: 0, 0
+  index: -1
+prizetrophy_hot_prizetrophy_hot_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+hcc_minibar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hcc_minibar_hcc_minibar_64_a_2_0.png
+  rotate: false
+  xy: 2, 165
+  size: 55, 85
+  orig: 55, 85
+  offset: 0, 0
+  index: -1
+hcc_minibar_hcc_minibar_64_b_2_0.png
+  rotate: false
+  xy: 2, 70
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+hcc_minibar_hcc_minibar_64_b_2_1.png
+  rotate: false
+  xy: 2, 23
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+hcc_minibar_hcc_minibar_64_c_2_0.png
+  rotate: false
+  xy: 26, 118
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+hcc_minibar_hcc_minibar_64_c_2_1.png
+  rotate: false
+  xy: 2, 117
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+hcc_minibar_hcc_minibar_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 44, 19
+  orig: 44, 19
+  offset: 0, 0
+  index: -1
+hcc_minibar_hcc_minibar_icon_a.png
+  rotate: false
+  xy: 26, 86
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

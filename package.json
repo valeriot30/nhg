@@ -1,0 +1,50 @@
+{
+  "name": "nhg-client-new",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "@types/animejs": "^3.1.2",
+    "animejs": "^3.2.1",
+    "core-js": "^3.6.4",
+    "draggable-vue-directive": "^2.1.0",
+    "module-alias": "^2.2.2",
+    "pixi-viewport": "^4.34.4",
+    "pixi.js": "^5.0.0",
+    "sockjs": "^0.3.24",
+    "sockjs-client": "^1.6.0",
+    "typescript-eslint": "0.0.1-alpha.0",
+    "vue": "^2.6.11",
+    "vue-property-decorator": "^8.4.1",
+    "vue-router": "^3.1.6"
+  },
+  "devDependencies": {
+    "@types/pixi.js": "^5.0.0",
+    "@types/sockjs": "^0.3.33",
+    "@types/sockjs-client": "^1.5.1",
+    "@typescript-eslint/eslint-plugin": "^2.7.0",
+    "@typescript-eslint/parser": "^2.7.0",
+    "@vue/cli-plugin-babel": "^4.3.1",
+    "@vue/cli-plugin-eslint": "~4.3.0",
+    "@vue/cli-plugin-router": "^4.3.1",
+    "@vue/cli-service": "~4.3.0",
+    "@vue/eslint-config-typescript": "^5.0.2",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.0.0",
+    "eslint-plugin-vue": "^6.0.0",
+    "node-sass": "^4.13.1",
+    "sass-loader": "^8.0.2",
+    "ts-loader": "^7.0.0",
+    "typescript": "^3.8.3",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "_moduleAliases": {
+    "@core": "dist/game/core",
+    "@assets": "dist/assets",
+    "@components": "dist/components"
+  }
+}

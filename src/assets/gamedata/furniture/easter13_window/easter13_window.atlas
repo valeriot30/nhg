@@ -1,0 +1,27 @@
+
+easter13_window.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter13_window_easter13_window_64_2_mask.png
+  rotate: false
+  xy: 75, 51
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+easter13_window_easter13_window_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 71, 89
+  orig: 71, 89
+  offset: 0, 0
+  index: -1
+easter13_window_easter13_window_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

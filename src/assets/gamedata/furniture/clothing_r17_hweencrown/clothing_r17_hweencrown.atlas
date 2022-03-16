@@ -1,0 +1,27 @@
+
+clothing_r17_hweencrown.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r17_hweencrown_clothing_r17_hweencrown_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 58
+  orig: 28, 58
+  offset: 0, 0
+  index: -1
+clothing_r17_hweencrown_clothing_r17_hweencrown_64_sd_0_0.png
+  rotate: false
+  xy: 32, 19
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+clothing_r17_hweencrown_clothing_r17_hweencrown_icon_a.png
+  rotate: false
+  xy: 32, 34
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+xmas_c19_iceshards.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_iceshards_xmas_c19_iceshards_64_a_0_0.png
+  rotate: false
+  xy: 22, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+xmas_c19_iceshards_xmas_c19_iceshards_64_a_0_1.png
+  rotate: false
+  xy: 54, 24
+  size: 49, 32
+  orig: 49, 32
+  offset: 0, 0
+  index: -1
+xmas_c19_iceshards_xmas_c19_iceshards_64_a_2_0.png
+  rotate: false
+  xy: 105, 36
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+xmas_c19_iceshards_xmas_c19_iceshards_64_a_2_2.png
+  rotate: false
+  xy: 56, 12
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+xmas_c19_iceshards_xmas_c19_iceshards_64_a_4_0.png
+  rotate: false
+  xy: 39, 2
+  size: 15, 20
+  orig: 15, 20
+  offset: 0, 0
+  index: -1
+xmas_c19_iceshards_xmas_c19_iceshards_64_a_6_1.png
+  rotate: false
+  xy: 2, 24
+  size: 50, 32
+  orig: 50, 32
+  offset: 0, 0
+  index: -1
+xmas_c19_iceshards_xmas_c19_iceshards_64_a_6_2.png
+  rotate: false
+  xy: 105, 24
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+xmas_c19_iceshards_xmas_c19_iceshards_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1

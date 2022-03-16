@@ -1,0 +1,34 @@
+
+uni_fridge.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_fridge_uni_fridge_32_a_0_0.png
+  rotate: false
+  xy: 109, 8
+  size: 21, 29
+  orig: 21, 29
+  offset: 0, 0
+  index: -1
+uni_fridge_uni_fridge_64_a_0_0.png
+  rotate: false
+  xy: 67, 2
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+uni_fridge_uni_fridge_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+uni_fridge_uni_fridge_64_sd_0_0.png
+  rotate: false
+  xy: 109, 39
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1

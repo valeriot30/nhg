@@ -1,0 +1,55 @@
+
+bardesk_polyfon.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bardesk_polyfon_bardesk_polyfon_64_2_sd_0_0.png
+  rotate: false
+  xy: 228, 34
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+bardesk_polyfon_bardesk_polyfon_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+bardesk_polyfon_bardesk_polyfon_64_b_0_0.png
+  rotate: false
+  xy: 60, 2
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+bardesk_polyfon_bardesk_polyfon_64_c_0_0.png
+  rotate: false
+  xy: 117, 27
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+bardesk_polyfon_bardesk_polyfon_64_d_0_0.png
+  rotate: false
+  xy: 173, 27
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+bardesk_polyfon_bardesk_polyfon_icon_a.png
+  rotate: false
+  xy: 285, 37
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+bardesk_polyfon_bardesk_polyfon_icon_b.png
+  rotate: false
+  xy: 117, 9
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+guitar_v.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+guitar_v_guitar_v_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 81, 44
+  orig: 81, 44
+  offset: 0, 0
+  index: -1
+guitar_v_guitar_v_64_b_2_0.png
+  rotate: false
+  xy: 85, 8
+  size: 80, 38
+  orig: 80, 38
+  offset: 0, 0
+  index: -1
+guitar_v_guitar_v_icon_a.png
+  rotate: false
+  xy: 167, 29
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1

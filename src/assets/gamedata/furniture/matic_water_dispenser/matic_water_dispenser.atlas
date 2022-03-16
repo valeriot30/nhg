@@ -1,0 +1,202 @@
+
+matic_water_dispenser.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+matic_water_dispenser_matic_water_dispenser_32_d_4_6.png
+  rotate: false
+  xy: 125, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_a_4_0.png
+  rotate: false
+  xy: 2, 120
+  size: 48, 134
+  orig: 48, 134
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_b_4_0.png
+  rotate: false
+  xy: 52, 188
+  size: 52, 66
+  orig: 52, 66
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_c_4_2.png
+  rotate: false
+  xy: 106, 128
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_c_4_3.png
+  rotate: false
+  xy: 32, 24
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_c_4_4.png
+  rotate: false
+  xy: 68, 123
+  size: 19, 16
+  orig: 19, 16
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_c_4_5.png
+  rotate: false
+  xy: 106, 145
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_c_4_6.png
+  rotate: false
+  xy: 89, 120
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_c_4_7.png
+  rotate: false
+  xy: 106, 111
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_d_4_0.png
+  rotate: false
+  xy: 102, 184
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_d_4_1.png
+  rotate: false
+  xy: 17, 2
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_d_4_2.png
+  rotate: false
+  xy: 45, 99
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_d_4_3.png
+  rotate: false
+  xy: 2, 10
+  size: 13, 35
+  orig: 13, 35
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_d_4_4.png
+  rotate: false
+  xy: 52, 128
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_d_4_5.png
+  rotate: false
+  xy: 54, 112
+  size: 9, 14
+  orig: 9, 14
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_e_4_0.png
+  rotate: false
+  xy: 106, 218
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_e_4_1.png
+  rotate: false
+  xy: 106, 199
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_e_4_2.png
+  rotate: false
+  xy: 106, 237
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_e_4_3.png
+  rotate: false
+  xy: 89, 138
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_e_4_4.png
+  rotate: false
+  xy: 102, 162
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_e_4_5.png
+  rotate: false
+  xy: 106, 180
+  size: 20, 17
+  orig: 20, 17
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_e_4_6.png
+  rotate: false
+  xy: 45, 78
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_e_4_7.png
+  rotate: false
+  xy: 68, 141
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_f_4_0.png
+  rotate: false
+  xy: 2, 47
+  size: 41, 71
+  orig: 41, 71
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_g_4_0.png
+  rotate: false
+  xy: 32, 4
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_g_4_1.png
+  rotate: false
+  xy: 45, 58
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_64_sd_4_0.png
+  rotate: false
+  xy: 52, 161
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+matic_water_dispenser_matic_water_dispenser_icon_a.png
+  rotate: false
+  xy: 17, 15
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1

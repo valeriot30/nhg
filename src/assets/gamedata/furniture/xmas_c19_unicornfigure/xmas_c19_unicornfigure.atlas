@@ -1,0 +1,27 @@
+
+xmas_c19_unicornfigure.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_unicornfigure_xmas_c19_unicornfigure_64_a_0_0.png
+  rotate: false
+  xy: 2, 20
+  size: 34, 37
+  orig: 34, 37
+  offset: 0, 0
+  index: -1
+xmas_c19_unicornfigure_xmas_c19_unicornfigure_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 16
+  orig: 32, 16
+  offset: 0, 0
+  index: -1
+xmas_c19_unicornfigure_xmas_c19_unicornfigure_icon_a.png
+  rotate: false
+  xy: 38, 27
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

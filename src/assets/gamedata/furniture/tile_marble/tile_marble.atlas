@@ -1,0 +1,41 @@
+
+tile_marble.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+tile_marble_tile_marble_64_a_0_0.png
+  rotate: false
+  xy: 66, 20
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tile_marble_tile_marble_64_a_2_0.png
+  rotate: false
+  xy: 194, 20
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tile_marble_tile_marble_64_a_4_0.png
+  rotate: false
+  xy: 130, 20
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tile_marble_tile_marble_64_a_6_0.png
+  rotate: false
+  xy: 2, 20
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+tile_marble_tile_marble_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1

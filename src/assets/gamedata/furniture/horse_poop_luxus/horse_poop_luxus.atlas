@@ -1,0 +1,202 @@
+
+horse_poop_luxus.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+horse_poop_luxus_horse_poop_luxus_64_a_2_0.png
+  rotate: false
+  xy: 174, 16
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_a_2_1.png
+  rotate: false
+  xy: 354, 45
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_a_2_2.png
+  rotate: false
+  xy: 346, 18
+  size: 38, 25
+  orig: 38, 25
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_0.png
+  rotate: false
+  xy: 322, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_1.png
+  rotate: false
+  xy: 290, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_10.png
+  rotate: false
+  xy: 2, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_2.png
+  rotate: false
+  xy: 258, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_3.png
+  rotate: false
+  xy: 130, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_4.png
+  rotate: false
+  xy: 98, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_5.png
+  rotate: false
+  xy: 66, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_6.png
+  rotate: false
+  xy: 34, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_7.png
+  rotate: false
+  xy: 226, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_8.png
+  rotate: false
+  xy: 194, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_b_2_9.png
+  rotate: false
+  xy: 162, 45
+  size: 30, 81
+  orig: 30, 81
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_0.png
+  rotate: false
+  xy: 440, 70
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_1.png
+  rotate: false
+  xy: 131, 16
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_10.png
+  rotate: false
+  xy: 217, 16
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_11.png
+  rotate: false
+  xy: 303, 16
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_12.png
+  rotate: false
+  xy: 260, 16
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_2.png
+  rotate: false
+  xy: 88, 16
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_3.png
+  rotate: false
+  xy: 397, 99
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_4.png
+  rotate: false
+  xy: 440, 99
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_5.png
+  rotate: false
+  xy: 397, 70
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_6.png
+  rotate: false
+  xy: 354, 99
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_7.png
+  rotate: false
+  xy: 2, 16
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_8.png
+  rotate: false
+  xy: 354, 70
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_64_c_2_9.png
+  rotate: false
+  xy: 45, 16
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+horse_poop_luxus_horse_poop_luxus_icon_a.png
+  rotate: false
+  xy: 346, 2
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+pirate_swordrack.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_swordrack_pirate_swordrack_64_a_4_0.png
+  rotate: false
+  xy: 120, 10
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+pirate_swordrack_pirate_swordrack_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 57, 122
+  orig: 57, 122
+  offset: 0, 0
+  index: -1
+pirate_swordrack_pirate_swordrack_64_b_4_1.png
+  rotate: false
+  xy: 61, 2
+  size: 57, 122
+  orig: 57, 122
+  offset: 0, 0
+  index: -1
+pirate_swordrack_pirate_swordrack_64_sd_4_0.png
+  rotate: false
+  xy: 167, 78
+  size: 87, 46
+  orig: 87, 46
+  offset: 0, 0
+  index: -1
+pirate_swordrack_pirate_swordrack_icon_a.png
+  rotate: false
+  xy: 167, 46
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

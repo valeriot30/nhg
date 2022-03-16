@@ -1,0 +1,27 @@
+
+ads_antena3_wall.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_antena3_wall_ads_antena3_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+ads_antena3_wall_ads_antena3_wall_64_a_4_0.png
+  rotate: false
+  xy: 81, 2
+  size: 77, 98
+  orig: 77, 98
+  offset: 0, 0
+  index: -1
+ads_antena3_wall_ads_antena3_wall_icon_a.png
+  rotate: false
+  xy: 160, 71
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,55 @@
+
+cubie_decal_3.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cubie_decal_3_cubie_decal_3_64_a_2_0.png
+  rotate: false
+  xy: 66, 21
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+cubie_decal_3_cubie_decal_3_64_a_2_1.png
+  rotate: false
+  xy: 130, 22
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+cubie_decal_3_cubie_decal_3_64_a_2_2.png
+  rotate: false
+  xy: 2, 21
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+cubie_decal_3_cubie_decal_3_64_b_2_0.png
+  rotate: false
+  xy: 256, 23
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+cubie_decal_3_cubie_decal_3_64_b_2_1.png
+  rotate: false
+  xy: 318, 24
+  size: 60, 38
+  orig: 60, 38
+  offset: 0, 0
+  index: -1
+cubie_decal_3_cubie_decal_3_64_b_2_2.png
+  rotate: false
+  xy: 194, 23
+  size: 60, 39
+  orig: 60, 39
+  offset: 0, 0
+  index: -1
+cubie_decal_3_cubie_decal_3_icon_a.png
+  rotate: false
+  xy: 318, 2
+  size: 30, 20
+  orig: 30, 20
+  offset: 0, 0
+  index: -1

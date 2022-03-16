@@ -1,0 +1,20 @@
+
+leprechaun_box.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+leprechaun_box_leprechaun_box_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 110
+  orig: 66, 110
+  offset: 0, 0
+  index: -1
+leprechaun_box_leprechaun_box_icon_a.png
+  rotate: false
+  xy: 70, 81
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1

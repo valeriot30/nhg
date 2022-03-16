@@ -1,0 +1,20 @@
+
+coralking_c18_trident.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_trident_coralking_c18_trident_64_a_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 47, 69
+  orig: 47, 69
+  offset: 0, 0
+  index: -1
+coralking_c18_trident_coralking_c18_trident_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

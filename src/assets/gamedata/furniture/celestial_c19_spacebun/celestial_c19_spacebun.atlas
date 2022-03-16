@@ -1,0 +1,27 @@
+
+celestial_c19_spacebun.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+celestial_c19_spacebun_celestial_c19_spacebun_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+celestial_c19_spacebun_celestial_c19_spacebun_64_sd_0_0.png
+  rotate: false
+  xy: 70, 38
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+celestial_c19_spacebun_celestial_c19_spacebun_icon_a.png
+  rotate: false
+  xy: 43, 25
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xmas_c18_stool.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_stool_xmas_c18_stool_64_a_0_0.png
+  rotate: false
+  xy: 2, 11
+  size: 29, 40
+  orig: 29, 40
+  offset: 0, 0
+  index: -1
+xmas_c18_stool_xmas_c18_stool_64_sd_0_0.png
+  rotate: false
+  xy: 33, 36
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+xmas_c18_stool_xmas_c18_stool_icon_a.png
+  rotate: false
+  xy: 33, 2
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

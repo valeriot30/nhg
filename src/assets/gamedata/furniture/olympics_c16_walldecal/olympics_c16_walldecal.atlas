@@ -1,0 +1,55 @@
+
+olympics_c16_walldecal.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+olympics_c16_walldecal_olympics_c16_walldecal_64_a_2_0.png
+  rotate: false
+  xy: 47, 32
+  size: 43, 136
+  orig: 43, 136
+  offset: 0, 0
+  index: -1
+olympics_c16_walldecal_olympics_c16_walldecal_64_a_2_1.png
+  rotate: false
+  xy: 227, 33
+  size: 43, 135
+  orig: 43, 135
+  offset: 0, 0
+  index: -1
+olympics_c16_walldecal_olympics_c16_walldecal_64_a_2_2.png
+  rotate: false
+  xy: 182, 33
+  size: 43, 135
+  orig: 43, 135
+  offset: 0, 0
+  index: -1
+olympics_c16_walldecal_olympics_c16_walldecal_64_a_4_0.png
+  rotate: false
+  xy: 2, 32
+  size: 43, 136
+  orig: 43, 136
+  offset: 0, 0
+  index: -1
+olympics_c16_walldecal_olympics_c16_walldecal_64_a_4_1.png
+  rotate: false
+  xy: 92, 33
+  size: 43, 135
+  orig: 43, 135
+  offset: 0, 0
+  index: -1
+olympics_c16_walldecal_olympics_c16_walldecal_64_a_4_2.png
+  rotate: false
+  xy: 137, 33
+  size: 43, 135
+  orig: 43, 135
+  offset: 0, 0
+  index: -1
+olympics_c16_walldecal_olympics_c16_walldecal_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 28
+  orig: 17, 28
+  offset: 0, 0
+  index: -1

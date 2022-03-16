@@ -1,0 +1,41 @@
+
+xmas13_eggnogglass.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas13_eggnogglass_xmas13_eggnogglass_32_a_0_0.png
+  rotate: false
+  xy: 170, 29
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1
+xmas13_eggnogglass_xmas13_eggnogglass_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+xmas13_eggnogglass_xmas13_eggnogglass_64_a_0_1.png
+  rotate: false
+  xy: 59, 15
+  size: 54, 41
+  orig: 54, 41
+  offset: 0, 0
+  index: -1
+xmas13_eggnogglass_xmas13_eggnogglass_64_sd_0_0.png
+  rotate: false
+  xy: 115, 26
+  size: 48, 12
+  orig: 48, 12
+  offset: 0, 0
+  index: -1
+xmas13_eggnogglass_xmas13_eggnogglass_64_sd_0_1.png
+  rotate: false
+  xy: 115, 40
+  size: 53, 16
+  orig: 53, 16
+  offset: 0, 0
+  index: -1

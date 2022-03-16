@@ -1,0 +1,41 @@
+
+hween_c17_lichen.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_lichen_hween_c17_lichen_64_a_0_0.png
+  rotate: false
+  xy: 54, 11
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1
+hween_c17_lichen_hween_c17_lichen_64_a_0_1.png
+  rotate: false
+  xy: 2, 2
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+hween_c17_lichen_hween_c17_lichen_64_a_0_2.png
+  rotate: false
+  xy: 2, 31
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+hween_c17_lichen_hween_c17_lichen_64_a_0_3.png
+  rotate: false
+  xy: 54, 36
+  size: 40, 22
+  orig: 40, 22
+  offset: 0, 0
+  index: -1
+hween_c17_lichen_hween_c17_lichen_icon_a.png
+  rotate: false
+  xy: 96, 29
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

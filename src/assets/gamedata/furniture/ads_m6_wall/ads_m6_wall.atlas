@@ -1,0 +1,27 @@
+
+ads_m6_wall.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_m6_wall_ads_m6_wall_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+ads_m6_wall_ads_m6_wall_64_a_4_0.png
+  rotate: false
+  xy: 78, 34
+  size: 74, 90
+  orig: 74, 90
+  offset: 0, 0
+  index: -1
+ads_m6_wall_ads_m6_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

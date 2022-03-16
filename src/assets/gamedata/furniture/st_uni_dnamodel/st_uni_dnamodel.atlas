@@ -1,0 +1,27 @@
+
+st_uni_dnamodel.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+st_uni_dnamodel_st_uni_dnamodel_64_a_4_0.png
+  rotate: false
+  xy: 2, 55
+  size: 46, 91
+  orig: 46, 91
+  offset: 0, 0
+  index: -1
+st_uni_dnamodel_st_uni_dnamodel_64_sd_4_0.png
+  rotate: false
+  xy: 2, 30
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+st_uni_dnamodel_st_uni_dnamodel_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+rare_prize17xmas.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rare_prize17xmas_rare_prize17xmas_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+rare_prize17xmas_rare_prize17xmas_64_c_4_0.png
+  rotate: false
+  xy: 114, 48
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+rare_prize17xmas_rare_prize17xmas_64_c_4_1.png
+  rotate: false
+  xy: 105, 30
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+rare_prize17xmas_rare_prize17xmas_64_c_4_2.png
+  rotate: false
+  xy: 88, 2
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+rare_prize17xmas_rare_prize17xmas_64_c_4_3.png
+  rotate: false
+  xy: 88, 9
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+rare_prize17xmas_rare_prize17xmas_64_c_4_4.png
+  rotate: false
+  xy: 114, 51
+  size: 11, 11
+  orig: 11, 11
+  offset: 0, 0
+  index: -1
+rare_prize17xmas_rare_prize17xmas_64_c_4_5.png
+  rotate: false
+  xy: 88, 18
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+rare_prize17xmas_rare_prize17xmas_64_sd_4_0.png
+  rotate: false
+  xy: 58, 35
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+rare_prize17xmas_rare_prize17xmas_icon_a.png
+  rotate: false
+  xy: 58, 3
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+african_tree2.png
+size: 256,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+african_tree2_african_tree2_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 153, 205
+  orig: 153, 205
+  offset: 0, 0
+  index: -1
+african_tree2_african_tree2_64_a_0_1.png
+  rotate: false
+  xy: 2, 209
+  size: 153, 225
+  orig: 153, 225
+  offset: 0, 0
+  index: -1
+african_tree2_african_tree2_64_a_0_2.png
+  rotate: false
+  xy: 2, 436
+  size: 153, 245
+  orig: 153, 245
+  offset: 0, 0
+  index: -1
+african_tree2_african_tree2_64_a_0_3.png
+  rotate: false
+  xy: 2, 683
+  size: 153, 265
+  orig: 153, 265
+  offset: 0, 0
+  index: -1
+african_tree2_african_tree2_icon_a.png
+  rotate: false
+  xy: 157, 918
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+bazaar_c17_dyepink.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_dyepink_bazaar_c17_dyepink_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+bazaar_c17_dyepink_bazaar_c17_dyepink_64_sd_0_0.png
+  rotate: false
+  xy: 67, 13
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+bazaar_c17_dyepink_bazaar_c17_dyepink_icon_a.png
+  rotate: false
+  xy: 35, 2
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

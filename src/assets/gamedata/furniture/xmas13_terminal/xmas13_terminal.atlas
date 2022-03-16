@@ -1,0 +1,244 @@
+
+xmas13_terminal.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas13_terminal_xmas13_terminal_32_h_4_4.png
+  rotate: false
+  xy: 1010, 125
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_a_4_0.png
+  rotate: false
+  xy: 98, 38
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_b_4_0.png
+  rotate: false
+  xy: 802, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_b_4_1.png
+  rotate: false
+  xy: 750, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_b_4_2.png
+  rotate: false
+  xy: 698, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_b_4_3.png
+  rotate: false
+  xy: 257, 9
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_b_4_4.png
+  rotate: false
+  xy: 958, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_b_4_5.png
+  rotate: false
+  xy: 906, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_b_4_6.png
+  rotate: false
+  xy: 854, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_b_4_7.png
+  rotate: false
+  xy: 646, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_b_4_8.png
+  rotate: false
+  xy: 594, 76
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_0.png
+  rotate: false
+  xy: 594, 28
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_1.png
+  rotate: false
+  xy: 207, 3
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_2.png
+  rotate: false
+  xy: 408, 12
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_3.png
+  rotate: false
+  xy: 309, 12
+  size: 48, 47
+  orig: 48, 47
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_4.png
+  rotate: false
+  xy: 496, 16
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_5.png
+  rotate: false
+  xy: 781, 27
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_6.png
+  rotate: false
+  xy: 448, 16
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_7.png
+  rotate: false
+  xy: 690, 27
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_8.png
+  rotate: false
+  xy: 359, 12
+  size: 47, 47
+  orig: 47, 47
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_c_4_9.png
+  rotate: false
+  xy: 98, 35
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_d_4_0.png
+  rotate: false
+  xy: 2, 11
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_e_4_0.png
+  rotate: false
+  xy: 441, 66
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_e_4_1.png
+  rotate: false
+  xy: 2, 32
+  size: 94, 94
+  orig: 94, 94
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_e_4_2.png
+  rotate: false
+  xy: 164, 53
+  size: 74, 73
+  orig: 74, 73
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_f_4_0.png
+  rotate: false
+  xy: 374, 61
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_f_4_1.png
+  rotate: false
+  xy: 307, 61
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_f_4_2.png
+  rotate: false
+  xy: 240, 61
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_g_4_0.png
+  rotate: false
+  xy: 642, 27
+  size: 46, 47
+  orig: 46, 47
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_h_4_0.png
+  rotate: false
+  xy: 503, 64
+  size: 44, 62
+  orig: 44, 62
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_h_4_1.png
+  rotate: false
+  xy: 549, 68
+  size: 43, 58
+  orig: 43, 58
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_h_4_2.png
+  rotate: false
+  xy: 737, 20
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_64_h_4_3.png
+  rotate: false
+  xy: 164, 2
+  size: 41, 49
+  orig: 41, 49
+  offset: 0, 0
+  index: -1
+xmas13_terminal_xmas13_terminal_icon_a.png
+  rotate: false
+  xy: 821, 44
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1

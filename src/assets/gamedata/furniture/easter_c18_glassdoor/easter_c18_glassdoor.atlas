@@ -1,0 +1,55 @@
+
+easter_c18_glassdoor.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c18_glassdoor_easter_c18_glassdoor_64_a_2_0.png
+  rotate: false
+  xy: 39, 49
+  size: 35, 175
+  orig: 35, 175
+  offset: 0, 0
+  index: -1
+easter_c18_glassdoor_easter_c18_glassdoor_64_b_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 35, 190
+  orig: 35, 190
+  offset: 0, 0
+  index: -1
+easter_c18_glassdoor_easter_c18_glassdoor_64_c_2_0.png
+  rotate: false
+  xy: 144, 82
+  size: 30, 142
+  orig: 30, 142
+  offset: 0, 0
+  index: -1
+easter_c18_glassdoor_easter_c18_glassdoor_64_c_2_1.png
+  rotate: false
+  xy: 76, 82
+  size: 32, 142
+  orig: 32, 142
+  offset: 0, 0
+  index: -1
+easter_c18_glassdoor_easter_c18_glassdoor_64_d_2_0.png
+  rotate: false
+  xy: 176, 83
+  size: 29, 141
+  orig: 29, 141
+  offset: 0, 0
+  index: -1
+easter_c18_glassdoor_easter_c18_glassdoor_64_d_2_1.png
+  rotate: false
+  xy: 110, 82
+  size: 32, 142
+  orig: 32, 142
+  offset: 0, 0
+  index: -1
+easter_c18_glassdoor_easter_c18_glassdoor_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

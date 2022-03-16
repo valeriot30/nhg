@@ -1,0 +1,118 @@
+
+ktchn_c15_crn.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ktchn_c15_crn_ktchn_c15_crn_64_a_0_4.png
+  rotate: false
+  xy: 2, 4
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_a_2_0.png
+  rotate: false
+  xy: 187, 80
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_a_4_0.png
+  rotate: false
+  xy: 70, 37
+  size: 66, 24
+  orig: 66, 24
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_a_6_1.png
+  rotate: false
+  xy: 70, 2
+  size: 47, 33
+  orig: 47, 33
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_0_1.png
+  rotate: false
+  xy: 70, 121
+  size: 66, 62
+  orig: 66, 62
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_0_4.png
+  rotate: false
+  xy: 2, 109
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_2_0.png
+  rotate: false
+  xy: 138, 127
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_2_1.png
+  rotate: false
+  xy: 138, 57
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_2_2.png
+  rotate: false
+  xy: 70, 185
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_2_3.png
+  rotate: false
+  xy: 2, 39
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_4_0.png
+  rotate: false
+  xy: 70, 63
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_4_1.png
+  rotate: false
+  xy: 138, 197
+  size: 66, 56
+  orig: 66, 56
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_6_0.png
+  rotate: false
+  xy: 187, 115
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_6_1.png
+  rotate: false
+  xy: 206, 185
+  size: 47, 68
+  orig: 47, 68
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_64_b_6_3.png
+  rotate: false
+  xy: 2, 182
+  size: 66, 71
+  orig: 66, 71
+  offset: 0, 0
+  index: -1
+ktchn_c15_crn_ktchn_c15_crn_icon_a.png
+  rotate: false
+  xy: 187, 55
+  size: 28, 23
+  orig: 28, 23
+  offset: 0, 0
+  index: -1

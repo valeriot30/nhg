@@ -1,0 +1,27 @@
+
+hotel_c18_tree.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hotel_c18_tree_hotel_c18_tree_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 84, 113
+  orig: 84, 113
+  offset: 0, 0
+  index: -1
+hotel_c18_tree_hotel_c18_tree_64_sd_0_0.png
+  rotate: false
+  xy: 88, 88
+  size: 54, 27
+  orig: 54, 27
+  offset: 0, 0
+  index: -1
+hotel_c18_tree_hotel_c18_tree_icon_a.png
+  rotate: false
+  xy: 88, 54
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1

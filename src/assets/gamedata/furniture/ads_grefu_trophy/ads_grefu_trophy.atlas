@@ -1,0 +1,27 @@
+
+ads_grefu_trophy.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_grefu_trophy_ads_grefu_trophy_64_a_0_0.png
+  rotate: false
+  xy: 2, 42
+  size: 40, 104
+  orig: 40, 104
+  offset: 0, 0
+  index: -1
+ads_grefu_trophy_ads_grefu_trophy_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+ads_grefu_trophy_ads_grefu_trophy_icon_a.png
+  rotate: false
+  xy: 2, 15
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,153 @@
+
+xm09_infotv.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm09_infotv_xm09_infotv_32_c_2_0.png
+  rotate: false
+  xy: 253, 250
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_32_c_2_0.png
+  rotate: false
+  xy: 253, 247
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_32_c_2_0.png
+  rotate: false
+  xy: 253, 244
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_32_c_2_0.png
+  rotate: false
+  xy: 253, 241
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_a_2_0.png
+  rotate: false
+  xy: 2, 5
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_a_4_0.png
+  rotate: false
+  xy: 76, 173
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_b_2_1.png
+  rotate: false
+  xy: 2, 169
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_b_4_1.png
+  rotate: false
+  xy: 2, 85
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_2_1.png
+  rotate: false
+  xy: 138, 196
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_2_2.png
+  rotate: false
+  xy: 120, 116
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_2_3.png
+  rotate: false
+  xy: 64, 2
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_2_4.png
+  rotate: false
+  xy: 76, 59
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_2_5.png
+  rotate: false
+  xy: 182, 196
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_2_6.png
+  rotate: false
+  xy: 76, 116
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_4_1.png
+  rotate: false
+  xy: 120, 59
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_4_2.png
+  rotate: false
+  xy: 108, 2
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_4_3.png
+  rotate: false
+  xy: 164, 139
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_4_4.png
+  rotate: false
+  xy: 164, 82
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_4_5.png
+  rotate: false
+  xy: 208, 139
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_64_c_4_6.png
+  rotate: false
+  xy: 208, 82
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+xm09_infotv_xm09_infotv_icon_a.png
+  rotate: false
+  xy: 226, 221
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+xm09_bauble_13.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm09_bauble_13_xm09_bauble_13_64_a_2_0.png
+  rotate: false
+  xy: 34, 22
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+xm09_bauble_13_xm09_bauble_13_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 42
+  orig: 14, 42
+  offset: 0, 0
+  index: -1
+xm09_bauble_13_xm09_bauble_13_icon_a.png
+  rotate: false
+  xy: 18, 14
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

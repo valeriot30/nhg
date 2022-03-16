@@ -1,0 +1,48 @@
+
+anc_artifact2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anc_artifact2_anc_artifact2_64_a_2_0.png
+  rotate: false
+  xy: 74, 79
+  size: 85, 38
+  orig: 85, 38
+  offset: 0, 0
+  index: -1
+anc_artifact2_anc_artifact2_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+anc_artifact2_anc_artifact2_64_c_2_0.png
+  rotate: false
+  xy: 2, 39
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+anc_artifact2_anc_artifact2_64_d_2_0.png
+  rotate: false
+  xy: 2, 119
+  size: 133, 135
+  orig: 133, 135
+  offset: 0, 0
+  index: -1
+anc_artifact2_anc_artifact2_64_e_2_0.png
+  rotate: false
+  xy: 137, 133
+  size: 62, 121
+  orig: 62, 121
+  offset: 0, 0
+  index: -1
+anc_artifact2_anc_artifact2_icon_a.png
+  rotate: false
+  xy: 201, 222
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1

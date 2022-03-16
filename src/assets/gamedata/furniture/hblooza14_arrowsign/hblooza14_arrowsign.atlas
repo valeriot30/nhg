@@ -1,0 +1,34 @@
+
+hblooza14_arrowsign.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hblooza14_arrowsign_hblooza14_arrowsign_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+hblooza14_arrowsign_hblooza14_arrowsign_64_a_6_0.png
+  rotate: false
+  xy: 57, 34
+  size: 53, 150
+  orig: 53, 150
+  offset: 0, 0
+  index: -1
+hblooza14_arrowsign_hblooza14_arrowsign_64_sd_0_0.png
+  rotate: false
+  xy: 112, 179
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+hblooza14_arrowsign_hblooza14_arrowsign_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1

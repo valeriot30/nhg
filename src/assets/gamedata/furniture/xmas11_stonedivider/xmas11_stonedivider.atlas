@@ -1,0 +1,34 @@
+
+xmas11_stonedivider.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas11_stonedivider_xmas11_stonedivider_64_a_0_0.png
+  rotate: false
+  xy: 116, 18
+  size: 22, 44
+  orig: 22, 44
+  offset: 0, 0
+  index: -1
+xmas11_stonedivider_xmas11_stonedivider_64_b_0_0.png
+  rotate: false
+  xy: 60, 2
+  size: 54, 60
+  orig: 54, 60
+  offset: 0, 0
+  index: -1
+xmas11_stonedivider_xmas11_stonedivider_64_c_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 56, 60
+  orig: 56, 60
+  offset: 0, 0
+  index: -1
+xmas11_stonedivider_xmas11_stonedivider_icon_a.png
+  rotate: false
+  xy: 140, 36
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1

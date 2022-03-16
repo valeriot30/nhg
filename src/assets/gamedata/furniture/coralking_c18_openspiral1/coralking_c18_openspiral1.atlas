@@ -1,0 +1,27 @@
+
+coralking_c18_openspiral1.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_openspiral1_coralking_c18_openspiral1_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 20
+  orig: 35, 20
+  offset: 0, 0
+  index: -1
+coralking_c18_openspiral1_coralking_c18_openspiral1_64_sd_0_0.png
+  rotate: false
+  xy: 72, 13
+  size: 34, 9
+  orig: 34, 9
+  offset: 0, 0
+  index: -1
+coralking_c18_openspiral1_coralking_c18_openspiral1_icon_a.png
+  rotate: false
+  xy: 39, 4
+  size: 31, 18
+  orig: 31, 18
+  offset: 0, 0
+  index: -1

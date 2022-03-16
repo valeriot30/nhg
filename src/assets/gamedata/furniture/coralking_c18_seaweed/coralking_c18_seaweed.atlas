@@ -1,0 +1,27 @@
+
+coralking_c18_seaweed.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_seaweed_coralking_c18_seaweed_64_a_0_0.png
+  rotate: false
+  xy: 2, 52
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+coralking_c18_seaweed_coralking_c18_seaweed_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+coralking_c18_seaweed_coralking_c18_seaweed_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

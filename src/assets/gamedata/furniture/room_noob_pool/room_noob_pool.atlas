@@ -1,0 +1,83 @@
+
+room_noob_pool.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+room_noob_pool_room_noob_pool_64_a_0_0.png
+  rotate: false
+  xy: 926, 21
+  size: 66, 39
+  orig: 66, 39
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_64_b_0_0.png
+  rotate: false
+  xy: 562, 19
+  size: 130, 41
+  orig: 130, 41
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_64_c_0_0.png
+  rotate: false
+  xy: 2, 19
+  size: 188, 41
+  orig: 188, 41
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_64_d_0_0.png
+  rotate: false
+  xy: 386, 19
+  size: 174, 41
+  orig: 174, 41
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_64_e_0_0.png
+  rotate: false
+  xy: 826, 34
+  size: 98, 26
+  orig: 98, 26
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_64_f_0_0.png
+  rotate: false
+  xy: 2, 3
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_64_g_0_0.png
+  rotate: false
+  xy: 260, 2
+  size: 34, 28
+  orig: 34, 28
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_64_h_0_0.png
+  rotate: false
+  xy: 192, 32
+  size: 192, 28
+  orig: 192, 28
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_64_i_0_0.png
+  rotate: false
+  xy: 694, 32
+  size: 130, 28
+  orig: 130, 28
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_64_j_0_0.png
+  rotate: false
+  xy: 192, 5
+  size: 66, 25
+  orig: 66, 25
+  offset: 0, 0
+  index: -1
+room_noob_pool_room_noob_pool_icon_a.png
+  rotate: false
+  xy: 296, 3
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

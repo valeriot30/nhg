@@ -1,0 +1,41 @@
+
+anc_waterfall.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+anc_waterfall_anc_waterfall_64_a_4_0.png
+  rotate: false
+  xy: 78, 36
+  size: 71, 660
+  orig: 71, 660
+  offset: 0, 0
+  index: -1
+anc_waterfall_anc_waterfall_64_a_4_1.png
+  rotate: false
+  xy: 2, 33
+  size: 74, 663
+  orig: 74, 663
+  offset: 0, 0
+  index: -1
+anc_waterfall_anc_waterfall_64_a_4_2.png
+  rotate: false
+  xy: 228, 41
+  size: 73, 655
+  orig: 73, 655
+  offset: 0, 0
+  index: -1
+anc_waterfall_anc_waterfall_64_a_4_3.png
+  rotate: false
+  xy: 151, 41
+  size: 75, 655
+  orig: 75, 655
+  offset: 0, 0
+  index: -1
+anc_waterfall_anc_waterfall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1

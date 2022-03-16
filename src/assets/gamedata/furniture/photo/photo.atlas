@@ -1,0 +1,20 @@
+
+photo.png
+size: 32,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+photo_photo_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 23
+  orig: 14, 23
+  offset: 0, 0
+  index: -1
+photo_photo_icon_a.png
+  rotate: false
+  xy: 2, 27
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1

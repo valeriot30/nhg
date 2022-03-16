@@ -1,0 +1,20 @@
+
+coralking_c18_closedspiral1.png
+size: 64,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_closedspiral1_coralking_c18_closedspiral1_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+coralking_c18_closedspiral1_coralking_c18_closedspiral1_64_sd_0_0.png
+  rotate: false
+  xy: 30, 14
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1

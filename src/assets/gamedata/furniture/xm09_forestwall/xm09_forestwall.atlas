@@ -1,0 +1,27 @@
+
+xm09_forestwall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xm09_forestwall_xm09_forestwall_64_a_2_0.png
+  rotate: false
+  xy: 161, 102
+  size: 83, 144
+  orig: 83, 144
+  offset: 0, 0
+  index: -1
+xm09_forestwall_xm09_forestwall_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 157, 244
+  orig: 157, 244
+  offset: 0, 0
+  index: -1
+xm09_forestwall_xm09_forestwall_icon_a.png
+  rotate: false
+  xy: 161, 68
+  size: 20, 32
+  orig: 20, 32
+  offset: 0, 0
+  index: -1

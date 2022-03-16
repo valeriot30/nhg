@@ -1,0 +1,41 @@
+
+fest_c19_cushion3.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_cushion3_fest_c19_cushion3_64_a_0_0.png
+  rotate: false
+  xy: 226, 10
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+fest_c19_cushion3_fest_c19_cushion3_64_b_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 116, 44
+  orig: 116, 44
+  offset: 0, 0
+  index: -1
+fest_c19_cushion3_fest_c19_cushion3_64_c_0_0.png
+  rotate: false
+  xy: 291, 13
+  size: 56, 39
+  orig: 56, 39
+  offset: 0, 0
+  index: -1
+fest_c19_cushion3_fest_c19_cushion3_64_sd_0_0.png
+  rotate: false
+  xy: 120, 2
+  size: 104, 50
+  orig: 104, 50
+  offset: 0, 0
+  index: -1
+fest_c19_cushion3_fest_c19_cushion3_icon_a.png
+  rotate: false
+  xy: 349, 30
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1

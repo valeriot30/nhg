@@ -1,0 +1,27 @@
+
+window_golden.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window_golden_window_golden_64_2_mask.png
+  rotate: false
+  xy: 65, 24
+  size: 43, 78
+  orig: 43, 78
+  offset: 0, 0
+  index: -1
+window_golden_window_golden_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 100
+  orig: 61, 100
+  offset: 0, 0
+  index: -1
+window_golden_window_golden_icon_a.png
+  rotate: false
+  xy: 110, 82
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1

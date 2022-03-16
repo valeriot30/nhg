@@ -1,0 +1,97 @@
+
+ads_idol_piano.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_idol_piano_ads_idol_piano_64_a_0_0.png
+  rotate: false
+  xy: 117, 140
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_a_0_1.png
+  rotate: false
+  xy: 222, 140
+  size: 103, 101
+  orig: 103, 101
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_a_2_0.png
+  rotate: false
+  xy: 117, 52
+  size: 116, 86
+  orig: 116, 86
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_a_2_1.png
+  rotate: false
+  xy: 327, 155
+  size: 116, 86
+  orig: 116, 86
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_a_4_0.png
+  rotate: false
+  xy: 343, 61
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_a_4_1.png
+  rotate: false
+  xy: 235, 46
+  size: 106, 92
+  orig: 106, 92
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_a_6_0.png
+  rotate: false
+  xy: 2, 47
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_a_6_1.png
+  rotate: false
+  xy: 2, 145
+  size: 113, 96
+  orig: 113, 96
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_sd_0_0.png
+  rotate: false
+  xy: 343, 9
+  size: 101, 50
+  orig: 101, 50
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_sd_2_0.png
+  rotate: false
+  xy: 119, 12
+  size: 113, 38
+  orig: 113, 38
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_sd_4_0.png
+  rotate: false
+  xy: 234, 2
+  size: 102, 42
+  orig: 102, 42
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_64_sd_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 115, 43
+  orig: 115, 43
+  offset: 0, 0
+  index: -1
+ads_idol_piano_ads_idol_piano_icon_a.png
+  rotate: false
+  xy: 445, 212
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

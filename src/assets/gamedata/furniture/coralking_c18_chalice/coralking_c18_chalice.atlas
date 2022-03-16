@@ -1,0 +1,27 @@
+
+coralking_c18_chalice.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_chalice_coralking_c18_chalice_64_a_0_0.png
+  rotate: false
+  xy: 2, 13
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+coralking_c18_chalice_coralking_c18_chalice_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+coralking_c18_chalice_coralking_c18_chalice_icon_a.png
+  rotate: false
+  xy: 29, 26
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

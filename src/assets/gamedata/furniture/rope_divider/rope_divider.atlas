@@ -1,0 +1,55 @@
+
+rope_divider.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rope_divider_rope_divider_64_a_0_0.png
+  rotate: false
+  xy: 181, 3
+  size: 32, 56
+  orig: 32, 56
+  offset: 0, 0
+  index: -1
+rope_divider_rope_divider_64_a_0_1.png
+  rotate: false
+  xy: 239, 3
+  size: 21, 56
+  orig: 21, 56
+  offset: 0, 0
+  index: -1
+rope_divider_rope_divider_64_b_0_0.png
+  rotate: false
+  xy: 144, 3
+  size: 35, 56
+  orig: 35, 56
+  offset: 0, 0
+  index: -1
+rope_divider_rope_divider_64_b_0_1.png
+  rotate: false
+  xy: 215, 2
+  size: 22, 57
+  orig: 22, 57
+  offset: 0, 0
+  index: -1
+rope_divider_rope_divider_64_c_0_0.png
+  rotate: false
+  xy: 73, 27
+  size: 69, 32
+  orig: 69, 32
+  offset: 0, 0
+  index: -1
+rope_divider_rope_divider_64_c_0_1.png
+  rotate: false
+  xy: 2, 26
+  size: 69, 33
+  orig: 69, 33
+  offset: 0, 0
+  index: -1
+rope_divider_rope_divider_icon_a.png
+  rotate: false
+  xy: 262, 30
+  size: 24, 29
+  orig: 24, 29
+  offset: 0, 0
+  index: -1

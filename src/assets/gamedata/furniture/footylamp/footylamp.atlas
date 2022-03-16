@@ -1,0 +1,41 @@
+
+footylamp.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+footylamp_footylamp_64_a_0_0.png
+  rotate: false
+  xy: 2, 77
+  size: 40, 62
+  orig: 40, 62
+  offset: 0, 0
+  index: -1
+footylamp_footylamp_64_b_0_1.png
+  rotate: false
+  xy: 2, 35
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+footylamp_footylamp_64_c_0_0.png
+  rotate: false
+  xy: 57, 191
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+footylamp_footylamp_64_c_0_1.png
+  rotate: false
+  xy: 2, 141
+  size: 53, 51
+  orig: 53, 51
+  offset: 0, 0
+  index: -1
+footylamp_footylamp_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1

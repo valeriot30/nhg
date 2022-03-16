@@ -1,0 +1,34 @@
+
+stand_polyfon_z.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+stand_polyfon_z_stand_polyfon_z_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+stand_polyfon_z_stand_polyfon_z_64_sd_0_0.png
+  rotate: false
+  xy: 120, 14
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+stand_polyfon_z_stand_polyfon_z_64_sd_2_0.png
+  rotate: false
+  xy: 62, 14
+  size: 56, 33
+  orig: 56, 33
+  offset: 0, 0
+  index: -1
+stand_polyfon_z_stand_polyfon_z_icon_a.png
+  rotate: false
+  xy: 178, 24
+  size: 29, 23
+  orig: 29, 23
+  offset: 0, 0
+  index: -1

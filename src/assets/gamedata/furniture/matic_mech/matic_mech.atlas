@@ -1,0 +1,118 @@
+
+matic_mech.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+matic_mech_matic_mech_32_c_4_0.png
+  rotate: false
+  xy: 584, 99
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_a_4_0.png
+  rotate: false
+  xy: 584, 102
+  size: 53, 136
+  orig: 53, 136
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_a_4_1.png
+  rotate: false
+  xy: 639, 104
+  size: 53, 134
+  orig: 53, 134
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_a_4_2.png
+  rotate: false
+  xy: 694, 106
+  size: 52, 132
+  orig: 52, 132
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_b_4_0.png
+  rotate: false
+  xy: 2, 81
+  size: 81, 157
+  orig: 81, 157
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_b_4_1.png
+  rotate: false
+  xy: 168, 83
+  size: 81, 155
+  orig: 81, 155
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_b_4_2.png
+  rotate: false
+  xy: 251, 83
+  size: 81, 155
+  orig: 81, 155
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_b_4_3.png
+  rotate: false
+  xy: 334, 83
+  size: 81, 155
+  orig: 81, 155
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_b_4_4.png
+  rotate: false
+  xy: 417, 83
+  size: 81, 155
+  orig: 81, 155
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_b_4_5.png
+  rotate: false
+  xy: 85, 83
+  size: 81, 155
+  orig: 81, 155
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_b_4_6.png
+  rotate: false
+  xy: 500, 85
+  size: 82, 153
+  orig: 82, 153
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_c_4_1.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_c_4_2.png
+  rotate: false
+  xy: 748, 200
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_c_4_3.png
+  rotate: false
+  xy: 2, 41
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_64_sd_4_0.png
+  rotate: false
+  xy: 802, 212
+  size: 54, 26
+  orig: 54, 26
+  offset: 0, 0
+  index: -1
+matic_mech_matic_mech_icon_a.png
+  rotate: false
+  xy: 56, 49
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

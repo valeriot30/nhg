@@ -1,0 +1,27 @@
+
+exe_drinks_cabinet.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+exe_drinks_cabinet_exe_drinks_cabinet_64_a_2_0.png
+  rotate: false
+  xy: 2, 130
+  size: 69, 125
+  orig: 69, 125
+  offset: 0, 0
+  index: -1
+exe_drinks_cabinet_exe_drinks_cabinet_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 63, 126
+  orig: 63, 126
+  offset: 0, 0
+  index: -1
+exe_drinks_cabinet_exe_drinks_cabinet_icon_a.png
+  rotate: false
+  xy: 73, 223
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

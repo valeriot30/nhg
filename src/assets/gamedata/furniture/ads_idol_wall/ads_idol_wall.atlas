@@ -1,0 +1,62 @@
+
+ads_idol_wall.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_idol_wall_ads_idol_wall_64_a_2_0.png
+  rotate: false
+  xy: 416, 41
+  size: 63, 138
+  orig: 63, 138
+  offset: 0, 0
+  index: -1
+ads_idol_wall_ads_idol_wall_64_b_2_0.png
+  rotate: false
+  xy: 347, 35
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1
+ads_idol_wall_ads_idol_wall_64_b_2_1.png
+  rotate: false
+  xy: 140, 35
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1
+ads_idol_wall_ads_idol_wall_64_b_2_2.png
+  rotate: false
+  xy: 209, 35
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1
+ads_idol_wall_ads_idol_wall_64_b_2_3.png
+  rotate: false
+  xy: 2, 35
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1
+ads_idol_wall_ads_idol_wall_64_b_2_4.png
+  rotate: false
+  xy: 71, 35
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1
+ads_idol_wall_ads_idol_wall_64_b_4_4.png
+  rotate: false
+  xy: 278, 35
+  size: 67, 144
+  orig: 67, 144
+  offset: 0, 0
+  index: -1
+ads_idol_wall_ads_idol_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 31
+  orig: 14, 31
+  offset: 0, 0
+  index: -1

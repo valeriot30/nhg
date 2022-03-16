@@ -1,0 +1,27 @@
+
+suncity_c19_clock.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_clock_suncity_c19_clock_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 37, 56
+  orig: 37, 56
+  offset: 0, 0
+  index: -1
+suncity_c19_clock_suncity_c19_clock_64_sd_0_0.png
+  rotate: false
+  xy: 41, 40
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+suncity_c19_clock_suncity_c19_clock_icon_a.png
+  rotate: false
+  xy: 41, 8
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

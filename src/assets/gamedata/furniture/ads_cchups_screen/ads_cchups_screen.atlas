@@ -1,0 +1,433 @@
+
+ads_cchups_screen.png
+size: 4096,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_cchups_screen_ads_cchups_screen_64_a_2_0.png
+  rotate: false
+  xy: 628, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_2_1.png
+  rotate: false
+  xy: 665, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_2_2.png
+  rotate: false
+  xy: 702, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_2_3.png
+  rotate: false
+  xy: 739, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_2_4.png
+  rotate: false
+  xy: 776, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_2_5.png
+  rotate: false
+  xy: 813, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_4_0.png
+  rotate: false
+  xy: 887, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_4_1.png
+  rotate: false
+  xy: 850, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_4_2.png
+  rotate: false
+  xy: 961, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_4_3.png
+  rotate: false
+  xy: 924, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_4_4.png
+  rotate: false
+  xy: 554, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_a_4_5.png
+  rotate: false
+  xy: 591, 14
+  size: 35, 112
+  orig: 35, 112
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_2_0.png
+  rotate: false
+  xy: 1610, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_2_1.png
+  rotate: false
+  xy: 1746, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_2_2.png
+  rotate: false
+  xy: 1712, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_2_3.png
+  rotate: false
+  xy: 1678, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_2_4.png
+  rotate: false
+  xy: 1644, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_2_5.png
+  rotate: false
+  xy: 1780, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_4_0.png
+  rotate: false
+  xy: 1474, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_4_1.png
+  rotate: false
+  xy: 1440, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_4_2.png
+  rotate: false
+  xy: 1406, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_4_3.png
+  rotate: false
+  xy: 1542, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_4_4.png
+  rotate: false
+  xy: 1576, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_b_4_5.png
+  rotate: false
+  xy: 1508, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_2_0.png
+  rotate: false
+  xy: 1236, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_2_1.png
+  rotate: false
+  xy: 1202, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_2_2.png
+  rotate: false
+  xy: 1168, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_2_3.png
+  rotate: false
+  xy: 1134, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_2_4.png
+  rotate: false
+  xy: 1066, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_2_5.png
+  rotate: false
+  xy: 1100, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_4_0.png
+  rotate: false
+  xy: 998, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_4_1.png
+  rotate: false
+  xy: 1032, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_4_2.png
+  rotate: false
+  xy: 1372, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_4_3.png
+  rotate: false
+  xy: 1338, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_4_4.png
+  rotate: false
+  xy: 1304, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_c_4_5.png
+  rotate: false
+  xy: 1270, 12
+  size: 32, 114
+  orig: 32, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_2_0.png
+  rotate: false
+  xy: 2177, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_2_1.png
+  rotate: false
+  xy: 2111, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_2_2.png
+  rotate: false
+  xy: 2144, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_2_3.png
+  rotate: false
+  xy: 2078, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_2_4.png
+  rotate: false
+  xy: 2045, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_2_5.png
+  rotate: false
+  xy: 2012, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_4_0.png
+  rotate: false
+  xy: 1979, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_4_1.png
+  rotate: false
+  xy: 1847, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_4_2.png
+  rotate: false
+  xy: 1814, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_4_3.png
+  rotate: false
+  xy: 1913, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_4_4.png
+  rotate: false
+  xy: 1880, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_d_4_5.png
+  rotate: false
+  xy: 1946, 12
+  size: 31, 114
+  orig: 31, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_2_0.png
+  rotate: false
+  xy: 370, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_2_1.png
+  rotate: false
+  xy: 416, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_2_2.png
+  rotate: false
+  xy: 140, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_2_3.png
+  rotate: false
+  xy: 94, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_2_4.png
+  rotate: false
+  xy: 48, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_2_5.png
+  rotate: false
+  xy: 2, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_4_0.png
+  rotate: false
+  xy: 278, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_4_1.png
+  rotate: false
+  xy: 324, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_4_2.png
+  rotate: false
+  xy: 186, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_4_3.png
+  rotate: false
+  xy: 232, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_4_4.png
+  rotate: false
+  xy: 462, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_64_e_4_5.png
+  rotate: false
+  xy: 508, 12
+  size: 44, 114
+  orig: 44, 114
+  offset: 0, 0
+  index: -1
+ads_cchups_screen_ads_cchups_screen_icon_a.png
+  rotate: false
+  xy: 554, 2
+  size: 15, 10
+  orig: 15, 10
+  offset: 0, 0
+  index: -1

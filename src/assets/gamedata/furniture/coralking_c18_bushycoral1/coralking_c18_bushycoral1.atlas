@@ -1,0 +1,27 @@
+
+coralking_c18_bushycoral1.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_bushycoral1_coralking_c18_bushycoral1_64_a_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 47, 40
+  orig: 47, 40
+  offset: 0, 0
+  index: -1
+coralking_c18_bushycoral1_coralking_c18_bushycoral1_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+coralking_c18_bushycoral1_coralking_c18_bushycoral1_icon_a.png
+  rotate: false
+  xy: 51, 31
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

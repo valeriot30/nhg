@@ -1,0 +1,48 @@
+
+ads_idol_newsDsk.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_idol_newsDsk_ads_idol_newsDsk_64_a_0_0.png
+  rotate: false
+  xy: 113, 171
+  size: 109, 83
+  orig: 109, 83
+  offset: 0, 0
+  index: -1
+ads_idol_newsDsk_ads_idol_newsDsk_64_a_2_0.png
+  rotate: false
+  xy: 2, 79
+  size: 109, 85
+  orig: 109, 85
+  offset: 0, 0
+  index: -1
+ads_idol_newsDsk_ads_idol_newsDsk_64_a_4_0.png
+  rotate: false
+  xy: 2, 166
+  size: 109, 88
+  orig: 109, 88
+  offset: 0, 0
+  index: -1
+ads_idol_newsDsk_ads_idol_newsDsk_64_a_6_0.png
+  rotate: false
+  xy: 113, 87
+  size: 109, 82
+  orig: 109, 82
+  offset: 0, 0
+  index: -1
+ads_idol_newsDsk_ads_idol_newsDsk_64_sd_0_0.png
+  rotate: false
+  xy: 2, 29
+  size: 96, 48
+  orig: 96, 48
+  offset: 0, 0
+  index: -1
+ads_idol_newsDsk_ads_idol_newsDsk_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1

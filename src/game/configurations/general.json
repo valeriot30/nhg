@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "server": {
+    "host": "localhost",
+    "port": 8083,
+    "channel": "battlestorm",
+    "ssl": false,
+    "reconnectOnFail": false,
+    "reconnectOnFailTryTimes": 3
+  },
+  "fps": 24,
+  "debug": true,
+  "debugRoomClick": false,
+  "offlineMode": false,
+  "language": "it",
+  "lookResource": "https://sharasy.com:2096/gamedata/character/avatar.php",
+  "itemsUrl": "https://sharasy.com:2096/gamedata/items",
+
+  "proxyUrl": "",
+  "avatarFigurePath": "http://localhost/assets/figures",
+  "avatarGameDataPath": "http://localhost/assets/gamedata/json",
+  "itemsResourcesUrl": "http://localhost/assets/furniture/",
+  "catalogueResourcesUrl": "https://sharasy.com:2096/gamedata/c_images/catalogue/",
+  "soundResourcesUrl": "https://sharasy.com:2096/gamedata/sounds/"
+}

@@ -1,0 +1,521 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>NHG - Client</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300&display=swap');
+
+        html, body {
+            overflow: hidden;
+        }
+        html, body, #app, #gameContainer {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            -moz-box-sizing: border-box;
+            -webkit-box-sizing: border-box; 
+            box-sizing: border-box; 
+            text-rendering: optimizeLegibility;
+            -webkit-font-smoothing: antialiased;
+            -moz-osx-font-smoothing: grayscale;
+        }
+        body {
+            font-family: 'Quicksand', sans-serif;
+            background-color: #272727;
+        }
+        .staticContainer {
+            width: 100%;
+            height: 100%;
+            position: absolute;
+            z-index:999;
+            top:0;
+            left:0;
+            pointer-events: none;
+        }
+        .bottomBar {
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+            left: 0;
+            height: 85px;
+            background-color: transparent;
+            z-index: 10000;
+        }
+        .chatInput {
+            position: relative;
+            display: block;
+            padding: 10px 25px;
+            font-size: 1.2rem;
+            outline: 0;
+            margin: 0 auto;
+            background-color: #fff;
+            border-radius: 12px;
+            height: 53px;
+            margin-top: 15px;
+            max-width: 900px;
+            width: calc(100% - 630px);
+            border: 2px solid rgba(0,0,0,.2);
+            box-shadow: 2px 3px 0 rgba(0,0,0,.15);
+            pointer-events: all
+        }
+        .rightOptions, .leftOptions {
+            position: absolute;
+            top:0;
+            width: calc(100% - 315px - 1100px);
+            min-width: 315px;
+            text-align: center;
+        }
+        .menuButton {
+            width: 75px;
+            height: 75px;
+            display: inline-block;
+            margin:0 0px;
+            border-radius: 50%;
+            position: relative;
+            pointer-events:all;
+        }
+        .menuButton img {
+            background-position: center;
+                background-repeat: no-repeat;
+                width:75px;
+                height:75px;
+                position: absolute;
+                top:0;
+                cursor:pointer;
+                left:0;
+                filter:drop-shadow(2px 3px 0 rgba(0,0,0,.15))
+        }
+        .rightOptions {
+            right: 120px;
+            }
+
+        .leftOptions {
+            left: 120px;
+          }
+        .navigator .img {
+                background-image: url('./images/bottom-bar/navigator.png');
+                height: 75px;
+            }
+
+            .catalog .img {
+                background-image: url('./images/bottom-bar/catalog.png');
+                width: 70px;
+                height: 70px;
+            }
+
+            .inventory .img {
+                background-image: url('./images/bottom-bar/inventory.png');
+                height: 75px;
+            }
+
+            .friends .img {
+                background-image: url('./images/bottom-bar/friends.png');
+                height: 75px;
+                width: 69px;            
+            }
+
+            .settings .img {
+                background-image: url('./images/bottom-bar/settings.png');
+                height: 75px;
+            }
+
+            .avatar .img {
+                background-image: url('https://www.habbo.com/habbo-imaging/avatarimage?figure=hd-185-10.lg-275-82.hr-3163-42.ch-3050-92-92size=lhead_direction=2gesture=mdheadonly=1');
+                height: 75px;
+            }
+            #navigator {
+                position: fixed;
+                min-height: 535px;
+                width: 425px;
+                background-color: #F1EEE7;
+                border-radius: 16px;
+                box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.35);
+                left: 20vw;
+                top: 10vh;
+                overflow: hidden;
+                pointer-events: all !important;
+                
+            }
+            .titleBar {
+                width: 100%;
+                height: 26px;
+                padding: 10px 25px;
+                padding-bottom: 25px;
+                position: relative;
+            }
+  
+            .titleBar .titleBarBg {
+        
+                width: 100%;
+                height: 100%;
+                display: flex;
+                margin: 0;
+                padding: 0;
+                align-items: center;
+                flex-direction: column;
+                }
+        
+                .title {
+                    font-family: 'Quicksand', sans-serif;
+                    font-size: 16px;
+                    font-weight: bold;
+                    color: #272727;
+                    padding-left: 6px;
+                    padding-right: 6px;
+
+
+
+                }
+            
+        
+            .titleBar .closeIcon {
+                position: absolute;
+                right: 20px;
+                top: 6px;
+                color:  #272727;
+                width: 13px;
+                height: 13px;
+                cursor: pointer;
+                font-family: 'Quicksand', sans-serif;
+                font-size: 20px;
+                text-align: center;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            #navigator .content {
+                width: calc(100% - 50px);
+                margin: 0 auto;
+                height: auto;
+            }
+            #navigator .content .searchContainer {
+                margin-top: 10px;
+            }
+            #navigator .content .searchContainer img {
+                width: 8%;
+                position:absolute;
+                display: inline-block;
+            }
+            #navigator .content .searchContainer .searchInput {
+                width: 88%;
+                float: right;
+                outline:none;
+                border:none;
+                margin-top: -1px;
+                background-color: #D5D5D5;
+                border-radius: 12px;
+                height: 35px;
+                padding: 5px;
+                
+            }
+            ::placeholder {
+                color: #333;
+                font-size: 15px;
+                font-size: 12px;
+                padding-left: 5px;
+                opacity: 1;
+
+            }
+
+            #navigator .content {
+                padding-left: 0 !important;
+            }
+            
+            #navigator .content .roomsContainer {
+                position:relative;
+                display:block;
+                top: 20px;
+            }
+            #navigator .content .roomsContainer .roomBig {
+                width: 120px;
+                display: inline-block;
+                margin-bottom: 20px;
+            }
+            #navigator .content .roomsContainer .roomBig img {
+                display:block;
+                padding: 0px !important;
+            }
+            #navigator .content .roomsContainer .roomBig .roomTitle { 
+                border-radius: 12px;
+                padding: 2px;
+                color:  #272727;
+                background-color: #D5D5D5;
+                display: block;
+                text-align: center;
+                padding-top: 5px;
+                padding-bottom: 5px;
+                padding-left: 2px;
+                margin: 0 auto;
+            }
+            #navigator .content .roomsContainer .room {
+                width: 100%;
+                outline:none;
+                border:none;
+                background-color: #D5D5D5;
+                border-radius: 12px;
+                padding: 5px;
+                width: 100%;
+                color:  #272727;
+                margin: 0 auto;
+                margin-bottom: 6px;
+            }
+            #navigator .content .roomsContainer .room .title {
+                text-align: left;
+                margin: auto 0;
+                overflow: hidden;
+                display:inline-block;
+            }
+            #navigator .content .roomsContainer .room .icons_container {
+                display: inline-block;
+                width: 60%;
+                font-family: 'Quicksand', sans-serif;
+                font-size: 9px;
+                background-color: red;
+            }
+            #navigator .content .roomsContainer .room .icons_container .usersInRoom {
+                  font: inherit;
+                  text-align: right;
+                  color: #fff;
+                  width: 34px;
+                  height: 13px;
+                  border: none;
+                  background: none;
+                  right: 0;
+                  margin: auto 0 auto 2px;
+                  line-height: 13px;
+                  padding: 1px 6px;
+                  background-image: url("./images/navigator/icon_g.png");
+            }
+            #navigator .footer {
+                width: calc(100% - 40px);
+                text-align:center;
+                margin: 0 auto;
+                padding-top: 40px;
+            }
+            #navigator .footer .navigatorBtn {
+                outline:none;
+                padding: 10px;
+                border-radius: 8px;
+                width: 48%;
+                border: 0px;
+            }
+            #navigator .footer .newRoom {
+                
+                background: linear-gradient(180deg,#639EBF 50%,#057199 50%);
+                border: 2px solid#057199;
+                color: #eeeeee;
+            }
+            #navigator .footer .randomRoom {
+                background: linear-gradient(180deg, #22CD48 50%, #079847 50%);
+                border: 2px solid#079847;
+                color: #eeeeee;
+            }
+            .topLeftMenu {
+                position: absolute;
+                top: 0;
+                right: 0;
+                margin-right: 10px;
+                margin-top: 10px;
+                float: right;
+            }
+            .topLeftMenu .leftButton {
+                height: 40px;
+                width: 40px;
+                background-color: #FFC201;
+                border-radius: 5px;
+                display:inline-block;
+            }
+            #inventory {
+                position: fixed;
+                height: 340px;
+                width: 490px;
+                left: 60vw;
+                top: 20vh;
+                display: flex;
+                background-color: #F1EEE7;
+                overflow: hidden;
+                border-radius: 8px;
+                flex-wrap: wrap;
+                flex-flow: column;
+            }
+            #inventory::after {
+                content: ' ';
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 100%;
+                width: 100%;
+                pointer-events: none;
+
+            }
+            .inventoryContainer {
+                position: relative;
+                margin-top: 0px;
+                width: 100%;
+                height: 100%;
+            }
+
+            .inventoryContainer .inventoryContainerBg {
+                padding-left: 4px;
+                padding-right: 4px;
+                padding-bottom: 4px;
+                height: 100%;
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+            }
+
+    </style>
+  </head>
+  <body>
+    <div id="gameContainer">
+        <div id="navigator">
+            <div class="titleBar" ref="handler">
+                <div class="titleBarBg">
+                  <div class="title">Navigatore NHG</div>
+                </div>
+                <div class="closeIcon">&times;</div>
+            </div>
+            <div class="content">
+                <div class="searchContainer">
+                    <img src="https://cdn.discordapp.com/attachments/799750747281031228/800333126395232266/btn_search.png"/>
+                    <input class="searchInput" placeholder="Type here the name of the room you want to search">
+                </div>
+                <div class="roomsContainer">
+                    <div class="roomBig">
+                        <div class="roomPreview"><img src="https://cdn.discordapp.com/attachments/799750747281031228/800352151993188412/unknown.png" style="width: 100%;"></div>
+                        <div class="roomTitle">Nome Stanza</div>
+                    </div>
+                    <div class="roomBig">
+                        <div class="roomPreview"><img src="https://cdn.discordapp.com/attachments/799750747281031228/800352219274543124/unknown.png" style="width: 100%"></div>
+                        <div class="roomTitle">Nome Stanza</div>
+                    </div>
+                    <div class="roomBig">
+                        <div class="roomPreview"><img src="https://cdn.discordapp.com/attachments/799750747281031228/800352249657294878/unknown.png" style="width: 100%"></div>
+                        <div class="roomTitle">Nome Stanza</div>
+                    </div>
+                    <div class="room">Stanza di Giacomo</div>
+                    <div class="room">Stanza di Giacomo</div>
+                    <div class="room">Stanza di Giacomo</div>
+                    <div class="room">Stanza di Giacomo</div>
+                    <div class="room">Stanza di Giacomo</div>
+                </div>
+            </div>
+            <div class="footer">
+                <button type="submit" class="navigatorBtn newRoom">Nuova Stanza</button>
+                <button type="submit" class="navigatorBtn randomRoom">Stanza Casuale</button>
+            </div>
+        </div>
+        <div id="inventory" ref="inventory" :class="{hidden: !visible, tradeMode: tradeMode}" v-draggable="dragBox"
+        draggable="false">
+        <div class="title-bar" ref="handler">
+            <div class="title">{{ engine.gameGui.language.inventory.title}}</div>
+            <div class="closeIcon" @click="engine.gameGui.inventoryGui.hide()"></div>
+        </div>
+        <div class="inventoryContainer" v-on:click="deselectItem">
+            <div class="inventoryContainerBg">
+                <div class="inventoryListAndButtonsContainer">
+
+                    <div class="listContainer itemsContainer" v-if="currentTab == 'floor'">
+                        <div class="itemInventory"
+                            :class="{selected: selectedItem && selectedItem.baseId == item.baseId}"
+                            v-for="item in floorItems" v-on:click.stop="selectItem(item)" v-bind:key="item.baseId">
+                            <img :src="item.icon" :alt="item.name" />
+                            <span class="stackSize">{{ item.qty }}</span>
+                        </div>
+                    </div>
+                    <div class="listContainer itemsContainer" v-if="currentTab == 'wall'">
+                        <div class="itemInventory"
+                            :class="{selected: selectedItem && selectedItem.baseId == item.baseId}"
+                            v-for="item in wallItems" v-on:click.stop="selectItem(item)" v-bind:key="item.baseId">
+                            <img :src="item.icon" :alt="item.name" />
+                            <span class="stackSize">{{ item.qty }}</span>
+                        </div>
+                    </div>
+                    <div class="buttonsContainer">
+                        <div class="itemPreivew">
+                            <img v-if="selectedItem && selectedItem.inventoryItem && selectedItem.inventoryItem.baseItem.infoImage"
+                                :src="selectedItem.inventoryItem.baseItem.infoImage.toDataURL()" />
+                        </div>
+                        <div class="ui-button small" :class="{hidden: !showPlaceItemButton}" ref="PlaceItemButton"
+                            @click.stop="placeItem">{{ engine.gameGui.language.inventory.place }}</div>
+                        <div class="ui-button small" :class="{hidden: !showAddItemToTradeButton}"
+                            ref="AddItemToTradeButton" @click.stop="addItemToTrade">
+                            {{ engine.gameGui.language.inventory.trade }}</div>
+                        <div class="ui-button small" :class="{hidden: !showAddAllItemsToTradeButton}"
+                            ref="AddAllItemsToTradeButton" @click.stop="addAllItemsToTrade">
+                            {{ engine.gameGui.language.inventory.trade_all }}</div>
+                    </div>
+                </div>
+                <div class="tradeContainer" :class="{hidden: !tradeMode}">
+                    <div class="trade-container">
+                        <div>
+                            <span>{{ engine.gameGui.language.inventory.tradeMyOffert }}</span>
+                            <ul id="mytradeitems" ref="mytradeitems" class="itemsContainer">
+                                <div class="itemInventory" v-for="item in myTradeItems" v-bind:key="item.id">
+                                    <img :src="item.icon" :alt="item.name" />
+                                    <span class="stackSize">{{ item.qty }}</span>
+                                </div>
+                            </ul>
+                        </div>
+                        <div>
+                            <button id="acceptTradeButton" class="tradeButton"
+                                v-on:click.stop="acceptTrade">{{ engine.gameGui.language.inventory.tradeAccept }}</button>
+                            <button id="declineTradeButton" class="tradeButton"
+                                v-on:click.stop="cancelTrade">{{ engine.gameGui.language.inventory.tradeCancel }}</button>
+                        </div>
+                        <div>
+                            <span id="targetTradeName">{{ trade.targetTradeName }}</span>
+                            <div id="targettradeitems" ref="targettradeitems" class="itemsContainer">
+                                <div class="itemInventory" v-for="item in targetTradeItems" v-bind:key="item.id">
+                                    <img :src="item.icon" :alt="item.name" />
+                                    <span class="stackSize">{{ item.qty }}</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div class="staticContainer">
+        <div class="topLeftMenu">
+            <div class="leftButton">a</div>
+            <div class="leftButton">a</div>
+        </div>
+        <div class="bottomBar">
+            <div class="leftOptions">
+               <div class="menuButton settings">
+                  <div class="img" style=""></div>
+               </div>
+               <div class="menuButton avatar">
+                  <div class="img"></div>
+               </div>
+               <div class="menuButton friends">
+                  <div class="img"></div>
+               </div>
+            </div>
+            <input type="text" autofocus="autofocus" placeholder="Type here to talk!" class="chatInput">
+            <div class="rightOptions">
+               <div class="menuButton navigator">
+                  <div class="img"></div>
+               </div>
+               <div class="menuButton catalog">
+                  <div class="img"></div>
+               </div>
+               <div class="menuButton inventory">
+                  <div class="img"></div>
+               </div>
+            </div>
+         </div>
+    </div>
+  </body>
+</html>

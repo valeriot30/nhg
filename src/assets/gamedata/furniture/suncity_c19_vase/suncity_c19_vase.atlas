@@ -1,0 +1,27 @@
+
+suncity_c19_vase.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_vase_suncity_c19_vase_64_a_0_0.png
+  rotate: false
+  xy: 2, 49
+  size: 35, 68
+  orig: 35, 68
+  offset: 0, 0
+  index: -1
+suncity_c19_vase_suncity_c19_vase_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+suncity_c19_vase_suncity_c19_vase_icon_a.png
+  rotate: false
+  xy: 2, 17
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

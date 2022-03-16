@@ -1,0 +1,41 @@
+
+lm_pond.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lm_pond_lm_pond_64_a_2_0.png
+  rotate: false
+  xy: 128, 8
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+lm_pond_lm_pond_64_a_2_1.png
+  rotate: false
+  xy: 66, 8
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+lm_pond_lm_pond_64_a_2_2.png
+  rotate: false
+  xy: 190, 8
+  size: 60, 32
+  orig: 60, 32
+  offset: 0, 0
+  index: -1
+lm_pond_lm_pond_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+lm_pond_lm_pond_icon_a.png
+  rotate: false
+  xy: 252, 12
+  size: 30, 28
+  orig: 30, 28
+  offset: 0, 0
+  index: -1

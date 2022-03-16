@@ -1,0 +1,139 @@
+
+xmas_c18_doll9.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_0.png
+  rotate: false
+  xy: 76, 14
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_1.png
+  rotate: false
+  xy: 230, 21
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_10.png
+  rotate: false
+  xy: 2, 65
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_11.png
+  rotate: false
+  xy: 97, 66
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_12.png
+  rotate: false
+  xy: 97, 161
+  size: 93, 93
+  orig: 93, 93
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_13.png
+  rotate: false
+  xy: 2, 160
+  size: 93, 94
+  orig: 93, 94
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_14.png
+  rotate: false
+  xy: 192, 162
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_15.png
+  rotate: false
+  xy: 192, 72
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_16.png
+  rotate: false
+  xy: 373, 170
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_2.png
+  rotate: false
+  xy: 40, 12
+  size: 34, 51
+  orig: 34, 51
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_3.png
+  rotate: false
+  xy: 2, 3
+  size: 36, 60
+  orig: 36, 60
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_4.png
+  rotate: false
+  xy: 192, 2
+  size: 36, 68
+  orig: 36, 68
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_5.png
+  rotate: false
+  xy: 357, 10
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_6.png
+  rotate: false
+  xy: 457, 165
+  size: 36, 89
+  orig: 36, 89
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_7.png
+  rotate: false
+  xy: 282, 13
+  size: 73, 73
+  orig: 73, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_8.png
+  rotate: false
+  xy: 286, 88
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_a_0_9.png
+  rotate: false
+  xy: 286, 169
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_64_sd_0_0.png
+  rotate: false
+  xy: 230, 8
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+xmas_c18_doll9_xmas_c18_doll9_icon_a.png
+  rotate: false
+  xy: 260, 40
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

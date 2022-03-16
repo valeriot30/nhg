@@ -1,0 +1,27 @@
+
+gaming_c18_gameplush2.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gaming_c18_gameplush2_gaming_c18_gameplush2_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 51
+  orig: 36, 51
+  offset: 0, 0
+  index: -1
+gaming_c18_gameplush2_gaming_c18_gameplush2_64_sd_0_0.png
+  rotate: false
+  xy: 64, 36
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+gaming_c18_gameplush2_gaming_c18_gameplush2_icon_a.png
+  rotate: false
+  xy: 40, 23
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

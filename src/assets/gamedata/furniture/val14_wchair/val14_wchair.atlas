@@ -1,0 +1,55 @@
+
+val14_wchair.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val14_wchair_val14_wchair_64_a_0_0.png
+  rotate: false
+  xy: 207, 86
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+val14_wchair_val14_wchair_64_a_4_0.png
+  rotate: false
+  xy: 73, 47
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+val14_wchair_val14_wchair_64_b_0_0.png
+  rotate: false
+  xy: 2, 47
+  size: 69, 63
+  orig: 69, 63
+  offset: 0, 0
+  index: -1
+val14_wchair_val14_wchair_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+val14_wchair_val14_wchair_64_sd_0_0.png
+  rotate: false
+  xy: 143, 77
+  size: 62, 33
+  orig: 62, 33
+  offset: 0, 0
+  index: -1
+val14_wchair_val14_wchair_64_sd_4_0.png
+  rotate: false
+  xy: 63, 22
+  size: 51, 23
+  orig: 51, 23
+  offset: 0, 0
+  index: -1
+val14_wchair_val14_wchair_icon_a.png
+  rotate: false
+  xy: 143, 48
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1

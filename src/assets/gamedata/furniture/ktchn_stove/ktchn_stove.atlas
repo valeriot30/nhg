@@ -1,0 +1,223 @@
+
+ktchn_stove.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ktchn_stove_ktchn_stove_64_a_0_0.png
+  rotate: false
+  xy: 2, 9
+  size: 69, 68
+  orig: 69, 68
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_b_0_0.png
+  rotate: false
+  xy: 370, 60
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_b_0_1.png
+  rotate: false
+  xy: 166, 50
+  size: 52, 31
+  orig: 52, 31
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_b_0_2.png
+  rotate: false
+  xy: 418, 60
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_b_0_3.png
+  rotate: false
+  xy: 220, 83
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_b_0_4.png
+  rotate: false
+  xy: 166, 83
+  size: 52, 43
+  orig: 52, 43
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_c_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_c_0_1.png
+  rotate: false
+  xy: 274, 85
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_c_0_2.png
+  rotate: false
+  xy: 368, 85
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_c_0_3.png
+  rotate: false
+  xy: 415, 85
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_c_0_4.png
+  rotate: false
+  xy: 321, 85
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_c_0_5.png
+  rotate: false
+  xy: 360, 34
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_c_0_6.png
+  rotate: false
+  xy: 304, 34
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_c_0_7.png
+  rotate: false
+  xy: 332, 34
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_c_0_8.png
+  rotate: false
+  xy: 466, 59
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_d_0_0.png
+  rotate: false
+  xy: 99, 58
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_e_0_0.png
+  rotate: false
+  xy: 322, 60
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_e_0_1.png
+  rotate: false
+  xy: 156, 18
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_e_0_2.png
+  rotate: false
+  xy: 274, 60
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_e_0_3.png
+  rotate: false
+  xy: 104, 26
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_e_0_4.png
+  rotate: false
+  xy: 220, 51
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_f_0_1.png
+  rotate: false
+  xy: 462, 85
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_f_0_2.png
+  rotate: false
+  xy: 73, 2
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_f_0_3.png
+  rotate: false
+  xy: 239, 8
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_f_0_4.png
+  rotate: false
+  xy: 208, 7
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_f_0_5.png
+  rotate: false
+  xy: 388, 26
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_f_0_6.png
+  rotate: false
+  xy: 73, 45
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_f_0_7.png
+  rotate: false
+  xy: 414, 26
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_f_0_8.png
+  rotate: false
+  xy: 440, 26
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_64_sd_0_0.png
+  rotate: false
+  xy: 2, 79
+  size: 95, 47
+  orig: 95, 47
+  offset: 0, 0
+  index: -1
+ktchn_stove_ktchn_stove_icon_a.png
+  rotate: false
+  xy: 272, 32
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+uni_pinupgirl.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_pinupgirl_uni_pinupgirl_64_a_4_0.png
+  rotate: false
+  xy: 2, 143
+  size: 56, 107
+  orig: 56, 107
+  offset: 0, 0
+  index: -1
+uni_pinupgirl_uni_pinupgirl_64_a_4_1.png
+  rotate: false
+  xy: 2, 34
+  size: 56, 107
+  orig: 56, 107
+  offset: 0, 0
+  index: -1
+uni_pinupgirl_uni_pinupgirl_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

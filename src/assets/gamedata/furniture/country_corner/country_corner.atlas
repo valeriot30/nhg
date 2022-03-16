@@ -1,0 +1,41 @@
+
+country_corner.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+country_corner_country_corner_64_a_0_0.png
+  rotate: false
+  xy: 2, 19
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+country_corner_country_corner_64_a_2_0.png
+  rotate: false
+  xy: 198, 21
+  size: 63, 36
+  orig: 63, 36
+  offset: 0, 0
+  index: -1
+country_corner_country_corner_64_a_4_0.png
+  rotate: false
+  xy: 134, 19
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+country_corner_country_corner_64_a_6_0.png
+  rotate: false
+  xy: 70, 19
+  size: 62, 38
+  orig: 62, 38
+  offset: 0, 0
+  index: -1
+country_corner_country_corner_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 15
+  orig: 32, 15
+  offset: 0, 0
+  index: -1

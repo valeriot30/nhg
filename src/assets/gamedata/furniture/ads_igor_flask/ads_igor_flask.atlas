@@ -1,0 +1,62 @@
+
+ads_igor_flask.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+ads_igor_flask_ads_igor_flask_32_b_0_0.png
+  rotate: false
+  xy: 61, 226
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igor_flask_ads_igor_flask_32_c_0_0.png
+  rotate: false
+  xy: 61, 229
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igor_flask_ads_igor_flask_64_b_0_1.png
+  rotate: false
+  xy: 2, 106
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+ads_igor_flask_ads_igor_flask_64_b_0_2.png
+  rotate: false
+  xy: 2, 169
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+ads_igor_flask_ads_igor_flask_64_b_0_3.png
+  rotate: false
+  xy: 2, 43
+  size: 57, 61
+  orig: 57, 61
+  offset: 0, 0
+  index: -1
+ads_igor_flask_ads_igor_flask_64_c_0_1.png
+  rotate: false
+  xy: 61, 223
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+ads_igor_flask_ads_igor_flask_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+ads_igor_flask_ads_igor_flask_icon_a.png
+  rotate: false
+  xy: 2, 11
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

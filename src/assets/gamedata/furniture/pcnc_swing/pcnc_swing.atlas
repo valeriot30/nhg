@@ -1,0 +1,41 @@
+
+pcnc_swing.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pcnc_swing_pcnc_swing_64_a_4_0.png
+  rotate: false
+  xy: 2, 71
+  size: 46, 136
+  orig: 46, 136
+  offset: 0, 0
+  index: -1
+pcnc_swing_pcnc_swing_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 27
+  orig: 45, 27
+  offset: 0, 0
+  index: -1
+pcnc_swing_pcnc_swing_64_c_4_0.png
+  rotate: false
+  xy: 50, 91
+  size: 12, 116
+  orig: 12, 116
+  offset: 0, 0
+  index: -1
+pcnc_swing_pcnc_swing_64_sd_4_0.png
+  rotate: false
+  xy: 2, 31
+  size: 73, 38
+  orig: 73, 38
+  offset: 0, 0
+  index: -1
+pcnc_swing_pcnc_swing_icon_a.png
+  rotate: false
+  xy: 64, 179
+  size: 29, 28
+  orig: 29, 28
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+vikings_stonecrn.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vikings_stonecrn_vikings_stonecrn_64_a_0_0.png
+  rotate: false
+  xy: 2, 64
+  size: 58, 71
+  orig: 58, 71
+  offset: 0, 0
+  index: -1
+vikings_stonecrn_vikings_stonecrn_64_sd_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+vikings_stonecrn_vikings_stonecrn_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 28
+  orig: 22, 28
+  offset: 0, 0
+  index: -1

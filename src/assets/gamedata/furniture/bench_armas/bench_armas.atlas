@@ -1,0 +1,34 @@
+
+bench_armas.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bench_armas_bench_armas_64_a_2_0.png
+  rotate: false
+  xy: 146, 10
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+bench_armas_bench_armas_64_b_2_0.png
+  rotate: false
+  xy: 88, 2
+  size: 56, 49
+  orig: 56, 49
+  offset: 0, 0
+  index: -1
+bench_armas_bench_armas_64_sd_0_0.png
+  rotate: false
+  xy: 2, 8
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+bench_armas_bench_armas_icon_a.png
+  rotate: false
+  xy: 193, 28
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

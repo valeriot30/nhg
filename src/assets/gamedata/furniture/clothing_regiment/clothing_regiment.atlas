@@ -1,0 +1,20 @@
+
+clothing_regiment.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_regiment_clothing_regiment_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 33, 68
+  orig: 33, 68
+  offset: 0, 0
+  index: -1
+clothing_regiment_clothing_regiment_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

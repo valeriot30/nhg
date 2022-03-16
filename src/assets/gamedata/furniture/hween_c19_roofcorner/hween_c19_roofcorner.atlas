@@ -1,0 +1,69 @@
+
+hween_c19_roofcorner.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c19_roofcorner_hween_c19_roofcorner_64_a_3_0.png
+  rotate: false
+  xy: 142, 64
+  size: 68, 58
+  orig: 68, 58
+  offset: 0, 0
+  index: -1
+hween_c19_roofcorner_hween_c19_roofcorner_64_b_1_0.png
+  rotate: false
+  xy: 212, 62
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+hween_c19_roofcorner_hween_c19_roofcorner_64_b_1_1.png
+  rotate: false
+  xy: 279, 62
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+hween_c19_roofcorner_hween_c19_roofcorner_64_b_3_0.png
+  rotate: false
+  xy: 2, 46
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+hween_c19_roofcorner_hween_c19_roofcorner_64_b_3_1.png
+  rotate: false
+  xy: 72, 46
+  size: 68, 76
+  orig: 68, 76
+  offset: 0, 0
+  index: -1
+hween_c19_roofcorner_hween_c19_roofcorner_64_b_5_0.png
+  rotate: false
+  xy: 346, 62
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+hween_c19_roofcorner_hween_c19_roofcorner_64_b_5_1.png
+  rotate: false
+  xy: 413, 62
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+hween_c19_roofcorner_hween_c19_roofcorner_64_b_7_0.png
+  rotate: false
+  xy: 2, 2
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+hween_c19_roofcorner_hween_c19_roofcorner_icon_a.png
+  rotate: false
+  xy: 480, 92
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

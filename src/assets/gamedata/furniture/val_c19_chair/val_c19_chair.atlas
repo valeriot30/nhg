@@ -1,0 +1,48 @@
+
+val_c19_chair.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+val_c19_chair_val_c19_chair_64_a_0_0.png
+  rotate: false
+  xy: 50, 17
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+val_c19_chair_val_c19_chair_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+val_c19_chair_val_c19_chair_64_b_0_0.png
+  rotate: false
+  xy: 98, 14
+  size: 39, 44
+  orig: 39, 44
+  offset: 0, 0
+  index: -1
+val_c19_chair_val_c19_chair_64_b_4_0.png
+  rotate: false
+  xy: 213, 29
+  size: 11, 29
+  orig: 11, 29
+  offset: 0, 0
+  index: -1
+val_c19_chair_val_c19_chair_64_sd_4_0.png
+  rotate: false
+  xy: 139, 35
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+val_c19_chair_val_c19_chair_icon_a.png
+  rotate: false
+  xy: 187, 28
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+hween13_candle.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween13_candle_hween13_candle_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+hween13_candle_hween13_candle_64_a_0_4.png
+  rotate: false
+  xy: 45, 36
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+hween13_candle_hween13_candle_64_a_0_8.png
+  rotate: false
+  xy: 11, 2
+  size: 7, 22
+  orig: 7, 22
+  offset: 0, 0
+  index: -1
+hween13_candle_hween13_candle_64_b_0_0.png
+  rotate: false
+  xy: 54, 42
+  size: 6, 10
+  orig: 6, 10
+  offset: 0, 0
+  index: -1
+hween13_candle_hween13_candle_64_b_0_1.png
+  rotate: false
+  xy: 45, 26
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+hween13_candle_hween13_candle_64_b_0_2.png
+  rotate: false
+  xy: 20, 5
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+hween13_candle_hween13_candle_64_b_0_3.png
+  rotate: false
+  xy: 20, 15
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+hween13_candle_hween13_candle_64_c_0_0.png
+  rotate: false
+  xy: 2, 26
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+hween13_candle_hween13_candle_64_sd_0_0.png
+  rotate: false
+  xy: 54, 54
+  size: 8, 4
+  orig: 8, 4
+  offset: 0, 0
+  index: -1
+hween13_candle_hween13_candle_icon_a.png
+  rotate: false
+  xy: 36, 28
+  size: 7, 30
+  orig: 7, 30
+  offset: 0, 0
+  index: -1

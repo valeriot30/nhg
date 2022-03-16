@@ -1,0 +1,41 @@
+
+valentinescreen.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+valentinescreen_valentinescreen_64_a_2_0.png
+  rotate: false
+  xy: 2, 29
+  size: 30, 99
+  orig: 30, 99
+  offset: 0, 0
+  index: -1
+valentinescreen_valentinescreen_64_b_2_0.png
+  rotate: false
+  xy: 34, 2
+  size: 53, 126
+  orig: 53, 126
+  offset: 0, 0
+  index: -1
+valentinescreen_valentinescreen_64_c_2_0.png
+  rotate: false
+  xy: 2, 180
+  size: 8, 18
+  orig: 8, 18
+  offset: 0, 0
+  index: -1
+valentinescreen_valentinescreen_64_sd_2_0.png
+  rotate: false
+  xy: 2, 130
+  size: 100, 36
+  orig: 100, 36
+  offset: 0, 0
+  index: -1
+valentinescreen_valentinescreen_icon_a.png
+  rotate: false
+  xy: 12, 168
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

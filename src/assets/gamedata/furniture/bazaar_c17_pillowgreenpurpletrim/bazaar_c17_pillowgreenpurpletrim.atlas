@@ -1,0 +1,27 @@
+
+bazaar_c17_pillowgreenpurpletrim.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bazaar_c17_pillowgreenpurpletrim_bazaar_c17_pillowgreenpurpletrim_64_a_2_0.png
+  rotate: false
+  xy: 2, 22
+  size: 62, 36
+  orig: 62, 36
+  offset: 0, 0
+  index: -1
+bazaar_c17_pillowgreenpurpletrim_bazaar_c17_pillowgreenpurpletrim_64_sd_2_0.png
+  rotate: false
+  xy: 66, 28
+  size: 62, 30
+  orig: 62, 30
+  offset: 0, 0
+  index: -1
+bazaar_c17_pillowgreenpurpletrim_bazaar_c17_pillowgreenpurpletrim_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+easy_poster.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easy_poster_easy_poster_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+easy_poster_easy_poster_64_a_4_0.png
+  rotate: false
+  xy: 155, 54
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+easy_poster_easy_poster_64_b_2_0.png
+  rotate: false
+  xy: 52, 34
+  size: 48, 73
+  orig: 48, 73
+  offset: 0, 0
+  index: -1
+easy_poster_easy_poster_64_b_4_0.png
+  rotate: false
+  xy: 102, 54
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+easy_poster_easy_poster_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1

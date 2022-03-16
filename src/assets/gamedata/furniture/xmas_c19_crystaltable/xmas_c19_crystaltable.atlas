@@ -1,0 +1,41 @@
+
+xmas_c19_crystaltable.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_crystaltable_xmas_c19_crystaltable_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 67, 54
+  orig: 67, 54
+  offset: 0, 0
+  index: -1
+xmas_c19_crystaltable_xmas_c19_crystaltable_64_b_0_0.png
+  rotate: false
+  xy: 71, 16
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+xmas_c19_crystaltable_xmas_c19_crystaltable_64_c_0_0.png
+  rotate: false
+  xy: 136, 58
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1
+xmas_c19_crystaltable_xmas_c19_crystaltable_64_sd_0_0.png
+  rotate: false
+  xy: 2, 58
+  size: 132, 67
+  orig: 132, 67
+  offset: 0, 0
+  index: -1
+xmas_c19_crystaltable_xmas_c19_crystaltable_icon_a.png
+  rotate: false
+  xy: 205, 102
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

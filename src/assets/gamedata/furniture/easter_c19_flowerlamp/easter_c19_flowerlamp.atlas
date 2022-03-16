@@ -1,0 +1,83 @@
+
+easter_c19_flowerlamp.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_a_4_0.png
+  rotate: false
+  xy: 72, 110
+  size: 56, 135
+  orig: 56, 135
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_b_4_0.png
+  rotate: false
+  xy: 130, 128
+  size: 27, 62
+  orig: 27, 62
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_b_4_1.png
+  rotate: false
+  xy: 2, 52
+  size: 33, 61
+  orig: 33, 61
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_c_4_1.png
+  rotate: false
+  xy: 130, 192
+  size: 39, 53
+  orig: 39, 53
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_c_4_2.png
+  rotate: false
+  xy: 159, 143
+  size: 36, 47
+  orig: 36, 47
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_c_4_3.png
+  rotate: false
+  xy: 210, 196
+  size: 38, 49
+  orig: 38, 49
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_c_4_4.png
+  rotate: false
+  xy: 171, 194
+  size: 37, 51
+  orig: 37, 51
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_c_4_5.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_d_4_0.png
+  rotate: false
+  xy: 130, 125
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_64_d_4_1.png
+  rotate: false
+  xy: 2, 115
+  size: 68, 130
+  orig: 68, 130
+  offset: 0, 0
+  index: -1
+easter_c19_flowerlamp_easter_c19_flowerlamp_icon_a.png
+  rotate: false
+  xy: 37, 83
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1

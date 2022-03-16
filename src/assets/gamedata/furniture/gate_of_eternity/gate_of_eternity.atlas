@@ -1,0 +1,132 @@
+
+gate_of_eternity.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+gate_of_eternity_gate_of_eternity_64_a_4_0.png
+  rotate: false
+  xy: 2, 127
+  size: 51, 381
+  orig: 51, 381
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_a_4_1.png
+  rotate: false
+  xy: 55, 127
+  size: 51, 381
+  orig: 51, 381
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_a_4_2.png
+  rotate: false
+  xy: 108, 127
+  size: 51, 381
+  orig: 51, 381
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_a_4_3.png
+  rotate: false
+  xy: 161, 127
+  size: 51, 381
+  orig: 51, 381
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_b_4_0.png
+  rotate: false
+  xy: 269, 164
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_b_4_1.png
+  rotate: false
+  xy: 574, 252
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_b_4_2.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_b_4_3.png
+  rotate: false
+  xy: 2, 64
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_b_4_4.png
+  rotate: false
+  xy: 742, 448
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_c_4_1.png
+  rotate: false
+  xy: 214, 163
+  size: 53, 345
+  orig: 53, 345
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_c_4_2.png
+  rotate: false
+  xy: 269, 167
+  size: 55, 341
+  orig: 55, 341
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_c_4_3.png
+  rotate: false
+  xy: 326, 172
+  size: 57, 336
+  orig: 57, 336
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_c_4_4.png
+  rotate: false
+  xy: 385, 177
+  size: 59, 331
+  orig: 59, 331
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_c_4_5.png
+  rotate: false
+  xy: 446, 182
+  size: 61, 326
+  orig: 61, 326
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_c_4_6.png
+  rotate: false
+  xy: 509, 184
+  size: 63, 324
+  orig: 63, 324
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_d_4_1.png
+  rotate: false
+  xy: 658, 346
+  size: 82, 162
+  orig: 82, 162
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_64_d_4_2.png
+  rotate: false
+  xy: 574, 315
+  size: 82, 193
+  orig: 82, 193
+  offset: 0, 0
+  index: -1
+gate_of_eternity_gate_of_eternity_icon_a.png
+  rotate: false
+  xy: 214, 130
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1

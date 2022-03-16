@@ -1,0 +1,55 @@
+
+country_log.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+country_log_country_log_64_a_2_0.png
+  rotate: false
+  xy: 361, 10
+  size: 52, 41
+  orig: 52, 41
+  offset: 0, 0
+  index: -1
+country_log_country_log_64_a_6_0.png
+  rotate: false
+  xy: 303, 7
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+country_log_country_log_64_b_2_0.png
+  rotate: false
+  xy: 178, 3
+  size: 63, 48
+  orig: 63, 48
+  offset: 0, 0
+  index: -1
+country_log_country_log_64_b_6_0.png
+  rotate: false
+  xy: 243, 2
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+country_log_country_log_64_sd_0_0.png
+  rotate: false
+  xy: 2, 6
+  size: 88, 45
+  orig: 88, 45
+  offset: 0, 0
+  index: -1
+country_log_country_log_64_sd_2_0.png
+  rotate: false
+  xy: 92, 8
+  size: 84, 43
+  orig: 84, 43
+  offset: 0, 0
+  index: -1
+country_log_country_log_icon_a.png
+  rotate: false
+  xy: 415, 28
+  size: 33, 23
+  orig: 33, 23
+  offset: 0, 0
+  index: -1

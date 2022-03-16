@@ -1,0 +1,27 @@
+
+zengarden_c18_peacefrog.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+zengarden_c18_peacefrog_zengarden_c18_peacefrog_64_a_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 29, 41
+  orig: 29, 41
+  offset: 0, 0
+  index: -1
+zengarden_c18_peacefrog_zengarden_c18_peacefrog_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 34, 17
+  orig: 34, 17
+  offset: 0, 0
+  index: -1
+zengarden_c18_peacefrog_zengarden_c18_peacefrog_icon_a.png
+  rotate: false
+  xy: 33, 32
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

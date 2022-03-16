@@ -1,0 +1,27 @@
+
+samovar.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+samovar_samovar_64_a_2_0.png
+  rotate: false
+  xy: 2, 55
+  size: 55, 79
+  orig: 55, 79
+  offset: 0, 0
+  index: -1
+samovar_samovar_64_sd_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+samovar_samovar_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

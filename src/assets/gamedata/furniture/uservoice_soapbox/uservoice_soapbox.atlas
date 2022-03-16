@@ -1,0 +1,41 @@
+
+uservoice_soapbox.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uservoice_soapbox_uservoice_soapbox_64_a_4_0.png
+  rotate: false
+  xy: 2, 55
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+uservoice_soapbox_uservoice_soapbox_64_a_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 64, 51
+  orig: 64, 51
+  offset: 0, 0
+  index: -1
+uservoice_soapbox_uservoice_soapbox_64_b_4_0.png
+  rotate: false
+  xy: 68, 44
+  size: 18, 62
+  orig: 18, 62
+  offset: 0, 0
+  index: -1
+uservoice_soapbox_uservoice_soapbox_64_b_6_0.png
+  rotate: false
+  xy: 88, 48
+  size: 17, 58
+  orig: 17, 58
+  offset: 0, 0
+  index: -1
+uservoice_soapbox_uservoice_soapbox_icon_a.png
+  rotate: false
+  xy: 68, 12
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

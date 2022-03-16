@@ -1,0 +1,237 @@
+
+bc_block_0.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 108, 15
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 478, 125
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 320, 4
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 374, 43
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 426, 76
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 452, 98
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 108, 12
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 112, 15
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 478, 122
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_32_d_0_3.png
+  rotate: false
+  xy: 482, 125
+  size: 2, 1
+  orig: 2, 1
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_0_0.png
+  rotate: false
+  xy: 2, 65
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_0_1.png
+  rotate: false
+  xy: 108, 73
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_0_2.png
+  rotate: false
+  xy: 214, 82
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_0_3.png
+  rotate: false
+  xy: 320, 91
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_0_4.png
+  rotate: false
+  xy: 214, 8
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_6_0.png
+  rotate: false
+  xy: 2, 2
+  size: 52, 61
+  orig: 52, 61
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_6_1.png
+  rotate: false
+  xy: 108, 18
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_6_2.png
+  rotate: false
+  xy: 214, 36
+  size: 52, 44
+  orig: 52, 44
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_6_3.png
+  rotate: false
+  xy: 320, 54
+  size: 52, 35
+  orig: 52, 35
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_a_6_4.png
+  rotate: false
+  xy: 320, 26
+  size: 52, 26
+  orig: 52, 26
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_0_0.png
+  rotate: false
+  xy: 56, 4
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_0_1.png
+  rotate: false
+  xy: 162, 20
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_0_2.png
+  rotate: false
+  xy: 268, 38
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_0_3.png
+  rotate: false
+  xy: 374, 92
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_0_4.png
+  rotate: false
+  xy: 426, 101
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_6_0.png
+  rotate: false
+  xy: 56, 66
+  size: 50, 60
+  orig: 50, 60
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_6_1.png
+  rotate: false
+  xy: 162, 74
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_6_2.png
+  rotate: false
+  xy: 268, 83
+  size: 50, 43
+  orig: 50, 43
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_6_3.png
+  rotate: false
+  xy: 268, 2
+  size: 50, 34
+  orig: 50, 34
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_b_6_4.png
+  rotate: false
+  xy: 374, 65
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_c_0_3.png
+  rotate: false
+  xy: 374, 46
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_64_c_6_3.png
+  rotate: false
+  xy: 320, 7
+  size: 50, 17
+  orig: 50, 17
+  offset: 0, 0
+  index: -1
+bc_block_0_bc_block_0_icon_a.png
+  rotate: false
+  xy: 426, 79
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1

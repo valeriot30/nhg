@@ -1,0 +1,27 @@
+
+xmas_c19_robinfigure.png
+size: 128,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_robinfigure_xmas_c19_robinfigure_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+xmas_c19_robinfigure_xmas_c19_robinfigure_64_sd_4_0.png
+  rotate: false
+  xy: 68, 11
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+xmas_c19_robinfigure_xmas_c19_robinfigure_icon_a.png
+  rotate: false
+  xy: 36, 4
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,244 @@
+
+teleport_random.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+teleport_random_teleport_random_64_a_0_0.png
+  rotate: false
+  xy: 365, 112
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_a_0_1.png
+  rotate: false
+  xy: 436, 445
+  size: 74, 44
+  orig: 74, 44
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_b_0_0.png
+  rotate: false
+  xy: 334, 367
+  size: 100, 122
+  orig: 100, 122
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_b_0_1.png
+  rotate: false
+  xy: 2, 489
+  size: 164, 265
+  orig: 164, 265
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_b_0_2.png
+  rotate: false
+  xy: 2, 756
+  size: 164, 265
+  orig: 164, 265
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_b_0_3.png
+  rotate: false
+  xy: 2, 222
+  size: 164, 265
+  orig: 164, 265
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_b_0_4.png
+  rotate: false
+  xy: 168, 756
+  size: 164, 265
+  orig: 164, 265
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_b_0_5.png
+  rotate: false
+  xy: 168, 224
+  size: 164, 263
+  orig: 164, 263
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_b_0_6.png
+  rotate: false
+  xy: 168, 489
+  size: 164, 265
+  orig: 164, 265
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_b_0_7.png
+  rotate: false
+  xy: 334, 756
+  size: 164, 265
+  orig: 164, 265
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_b_0_8.png
+  rotate: false
+  xy: 334, 491
+  size: 164, 263
+  orig: 164, 263
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_0.png
+  rotate: false
+  xy: 287, 38
+  size: 37, 89
+  orig: 37, 89
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_1.png
+  rotate: false
+  xy: 165, 35
+  size: 38, 89
+  orig: 38, 89
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_10.png
+  rotate: false
+  xy: 275, 129
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_11.png
+  rotate: false
+  xy: 436, 349
+  size: 39, 94
+  orig: 39, 94
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_12.png
+  rotate: false
+  xy: 111, 126
+  size: 39, 94
+  orig: 39, 94
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_13.png
+  rotate: false
+  xy: 152, 126
+  size: 39, 94
+  orig: 39, 94
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_14.png
+  rotate: false
+  xy: 436, 253
+  size: 39, 94
+  orig: 39, 94
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_15.png
+  rotate: false
+  xy: 193, 129
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_16.png
+  rotate: false
+  xy: 246, 40
+  size: 39, 87
+  orig: 39, 87
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_17.png
+  rotate: false
+  xy: 2, 2
+  size: 39, 91
+  orig: 39, 91
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_18.png
+  rotate: false
+  xy: 205, 39
+  size: 39, 88
+  orig: 39, 88
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_19.png
+  rotate: false
+  xy: 326, 46
+  size: 37, 81
+  orig: 37, 81
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_2.png
+  rotate: false
+  xy: 125, 33
+  size: 38, 91
+  orig: 38, 91
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_20.png
+  rotate: false
+  xy: 2, 95
+  size: 107, 125
+  orig: 107, 125
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_3.png
+  rotate: false
+  xy: 436, 158
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_4.png
+  rotate: false
+  xy: 356, 148
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_5.png
+  rotate: false
+  xy: 316, 129
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_6.png
+  rotate: false
+  xy: 396, 148
+  size: 38, 93
+  orig: 38, 93
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_7.png
+  rotate: false
+  xy: 234, 129
+  size: 39, 93
+  orig: 39, 93
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_8.png
+  rotate: false
+  xy: 84, 3
+  size: 39, 90
+  orig: 39, 90
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_c_0_9.png
+  rotate: false
+  xy: 43, 3
+  size: 39, 90
+  orig: 39, 90
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_64_d_0_0.png
+  rotate: false
+  xy: 334, 243
+  size: 100, 122
+  orig: 100, 122
+  offset: 0, 0
+  index: -1
+teleport_random_teleport_random_icon_a.png
+  rotate: false
+  xy: 477, 425
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1

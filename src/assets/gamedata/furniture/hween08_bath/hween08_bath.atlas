@@ -1,0 +1,111 @@
+
+hween08_bath.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween08_bath_hween08_bath_64_a_4_0.png
+  rotate: false
+  xy: 95, 40
+  size: 72, 47
+  orig: 72, 47
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_b_4_0.png
+  rotate: false
+  xy: 169, 36
+  size: 36, 50
+  orig: 36, 50
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_c_4_0.png
+  rotate: false
+  xy: 183, 88
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_d_4_0.png
+  rotate: false
+  xy: 2, 9
+  size: 67, 64
+  orig: 67, 64
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_e_0_0.png
+  rotate: false
+  xy: 204, 33
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_e_4_1.png
+  rotate: false
+  xy: 95, 89
+  size: 86, 37
+  orig: 86, 37
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_f_4_1.png
+  rotate: false
+  xy: 71, 2
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_g_4_1.png
+  rotate: false
+  xy: 156, 9
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_h_4_1.png
+  rotate: false
+  xy: 122, 24
+  size: 32, 14
+  orig: 32, 14
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_i_0_0.png
+  rotate: false
+  xy: 71, 31
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_i_4_0.png
+  rotate: false
+  xy: 71, 53
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_j_0_0.png
+  rotate: false
+  xy: 207, 11
+  size: 14, 75
+  orig: 14, 75
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_j_4_0.png
+  rotate: false
+  xy: 223, 35
+  size: 4, 51
+  orig: 4, 51
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_64_sd_4_0.png
+  rotate: false
+  xy: 2, 75
+  size: 91, 51
+  orig: 91, 51
+  offset: 0, 0
+  index: -1
+hween08_bath_hween08_bath_icon_a.png
+  rotate: false
+  xy: 225, 96
+  size: 24, 30
+  orig: 24, 30
+  offset: 0, 0
+  index: -1

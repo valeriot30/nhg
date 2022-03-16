@@ -1,0 +1,34 @@
+
+plant_rose_black.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+plant_rose_black_plant_rose_black_64_a_0_0.png
+  rotate: false
+  xy: 2, 18
+  size: 30, 74
+  orig: 30, 74
+  offset: 0, 0
+  index: -1
+plant_rose_black_plant_rose_black_64_a_0_1.png
+  rotate: false
+  xy: 2, 94
+  size: 30, 74
+  orig: 30, 74
+  offset: 0, 0
+  index: -1
+plant_rose_black_plant_rose_black_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 14
+  orig: 25, 14
+  offset: 0, 0
+  index: -1
+plant_rose_black_plant_rose_black_icon_a.png
+  rotate: false
+  xy: 34, 138
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

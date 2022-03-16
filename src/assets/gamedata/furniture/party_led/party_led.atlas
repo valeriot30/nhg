@@ -1,0 +1,839 @@
+
+party_led.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+party_led_party_led_32_c_2_0.png
+  rotate: false
+  xy: 592, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_led_party_led_32_d_2_0.png
+  rotate: false
+  xy: 589, 127
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_a_2_0.png
+  rotate: false
+  xy: 663, 10
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_b_2_0.png
+  rotate: false
+  xy: 654, 133
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_1.png
+  rotate: false
+  xy: 781, 7
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_10.png
+  rotate: false
+  xy: 1485, 175
+  size: 57, 79
+  orig: 57, 79
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_11.png
+  rotate: false
+  xy: 1693, 121
+  size: 57, 65
+  orig: 57, 65
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_12.png
+  rotate: false
+  xy: 1152, 3
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_13.png
+  rotate: false
+  xy: 1034, 3
+  size: 57, 37
+  orig: 57, 37
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_14.png
+  rotate: false
+  xy: 1927, 188
+  size: 45, 31
+  orig: 45, 31
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_15.png
+  rotate: false
+  xy: 900, 3
+  size: 33, 25
+  orig: 33, 25
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_16.png
+  rotate: false
+  xy: 1939, 2
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_17.png
+  rotate: false
+  xy: 1887, 131
+  size: 9, 27
+  orig: 9, 27
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_18.png
+  rotate: false
+  xy: 1950, 75
+  size: 9, 41
+  orig: 9, 41
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_19.png
+  rotate: false
+  xy: 1857, 199
+  size: 9, 55
+  orig: 9, 55
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_2.png
+  rotate: false
+  xy: 964, 5
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_20.png
+  rotate: false
+  xy: 1617, 114
+  size: 9, 69
+  orig: 9, 69
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_21.png
+  rotate: false
+  xy: 1415, 171
+  size: 9, 83
+  orig: 9, 83
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_22.png
+  rotate: false
+  xy: 1142, 56
+  size: 9, 97
+  orig: 9, 97
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_23.png
+  rotate: false
+  xy: 1037, 151
+  size: 21, 103
+  orig: 21, 103
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_24.png
+  rotate: false
+  xy: 937, 145
+  size: 33, 109
+  orig: 33, 109
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_25.png
+  rotate: false
+  xy: 825, 139
+  size: 45, 115
+  orig: 45, 115
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_26.png
+  rotate: false
+  xy: 545, 4
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_28.png
+  rotate: false
+  xy: 1750, 4
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_29.png
+  rotate: false
+  xy: 1824, 66
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_3.png
+  rotate: false
+  xy: 1887, 161
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_30.png
+  rotate: false
+  xy: 1752, 126
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_31.png
+  rotate: false
+  xy: 1739, 191
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_32.png
+  rotate: false
+  xy: 1718, 56
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_33.png
+  rotate: false
+  xy: 1798, 191
+  size: 57, 63
+  orig: 57, 63
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_34.png
+  rotate: false
+  xy: 1828, 129
+  size: 57, 60
+  orig: 57, 60
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_35.png
+  rotate: false
+  xy: 1868, 204
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_36.png
+  rotate: false
+  xy: 1980, 118
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_37.png
+  rotate: false
+  xy: 1961, 76
+  size: 57, 40
+  orig: 57, 40
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_38.png
+  rotate: false
+  xy: 781, 22
+  size: 57, 115
+  orig: 57, 115
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_39.png
+  rotate: false
+  xy: 1034, 42
+  size: 57, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_4.png
+  rotate: false
+  xy: 1777, 63
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_40.png
+  rotate: false
+  xy: 766, 139
+  size: 57, 115
+  orig: 57, 115
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_41.png
+  rotate: false
+  xy: 722, 13
+  size: 57, 118
+  orig: 57, 118
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_42.png
+  rotate: false
+  xy: 132, 4
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_43.png
+  rotate: false
+  xy: 191, 4
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_44.png
+  rotate: false
+  xy: 309, 4
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_45.png
+  rotate: false
+  xy: 250, 4
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_46.png
+  rotate: false
+  xy: 427, 4
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_47.png
+  rotate: false
+  xy: 368, 4
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_48.png
+  rotate: false
+  xy: 987, 3
+  size: 45, 33
+  orig: 45, 33
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_49.png
+  rotate: false
+  xy: 1671, 49
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_5.png
+  rotate: false
+  xy: 1426, 173
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_50.png
+  rotate: false
+  xy: 1465, 90
+  size: 45, 81
+  orig: 45, 81
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_51.png
+  rotate: false
+  xy: 1529, 99
+  size: 21, 74
+  orig: 21, 74
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_52.png
+  rotate: false
+  xy: 1201, 162
+  size: 39, 92
+  orig: 39, 92
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_53.png
+  rotate: false
+  xy: 1486, 11
+  size: 33, 77
+  orig: 33, 77
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_54.png
+  rotate: false
+  xy: 1093, 2
+  size: 57, 47
+  orig: 57, 47
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_55.png
+  rotate: false
+  xy: 1418, 87
+  size: 45, 82
+  orig: 45, 82
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_56.png
+  rotate: false
+  xy: 1577, 43
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_57.png
+  rotate: false
+  xy: 1315, 168
+  size: 33, 86
+  orig: 33, 86
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_58.png
+  rotate: false
+  xy: 486, 4
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_6.png
+  rotate: false
+  xy: 1077, 153
+  size: 57, 101
+  orig: 57, 101
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_7.png
+  rotate: false
+  xy: 604, 7
+  size: 57, 121
+  orig: 57, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_8.png
+  rotate: false
+  xy: 975, 38
+  size: 57, 107
+  orig: 57, 107
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_c_2_9.png
+  rotate: false
+  xy: 1196, 60
+  size: 57, 93
+  orig: 57, 93
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_1.png
+  rotate: false
+  xy: 1962, 2
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_10.png
+  rotate: false
+  xy: 1350, 169
+  size: 63, 85
+  orig: 63, 85
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_11.png
+  rotate: false
+  xy: 1341, 3
+  size: 63, 71
+  orig: 63, 71
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_12.png
+  rotate: false
+  xy: 1809, 4
+  size: 63, 57
+  orig: 63, 57
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_13.png
+  rotate: false
+  xy: 1685, 4
+  size: 63, 43
+  orig: 63, 43
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_14.png
+  rotate: false
+  xy: 1577, 4
+  size: 51, 37
+  orig: 51, 37
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_15.png
+  rotate: false
+  xy: 1980, 43
+  size: 39, 31
+  orig: 39, 31
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_16.png
+  rotate: false
+  xy: 935, 3
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_17.png
+  rotate: false
+  xy: 1927, 221
+  size: 15, 33
+  orig: 15, 33
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_18.png
+  rotate: false
+  xy: 1961, 139
+  size: 15, 47
+  orig: 15, 47
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_19.png
+  rotate: false
+  xy: 1811, 128
+  size: 15, 61
+  orig: 15, 61
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_2.png
+  rotate: false
+  xy: 1950, 221
+  size: 27, 33
+  orig: 27, 33
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_20.png
+  rotate: false
+  xy: 1512, 98
+  size: 15, 75
+  orig: 15, 75
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_21.png
+  rotate: false
+  xy: 1298, 165
+  size: 15, 89
+  orig: 15, 89
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_22.png
+  rotate: false
+  xy: 1060, 151
+  size: 15, 103
+  orig: 15, 103
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_23.png
+  rotate: false
+  xy: 946, 34
+  size: 27, 109
+  orig: 27, 109
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_24.png
+  rotate: false
+  xy: 840, 22
+  size: 39, 115
+  orig: 39, 115
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_25.png
+  rotate: false
+  xy: 713, 133
+  size: 51, 121
+  orig: 51, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_26.png
+  rotate: false
+  xy: 69, 127
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_28.png
+  rotate: false
+  xy: 1211, 2
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_29.png
+  rotate: false
+  xy: 1628, 117
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_3.png
+  rotate: false
+  xy: 1939, 23
+  size: 39, 47
+  orig: 39, 47
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_30.png
+  rotate: false
+  xy: 1609, 185
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_31.png
+  rotate: false
+  xy: 1552, 114
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_32.png
+  rotate: false
+  xy: 1544, 185
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_33.png
+  rotate: false
+  xy: 1276, 2
+  size: 63, 69
+  orig: 63, 69
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_34.png
+  rotate: false
+  xy: 1674, 188
+  size: 63, 66
+  orig: 63, 66
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_35.png
+  rotate: false
+  xy: 1874, 8
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_36.png
+  rotate: false
+  xy: 1980, 208
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_37.png
+  rotate: false
+  xy: 1980, 160
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_38.png
+  rotate: false
+  xy: 2, 2
+  size: 63, 121
+  orig: 63, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_39.png
+  rotate: false
+  xy: 881, 30
+  size: 63, 109
+  orig: 63, 109
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_4.png
+  rotate: false
+  xy: 1618, 45
+  size: 51, 67
+  orig: 51, 67
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_40.png
+  rotate: false
+  xy: 67, 2
+  size: 63, 121
+  orig: 63, 121
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_41.png
+  rotate: false
+  xy: 589, 130
+  size: 63, 124
+  orig: 63, 124
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_42.png
+  rotate: false
+  xy: 329, 127
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_43.png
+  rotate: false
+  xy: 459, 127
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_44.png
+  rotate: false
+  xy: 394, 127
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_45.png
+  rotate: false
+  xy: 134, 127
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_46.png
+  rotate: false
+  xy: 199, 127
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_47.png
+  rotate: false
+  xy: 264, 127
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_48.png
+  rotate: false
+  xy: 1630, 2
+  size: 53, 41
+  orig: 53, 41
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_49.png
+  rotate: false
+  xy: 1521, 22
+  size: 54, 74
+  orig: 54, 74
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_5.png
+  rotate: false
+  xy: 1310, 76
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_50.png
+  rotate: false
+  xy: 1255, 73
+  size: 53, 89
+  orig: 53, 89
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_51.png
+  rotate: false
+  xy: 1455, 3
+  size: 29, 82
+  orig: 29, 82
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_52.png
+  rotate: false
+  xy: 1093, 51
+  size: 47, 100
+  orig: 47, 100
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_53.png
+  rotate: false
+  xy: 1375, 82
+  size: 41, 85
+  orig: 41, 85
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_54.png
+  rotate: false
+  xy: 1883, 72
+  size: 65, 55
+  orig: 65, 55
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_55.png
+  rotate: false
+  xy: 1242, 164
+  size: 54, 90
+  orig: 54, 90
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_56.png
+  rotate: false
+  xy: 1406, 3
+  size: 47, 77
+  orig: 47, 77
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_57.png
+  rotate: false
+  xy: 1153, 59
+  size: 41, 94
+  orig: 41, 94
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_58.png
+  rotate: false
+  xy: 2, 125
+  size: 65, 129
+  orig: 65, 129
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_6.png
+  rotate: false
+  xy: 972, 147
+  size: 63, 107
+  orig: 63, 107
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_7.png
+  rotate: false
+  xy: 524, 127
+  size: 63, 127
+  orig: 63, 127
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_8.png
+  rotate: false
+  xy: 872, 141
+  size: 63, 113
+  orig: 63, 113
+  offset: 0, 0
+  index: -1
+party_led_party_led_64_d_2_9.png
+  rotate: false
+  xy: 1136, 155
+  size: 63, 99
+  orig: 63, 99
+  offset: 0, 0
+  index: -1
+party_led_party_led_icon_a.png
+  rotate: false
+  xy: 881, 2
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1

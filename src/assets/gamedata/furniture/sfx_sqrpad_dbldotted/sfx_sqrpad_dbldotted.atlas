@@ -1,0 +1,132 @@
+
+sfx_sqrpad_dbldotted.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_a_0_0.png
+  rotate: false
+  xy: 2, 14
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_b_0_0.png
+  rotate: false
+  xy: 122, 33
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_b_0_1.png
+  rotate: false
+  xy: 94, 4
+  size: 24, 15
+  orig: 24, 15
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_0.png
+  rotate: false
+  xy: 2, 11
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_1.png
+  rotate: false
+  xy: 196, 34
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_10.png
+  rotate: false
+  xy: 70, 2
+  size: 22, 11
+  orig: 22, 11
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_2.png
+  rotate: false
+  xy: 148, 34
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_3.png
+  rotate: false
+  xy: 172, 34
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_4.png
+  rotate: false
+  xy: 122, 18
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_5.png
+  rotate: false
+  xy: 120, 3
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_6.png
+  rotate: false
+  xy: 194, 49
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_7.png
+  rotate: false
+  xy: 218, 49
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_8.png
+  rotate: false
+  xy: 170, 49
+  size: 22, 13
+  orig: 22, 13
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_c_0_9.png
+  rotate: false
+  xy: 146, 50
+  size: 22, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_d_0_0.png
+  rotate: false
+  xy: 242, 61
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_d_0_1.png
+  rotate: false
+  xy: 70, 15
+  size: 22, 47
+  orig: 22, 47
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_64_sd_0_0.png
+  rotate: false
+  xy: 94, 50
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+sfx_sqrpad_dbldotted_sfx_sqrpad_dbldotted_icon_a.png
+  rotate: false
+  xy: 94, 21
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1

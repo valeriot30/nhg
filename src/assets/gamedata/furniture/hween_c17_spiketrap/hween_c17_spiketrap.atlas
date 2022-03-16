@@ -1,0 +1,62 @@
+
+hween_c17_spiketrap.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c17_spiketrap_hween_c17_spiketrap_64_a_0_0.png
+  rotate: false
+  xy: 68, 25
+  size: 66, 37
+  orig: 66, 37
+  offset: 0, 0
+  index: -1
+hween_c17_spiketrap_hween_c17_spiketrap_64_b_0_0.png
+  rotate: false
+  xy: 136, 26
+  size: 64, 36
+  orig: 64, 36
+  offset: 0, 0
+  index: -1
+hween_c17_spiketrap_hween_c17_spiketrap_64_b_0_1.png
+  rotate: false
+  xy: 2, 18
+  size: 64, 44
+  orig: 64, 44
+  offset: 0, 0
+  index: -1
+hween_c17_spiketrap_hween_c17_spiketrap_64_c_0_0.png
+  rotate: false
+  xy: 202, 26
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+hween_c17_spiketrap_hween_c17_spiketrap_64_c_0_1.png
+  rotate: false
+  xy: 334, 35
+  size: 49, 27
+  orig: 49, 27
+  offset: 0, 0
+  index: -1
+hween_c17_spiketrap_hween_c17_spiketrap_64_d_0_0.png
+  rotate: false
+  xy: 268, 45
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+hween_c17_spiketrap_hween_c17_spiketrap_64_sd_0_0.png
+  rotate: false
+  xy: 202, 29
+  size: 64, 33
+  orig: 64, 33
+  offset: 0, 0
+  index: -1
+hween_c17_spiketrap_hween_c17_spiketrap_icon_a.png
+  rotate: false
+  xy: 136, 2
+  size: 30, 22
+  orig: 30, 22
+  offset: 0, 0
+  index: -1

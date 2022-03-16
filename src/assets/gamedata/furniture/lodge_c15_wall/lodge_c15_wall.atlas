@@ -1,0 +1,34 @@
+
+lodge_c15_wall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lodge_c15_wall_lodge_c15_wall_64_a_4_0.png
+  rotate: false
+  xy: 2, 3
+  size: 77, 235
+  orig: 77, 235
+  offset: 0, 0
+  index: -1
+lodge_c15_wall_lodge_c15_wall_64_a_4_1.png
+  rotate: false
+  xy: 81, 2
+  size: 71, 236
+  orig: 71, 236
+  offset: 0, 0
+  index: -1
+lodge_c15_wall_lodge_c15_wall_64_a_4_2.png
+  rotate: false
+  xy: 154, 4
+  size: 65, 234
+  orig: 65, 234
+  offset: 0, 0
+  index: -1
+lodge_c15_wall_lodge_c15_wall_icon_a.png
+  rotate: false
+  xy: 221, 210
+  size: 9, 28
+  orig: 9, 28
+  offset: 0, 0
+  index: -1

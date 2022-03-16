@@ -1,0 +1,97 @@
+
+steampunk_floor1.png
+size: 2048,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+steampunk_floor1_steampunk_floor1_64_a_0_1.png
+  rotate: false
+  xy: 1322, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_0_2.png
+  rotate: false
+  xy: 1190, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_0_3.png
+  rotate: false
+  xy: 1058, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_0_4.png
+  rotate: false
+  xy: 926, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_0_5.png
+  rotate: false
+  xy: 794, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_2_0.png
+  rotate: false
+  xy: 266, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_2_1.png
+  rotate: false
+  xy: 398, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_2_2.png
+  rotate: false
+  xy: 2, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_2_3.png
+  rotate: false
+  xy: 134, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_2_4.png
+  rotate: false
+  xy: 530, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_a_2_5.png
+  rotate: false
+  xy: 662, 38
+  size: 130, 66
+  orig: 130, 66
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_64_b_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 130, 34
+  orig: 130, 34
+  offset: 0, 0
+  index: -1
+steampunk_floor1_steampunk_floor1_icon_a.png
+  rotate: false
+  xy: 1454, 87
+  size: 32, 17
+  orig: 32, 17
+  offset: 0, 0
+  index: -1

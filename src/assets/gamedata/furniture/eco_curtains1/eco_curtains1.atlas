@@ -1,0 +1,27 @@
+
+eco_curtains1.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+eco_curtains1_eco_curtains1_64_a_2_0.png
+  rotate: false
+  xy: 103, 35
+  size: 99, 141
+  orig: 99, 141
+  offset: 0, 0
+  index: -1
+eco_curtains1_eco_curtains1_64_a_2_1.png
+  rotate: false
+  xy: 2, 34
+  size: 99, 142
+  orig: 99, 142
+  offset: 0, 0
+  index: -1
+eco_curtains1_eco_curtains1_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1

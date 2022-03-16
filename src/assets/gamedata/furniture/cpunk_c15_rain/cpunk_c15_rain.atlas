@@ -1,0 +1,363 @@
+
+cpunk_c15_rain.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cpunk_c15_rain_cpunk_c15_rain_64_a_0_0.png
+  rotate: false
+  xy: 2, 56
+  size: 60, 29
+  orig: 60, 29
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_1.png
+  rotate: false
+  xy: 512, 77
+  size: 32, 8
+  orig: 32, 8
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_10.png
+  rotate: false
+  xy: 2, 2
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_11.png
+  rotate: false
+  xy: 478, 66
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_12.png
+  rotate: false
+  xy: 120, 74
+  size: 54, 11
+  orig: 54, 11
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_13.png
+  rotate: false
+  xy: 120, 68
+  size: 37, 4
+  orig: 37, 4
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_14.png
+  rotate: false
+  xy: 1856, 88
+  size: 15, 2
+  orig: 15, 2
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_2.png
+  rotate: false
+  xy: 285, 74
+  size: 51, 11
+  orig: 51, 11
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_3.png
+  rotate: false
+  xy: 64, 65
+  size: 54, 20
+  orig: 54, 20
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_4.png
+  rotate: false
+  xy: 390, 69
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_5.png
+  rotate: false
+  xy: 338, 73
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_6.png
+  rotate: false
+  xy: 232, 75
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_7.png
+  rotate: false
+  xy: 176, 77
+  size: 54, 8
+  orig: 54, 8
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_8.png
+  rotate: false
+  xy: 2, 26
+  size: 46, 28
+  orig: 46, 28
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_b_0_9.png
+  rotate: false
+  xy: 438, 61
+  size: 38, 24
+  orig: 38, 24
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_0.png
+  rotate: false
+  xy: 1962, 93
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_1.png
+  rotate: false
+  xy: 1856, 92
+  size: 51, 157
+  orig: 51, 157
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_10.png
+  rotate: false
+  xy: 1538, 90
+  size: 51, 159
+  orig: 51, 159
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_2.png
+  rotate: false
+  xy: 1591, 90
+  size: 51, 159
+  orig: 51, 159
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_3.png
+  rotate: false
+  xy: 1962, 96
+  size: 51, 153
+  orig: 51, 153
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_4.png
+  rotate: false
+  xy: 1697, 87
+  size: 51, 162
+  orig: 51, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_5.png
+  rotate: false
+  xy: 1803, 88
+  size: 51, 161
+  orig: 51, 161
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_6.png
+  rotate: false
+  xy: 1909, 93
+  size: 51, 156
+  orig: 51, 156
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_7.png
+  rotate: false
+  xy: 1644, 87
+  size: 51, 162
+  orig: 51, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_c_0_9.png
+  rotate: false
+  xy: 1750, 87
+  size: 51, 162
+  orig: 51, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_0.png
+  rotate: false
+  xy: 50, 53
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_1.png
+  rotate: false
+  xy: 1218, 92
+  size: 62, 157
+  orig: 62, 157
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_10.png
+  rotate: false
+  xy: 1474, 94
+  size: 62, 155
+  orig: 62, 155
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_11.png
+  rotate: false
+  xy: 578, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_12.png
+  rotate: false
+  xy: 834, 88
+  size: 62, 161
+  orig: 62, 161
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_2.png
+  rotate: false
+  xy: 258, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_3.png
+  rotate: false
+  xy: 898, 90
+  size: 62, 159
+  orig: 62, 159
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_4.png
+  rotate: false
+  xy: 1026, 91
+  size: 62, 158
+  orig: 62, 158
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_5.png
+  rotate: false
+  xy: 130, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_6.png
+  rotate: false
+  xy: 194, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_7.png
+  rotate: false
+  xy: 1282, 93
+  size: 62, 156
+  orig: 62, 156
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_8.png
+  rotate: false
+  xy: 66, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_d_0_9.png
+  rotate: false
+  xy: 706, 88
+  size: 62, 161
+  orig: 62, 161
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_1.png
+  rotate: false
+  xy: 514, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_10.png
+  rotate: false
+  xy: 2, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_11.png
+  rotate: false
+  xy: 642, 88
+  size: 62, 161
+  orig: 62, 161
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_12.png
+  rotate: false
+  xy: 1154, 92
+  size: 62, 157
+  orig: 62, 157
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_2.png
+  rotate: false
+  xy: 962, 90
+  size: 62, 159
+  orig: 62, 159
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_3.png
+  rotate: false
+  xy: 1090, 91
+  size: 62, 158
+  orig: 62, 158
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_4.png
+  rotate: false
+  xy: 386, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_5.png
+  rotate: false
+  xy: 322, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_6.png
+  rotate: false
+  xy: 1346, 93
+  size: 62, 156
+  orig: 62, 156
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_7.png
+  rotate: false
+  xy: 450, 87
+  size: 62, 162
+  orig: 62, 162
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_8.png
+  rotate: false
+  xy: 770, 88
+  size: 62, 161
+  orig: 62, 161
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_64_e_0_9.png
+  rotate: false
+  xy: 1410, 94
+  size: 62, 155
+  orig: 62, 155
+  offset: 0, 0
+  index: -1
+cpunk_c15_rain_cpunk_c15_rain_icon_a.png
+  rotate: false
+  xy: 2015, 227
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1

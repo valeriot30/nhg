@@ -1,0 +1,62 @@
+
+xmas_c18_stocking_cleo.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c18_stocking_cleo_xmas_c18_stocking_cleo_64_a_0_0.png
+  rotate: false
+  xy: 49, 176
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_cleo_xmas_c18_stocking_cleo_64_a_0_1.png
+  rotate: false
+  xy: 2, 16
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_cleo_xmas_c18_stocking_cleo_64_a_0_2.png
+  rotate: false
+  xy: 2, 176
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_cleo_xmas_c18_stocking_cleo_64_a_0_3.png
+  rotate: false
+  xy: 2, 96
+  size: 45, 78
+  orig: 45, 78
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_cleo_xmas_c18_stocking_cleo_64_a_0_4.png
+  rotate: false
+  xy: 49, 98
+  size: 45, 76
+  orig: 45, 76
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_cleo_xmas_c18_stocking_cleo_64_a_0_5.png
+  rotate: false
+  xy: 49, 23
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_cleo_xmas_c18_stocking_cleo_64_sd_0_0.png
+  rotate: false
+  xy: 49, 2
+  size: 38, 19
+  orig: 38, 19
+  offset: 0, 0
+  index: -1
+xmas_c18_stocking_cleo_xmas_c18_stocking_cleo_icon_a.png
+  rotate: false
+  xy: 96, 224
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

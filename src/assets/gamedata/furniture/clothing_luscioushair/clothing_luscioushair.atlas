@@ -1,0 +1,27 @@
+
+clothing_luscioushair.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_luscioushair_clothing_luscioushair_64_a_0_0.png
+  rotate: false
+  xy: 2, 17
+  size: 40, 44
+  orig: 40, 44
+  offset: 0, 0
+  index: -1
+clothing_luscioushair_clothing_luscioushair_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 13
+  orig: 26, 13
+  offset: 0, 0
+  index: -1
+clothing_luscioushair_clothing_luscioushair_icon_a.png
+  rotate: false
+  xy: 44, 31
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

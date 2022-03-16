@@ -1,0 +1,41 @@
+
+xmas_c19_lamp.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_lamp_xmas_c19_lamp_64_a_2_0.png
+  rotate: false
+  xy: 79, 59
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+xmas_c19_lamp_xmas_c19_lamp_64_a_2_1.png
+  rotate: false
+  xy: 79, 7
+  size: 39, 50
+  orig: 39, 50
+  offset: 0, 0
+  index: -1
+xmas_c19_lamp_xmas_c19_lamp_64_b_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 75, 75
+  orig: 75, 75
+  offset: 0, 0
+  index: -1
+xmas_c19_lamp_xmas_c19_lamp_64_sd_2_0.png
+  rotate: false
+  xy: 2, 11
+  size: 39, 21
+  orig: 39, 21
+  offset: 0, 0
+  index: -1
+xmas_c19_lamp_xmas_c19_lamp_icon_a.png
+  rotate: false
+  xy: 43, 2
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1

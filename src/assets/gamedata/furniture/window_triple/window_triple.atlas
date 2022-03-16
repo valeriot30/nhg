@@ -1,0 +1,27 @@
+
+window_triple.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window_triple_window_triple_64_2_mask.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 95
+  orig: 61, 95
+  offset: 0, 0
+  index: -1
+window_triple_window_triple_64_a_2_0.png
+  rotate: false
+  xy: 2, 99
+  size: 82, 127
+  orig: 82, 127
+  offset: 0, 0
+  index: -1
+window_triple_window_triple_icon_a.png
+  rotate: false
+  xy: 86, 208
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1

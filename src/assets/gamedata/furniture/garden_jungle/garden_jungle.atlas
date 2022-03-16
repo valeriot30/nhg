@@ -1,0 +1,83 @@
+
+garden_jungle.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+garden_jungle_garden_jungle_64_a_0_0.png
+  rotate: false
+  xy: 210, 85
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_64_a_0_1.png
+  rotate: false
+  xy: 145, 80
+  size: 63, 44
+  orig: 63, 44
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_64_a_0_2.png
+  rotate: false
+  xy: 2, 6
+  size: 44, 25
+  orig: 44, 25
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_64_a_0_3.png
+  rotate: false
+  xy: 335, 80
+  size: 57, 44
+  orig: 57, 44
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_64_a_0_4.png
+  rotate: false
+  xy: 394, 84
+  size: 51, 40
+  orig: 51, 40
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_64_b_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 81, 91
+  orig: 81, 91
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_64_b_0_1.png
+  rotate: false
+  xy: 85, 70
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_64_b_0_2.png
+  rotate: false
+  xy: 275, 84
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_64_b_0_3.png
+  rotate: false
+  xy: 85, 36
+  size: 44, 32
+  orig: 44, 32
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_64_b_0_4.png
+  rotate: false
+  xy: 447, 99
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+garden_jungle_garden_jungle_icon_a.png
+  rotate: false
+  xy: 48, 2
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1

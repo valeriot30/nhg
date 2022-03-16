@@ -1,0 +1,62 @@
+
+rainyday_c19_cocoa.png
+size: 256,32
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+rainyday_c19_cocoa_rainyday_c19_cocoa_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1
+rainyday_c19_cocoa_rainyday_c19_cocoa_64_a_0_1.png
+  rotate: false
+  xy: 125, 7
+  size: 20, 21
+  orig: 20, 21
+  offset: 0, 0
+  index: -1
+rainyday_c19_cocoa_rainyday_c19_cocoa_64_a_0_2.png
+  rotate: false
+  xy: 62, 13
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+rainyday_c19_cocoa_rainyday_c19_cocoa_64_b_0_0.png
+  rotate: false
+  xy: 147, 9
+  size: 10, 19
+  orig: 10, 19
+  offset: 0, 0
+  index: -1
+rainyday_c19_cocoa_rainyday_c19_cocoa_64_b_0_1.png
+  rotate: false
+  xy: 159, 10
+  size: 11, 18
+  orig: 11, 18
+  offset: 0, 0
+  index: -1
+rainyday_c19_cocoa_rainyday_c19_cocoa_64_b_0_2.png
+  rotate: false
+  xy: 172, 11
+  size: 10, 17
+  orig: 10, 17
+  offset: 0, 0
+  index: -1
+rainyday_c19_cocoa_rainyday_c19_cocoa_64_sd_0_0.png
+  rotate: false
+  xy: 93, 14
+  size: 30, 14
+  orig: 30, 14
+  offset: 0, 0
+  index: -1
+rainyday_c19_cocoa_rainyday_c19_cocoa_icon_a.png
+  rotate: false
+  xy: 32, 2
+  size: 28, 26
+  orig: 28, 26
+  offset: 0, 0
+  index: -1

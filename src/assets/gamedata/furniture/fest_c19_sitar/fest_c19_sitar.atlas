@@ -1,0 +1,27 @@
+
+fest_c19_sitar.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fest_c19_sitar_fest_c19_sitar_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 61, 100
+  orig: 61, 100
+  offset: 0, 0
+  index: -1
+fest_c19_sitar_fest_c19_sitar_64_sd_0_0.png
+  rotate: false
+  xy: 65, 77
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+fest_c19_sitar_fest_c19_sitar_icon_a.png
+  rotate: false
+  xy: 65, 43
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1

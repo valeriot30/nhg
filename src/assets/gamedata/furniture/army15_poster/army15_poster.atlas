@@ -1,0 +1,20 @@
+
+army15_poster.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+army15_poster_army15_poster_64_a_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 91, 149
+  orig: 91, 149
+  offset: 0, 0
+  index: -1
+army15_poster_army15_poster_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,41 @@
+
+hc_djset.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_djset_hc_djset_64_a_0_0.png
+  rotate: false
+  xy: 83, 114
+  size: 76, 127
+  orig: 76, 127
+  offset: 0, 0
+  index: -1
+hc_djset_hc_djset_64_b_0_0.png
+  rotate: false
+  xy: 161, 201
+  size: 53, 40
+  orig: 53, 40
+  offset: 0, 0
+  index: -1
+hc_djset_hc_djset_64_c_0_0.png
+  rotate: false
+  xy: 2, 91
+  size: 79, 150
+  orig: 79, 150
+  offset: 0, 0
+  index: -1
+hc_djset_hc_djset_64_sd_0_0.png
+  rotate: false
+  xy: 2, 32
+  size: 114, 57
+  orig: 114, 57
+  offset: 0, 0
+  index: -1
+hc_djset_hc_djset_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1

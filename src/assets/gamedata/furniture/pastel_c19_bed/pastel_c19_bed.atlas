@@ -1,0 +1,48 @@
+
+pastel_c19_bed.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastel_c19_bed_pastel_c19_bed_64_a_2_0.png
+  rotate: false
+  xy: 428, 59
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+pastel_c19_bed_pastel_c19_bed_64_b_2_0.png
+  rotate: false
+  xy: 164, 43
+  size: 132, 75
+  orig: 132, 75
+  offset: 0, 0
+  index: -1
+pastel_c19_bed_pastel_c19_bed_64_c_2_0.png
+  rotate: false
+  xy: 298, 65
+  size: 128, 53
+  orig: 128, 53
+  offset: 0, 0
+  index: -1
+pastel_c19_bed_pastel_c19_bed_64_d_2_0.png
+  rotate: false
+  xy: 298, 2
+  size: 64, 61
+  orig: 64, 61
+  offset: 0, 0
+  index: -1
+pastel_c19_bed_pastel_c19_bed_64_sd_2_0.png
+  rotate: false
+  xy: 2, 37
+  size: 160, 81
+  orig: 160, 81
+  offset: 0, 0
+  index: -1
+pastel_c19_bed_pastel_c19_bed_icon_a.png
+  rotate: false
+  xy: 2, 8
+  size: 29, 27
+  orig: 29, 27
+  offset: 0, 0
+  index: -1

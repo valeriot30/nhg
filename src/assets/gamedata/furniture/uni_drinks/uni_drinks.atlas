@@ -1,0 +1,48 @@
+
+uni_drinks.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+uni_drinks_uni_drinks_64_a_2_0.png
+  rotate: false
+  xy: 2, 54
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+uni_drinks_uni_drinks_64_a_2_1.png
+  rotate: false
+  xy: 2, 106
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+uni_drinks_uni_drinks_64_a_2_2.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+uni_drinks_uni_drinks_64_a_2_3.png
+  rotate: false
+  xy: 20, 106
+  size: 16, 50
+  orig: 16, 50
+  offset: 0, 0
+  index: -1
+uni_drinks_uni_drinks_64_a_2_4.png
+  rotate: false
+  xy: 2, 158
+  size: 49, 63
+  orig: 49, 63
+  offset: 0, 0
+  index: -1
+uni_drinks_uni_drinks_icon_a.png
+  rotate: false
+  xy: 53, 196
+  size: 8, 25
+  orig: 8, 25
+  offset: 0, 0
+  index: -1

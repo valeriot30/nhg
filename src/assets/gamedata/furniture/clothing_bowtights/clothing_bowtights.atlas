@@ -1,0 +1,20 @@
+
+clothing_bowtights.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_bowtights_clothing_bowtights_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+clothing_bowtights_clothing_bowtights_icon_a.png
+  rotate: false
+  xy: 52, 10
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

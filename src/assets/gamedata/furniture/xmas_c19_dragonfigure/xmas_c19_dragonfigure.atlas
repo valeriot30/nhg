@@ -1,0 +1,27 @@
+
+xmas_c19_dragonfigure.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas_c19_dragonfigure_xmas_c19_dragonfigure_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 45, 50
+  orig: 45, 50
+  offset: 0, 0
+  index: -1
+xmas_c19_dragonfigure_xmas_c19_dragonfigure_64_sd_0_0.png
+  rotate: false
+  xy: 77, 33
+  size: 32, 19
+  orig: 32, 19
+  offset: 0, 0
+  index: -1
+xmas_c19_dragonfigure_xmas_c19_dragonfigure_icon_a.png
+  rotate: false
+  xy: 49, 23
+  size: 26, 29
+  orig: 26, 29
+  offset: 0, 0
+  index: -1

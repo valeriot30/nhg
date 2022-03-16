@@ -1,0 +1,188 @@
+
+fball_counter.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fball_counter_fball_counter_64_a_2_0.png
+  rotate: false
+  xy: 2, 34
+  size: 42, 80
+  orig: 42, 80
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_b_2_0.png
+  rotate: false
+  xy: 46, 37
+  size: 45, 77
+  orig: 45, 77
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_c_2_0.png
+  rotate: false
+  xy: 248, 98
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_d_2_0.png
+  rotate: false
+  xy: 248, 107
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_0.png
+  rotate: false
+  xy: 209, 94
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_1.png
+  rotate: false
+  xy: 52, 16
+  size: 2, 19
+  orig: 2, 19
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_2.png
+  rotate: false
+  xy: 219, 94
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_3.png
+  rotate: false
+  xy: 39, 12
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_4.png
+  rotate: false
+  xy: 238, 95
+  size: 8, 19
+  orig: 8, 19
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_5.png
+  rotate: false
+  xy: 143, 54
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_6.png
+  rotate: false
+  xy: 133, 54
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_7.png
+  rotate: false
+  xy: 162, 55
+  size: 7, 19
+  orig: 7, 19
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_8.png
+  rotate: false
+  xy: 123, 54
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_2_9.png
+  rotate: false
+  xy: 199, 94
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_0.png
+  rotate: false
+  xy: 169, 94
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_1.png
+  rotate: false
+  xy: 48, 16
+  size: 2, 19
+  orig: 2, 19
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_2.png
+  rotate: false
+  xy: 93, 54
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_3.png
+  rotate: false
+  xy: 153, 54
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_4.png
+  rotate: false
+  xy: 113, 54
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_5.png
+  rotate: false
+  xy: 189, 94
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_6.png
+  rotate: false
+  xy: 179, 94
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_7.png
+  rotate: false
+  xy: 229, 94
+  size: 7, 20
+  orig: 7, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_8.png
+  rotate: false
+  xy: 29, 12
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_e_4_9.png
+  rotate: false
+  xy: 103, 54
+  size: 8, 20
+  orig: 8, 20
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_64_sd_2_0.png
+  rotate: false
+  xy: 93, 76
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+fball_counter_fball_counter_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 30
+  orig: 25, 30
+  offset: 0, 0
+  index: -1

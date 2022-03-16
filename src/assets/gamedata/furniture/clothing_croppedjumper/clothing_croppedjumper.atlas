@@ -1,0 +1,20 @@
+
+clothing_croppedjumper.png
+size: 64,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_croppedjumper_clothing_croppedjumper_64_a_0_0.png
+  rotate: false
+  xy: 2, 33
+  size: 31, 68
+  orig: 31, 68
+  offset: 0, 0
+  index: -1
+clothing_croppedjumper_clothing_croppedjumper_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1

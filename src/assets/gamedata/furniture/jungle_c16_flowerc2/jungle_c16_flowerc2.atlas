@@ -1,0 +1,230 @@
+
+jungle_c16_flowerc2.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_1.png
+  rotate: false
+  xy: 187, 177
+  size: 51, 18
+  orig: 51, 18
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_10.png
+  rotate: false
+  xy: 2, 206
+  size: 62, 47
+  orig: 62, 47
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_11.png
+  rotate: false
+  xy: 194, 197
+  size: 50, 21
+  orig: 50, 21
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_2.png
+  rotate: false
+  xy: 2, 3
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_3.png
+  rotate: false
+  xy: 130, 179
+  size: 55, 31
+  orig: 55, 31
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_4.png
+  rotate: false
+  xy: 130, 212
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_5.png
+  rotate: false
+  xy: 2, 77
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_6.png
+  rotate: false
+  xy: 2, 120
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_7.png
+  rotate: false
+  xy: 66, 169
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_8.png
+  rotate: false
+  xy: 2, 163
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_a_0_9.png
+  rotate: false
+  xy: 66, 212
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_1.png
+  rotate: false
+  xy: 187, 110
+  size: 26, 10
+  orig: 26, 10
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_10.png
+  rotate: false
+  xy: 48, 42
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_2.png
+  rotate: false
+  xy: 171, 2
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_3.png
+  rotate: false
+  xy: 171, 22
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_4.png
+  rotate: false
+  xy: 57, 7
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_5.png
+  rotate: false
+  xy: 149, 79
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_6.png
+  rotate: false
+  xy: 133, 9
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_7.png
+  rotate: false
+  xy: 124, 44
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_8.png
+  rotate: false
+  xy: 95, 9
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_b_0_9.png
+  rotate: false
+  xy: 86, 44
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_0.png
+  rotate: false
+  xy: 110, 115
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_10.png
+  rotate: false
+  xy: 187, 122
+  size: 29, 21
+  orig: 29, 21
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_11.png
+  rotate: false
+  xy: 110, 79
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_12.png
+  rotate: false
+  xy: 66, 80
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_13.png
+  rotate: false
+  xy: 2, 31
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_14.png
+  rotate: false
+  xy: 66, 118
+  size: 45, 49
+  orig: 45, 49
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_15.png
+  rotate: false
+  xy: 194, 220
+  size: 50, 33
+  orig: 50, 33
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_16.png
+  rotate: false
+  xy: 130, 146
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_17.png
+  rotate: false
+  xy: 183, 145
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_64_c_0_18.png
+  rotate: false
+  xy: 113, 114
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+jungle_c16_flowerc2_jungle_c16_flowerc2_icon_a.png
+  rotate: false
+  xy: 162, 47
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

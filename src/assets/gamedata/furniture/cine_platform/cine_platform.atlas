@@ -1,0 +1,216 @@
+
+cine_platform.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cine_platform_cine_platform_64_a_2_0.png
+  rotate: false
+  xy: 163, 156
+  size: 71, 91
+  orig: 71, 91
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_a_2_1.png
+  rotate: false
+  xy: 236, 136
+  size: 71, 111
+  orig: 71, 111
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_a_2_2.png
+  rotate: false
+  xy: 2, 34
+  size: 71, 131
+  orig: 71, 131
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_a_6_0.png
+  rotate: false
+  xy: 571, 59
+  size: 39, 79
+  orig: 39, 79
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_a_6_1.png
+  rotate: false
+  xy: 416, 19
+  size: 39, 99
+  orig: 39, 99
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_a_6_2.png
+  rotate: false
+  xy: 261, 15
+  size: 39, 119
+  orig: 39, 119
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_b_2_0.png
+  rotate: false
+  xy: 783, 160
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_b_2_1.png
+  rotate: false
+  xy: 511, 140
+  size: 64, 107
+  orig: 64, 107
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_b_2_2.png
+  rotate: false
+  xy: 379, 120
+  size: 64, 127
+  orig: 64, 127
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_b_6_0.png
+  rotate: false
+  xy: 612, 59
+  size: 32, 79
+  orig: 32, 79
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_b_6_1.png
+  rotate: false
+  xy: 491, 19
+  size: 32, 99
+  orig: 32, 99
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_b_6_2.png
+  rotate: false
+  xy: 336, 18
+  size: 32, 119
+  orig: 32, 119
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_c_2_0.png
+  rotate: false
+  xy: 849, 160
+  size: 64, 87
+  orig: 64, 87
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_c_2_1.png
+  rotate: false
+  xy: 577, 140
+  size: 64, 107
+  orig: 64, 107
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_c_2_2.png
+  rotate: false
+  xy: 445, 120
+  size: 64, 127
+  orig: 64, 127
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_c_6_0.png
+  rotate: false
+  xy: 985, 168
+  size: 32, 79
+  orig: 32, 79
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_c_6_1.png
+  rotate: false
+  xy: 457, 19
+  size: 32, 99
+  orig: 32, 99
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_c_6_2.png
+  rotate: false
+  xy: 302, 15
+  size: 32, 119
+  orig: 32, 119
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_d_2_0.png
+  rotate: false
+  xy: 713, 159
+  size: 68, 88
+  orig: 68, 88
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_d_2_1.png
+  rotate: false
+  xy: 309, 139
+  size: 68, 108
+  orig: 68, 108
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_d_2_2.png
+  rotate: false
+  xy: 75, 37
+  size: 68, 128
+  orig: 68, 128
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_d_6_0.png
+  rotate: false
+  xy: 915, 167
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_d_6_1.png
+  rotate: false
+  xy: 643, 147
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_d_6_2.png
+  rotate: false
+  xy: 145, 34
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_e_2_2.png
+  rotate: false
+  xy: 309, 136
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_e_6_0.png
+  rotate: false
+  xy: 525, 58
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_e_6_1.png
+  rotate: false
+  xy: 370, 18
+  size: 44, 100
+  orig: 44, 100
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_e_6_2.png
+  rotate: false
+  xy: 215, 14
+  size: 44, 120
+  orig: 44, 120
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_64_sd_2_0.png
+  rotate: false
+  xy: 2, 167
+  size: 159, 80
+  orig: 159, 80
+  offset: 0, 0
+  index: -1
+cine_platform_cine_platform_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1

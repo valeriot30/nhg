@@ -1,0 +1,83 @@
+
+testing_crackable.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+testing_crackable_testing_crackable_64_a_0_0.png
+  rotate: false
+  xy: 546, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_64_a_0_1.png
+  rotate: false
+  xy: 614, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_64_a_0_2.png
+  rotate: false
+  xy: 2, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_64_a_0_3.png
+  rotate: false
+  xy: 70, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_64_a_0_4.png
+  rotate: false
+  xy: 138, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_64_a_0_5.png
+  rotate: false
+  xy: 206, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_64_a_0_6.png
+  rotate: false
+  xy: 274, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_64_a_0_7.png
+  rotate: false
+  xy: 342, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_64_a_0_8.png
+  rotate: false
+  xy: 410, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_64_a_0_9.png
+  rotate: false
+  xy: 478, 2
+  size: 66, 53
+  orig: 66, 53
+  offset: 0, 0
+  index: -1
+testing_crackable_testing_crackable_icon_a.png
+  rotate: false
+  xy: 682, 36
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1

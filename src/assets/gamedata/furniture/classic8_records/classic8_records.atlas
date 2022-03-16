@@ -1,0 +1,41 @@
+
+classic8_records.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic8_records_classic8_records_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 27
+  orig: 50, 27
+  offset: 0, 0
+  index: -1
+classic8_records_classic8_records_64_a_0_1.png
+  rotate: false
+  xy: 2, 31
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+classic8_records_classic8_records_64_a_0_2.png
+  rotate: false
+  xy: 95, 20
+  size: 28, 17
+  orig: 28, 17
+  offset: 0, 0
+  index: -1
+classic8_records_classic8_records_64_a_0_3.png
+  rotate: false
+  xy: 55, 34
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+classic8_records_classic8_records_icon_a.png
+  rotate: false
+  xy: 95, 39
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+coralking_c18_shelltele.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_shelltele_coralking_c18_shelltele_64_a_4_0.png
+  rotate: false
+  xy: 79, 183
+  size: 29, 68
+  orig: 29, 68
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_b_4_0.png
+  rotate: false
+  xy: 2, 119
+  size: 75, 132
+  orig: 75, 132
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_c_4_0.png
+  rotate: false
+  xy: 2, 35
+  size: 22, 82
+  orig: 22, 82
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_c_4_1.png
+  rotate: false
+  xy: 26, 44
+  size: 22, 73
+  orig: 22, 73
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_c_4_2.png
+  rotate: false
+  xy: 50, 53
+  size: 22, 64
+  orig: 22, 64
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_c_4_3.png
+  rotate: false
+  xy: 79, 127
+  size: 22, 54
+  orig: 22, 54
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_c_4_4.png
+  rotate: false
+  xy: 103, 139
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_c_4_5.png
+  rotate: false
+  xy: 2, 2
+  size: 20, 31
+  orig: 20, 31
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_c_4_6.png
+  rotate: false
+  xy: 74, 61
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_c_4_7.png
+  rotate: false
+  xy: 24, 6
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_64_sd_4_0.png
+  rotate: false
+  xy: 26, 21
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+coralking_c18_shelltele_coralking_c18_shelltele_icon_a.png
+  rotate: false
+  xy: 74, 87
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1

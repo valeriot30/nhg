@@ -1,0 +1,27 @@
+
+xmas12_bardesk.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+xmas12_bardesk_xmas12_bardesk_64_a_0_0.png
+  rotate: false
+  xy: 2, 34
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+xmas12_bardesk_xmas12_bardesk_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 30
+  orig: 68, 30
+  offset: 0, 0
+  index: -1
+xmas12_bardesk_xmas12_bardesk_icon_a.png
+  rotate: false
+  xy: 70, 70
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

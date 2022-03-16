@@ -1,0 +1,34 @@
+
+hc_bigvase.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hc_bigvase_hc_bigvase_64_a_0_0.png
+  rotate: false
+  xy: 2, 131
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+hc_bigvase_hc_bigvase_64_a_0_1.png
+  rotate: false
+  xy: 2, 48
+  size: 49, 81
+  orig: 49, 81
+  offset: 0, 0
+  index: -1
+hc_bigvase_hc_bigvase_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+hc_bigvase_hc_bigvase_icon_a.png
+  rotate: false
+  xy: 2, 17
+  size: 25, 29
+  orig: 25, 29
+  offset: 0, 0
+  index: -1

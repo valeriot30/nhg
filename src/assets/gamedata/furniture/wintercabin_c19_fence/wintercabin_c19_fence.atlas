@@ -1,0 +1,55 @@
+
+wintercabin_c19_fence.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+wintercabin_c19_fence_wintercabin_c19_fence_64_a_0_0.png
+  rotate: false
+  xy: 78, 50
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+wintercabin_c19_fence_wintercabin_c19_fence_64_c_2_0.png
+  rotate: false
+  xy: 119, 50
+  size: 39, 61
+  orig: 39, 61
+  offset: 0, 0
+  index: -1
+wintercabin_c19_fence_wintercabin_c19_fence_64_d_2_0.png
+  rotate: false
+  xy: 160, 57
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+wintercabin_c19_fence_wintercabin_c19_fence_64_d_4_0.png
+  rotate: false
+  xy: 204, 57
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+wintercabin_c19_fence_wintercabin_c19_fence_64_sd_0_0.png
+  rotate: false
+  xy: 2, 73
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+wintercabin_c19_fence_wintercabin_c19_fence_64_sd_2_0.png
+  rotate: false
+  xy: 2, 33
+  size: 74, 38
+  orig: 74, 38
+  offset: 0, 0
+  index: -1
+wintercabin_c19_fence_wintercabin_c19_fence_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 29
+  orig: 27, 29
+  offset: 0, 0
+  index: -1

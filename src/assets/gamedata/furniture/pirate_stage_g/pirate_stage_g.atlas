@@ -1,0 +1,174 @@
+
+pirate_stage_g.png
+size: 1024,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_stage_g_pirate_stage_g_64_a_0_0.png
+  rotate: false
+  xy: 752, 57
+  size: 62, 32
+  orig: 62, 32
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_b_0_0.png
+  rotate: false
+  xy: 278, 63
+  size: 130, 58
+  orig: 130, 58
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_b_0_1.png
+  rotate: false
+  xy: 2, 3
+  size: 130, 88
+  orig: 130, 88
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_b_0_2.png
+  rotate: false
+  xy: 422, 136
+  size: 130, 118
+  orig: 130, 118
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_b_0_3.png
+  rotate: false
+  xy: 146, 106
+  size: 130, 148
+  orig: 130, 148
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_c_0_0.png
+  rotate: false
+  xy: 266, 3
+  size: 64, 58
+  orig: 64, 58
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_c_0_1.png
+  rotate: false
+  xy: 134, 3
+  size: 64, 88
+  orig: 64, 88
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_c_0_2.png
+  rotate: false
+  xy: 620, 33
+  size: 64, 118
+  orig: 64, 118
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_c_0_3.png
+  rotate: false
+  xy: 902, 7
+  size: 64, 148
+  orig: 64, 148
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_d_0_0.png
+  rotate: false
+  xy: 698, 153
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_d_2_0.png
+  rotate: false
+  xy: 836, 157
+  size: 136, 24
+  orig: 136, 24
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_d_2_3.png
+  rotate: false
+  xy: 698, 156
+  size: 136, 98
+  orig: 136, 98
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_e_2_0.png
+  rotate: false
+  xy: 752, 32
+  size: 64, 23
+  orig: 64, 23
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_e_2_3.png
+  rotate: false
+  xy: 686, 38
+  size: 64, 113
+  orig: 64, 113
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_f_0_0.png
+  rotate: false
+  xy: 332, 24
+  size: 62, 37
+  orig: 62, 37
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_g_0_0.png
+  rotate: false
+  xy: 836, 183
+  size: 142, 71
+  orig: 142, 71
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_g_0_1.png
+  rotate: false
+  xy: 554, 153
+  size: 142, 101
+  orig: 142, 101
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_g_0_2.png
+  rotate: false
+  xy: 278, 123
+  size: 142, 131
+  orig: 142, 131
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_g_0_3.png
+  rotate: false
+  xy: 2, 93
+  size: 142, 161
+  orig: 142, 161
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_h_0_0.png
+  rotate: false
+  xy: 752, 91
+  size: 64, 63
+  orig: 64, 63
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_h_0_1.png
+  rotate: false
+  xy: 200, 11
+  size: 64, 93
+  orig: 64, 93
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_h_0_2.png
+  rotate: false
+  xy: 554, 28
+  size: 64, 123
+  orig: 64, 123
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_64_h_0_3.png
+  rotate: false
+  xy: 836, 2
+  size: 64, 153
+  orig: 64, 153
+  offset: 0, 0
+  index: -1
+pirate_stage_g_pirate_stage_g_icon_a.png
+  rotate: false
+  xy: 332, 2
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1

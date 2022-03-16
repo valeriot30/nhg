@@ -1,0 +1,27 @@
+
+classic9_stool.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+classic9_stool_classic9_stool_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 39
+  orig: 36, 39
+  offset: 0, 0
+  index: -1
+classic9_stool_classic9_stool_64_sd_0_0.png
+  rotate: false
+  xy: 69, 21
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+classic9_stool_classic9_stool_icon_a.png
+  rotate: false
+  xy: 40, 11
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

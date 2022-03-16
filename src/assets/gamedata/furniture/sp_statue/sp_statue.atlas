@@ -1,0 +1,55 @@
+
+sp_statue.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sp_statue_sp_statue_64_a_0_0.png
+  rotate: false
+  xy: 2, 16
+  size: 73, 143
+  orig: 73, 143
+  offset: 0, 0
+  index: -1
+sp_statue_sp_statue_64_b_0_0.png
+  rotate: false
+  xy: 77, 16
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+sp_statue_sp_statue_64_b_0_1.png
+  rotate: false
+  xy: 149, 19
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+sp_statue_sp_statue_64_b_0_2.png
+  rotate: false
+  xy: 77, 19
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+sp_statue_sp_statue_64_b_0_3.png
+  rotate: false
+  xy: 221, 19
+  size: 70, 140
+  orig: 70, 140
+  offset: 0, 0
+  index: -1
+sp_statue_sp_statue_64_sd_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 50, 12
+  orig: 50, 12
+  offset: 0, 0
+  index: -1
+sp_statue_sp_statue_icon_a.png
+  rotate: false
+  xy: 293, 132
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1

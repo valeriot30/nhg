@@ -1,0 +1,62 @@
+
+coralking_c18_fishnet.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coralking_c18_fishnet_coralking_c18_fishnet_64_a_2_0.png
+  rotate: false
+  xy: 48, 136
+  size: 40, 92
+  orig: 40, 92
+  offset: 0, 0
+  index: -1
+coralking_c18_fishnet_coralking_c18_fishnet_64_b_2_0.png
+  rotate: false
+  xy: 47, 38
+  size: 29, 95
+  orig: 29, 95
+  offset: 0, 0
+  index: -1
+coralking_c18_fishnet_coralking_c18_fishnet_64_c_2_0.png
+  rotate: false
+  xy: 2, 42
+  size: 43, 91
+  orig: 43, 91
+  offset: 0, 0
+  index: -1
+coralking_c18_fishnet_coralking_c18_fishnet_64_d_2_0.png
+  rotate: false
+  xy: 90, 137
+  size: 30, 91
+  orig: 30, 91
+  offset: 0, 0
+  index: -1
+coralking_c18_fishnet_coralking_c18_fishnet_64_e_2_0.png
+  rotate: false
+  xy: 2, 135
+  size: 44, 93
+  orig: 44, 93
+  offset: 0, 0
+  index: -1
+coralking_c18_fishnet_coralking_c18_fishnet_64_f_2_0.png
+  rotate: false
+  xy: 78, 60
+  size: 33, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+coralking_c18_fishnet_coralking_c18_fishnet_64_sd_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 34
+  orig: 68, 34
+  offset: 0, 0
+  index: -1
+coralking_c18_fishnet_coralking_c18_fishnet_icon_a.png
+  rotate: false
+  xy: 78, 29
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1

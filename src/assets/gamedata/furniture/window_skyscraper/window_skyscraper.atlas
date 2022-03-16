@@ -1,0 +1,34 @@
+
+window_skyscraper.png
+size: 128,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+window_skyscraper_window_skyscraper_64_2_mask.png
+  rotate: false
+  xy: 2, 2
+  size: 29, 121
+  orig: 29, 121
+  offset: 0, 0
+  index: -1
+window_skyscraper_window_skyscraper_64_a_2_0.png
+  rotate: false
+  xy: 2, 125
+  size: 33, 126
+  orig: 33, 126
+  offset: 0, 0
+  index: -1
+window_skyscraper_window_skyscraper_64_b_2_0.png
+  rotate: false
+  xy: 37, 144
+  size: 32, 107
+  orig: 32, 107
+  offset: 0, 0
+  index: -1
+window_skyscraper_window_skyscraper_icon_a.png
+  rotate: false
+  xy: 71, 228
+  size: 10, 23
+  orig: 10, 23
+  offset: 0, 0
+  index: -1

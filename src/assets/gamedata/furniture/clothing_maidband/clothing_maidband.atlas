@@ -1,0 +1,20 @@
+
+clothing_maidband.png
+size: 64,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_maidband_clothing_maidband_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 27, 45
+  orig: 27, 45
+  offset: 0, 0
+  index: -1
+clothing_maidband_clothing_maidband_icon_a.png
+  rotate: false
+  xy: 31, 17
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1

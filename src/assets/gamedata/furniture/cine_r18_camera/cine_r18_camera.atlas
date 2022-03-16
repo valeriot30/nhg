@@ -1,0 +1,76 @@
+
+cine_r18_camera.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cine_r18_camera_cine_r18_camera_64_a_0_0.png
+  rotate: false
+  xy: 250, 147
+  size: 84, 96
+  orig: 84, 96
+  offset: 0, 0
+  index: -1
+cine_r18_camera_cine_r18_camera_64_a_0_1.png
+  rotate: false
+  xy: 88, 105
+  size: 84, 138
+  orig: 84, 138
+  offset: 0, 0
+  index: -1
+cine_r18_camera_cine_r18_camera_64_a_0_2.png
+  rotate: false
+  xy: 2, 65
+  size: 84, 178
+  orig: 84, 178
+  offset: 0, 0
+  index: -1
+cine_r18_camera_cine_r18_camera_64_a_4_0.png
+  rotate: false
+  xy: 2, 5
+  size: 74, 58
+  orig: 74, 58
+  offset: 0, 0
+  index: -1
+cine_r18_camera_cine_r18_camera_64_a_4_1.png
+  rotate: false
+  xy: 336, 143
+  size: 74, 100
+  orig: 74, 100
+  offset: 0, 0
+  index: -1
+cine_r18_camera_cine_r18_camera_64_a_4_2.png
+  rotate: false
+  xy: 174, 103
+  size: 74, 140
+  orig: 74, 140
+  offset: 0, 0
+  index: -1
+cine_r18_camera_cine_r18_camera_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+cine_r18_camera_cine_r18_camera_64_b_4_0.png
+  rotate: false
+  xy: 250, 103
+  size: 51, 42
+  orig: 51, 42
+  offset: 0, 0
+  index: -1
+cine_r18_camera_cine_r18_camera_64_sd_4_0.png
+  rotate: false
+  xy: 88, 71
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+cine_r18_camera_cine_r18_camera_icon_a.png
+  rotate: false
+  xy: 412, 215
+  size: 25, 28
+  orig: 25, 28
+  offset: 0, 0
+  index: -1

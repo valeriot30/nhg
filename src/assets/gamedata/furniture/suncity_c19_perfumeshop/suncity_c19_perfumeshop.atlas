@@ -1,0 +1,55 @@
+
+suncity_c19_perfumeshop.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+suncity_c19_perfumeshop_suncity_c19_perfumeshop_64_a_2_0.png
+  rotate: false
+  xy: 290, 51
+  size: 35, 165
+  orig: 35, 165
+  offset: 0, 0
+  index: -1
+suncity_c19_perfumeshop_suncity_c19_perfumeshop_64_a_4_0.png
+  rotate: false
+  xy: 327, 51
+  size: 35, 165
+  orig: 35, 165
+  offset: 0, 0
+  index: -1
+suncity_c19_perfumeshop_suncity_c19_perfumeshop_64_b_2_0.png
+  rotate: false
+  xy: 77, 34
+  size: 73, 182
+  orig: 73, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_perfumeshop_suncity_c19_perfumeshop_64_b_4_0.png
+  rotate: false
+  xy: 2, 34
+  size: 73, 182
+  orig: 73, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_perfumeshop_suncity_c19_perfumeshop_64_c_2_0.png
+  rotate: false
+  xy: 152, 34
+  size: 67, 182
+  orig: 67, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_perfumeshop_suncity_c19_perfumeshop_64_c_4_0.png
+  rotate: false
+  xy: 221, 34
+  size: 67, 182
+  orig: 67, 182
+  offset: 0, 0
+  index: -1
+suncity_c19_perfumeshop_suncity_c19_perfumeshop_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 19, 30
+  orig: 19, 30
+  offset: 0, 0
+  index: -1

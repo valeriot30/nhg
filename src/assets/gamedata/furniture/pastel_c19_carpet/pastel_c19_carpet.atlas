@@ -1,0 +1,20 @@
+
+pastel_c19_carpet.png
+size: 256,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastel_c19_carpet_pastel_c19_carpet_64_a_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 174, 93
+  orig: 174, 93
+  offset: 0, 0
+  index: -1
+pastel_c19_carpet_pastel_c19_carpet_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1

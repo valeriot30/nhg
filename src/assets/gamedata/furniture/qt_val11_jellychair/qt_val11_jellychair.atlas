@@ -1,0 +1,97 @@
+
+qt_val11_jellychair.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+qt_val11_jellychair_qt_val11_jellychair_64_a_0_0.png
+  rotate: false
+  xy: 479, 12
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_a_0_1.png
+  rotate: false
+  xy: 343, 13
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_a_0_2.png
+  rotate: false
+  xy: 273, 13
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_a_2_0.png
+  rotate: false
+  xy: 138, 2
+  size: 63, 58
+  orig: 63, 58
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_a_2_1.png
+  rotate: false
+  xy: 71, 3
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_a_2_2.png
+  rotate: false
+  xy: 2, 4
+  size: 67, 56
+  orig: 67, 56
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_b_0_0.png
+  rotate: false
+  xy: 545, 12
+  size: 64, 48
+  orig: 64, 48
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_b_0_1.png
+  rotate: false
+  xy: 411, 13
+  size: 66, 47
+  orig: 66, 47
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_b_0_2.png
+  rotate: false
+  xy: 203, 13
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_b_2_0.png
+  rotate: false
+  xy: 708, 28
+  size: 29, 32
+  orig: 29, 32
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_b_2_1.png
+  rotate: false
+  xy: 677, 29
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_64_b_2_2.png
+  rotate: false
+  xy: 645, 30
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+qt_val11_jellychair_qt_val11_jellychair_icon_a.png
+  rotate: false
+  xy: 611, 30
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+hween_c18_labstool.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_labstool_hween_c18_labstool_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 36, 48
+  orig: 36, 48
+  offset: 0, 0
+  index: -1
+hween_c18_labstool_hween_c18_labstool_64_sd_0_0.png
+  rotate: false
+  xy: 40, 32
+  size: 36, 18
+  orig: 36, 18
+  offset: 0, 0
+  index: -1
+hween_c18_labstool_hween_c18_labstool_icon_a.png
+  rotate: false
+  xy: 40, 5
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1

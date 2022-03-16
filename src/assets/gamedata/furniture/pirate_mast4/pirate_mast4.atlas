@@ -1,0 +1,258 @@
+
+pirate_mast4.png
+size: 2048,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_mast4_pirate_mast4_32_c_0_0.png
+  rotate: false
+  xy: 2, 21
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_a_0_0.png
+  rotate: false
+  xy: 2, 24
+  size: 64, 70
+  orig: 64, 70
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_b_0_0.png
+  rotate: false
+  xy: 68, 42
+  size: 66, 52
+  orig: 66, 52
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_1.png
+  rotate: false
+  xy: 2, 96
+  size: 69, 144
+  orig: 69, 144
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_10.png
+  rotate: false
+  xy: 288, 97
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_11.png
+  rotate: false
+  xy: 144, 98
+  size: 70, 142
+  orig: 70, 142
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_12.png
+  rotate: false
+  xy: 216, 99
+  size: 70, 141
+  orig: 70, 141
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_13.png
+  rotate: false
+  xy: 856, 100
+  size: 69, 140
+  orig: 69, 140
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_14.png
+  rotate: false
+  xy: 1069, 101
+  size: 69, 139
+  orig: 69, 139
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_15.png
+  rotate: false
+  xy: 643, 99
+  size: 69, 141
+  orig: 69, 141
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_16.png
+  rotate: false
+  xy: 501, 98
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_2.png
+  rotate: false
+  xy: 359, 97
+  size: 69, 143
+  orig: 69, 143
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_3.png
+  rotate: false
+  xy: 430, 98
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_4.png
+  rotate: false
+  xy: 785, 99
+  size: 69, 141
+  orig: 69, 141
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_5.png
+  rotate: false
+  xy: 998, 100
+  size: 69, 140
+  orig: 69, 140
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_6.png
+  rotate: false
+  xy: 927, 100
+  size: 69, 140
+  orig: 69, 140
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_7.png
+  rotate: false
+  xy: 714, 99
+  size: 69, 141
+  orig: 69, 141
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_8.png
+  rotate: false
+  xy: 572, 98
+  size: 69, 142
+  orig: 69, 142
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_0_9.png
+  rotate: false
+  xy: 73, 96
+  size: 69, 144
+  orig: 69, 144
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_1.png
+  rotate: false
+  xy: 1711, 122
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_10.png
+  rotate: false
+  xy: 1212, 122
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_11.png
+  rotate: false
+  xy: 1640, 122
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_12.png
+  rotate: false
+  xy: 1140, 122
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_13.png
+  rotate: false
+  xy: 1498, 122
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_14.png
+  rotate: false
+  xy: 1569, 122
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_15.png
+  rotate: false
+  xy: 1356, 122
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_16.png
+  rotate: false
+  xy: 1427, 122
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_2.png
+  rotate: false
+  xy: 1853, 122
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_3.png
+  rotate: false
+  xy: 1782, 122
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_4.png
+  rotate: false
+  xy: 1140, 2
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_5.png
+  rotate: false
+  xy: 1924, 122
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_6.png
+  rotate: false
+  xy: 1282, 2
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_7.png
+  rotate: false
+  xy: 1211, 2
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_8.png
+  rotate: false
+  xy: 1353, 2
+  size: 69, 118
+  orig: 69, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_64_c_4_9.png
+  rotate: false
+  xy: 1284, 122
+  size: 70, 118
+  orig: 70, 118
+  offset: 0, 0
+  index: -1
+pirate_mast4_pirate_mast4_icon_a.png
+  rotate: false
+  xy: 1995, 210
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

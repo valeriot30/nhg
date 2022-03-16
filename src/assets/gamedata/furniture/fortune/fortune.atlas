@@ -1,0 +1,223 @@
+
+fortune.png
+size: 1024,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fortune_fortune_32_d_0_0.png
+  rotate: false
+  xy: 863, 30
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_a_0_0.png
+  rotate: false
+  xy: 459, 7
+  size: 42, 55
+  orig: 42, 55
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_b_0_0.png
+  rotate: false
+  xy: 503, 27
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_c_0_0.png
+  rotate: false
+  xy: 887, 39
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_c_0_1.png
+  rotate: false
+  xy: 731, 20
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_c_0_2.png
+  rotate: false
+  xy: 819, 20
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_c_0_3.png
+  rotate: false
+  xy: 775, 20
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_c_0_4.png
+  rotate: false
+  xy: 599, 20
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_c_0_5.png
+  rotate: false
+  xy: 555, 20
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_c_0_6.png
+  rotate: false
+  xy: 687, 20
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_c_0_7.png
+  rotate: false
+  xy: 643, 20
+  size: 42, 42
+  orig: 42, 42
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_d_0_1.png
+  rotate: false
+  xy: 2, 9
+  size: 63, 53
+  orig: 63, 53
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_e_0_0.png
+  rotate: false
+  xy: 2, 5
+  size: 1, 2
+  orig: 1, 2
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_e_0_1.png
+  rotate: false
+  xy: 291, 9
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_e_0_2.png
+  rotate: false
+  xy: 67, 9
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_e_0_3.png
+  rotate: false
+  xy: 123, 9
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_e_0_4.png
+  rotate: false
+  xy: 179, 9
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_e_0_5.png
+  rotate: false
+  xy: 235, 9
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_e_0_6.png
+  rotate: false
+  xy: 347, 9
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_e_0_7.png
+  rotate: false
+  xy: 403, 9
+  size: 54, 53
+  orig: 54, 53
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_f_0_0.png
+  rotate: false
+  xy: 999, 44
+  size: 12, 18
+  orig: 12, 18
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_f_0_1.png
+  rotate: false
+  xy: 887, 42
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_f_0_2.png
+  rotate: false
+  xy: 965, 48
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_f_0_3.png
+  rotate: false
+  xy: 503, 9
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_f_0_4.png
+  rotate: false
+  xy: 947, 46
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_f_0_5.png
+  rotate: false
+  xy: 983, 48
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_f_0_6.png
+  rotate: false
+  xy: 909, 44
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_f_0_7.png
+  rotate: false
+  xy: 929, 46
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_f_0_8.png
+  rotate: false
+  xy: 2, 2
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+fortune_fortune_64_sd_0_0.png
+  rotate: false
+  xy: 527, 21
+  size: 26, 4
+  orig: 26, 4
+  offset: 0, 0
+  index: -1
+fortune_fortune_icon_a.png
+  rotate: false
+  xy: 863, 33
+  size: 22, 29
+  orig: 22, 29
+  offset: 0, 0
+  index: -1

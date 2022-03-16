@@ -1,0 +1,34 @@
+
+pastel_c19_cubeseat.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pastel_c19_cubeseat_pastel_c19_cubeseat_64_a_0_0.png
+  rotate: false
+  xy: 2, 16
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+pastel_c19_cubeseat_pastel_c19_cubeseat_64_a_0_1.png
+  rotate: false
+  xy: 44, 16
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+pastel_c19_cubeseat_pastel_c19_cubeseat_64_sd_0_0.png
+  rotate: false
+  xy: 86, 34
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+pastel_c19_cubeseat_pastel_c19_cubeseat_icon_a.png
+  rotate: false
+  xy: 86, 2
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1

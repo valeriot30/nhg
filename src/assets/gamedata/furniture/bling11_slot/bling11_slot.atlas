@@ -1,0 +1,83 @@
+
+bling11_slot.png
+size: 512,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bling11_slot_bling11_slot_64_a_0_0.png
+  rotate: false
+  xy: 138, 13
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_64_b_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_64_b_0_1.png
+  rotate: false
+  xy: 202, 43
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_64_b_0_2.png
+  rotate: false
+  xy: 238, 93
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_64_b_0_3.png
+  rotate: false
+  xy: 202, 68
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_64_b_0_4.png
+  rotate: false
+  xy: 202, 93
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_64_b_0_5.png
+  rotate: false
+  xy: 238, 68
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_64_c_0_0.png
+  rotate: false
+  xy: 202, 40
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_64_c_0_1.png
+  rotate: false
+  xy: 2, 16
+  size: 67, 100
+  orig: 67, 100
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_64_c_0_2.png
+  rotate: false
+  xy: 71, 16
+  size: 65, 100
+  orig: 65, 100
+  offset: 0, 0
+  index: -1
+bling11_slot_bling11_slot_icon_a.png
+  rotate: false
+  xy: 274, 89
+  size: 17, 27
+  orig: 17, 27
+  offset: 0, 0
+  index: -1

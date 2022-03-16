@@ -1,0 +1,27 @@
+
+guild_customized.png
+size: 64,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+guild_customized_guild_customized_64_a_0_0.png
+  rotate: false
+  xy: 2, 63
+  size: 47, 97
+  orig: 47, 97
+  offset: 0, 0
+  index: -1
+guild_customized_guild_customized_64_sd_0_0.png
+  rotate: false
+  xy: 2, 35
+  size: 51, 26
+  orig: 51, 26
+  offset: 0, 0
+  index: -1
+guild_customized_guild_customized_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 16, 31
+  orig: 16, 31
+  offset: 0, 0
+  index: -1

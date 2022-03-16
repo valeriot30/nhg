@@ -1,0 +1,20 @@
+
+clothing_r19_elisa.png
+size: 128,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+clothing_r19_elisa_clothing_r19_elisa_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 35, 52
+  orig: 35, 52
+  offset: 0, 0
+  index: -1
+clothing_r19_elisa_clothing_r19_elisa_icon_a.png
+  rotate: false
+  xy: 39, 24
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

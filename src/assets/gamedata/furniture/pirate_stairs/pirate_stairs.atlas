@@ -1,0 +1,55 @@
+
+pirate_stairs.png
+size: 256,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+pirate_stairs_pirate_stairs_64_a_0_0.png
+  rotate: false
+  xy: 159, 20
+  size: 12, 11
+  orig: 12, 11
+  offset: 0, 0
+  index: -1
+pirate_stairs_pirate_stairs_64_a_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+pirate_stairs_pirate_stairs_64_b_0_0.png
+  rotate: false
+  xy: 66, 5
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1
+pirate_stairs_pirate_stairs_64_b_4_0.png
+  rotate: false
+  xy: 173, 22
+  size: 28, 33
+  orig: 28, 33
+  offset: 0, 0
+  index: -1
+pirate_stairs_pirate_stairs_64_sd_0_0.png
+  rotate: false
+  xy: 203, 35
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+pirate_stairs_pirate_stairs_64_sd_4_0.png
+  rotate: false
+  xy: 128, 33
+  size: 43, 22
+  orig: 43, 22
+  offset: 0, 0
+  index: -1
+pirate_stairs_pirate_stairs_icon_a.png
+  rotate: false
+  xy: 128, 5
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1

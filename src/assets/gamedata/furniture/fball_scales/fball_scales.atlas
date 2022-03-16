@@ -1,0 +1,83 @@
+
+fball_scales.png
+size: 128,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+fball_scales_fball_scales_64_a_4_0.png
+  rotate: false
+  xy: 2, 20
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_64_b_4_0.png
+  rotate: false
+  xy: 8, 10
+  size: 2, 8
+  orig: 2, 8
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_64_b_4_1.png
+  rotate: false
+  xy: 8, 2
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_64_b_4_2.png
+  rotate: false
+  xy: 80, 91
+  size: 6, 3
+  orig: 6, 3
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_64_b_4_3.png
+  rotate: false
+  xy: 93, 122
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_64_b_4_4.png
+  rotate: false
+  xy: 2, 2
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_64_b_4_5.png
+  rotate: false
+  xy: 71, 81
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_64_b_4_6.png
+  rotate: false
+  xy: 93, 117
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_64_b_4_7.png
+  rotate: false
+  xy: 71, 89
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_64_b_4_8.png
+  rotate: false
+  xy: 2, 10
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1
+fball_scales_fball_scales_icon_a.png
+  rotate: false
+  xy: 71, 96
+  size: 20, 30
+  orig: 20, 30
+  offset: 0, 0
+  index: -1

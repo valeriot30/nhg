@@ -1,0 +1,55 @@
+
+jp_wall.png
+size: 256,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+jp_wall_jp_wall_64_a_4_0.png
+  rotate: false
+  xy: 39, 35
+  size: 35, 131
+  orig: 35, 131
+  offset: 0, 0
+  index: -1
+jp_wall_jp_wall_64_a_4_1.png
+  rotate: false
+  xy: 76, 35
+  size: 35, 131
+  orig: 35, 131
+  offset: 0, 0
+  index: -1
+jp_wall_jp_wall_64_a_4_2.png
+  rotate: false
+  xy: 185, 35
+  size: 34, 131
+  orig: 34, 131
+  offset: 0, 0
+  index: -1
+jp_wall_jp_wall_64_a_4_3.png
+  rotate: false
+  xy: 2, 34
+  size: 35, 132
+  orig: 35, 132
+  offset: 0, 0
+  index: -1
+jp_wall_jp_wall_64_a_4_4.png
+  rotate: false
+  xy: 113, 34
+  size: 34, 132
+  orig: 34, 132
+  offset: 0, 0
+  index: -1
+jp_wall_jp_wall_64_a_4_5.png
+  rotate: false
+  xy: 149, 34
+  size: 34, 132
+  orig: 34, 132
+  offset: 0, 0
+  index: -1
+jp_wall_jp_wall_icon_a.png
+  rotate: false
+  xy: 2, 2
+  size: 14, 30
+  orig: 14, 30
+  offset: 0, 0
+  index: -1

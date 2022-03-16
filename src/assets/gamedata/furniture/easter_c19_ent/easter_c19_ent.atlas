@@ -1,0 +1,202 @@
+
+easter_c19_ent.png
+size: 1024,128
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+easter_c19_ent_easter_c19_ent_64_a_0_0.png
+  rotate: false
+  xy: 637, 24
+  size: 46, 99
+  orig: 46, 99
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_a_0_1.png
+  rotate: false
+  xy: 685, 24
+  size: 46, 99
+  orig: 46, 99
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_a_0_2.png
+  rotate: false
+  xy: 733, 25
+  size: 46, 98
+  orig: 46, 98
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_a_0_3.png
+  rotate: false
+  xy: 587, 24
+  size: 48, 99
+  orig: 48, 99
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_a_0_4.png
+  rotate: false
+  xy: 438, 24
+  size: 49, 99
+  orig: 49, 99
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_a_0_5.png
+  rotate: false
+  xy: 382, 24
+  size: 54, 99
+  orig: 54, 99
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_a_0_6.png
+  rotate: false
+  xy: 254, 24
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_a_0_7.png
+  rotate: false
+  xy: 318, 24
+  size: 62, 99
+  orig: 62, 99
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_b_0_0.png
+  rotate: false
+  xy: 857, 87
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_b_0_1.png
+  rotate: false
+  xy: 781, 42
+  size: 70, 38
+  orig: 70, 38
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_b_0_2.png
+  rotate: false
+  xy: 781, 82
+  size: 74, 41
+  orig: 74, 41
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_0.png
+  rotate: false
+  xy: 398, 3
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_10.png
+  rotate: false
+  xy: 254, 3
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_11.png
+  rotate: false
+  xy: 976, 83
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_2.png
+  rotate: false
+  xy: 977, 104
+  size: 45, 19
+  orig: 45, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_3.png
+  rotate: false
+  xy: 927, 83
+  size: 47, 19
+  orig: 47, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_4.png
+  rotate: false
+  xy: 927, 104
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_5.png
+  rotate: false
+  xy: 781, 21
+  size: 48, 19
+  orig: 48, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_7.png
+  rotate: false
+  xy: 350, 3
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_c_0_8.png
+  rotate: false
+  xy: 302, 3
+  size: 46, 19
+  orig: 46, 19
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_d_0_0.png
+  rotate: false
+  xy: 489, 12
+  size: 48, 111
+  orig: 48, 111
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_d_0_1.png
+  rotate: false
+  xy: 2, 11
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_d_0_2.png
+  rotate: false
+  xy: 68, 11
+  size: 64, 112
+  orig: 64, 112
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_e_0_0.png
+  rotate: false
+  xy: 539, 12
+  size: 46, 111
+  orig: 46, 111
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_e_0_1.png
+  rotate: false
+  xy: 195, 11
+  size: 57, 112
+  orig: 57, 112
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_e_0_2.png
+  rotate: false
+  xy: 134, 10
+  size: 59, 113
+  orig: 59, 113
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_64_sd_0_0.png
+  rotate: false
+  xy: 446, 2
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1
+easter_c19_ent_easter_c19_ent_icon_a.png
+  rotate: false
+  xy: 831, 10
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1

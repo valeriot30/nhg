@@ -1,0 +1,27 @@
+
+diamond_painting37.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+diamond_painting37_diamond_painting37_64_a_2_0.png
+  rotate: false
+  xy: 2, 2
+  size: 94, 134
+  orig: 94, 134
+  offset: 0, 0
+  index: -1
+diamond_painting37_diamond_painting37_64_a_4_0.png
+  rotate: false
+  xy: 2, 138
+  size: 94, 134
+  orig: 94, 134
+  offset: 0, 0
+  index: -1
+diamond_painting37_diamond_painting37_icon_a.png
+  rotate: false
+  xy: 98, 240
+  size: 23, 32
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

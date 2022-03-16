@@ -1,0 +1,216 @@
+
+SF_reactor.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+SF_reactor_SF_reactor_64_a_0_0.png
+  rotate: false
+  xy: 68, 139
+  size: 64, 108
+  orig: 64, 108
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_b_0_0.png
+  rotate: false
+  xy: 168, 92
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_b_0_1.png
+  rotate: false
+  xy: 36, 9
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_b_0_2.png
+  rotate: false
+  xy: 168, 119
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_b_0_3.png
+  rotate: false
+  xy: 102, 112
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_b_0_4.png
+  rotate: false
+  xy: 102, 85
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_b_0_5.png
+  rotate: false
+  xy: 170, 65
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_b_0_6.png
+  rotate: false
+  xy: 170, 38
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_b_0_7.png
+  rotate: false
+  xy: 70, 55
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_b_0_8.png
+  rotate: false
+  xy: 120, 58
+  size: 48, 25
+  orig: 48, 25
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_c_0_0.png
+  rotate: false
+  xy: 2, 79
+  size: 64, 168
+  orig: 64, 168
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_c_0_99.png
+  rotate: false
+  xy: 2, 2
+  size: 26, 3
+  orig: 26, 3
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_0.png
+  rotate: false
+  xy: 134, 139
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_1.png
+  rotate: false
+  xy: 36, 36
+  size: 32, 41
+  orig: 32, 41
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_10.png
+  rotate: false
+  xy: 202, 179
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_11.png
+  rotate: false
+  xy: 270, 183
+  size: 32, 64
+  orig: 32, 64
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_12.png
+  rotate: false
+  xy: 372, 184
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_2.png
+  rotate: false
+  xy: 474, 203
+  size: 32, 44
+  orig: 32, 44
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_3.png
+  rotate: false
+  xy: 440, 197
+  size: 32, 50
+  orig: 32, 50
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_4.png
+  rotate: false
+  xy: 68, 82
+  size: 32, 55
+  orig: 32, 55
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_5.png
+  rotate: false
+  xy: 406, 186
+  size: 32, 61
+  orig: 32, 61
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_6.png
+  rotate: false
+  xy: 236, 182
+  size: 32, 65
+  orig: 32, 65
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_7.png
+  rotate: false
+  xy: 168, 179
+  size: 32, 68
+  orig: 32, 68
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_8.png
+  rotate: false
+  xy: 2, 7
+  size: 32, 70
+  orig: 32, 70
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_9.png
+  rotate: false
+  xy: 134, 178
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_d_0_99.png
+  rotate: false
+  xy: 102, 82
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_e_0_0.png
+  rotate: false
+  xy: 304, 184
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_f_0_1.png
+  rotate: false
+  xy: 338, 184
+  size: 32, 63
+  orig: 32, 63
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_64_sd_0_0.png
+  rotate: false
+  xy: 168, 146
+  size: 50, 31
+  orig: 50, 31
+  offset: 0, 0
+  index: -1
+SF_reactor_SF_reactor_icon_a.png
+  rotate: false
+  xy: 152, 105
+  size: 14, 32
+  orig: 14, 32
+  offset: 0, 0
+  index: -1

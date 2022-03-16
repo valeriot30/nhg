@@ -1,0 +1,48 @@
+
+hween_c18_ceilingfan.png
+size: 512,64
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+hween_c18_ceilingfan_hween_c18_ceilingfan_64_a_0_0.png
+  rotate: false
+  xy: 2, 2
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hween_c18_ceilingfan_hween_c18_ceilingfan_64_a_0_1.png
+  rotate: false
+  xy: 72, 2
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hween_c18_ceilingfan_hween_c18_ceilingfan_64_a_0_2.png
+  rotate: false
+  xy: 142, 2
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hween_c18_ceilingfan_hween_c18_ceilingfan_64_a_0_3.png
+  rotate: false
+  xy: 212, 2
+  size: 68, 40
+  orig: 68, 40
+  offset: 0, 0
+  index: -1
+hween_c18_ceilingfan_hween_c18_ceilingfan_64_sd_0_0.png
+  rotate: false
+  xy: 282, 9
+  size: 66, 33
+  orig: 66, 33
+  offset: 0, 0
+  index: -1
+hween_c18_ceilingfan_hween_c18_ceilingfan_icon_a.png
+  rotate: false
+  xy: 350, 23
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1

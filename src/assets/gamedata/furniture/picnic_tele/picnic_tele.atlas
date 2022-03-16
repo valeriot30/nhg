@@ -1,0 +1,27 @@
+
+picnic_tele.png
+size: 128,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+picnic_tele_picnic_tele_64_a_4_0.png
+  rotate: false
+  xy: 2, 138
+  size: 81, 134
+  orig: 81, 134
+  offset: 0, 0
+  index: -1
+picnic_tele_picnic_tele_64_b_4_0.png
+  rotate: false
+  xy: 2, 2
+  size: 73, 134
+  orig: 73, 134
+  offset: 0, 0
+  index: -1
+picnic_tele_picnic_tele_icon_a.png
+  rotate: false
+  xy: 85, 240
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
