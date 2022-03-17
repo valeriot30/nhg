@@ -7,24 +7,25 @@ import UserVisualization from "../../../../../engine/user/visualization/UserVisu
 export default class LoadUsersInRoom extends MessageHandler
 {
     public handle(): void {
-        for(let i = 1; i <= this.message.count; i++)
+        for(let i = 0; i < this.message.users.length; i++)
         {
-            if(parseInt(this.message.users['User-'+i]['id']) !== Engine.getInstance().UsersManager?.CurrentUser?.UserInfo.Id) {
-                let tmpUser = new User(this.message.users['User-'+i]['id'], this.message.users['User-'+i]['name'], this.message.users['User-'+i]['look'], this.message.users['User-'+i]['gender']); 
-                let userV = (tmpUser.Visualization) as UserVisualization
-                userV.X = this.message.users['User-'+i]['x']
-                userV.Y = this.message.users['User-'+i]['y']
-                userV.Z = this.message.users['User-'+i]['z']
-                userV.Rot = userV.parseRotation(this.message.users['User-'+i]['rot'])
-                //todo headRot
-                userV.HeadRot = userV.parseRotation(this.message.users['User-'+i]['rot'])
-                userV.InRoom = true;
+            let userData = this.message.users[i];
+            
+            let tmpUser = new User(userData['id'], userData['name'], userData['look'], userData['gender']); 
+            let userV = (tmpUser.Visualization) as UserVisualization
+            userV.X = userData['x']
+            userV.Y = userData['y']
+            userV.Z = userData['z']
+            userV.Rot = userV.parseRotation(userData['rot'])
+            //todo headRot
+            userV.HeadRot = userV.parseRotation(userData['rot'])
+            tmpUser.UserInfo!.Look = userData['look'];
+            tmpUser.UserInfo!.Gender = userData['gender'];
+            userV.InRoom = true;
 
-                Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.addUser(tmpUser)
-                userV.render();
-            }
-
-            //tmpUser.moveTo(tmpUser.x, tmpUser.y, tmpUser.z, tmpUser.rot, true)
+            Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.addUser(tmpUser)
+            userV.render();
+            
        }
     }
 }

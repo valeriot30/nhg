@@ -85,7 +85,6 @@ export default class RoomLayout {
                         ? 10 + tile.charCodeAt(0) - 'A'.charCodeAt(0)
                         : parseInt(tile);
 
-                console.log(height)
                 this.modelMatrix[x][y] = height
     
                 if (height > this.mapSizeZ) {
