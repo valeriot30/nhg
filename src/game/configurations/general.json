@@ -3,7 +3,7 @@
   "server": {
     "host": "localhost",
     "port": 8083,
-    "channel": "battlestorm",
+    "channel": "ballstorm",
     "ssl": false,
     "reconnectOnFail": false,
     "reconnectOnFailTryTimes": 3
