@@ -1,5 +1,4 @@
 import anime from "animejs";
-import { interaction} from "pixi.js";
 import IUserVisualization from "../../../core/room/object/entities/user/IUserVisualization";
 import Engine from "../../../Engine";
 import Point from "../../../utils/point/Point";
