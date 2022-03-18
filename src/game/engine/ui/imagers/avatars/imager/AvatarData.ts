@@ -1,5 +1,5 @@
 
-export default class UserConstants {
+export default class AvatarData {
     public static AVATAR_LEFT_OFFSET = -25;
     public static AVATAR_SIT_OFFSET = 18;
     public static AVATAR_GENERIC_WIDTGH = 125;

@@ -18,10 +18,10 @@ class NetworkingManager {
         this.webSocketManager = new WebSocketManager(this)
         this.packetManager = new PacketManager(this)
 
-        this.setUpPingRequest()
+        //this.setUpPingRequest()
     }
 
-    private setUpPingRequest() : void {
+    public setUpPingRequest() : void {
         if (this.engine.getConfig().offlineMode)
             return
 

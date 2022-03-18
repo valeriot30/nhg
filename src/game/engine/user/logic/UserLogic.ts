@@ -4,8 +4,8 @@ import PreviewBoxUI from "../../ui/components/general/PreviewBoxUI";
 import UserPanelUI from "../../ui/components/room/UserPanelUI";
 import UIComponent from "../../ui/components/UIComponentEnum";
 import { ActionId } from "../../ui/imagers/avatars/Avatar";
+import AvatarData from "../../ui/imagers/avatars/imager/AvatarData";
 import User from "../User";
-import UserConstants from "../UserConstants";
 import UserVisualization from "../visualization/UserVisualization";
 
 export default class UserLogic implements IUserLogic {
@@ -28,7 +28,7 @@ export default class UserLogic implements IUserLogic {
         let menu = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.UserPanelUI) as UserPanelUI);
         let global = UiUtils.getGlobalPosition((this.user.Visualization as UserVisualization).Avatar!.Container);
         menu.setUser(this.user.UserInfo.Username!);
-        menu.setPosition(global.tx - 5, (global.ty - UserConstants.AVATAR_GENERIC_HEIGHT - 50));
+        menu.setPosition(global.tx - 5, (global.ty - AvatarData.AVATAR_GENERIC_HEIGHT - 50));
         menu.show();
     }
 

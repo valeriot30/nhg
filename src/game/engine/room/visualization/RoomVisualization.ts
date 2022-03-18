@@ -11,6 +11,7 @@ import LogicTile from "../objects/map/logic/LogicTile"
 import Avatar from "../../ui/imagers/avatars/Avatar"
 import MapData from "../objects/map/MapData"
 import Item from "../objects/items/Item"
+import { stagger } from "animejs"
 
 export default class RoomVisualization implements IRoomVisualization {
 
@@ -49,7 +50,7 @@ export default class RoomVisualization implements IRoomVisualization {
         this.container.addChild(this.canvasPointer) 
 
         this.container.x = (window.innerWidth / 2);
-        this.container.y = ((window.innerHeight) / 2 - (this.container.height / 2)) / 2;
+        this.container.y = (window.innerHeight - Engine.getInstance().Application?.app?.stage.height!) / 2
 
         this.container.sortableChildren = true;
         

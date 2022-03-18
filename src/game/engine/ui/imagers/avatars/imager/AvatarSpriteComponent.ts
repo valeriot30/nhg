@@ -10,7 +10,7 @@ export default class AvatarSpriteComponent {
     private partId: string;
 
     private direction: Direction;
-    private resourceDirection: Direction
+    private resourceDirection: number = 0;
 
     private frame: number;
 
@@ -163,8 +163,11 @@ export default class AvatarSpriteComponent {
     public set IsFlipped(flipped: boolean) {
         this.isFlipped = flipped;
     }
+    public get ResourceDirection(): number {
+        return this.resourceDirection;
+    }
     public set ResourceDirection(direction: number) {
-        this.direction = direction;
+        this.resourceDirection = direction;
     }
     public set Frame(frame: number) {
         this.frame = frame;

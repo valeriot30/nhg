@@ -20,7 +20,7 @@
                             </div>
                             <div class="friendInfo">
                                 <span class="infoUsername">{{ friendRequest.username }}</span>
-                                <div class="buttons"><IosAddCircleIcon class="acceptFriendRequest" title=" "  w="25px" h="25px" @click.native.stop="acceptRequest(friendRequest.id)"/><IosCloseCircleIcon class="declineFriendRequest" w="25px" h="25px" title=" "  @click.native.stop="declineRequest(friendRequest.id)"/></div>
+                                <div class="buttons"><!--<IosAddCircleIcon class="acceptFriendRequest" title=" "  w="25px" h="25px" @click.native.stop="acceptRequest(friendRequest.id)"/><IosCloseCircleIcon class="declineFriendRequest" w="25px" h="25px" title=" "  @click.native.stop="declineRequest(friendRequest.id)"/>!--></div>
                             </div>
                         </div>
                     </div>
@@ -68,13 +68,13 @@
             </div>
             <div class="friendsBottomBar">
                 <div class="friendsBottomBarItem bottomBarItem" :class="{ active: currentTab == 'requests' }" id="requestsIconButton" ref="requestsIconButton" @click="changeTab('requests')">
-                    <IosPersonAddIcon class="bottomIcons" title=" " w="30px" h="30px" />
+                    <!--<IosPersonAddIcon class="bottomIcons" title=" " w="30px" h="30px" />!-->
                 </div>
                 <div class="friendsBottomBarItem bottomBarItem" :class="{ active: currentTab == 'friends' }" id="friendsIconButton" ref="friendsIconButton" @click="changeTab('friends')">
-                    <IosContactsIcon class="bottomIcons" title=" " w="30px" h="30px" />
+                    <!--<IosContactsIcon class="bottomIcons" title=" " w="30px" h="30px" />!-->
                 </div>
                 <div class="friendsBottomBarItem bottomBarItem" :class="{ active: currentTab == 'search' }" id="searchIconButton" ref="searchIconButton" @click="changeTab('search')">
-                    <IosSearchIcon class="bottomIcons" title=" " w="30px" h="30px" />
+                    <!--<IosSearchIcon class="bottomIcons" title=" " w="30px" h="30px" />!-->
                 </div>
             </div>
         </div>
@@ -297,7 +297,7 @@
 
             this.openPacket();
 
-            this.$refs.messengerSearchInput.addEventListener('keyup', (event) => {
+            /*this.$refs.messengerSearchInput.addEventListener('keyup', (event) => {
                 if(this.currentTab != 'requests' || this.currentTab != 'friends')
                     return;
 
@@ -309,7 +309,7 @@
                     let isMatch = exp.test(friend.username);
                     friend.visible = isMatch;
                 })
-            })
+            })*/
         }
     }
 </script>

@@ -6,6 +6,8 @@ import AvatarImager from "./imagers/avatars/imager/AvatarImager"
 
 import * as PIXI from "pixi.js"
 import AvatarImageData from "./imagers/avatars/imager/AvatarImageData"
+import UIComponent from "./components/UIComponentEnum"
+import GameLoaderUI from "./components/loader/GameLoaderUI"
 
 export default class UserInterfaceManager {
 
@@ -35,13 +37,16 @@ export default class UserInterfaceManager {
 
     public init(): Promise<void> {
         return Promise.all([
+            this._avatarImager.Data.loadGameData(),
             this.furniImager.init()
         ]).then(() => {
-            //todo loaded add progress 
+            
         }).catch(err => {
             if (this.engine.getConfig().debug) {
                 this.engine.getLogger().error("initialization failed", err)
             }     
+        }).finally(() => {
+            this.engine.getNetworkingManager().setUpPingRequest()
         })
     }
 

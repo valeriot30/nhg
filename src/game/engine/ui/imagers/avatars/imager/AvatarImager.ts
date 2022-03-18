@@ -9,9 +9,10 @@ import { Animation, AnimationFrame, BodyPart, OffsetDirection, OffsetFrame, Part
 import { Canvas, GeometryElement } from "./gamedata/AvatarGeometry";
 import FigureData from "./gamedata/FigureData";
 import { IPart } from "./IPart";
-import { Asset, OffsetResource, Spritesheet } from "./AvatarResource";
+import { Asset, Frame, OffsetResource, Spritesheet } from "./AvatarResource";
 import Engine from "../../../../../Engine";
 import PartSets from "./AvatarPartSets";
+import AvatarData from "./AvatarData";
 
 export type FigureDataComponent = {
     index: number;
@@ -211,26 +212,30 @@ export default class AvatarImager {
 
     private downloadTexture(assetName: string): Promise<PIXI.Texture> {
 
-        let loader = new PIXI.Loader();
+        
         let textureUrl = `${Engine.getInstance().getConfig().avatarFigurePath}/${assetName}/${assetName}.png`;
 
         if(this.textures.get(assetName)) {
             return Promise.resolve(this.textures.get(assetName)!);
         }
 
-        loader.add(textureUrl);
+        
+        var img = new Image();
+        img.src = textureUrl;
+        img.crossOrigin = 'anonymous';
 
-        let texture: Promise<PIXI.Texture> = new Promise((resolve, reject) => {
-            
-            loader.load((loader: PIXI.Loader) => {
-                let texture = PIXI.Texture.from(loader.resources[textureUrl].data);
-                resolve(texture);
-            })
+        const canvas = document.createElement('canvas');
+        
+        var base = new PIXI.BaseTexture(img),   
+        texture = new PIXI.Texture(base);// return you the texture
+
+        let promiseTexture: Promise<PIXI.Texture> = new Promise((resolve: any, reject: any) => {
+            resolve(texture);
         })
 
-        this.textures.set(assetName, texture);
+        this.textures.set(assetName, promiseTexture);
 
-        return texture;
+        return promiseTexture;
     }
 
 
@@ -246,31 +251,28 @@ export default class AvatarImager {
         let assets: Asset = offsetResource.assets;
         let asset = assets[component.ResourceName];
 
-        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined || (spritesheet.frames[this.getTextureId(assetName, component.ResourceName)].rotated)) {
+        let direction = 0;
+
+        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
             component.IsFlipped = true;
             component.ResourceDirection = 6 - component.ResourceDirection;
         }
-        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined || (spritesheet.frames[this.getTextureId(assetName, component.ResourceName)].rotated)) {
-            component.Frame = component.Frame + 1;
+        
+        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
+            component.ResourceDirection = 0;
             component.IsFlipped = true;
         }
-        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined || (spritesheet.frames[this.getTextureId(assetName, component.ResourceName)].rotated)) {
-            component.Frame = component.Frame + 2;
-            component.IsFlipped = false;
-        }
-        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] == undefined || (spritesheet.frames[this.getTextureId(assetName, component.ResourceName)].rotated)) {
-            //component.ResourceDirection = component.ResourceDirection;
-        }
 
-        //console.log(spritesheet.frames);
-        //console.log(this.getTextureId(assetName, component.ResourceName))
-        let frame: any;
+        console.log(component.ResourceDirection);
+
+        let frame: Frame;
+        console.log(this.getTextureId(assetName, component.ResourceName));
         if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] !== undefined) {
             frame = spritesheet.frames[this.getTextureId(assetName, component.ResourceName)].frame;
             let downloadedTexture: PIXI.Texture = await this.downloadTexture(assetName);
             let texture = new PIXI.Texture(downloadedTexture.baseTexture, new Rectangle(frame.x, frame.y, frame.w, frame.h));
     
-            let sprite = Sprite.from(texture);
+            let sprite = new Sprite(texture);
             sprite.interactive = true;
             sprite.buttonMode = true;
     
@@ -288,7 +290,7 @@ export default class AvatarImager {
             if (component.IsFlipped) {
                 sprite.scale.x = -1;
     
-                sprite.x = this.geometryWidth! - sprite.x;
+                sprite.x = this.geometryWidth! - sprite.x + AvatarData.AVATAR_LEFT_OFFSET;
             }
     
     

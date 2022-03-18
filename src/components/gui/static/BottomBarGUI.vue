@@ -78,12 +78,8 @@ export default {
   },
   mounted() {
     
-      this.$refs.chatBarInput.addEventListener("keypress", event => {
-
-          if(event.which == 13) {
-                this.sendMessage(event);
-          }
-      })
+      
+      
 
   }
 };

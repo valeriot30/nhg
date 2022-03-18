@@ -72,7 +72,7 @@ export default class AvatarDownloadManager {
                 };
                 request.onerror = e =>
                 {
-                    throw new Error('invalid_avatar_figure_map');
+                    throw new Error('invalid_offset');
                 };
             }
             catch (e)

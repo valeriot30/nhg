@@ -54,6 +54,8 @@ export default class Engine {
         this.logger = new Logger();
         this.userInterfaceManager = new UserInterfaceManager(this, this.gameLoader!);
         this.applicationProvider = new Application();
+        this.logger.log("%cNHG CLIENT v" + generalConfig.version, "font-size:2rem; background-color:#069; color: #fff; padding:10px 45px;")
+        this.logger.log("%cNon copiare codice in questa finestra", "color: red; font-size:1.2rem;")
         this.logger!.info("Loading game")
         this.userManager = new UserManager(Engine.getInstance());
         this.networkingManager = new NetworkingManager(this);
@@ -73,13 +75,11 @@ export default class Engine {
         this.userInterfaceManager?.getUIComponentManager().initGameComponents()
         await this.userInterfaceManager.init();
         // (this.userInterfaceManager!.getUIComponentManager().getComponent(UIComponent.LoginUI) as LoginUI).hide()
-        this.gameLoader = new PIXI.Loader();
         //this.networkingManager = new NetworkingManager(Engine.getInstance());
 
         let loader = (this.userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.GameLoaderUI) as GameLoaderUI)
 
-        loader.updateProgress(50);
-
+        loader.updateProgress(50)
 
         /*let room = this.roomManager!.setRoom("prova", "xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxx000000x/xxxxx000000x/xxxx0000000x/xxxxx000000x/xxxxx000000x/xxxxx000000x/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx", new Point(7, 4), 200);
 

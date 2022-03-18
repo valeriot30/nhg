@@ -166,7 +166,8 @@ export default class Avatar {
         this.shoesContainer.zIndex = 6;
         this.hatContainer.zIndex = 7;
         this.headAccessoryContainer.zIndex = 8;
-        //this.container.sortChildren()
+        
+        this.container.sortChildren()
     }
 
     private getLookFromFigure(figure: string) {

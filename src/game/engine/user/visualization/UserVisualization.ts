@@ -14,7 +14,7 @@ import { Direction } from "../../ui/imagers/avatars/Direction";
 import Actions from "../../ui/imagers/avatars/imager/Actions";
 import UserLogic from "../logic/UserLogic";
 import User from "../User";
-import UserConstants from "../UserConstants";
+import AvatarData from "../../ui/imagers/avatars/imager/AvatarData";
 
 export default class UserVisualization implements IUserVisualization {
     private user: User;
@@ -56,10 +56,8 @@ export default class UserVisualization implements IUserVisualization {
         
         this.avatar = avatar;
 
-        Engine.getInstance().getUserInterfaceManager().avatarImager.Data.loadGameData().then(() => {
-            Engine.getInstance().getUserInterfaceManager()?.avatarImager.loadAvatar(this.avatar!).then(() => {
-                Engine.getInstance().getUserInterfaceManager()?.avatarImager.drawAvatar(this.avatar!)
-            });
+        Engine.getInstance().getUserInterfaceManager()?.avatarImager.loadAvatar(this.avatar!).then(() => {
+            Engine.getInstance().getUserInterfaceManager()?.avatarImager.drawAvatar(this.avatar!)
         });
         
         (this.user.Logic as UserLogic).registerEvents();
@@ -70,6 +68,7 @@ export default class UserVisualization implements IUserVisualization {
         this.avatar.Container.zIndex = 1;
         
         this.updateAvatarPosition(this.x, this.y); //todo needs to be refactored 
+        this.avatar.Container.sortChildren();
         }
 
         //Engine.getInstance().Application?.Viewport.follow(this.avatar);
@@ -207,7 +206,7 @@ export default class UserVisualization implements IUserVisualization {
 
         
         this.avatar!.Container.zIndex = 8;
-        let offset = this.isFlipped() ? 0 : UserConstants.AVATAR_LEFT_OFFSET;
+        let offset = this.isFlipped() ? 0 : AvatarData.AVATAR_LEFT_OFFSET;
 
         this.avatar!.Container.y = ((x + y) * MapData.tileHeight / 2) + (MapData.tileHeight / 2) + offsetFloor;
         this.avatar!.Container.x = (((y - x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileHeight + offset;
