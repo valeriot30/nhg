@@ -35,14 +35,22 @@ export default class AvatarImageData implements IAvatarImageData {
     }
 
     public async loadGameData() {
-        this.figureMap = await this.AvatarDownloadManager.loadConfigFile("FigureMap");
-        this.figureData = await this.AvatarDownloadManager.loadConfigFile("FigureData");
+        if(!this.ready) {
+            this.figureData = await this.AvatarDownloadManager.loadConfigFile("FigureData");
+            this.avatarGeometry = await this.AvatarDownloadManager.loadConfigFile("HabboAvatarGeometry");
+            this.figureMap = await this.AvatarDownloadManager.loadConfigFile("FigureMap");
             this.avatarActions = await this.AvatarDownloadManager.loadConfigFile("HabboAvatarActions");
             this.avatarPartSets = await this.AvatarDownloadManager.loadConfigFile("HabboAvatarPartSets");
-            this.avatarGeometry = await this.AvatarDownloadManager.loadConfigFile("HabboAvatarGeometry");
             this.avatarDrawOrder = await this.AvatarDownloadManager.loadConfigFile("AvatarDrawOrder");
             this.avatarAnimations = await this.AvatarDownloadManager.loadConfigFile("HabboAvatarAnimations");
-            this.ready = true;
+            return new Promise<void>((resolve, reject) => {
+                if(this.figureData == undefined || this.avatarGeometry == undefined || this.figureMap == undefined) {
+                    reject()
+                } else {
+                    resolve()
+                }
+            })
+        }
     }
 
     public async loadPart(part: string) {

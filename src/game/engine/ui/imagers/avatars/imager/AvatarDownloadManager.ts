@@ -1,4 +1,5 @@
 import Engine from "../../../../../Engine";
+import { fetchJsonAsync } from "../../../../../utils/DownloadManager";
 
 export default class AvatarDownloadManager {
 
@@ -10,51 +11,20 @@ export default class AvatarDownloadManager {
 
     public loadConfigFile(resource: string): any {
         return new Promise((resolve, reject) => {
-            const request = new XMLHttpRequest();
-            try
-            {
-                request.open('GET', `${Engine.getInstance().getConfig().avatarGameDataPath}/${resource}.json`);
-    
-                request.send();
-    
-                request.onloadend = e =>
-                {
-                    const data = JSON.parse(request.responseText);
-                    resolve(data);
-                };
-    
-                request.onerror = e =>
-                {
-                    throw new Error('invalid_avatar_figure_map');
-                };
-            }
-            catch (e)
-            {
-                console.log(e);
+            try {
+                resolve(fetchJsonAsync(`${Engine.getInstance().getConfig().avatarGameDataPath}/${resource}.json`));
+            } catch(e) {
+                console.log(e)
             }
         })
     }
 
-    public loadSpriteSheet(part: string) {
+    public loadSpriteSheet(part: string): Promise<any> {
         return new Promise((resolve, reject) => {
-            const request = new XMLHttpRequest();
-            try
-            {
-                request.open('GET', `${Engine.getInstance().getConfig().avatarFigurePath}/${part}/${part}_spritesheet.json`);
-                request.send();
-                request.onloadend = e =>
-                {
-                    const data = JSON.parse(request.responseText);
-                    resolve(data);
-                };
-                request.onerror = e =>
-                {
-                    throw new Error('invalid_avatar_figure_map');
-                };
-            }
-            catch (e)
-            {
-                console.log(e);
+            try {
+                resolve(fetchJsonAsync(`${Engine.getInstance().getConfig().avatarFigurePath}/${part}/${part}_spritesheet.json`));
+            } catch(e) {
+                console.log(e)
             }
         })
     }
