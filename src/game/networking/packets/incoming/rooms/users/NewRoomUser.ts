@@ -8,6 +8,10 @@ export default class NewRoomUser extends MessageHandler {
     public handle(): void {
         let user = this.message;
 
+        if ((Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(user.id)) != undefined) {
+            return;
+        }
+
         let tmpUser = new User(user.id, user.name, user.look, user.gender );
         let tmpVisualization =  (tmpUser?.Visualization) as UserVisualization;
         tmpVisualization!.X = user.x;
