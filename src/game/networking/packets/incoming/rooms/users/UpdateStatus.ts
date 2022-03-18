@@ -8,7 +8,7 @@ export default class UpdateStatus extends MessageHandler  {
 
         let status = this.message;
 
-        let currentUser = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser("" + status.id);
+        let currentUser = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(status.id);
         let userV = currentUser!.Visualization as UserVisualization;
 
         if(status.lay === false && status.walk === false && status.wave === false && status.lay === false && status.sit === false) {

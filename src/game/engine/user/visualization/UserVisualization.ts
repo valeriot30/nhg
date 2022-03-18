@@ -209,7 +209,7 @@ export default class UserVisualization implements IUserVisualization {
         let offset = this.isFlipped() ? 0 : AvatarData.AVATAR_LEFT_OFFSET;
 
         this.avatar!.Container.y = ((x + y) * MapData.tileHeight / 2) + (MapData.tileHeight / 2) + offsetFloor;
-        this.avatar!.Container.x = (((y - x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileHeight + offset;
+        this.avatar!.Container.x = (((y - x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileHeight;
 
 
     }

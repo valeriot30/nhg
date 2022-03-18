@@ -9,7 +9,8 @@ import { Container } from "pixi.js";
 export default class ChatMessage {
 
     private message: string;
-    private author: string | null | undefined;
+    private authorId: number;
+    private authorName: string | undefined;
     private whisper: boolean = false;
     private chatBubbleId: string;
 
@@ -19,11 +20,11 @@ export default class ChatMessage {
     private y: number = 0;
     private width: number = 0;
 
-    constructor(message: string, shout: boolean = false, author: string,whisper: boolean = false) {
+    constructor(message: string, shout: boolean = false, authorId: number,whisper: boolean = false) {
         this.message = message;
         this.chatBubbleId = "ID-"+UiUtils.guidGenerator();
-        this.author = author;
-        this.author = this.author ? this.author : "undefined";
+        this.authorId = authorId;
+        this.authorName = "undefined";
         this.chatColor = "";
     }
 
@@ -32,7 +33,7 @@ export default class ChatMessage {
         let message: string = this.message;
         let bubbleChatContainer = document.getElementById("chatBubbleContainer");
 
-        let user = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(this.author!)
+        let user = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(this.authorId!)
 
         this.x = user ? UiUtils.getGlobalPosition((user?.Visualization as UserVisualization).Avatar!.Container).tx : - 60;
         this.y = user ? UiUtils.getGlobalPosition((user?.Visualization as UserVisualization).Avatar!.Container).ty -  (Engine.getInstance().UsersManager?.CurrentUser?.Visualization as UserVisualization).Avatar!.Container.height * 2 : 0;
@@ -92,7 +93,7 @@ export default class ChatMessage {
                     <img src="" />
                 </div>
                 <p>
-                    <b>${this.author}:</b> ${this.message}
+                    <b>${this.authorName}:</b> ${this.message}
                 </p>
         </div>`
 

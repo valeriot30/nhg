@@ -51,6 +51,7 @@ export default class AvatarImager {
     public async loadAvatar(avatar: Avatar) {
 
         this.decideGeometry(avatar);
+        avatar.Container.alpha = 0.6;
 
         for(let part of avatar.Look) {
             //console.log(part)
@@ -212,30 +213,27 @@ export default class AvatarImager {
 
     private downloadTexture(assetName: string): Promise<PIXI.Texture> {
 
-        
+        let loader = new PIXI.Loader();
         let textureUrl = `${Engine.getInstance().getConfig().avatarFigurePath}/${assetName}/${assetName}.png`;
 
         if(this.textures.get(assetName)) {
             return Promise.resolve(this.textures.get(assetName)!);
         }
 
-        
-        var img = new Image();
-        img.src = textureUrl;
-        img.crossOrigin = 'anonymous';
+        loader.add(textureUrl);
 
-        const canvas = document.createElement('canvas');
-        
-        var base = new PIXI.BaseTexture(img),   
-        texture = new PIXI.Texture(base);// return you the texture
-
-        let promiseTexture: Promise<PIXI.Texture> = new Promise((resolve: any, reject: any) => {
-            resolve(texture);
+        let texture: Promise<PIXI.Texture> = new Promise((resolve, reject) => {
+            
+            loader.load((loader: PIXI.Loader) => {
+                let texture = PIXI.Texture.from(loader.resources[textureUrl].data);
+                resolve(texture);
+            })
         })
 
-        this.textures.set(assetName, promiseTexture);
+        this.textures.set(assetName, texture);
 
-        return promiseTexture;
+        return texture;
+
     }
 
 
@@ -257,16 +255,16 @@ export default class AvatarImager {
             component.IsFlipped = true;
             component.ResourceDirection = 6 - component.ResourceDirection;
         }
-        
         if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
-            component.ResourceDirection = 0;
-            component.IsFlipped = true;
+            component.Frame = component.Frame + 1;
+            component.IsFlipped = false;
         }
+        
 
-        console.log(component.ResourceDirection);
+        //console.log(component.ResourceDirection);
 
         let frame: Frame;
-        console.log(this.getTextureId(assetName, component.ResourceName));
+        //console.log(this.getTextureId(assetName, component.ResourceName));
         if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] !== undefined) {
             frame = spritesheet.frames[this.getTextureId(assetName, component.ResourceName)].frame;
             let downloadedTexture: PIXI.Texture = await this.downloadTexture(assetName);
@@ -318,13 +316,10 @@ export default class AvatarImager {
                 avatar.TorsoContainer.addChild(sprite)
             }
             
-            this.loaded = true;
+            //this.loaded = true;
         } else {
             console.log('cannot find resource ' + this.getTextureId(assetName, component.ResourceName));
         }
-       
-
-
     }
 
     private getTextureId(assetName: string, resourceName: string) {
@@ -338,8 +333,6 @@ export default class AvatarImager {
     private getAssetComponent(assetName: string) {
         
     }
-
-
 
 
     private getAnimationFrames(actionid: string, setType: string): AnimationFrame[] {

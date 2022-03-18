@@ -12,7 +12,7 @@ export default class UpdatePosition extends MessageHandler {
         // check, it's teleport?
 
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
-            let userVisualization = (Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(position.userId)?.Visualization as UserVisualization)
+            let userVisualization = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(parseInt(position.userId))?.Visualization as UserVisualization;
             userVisualization.setPosition(new Point3d(position.x, position.y, position.z))
             /*if(!userVisualization.IsWalking)
                 userVisualization.IsWalking = true;

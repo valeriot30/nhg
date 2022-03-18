@@ -11,7 +11,7 @@ export default class LoadUsersInRoom extends MessageHandler
         {
             let userData = this.message.users[i];
             
-            let tmpUser = new User(userData['id'], userData['name'], userData['look'], userData['gender']); 
+            let tmpUser = new User(parseInt(userData['id']), userData['name'], userData['look'], userData['gender']); 
             let userV = (tmpUser.Visualization) as UserVisualization
             userV.X = userData['x']
             userV.Y = userData['y']
