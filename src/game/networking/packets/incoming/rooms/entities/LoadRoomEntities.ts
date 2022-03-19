@@ -9,7 +9,7 @@ export default class LoadRoomEntities extends MessageHandler
     public handle(): void {
         for (let i = 0; i < this.message.data.length; i++)
         {
-            let userData = this.message.users[i];
+            let userData = this.message.data[i];
             
             if (Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(userData['id']) == undefined) {
             
