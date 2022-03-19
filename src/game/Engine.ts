@@ -65,7 +65,7 @@ export default class Engine {
         this.setUpEvents();
         this.setUpGameLoop();
 
-        PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.NEAREST;
+        PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.LINEAR;
 
         if (!(window as any).engine && this.config.debug) {
             (window as any).engine = Engine.getInstance()

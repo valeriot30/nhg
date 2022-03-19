@@ -223,8 +223,6 @@ export default class AvatarImager {
         var img = new Image();
         img.src = textureUrl;
         img.crossOrigin = 'anonymous';
-
-        const canvas = document.createElement('canvas');
         
         var base = new PIXI.BaseTexture(img),   
         texture = new PIXI.Texture(base);// return you the texture
