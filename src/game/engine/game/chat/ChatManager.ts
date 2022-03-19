@@ -12,8 +12,8 @@ export default class ChatManager {
 
     }
 
-    public computeMessage(message: string, shout: boolean = false, author: string) {
-        let userVisualization = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(author)?.Visualization as UserVisualization;
+    public computeMessage(message: string, shout: boolean = false, authorId: number) {
+        let userVisualization = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(authorId)?.Visualization as UserVisualization;
         if(message.startsWith(":")) {
             let commandsManager = Engine.getInstance().GameEnvironment?.CommandsManager;
             let _args = message.split(" ");
@@ -35,7 +35,7 @@ export default class ChatManager {
             if(!this.handleGesture(userVisualization, message)) {
                 userVisualization.Action = ActionId.TALK;
                 userVisualization.NeedsUpdate = true;
-                let chat = new ChatMessage(message, shout, author);
+                let chat = new ChatMessage(message, shout, authorId);
                 chat.send();
                 setTimeout(() => {
                     userVisualization.NeedsUpdate = false;

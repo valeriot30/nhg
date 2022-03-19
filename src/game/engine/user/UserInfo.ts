@@ -2,7 +2,7 @@ import Room from "../room/Room"
 
 export default class UserInfo
 {
-    private id: Number | null
+    private id: number | null
     private username: string | null
     private email: string | null
     private look: string | undefined
@@ -16,7 +16,7 @@ export default class UserInfo
 
     private currentRoom: Room | undefined;
 
-    constructor(id: Number, username: string, look: string, gender: string, motto: string | null = null, level: Number | null = null, exp: Number | null = null, coins: Number | null = null, rank: Number | null = null, allowTrade: boolean | null = null, email: string | null = null)
+    constructor(id: number, username: string, look: string, gender: string, motto: string | null = null, level: Number | null = null, exp: Number | null = null, coins: Number | null = null, rank: Number | null = null, allowTrade: boolean | null = null, email: string | null = null)
     {
         this.id = id
         this.username = username
@@ -33,7 +33,7 @@ export default class UserInfo
         
     }
 
-    public getId(): Number | null
+    public getId(): number | null
     {
         return this.id
     }
@@ -88,7 +88,7 @@ export default class UserInfo
         return this.allowTrade
     }
 
-    public set Id(id: Number | null)
+    public set Id(id: number | null)
     {
         this.id = id
     }

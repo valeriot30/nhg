@@ -11,7 +11,7 @@ export default class User implements IUserController {
     private logic: UserLogic
     private userInfo: UserInfo;
 
-    constructor(id: Number, username: string, look: string, gender: string) {
+    constructor(id: number, username: string, look: string, gender: string) {
         this.userInfo = new UserInfo(id, username, look, gender)
         this.visualization = new UserVisualization(this)
         this.logic = new UserLogic(this)
