@@ -30,7 +30,7 @@ export default {
         searchAndOpen(key) {
 
             let item = Engine.getInstance().getRoomManager().getRoomItemManager().getItemById(key);
-            item.getLogic().togglePreview();
+            item.Logic.togglePreview();
 
         }
     }

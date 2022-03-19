@@ -16,7 +16,7 @@ export default class UserManager {
     }
 
     public tick(delta: number) {
-        //this.currentUser?.RoomUser!.getLogic()!.tick(delta)
+        //this.currentUser?.RoomUser!.Logic!.tick(delta)
     }
 
     public setUser(user: User): User {

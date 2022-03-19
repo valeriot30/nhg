@@ -4,6 +4,8 @@ import RoomInfo from "./RoomInfo"
 import Engine from "../../Engine"
 import RoomItemManager from './RoomItemManager';
 import RoomUserManager from './RoomUserManager';
+import IRoomLogic from '../../core/room/IRoomLogic';
+import RoomEntityManager from './RoomEntityManager';
 
 export default class Room {
 
@@ -12,6 +14,7 @@ export default class Room {
 
     private roomItemManager: RoomItemManager
     private roomUsersManager: RoomUserManager
+    private roomEntityManager: RoomEntityManager
 
     private roomName: string;
 
@@ -23,6 +26,7 @@ export default class Room {
         this.roomId = roomId;
         this.roomLayout = new RoomLayout(this, roomModel, doorPosition);
         this.roomUsersManager = new RoomUserManager();
+        this.roomEntityManager = new RoomEntityManager();
         this.roomItemManager = new RoomItemManager()
         this.roomInfo = new RoomInfo(roomName);
 
@@ -36,6 +40,10 @@ export default class Room {
     }
     public getRoomId(): number {
         return this.roomId;
+    }
+
+    public get RoomEntityManager(): RoomEntityManager {
+        return this.roomEntityManager;
     }
 
     public get Name(): string {

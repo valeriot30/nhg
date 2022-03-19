@@ -29,7 +29,7 @@ export default abstract class ItemLogic implements IRoomObjectLogic {
 
 
     public onItemHover() {
-        //this.item.Room.getRoomLayout().getVisualization() as RoomVisualization)
+        //this.item.Room.getRoomLayout().Visualization as RoomVisualization)
     }
 
     public togglePreview() {

@@ -26,7 +26,7 @@ export default class RoomManager implements IRoomManager {
 
     public setRoom(roomName: string, roomModel: string, doorPosition: Point, roomId: number) : Room {
         this.currentRoom = new Room(roomName, roomModel, doorPosition, roomId);
-        this.currentRoom.getRoomLayout().getVisualization().render();
+        this.currentRoom.getRoomLayout().Visualization.render();
         this.showUI();
         return this.currentRoom;
     }
@@ -38,13 +38,13 @@ export default class RoomManager implements IRoomManager {
 
     public unsetRoom() : void {
         //this.roomUI.hide()
-        (this.currentRoom?.getRoomLayout().getVisualization() as RoomVisualization).Container.destroy();
+        (this.currentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.destroy();
         this.currentRoom = null
     }
     
 
     public tick(delta: number) : void {
-        this.currentRoom?.getRoomLayout().getLogic().tick(delta)
+        this.currentRoom?.getRoomLayout().Logic.tick(delta)
         this.CurrentRoom?.RoomUsersManager.tick(delta)
     }
 

@@ -78,11 +78,11 @@ export default class RoomVisualization implements IRoomVisualization {
 
         //this.canvasWall.getContext("2d")?.clearRect(0, 0, this.canvasWall.width, this.canvasWall.height);
 
-        //this.roomLayout.getWallPlane().getVisualization()?.render()
+        //this.roomLayout.getWallPlane().Visualization?.render()
 
         //this.canvasFloor.getContext("2d")?.clearRect(0, 0, this.canvasFloor.width, this.canvasFloor.height);
 
-        //this.roomLayout.getFloorPlane().getVisualization()?.render()
+        //this.roomLayout.getFloorPlane().Visualization?.render()
 
         // after drawing the room, bind events
         this.roomLayout.getFloorPlane().getTiles().forEach((tile: Tile) => {

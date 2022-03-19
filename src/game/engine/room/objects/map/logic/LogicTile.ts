@@ -16,7 +16,7 @@ export default class LogicTile extends RoomObjectLogic {
 
         this.tile = tile
 
-        let canvas = (this.tile.getPlane().getRoom().getLogic() as RoomLogic).getCanvasFloorHit()
+        let canvas = (this.tile.getPlane().getRoom().Logic as RoomLogic).getCanvasFloorHit()
         this.hitContext = canvas.getContext("2d")
 
         this.checkTileAndDrawHitBox()

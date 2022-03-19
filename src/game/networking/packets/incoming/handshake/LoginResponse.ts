@@ -8,14 +8,14 @@ export class LoginResponse extends MessageHandler {
     
     public handle() {
         let engine = Engine.getInstance()
-        if (this.message.success) {
+        if (this.message.data) {
             
             (engine.getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.GameLoaderUI) as GameLoaderUI).updateProgress(100);
             engine.getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.GetUserStats)
+            return
+        } 
 
-            
-        } else {
-            engine.getNetworkingManager().getWebSocketManager().disconnect()
-        }
+        engine.getNetworkingManager().getWebSocketManager().disconnect()
+        
     }
 }

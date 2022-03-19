@@ -214,11 +214,11 @@ export default class RoomLayout {
         return this.fullHeightTick
     }
 
-    public getVisualization(): IRoomVisualization {
+    public get Visualization():  IRoomVisualization {
         return this.visualization
     }
 
-    public getLogic(): IRoomLogic {
+    public get Logic(): IRoomLogic {
         return this.logic
     }
 

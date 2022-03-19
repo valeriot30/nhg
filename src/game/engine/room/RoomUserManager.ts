@@ -14,7 +14,6 @@ export default class RoomUserManager implements IRoomManager {
 
     public removeUser(userid: number) : void {
         let user: User | undefined = this.users.get(userid);
-        console.log(user);
         (user?.Visualization as UserVisualization).Avatar?.Container.destroy();
         this.users.delete(userid)
     }

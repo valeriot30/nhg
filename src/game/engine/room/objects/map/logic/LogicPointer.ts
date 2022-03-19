@@ -19,8 +19,8 @@ export default class LogicPointer extends RoomObjectLogic {
     }
 
     public movePointer(point: Point, zIndex: number, color: ColorRGB) {
-        /*let pointerWidth = (this.pointer.getVisualization() as VisualizationPointer).getPointerWidth()
-        let canvasFloor = (this.pointer.getRoomLayout().getVisualization() as RoomVisualization).getCanvasFloor()
+        /*let pointerWidth = (this.pointer.Visualization as VisualizationPointer).getPointerWidth()
+        let canvasFloor = (this.pointer.getRoomLayout().Visualization as RoomVisualization).getCanvasFloor()
         let coords = ScreenUtils.localToScreenPosition(
             canvasFloor,
             point.getX() + this.pointer.getRoomLayout().getRoomOffset().getX() + pointerWidth/3 - 1,

@@ -5,9 +5,9 @@ import UserLogic from "../../../../../engine/user/logic/UserLogic";
 import UserVisualization from "../../../../../engine/user/visualization/UserVisualization";
 import Point3d from "../../../../../utils/point/Point3d";
 
-export default class UpdatePosition extends MessageHandler {
+export default class UpdateEntity extends MessageHandler {
     public handle(): void {
-        let position = this.message;
+        let position = this.message.data;
 
         // check, it's teleport?
 

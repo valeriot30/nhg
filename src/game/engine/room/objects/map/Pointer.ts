@@ -25,7 +25,7 @@ export default class Pointer extends RoomObjectController {
     }
     
     public getCanvas() : PIXI.Container {
-        return (this.room.getVisualization() as RoomVisualization).getCanvasPointer()
+        return (this.room.Visualization as RoomVisualization).getCanvasPointer()
     }
 
     public getRoomLayout(): RoomLayout  {

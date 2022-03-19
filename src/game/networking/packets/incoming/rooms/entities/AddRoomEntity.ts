@@ -4,7 +4,7 @@ import User from "../../../../../engine/user/User";
 import UserInfo from "../../../../../engine/user/UserInfo";
 import UserVisualization from "../../../../../engine/user/visualization/UserVisualization";
 
-export default class NewRoomUser extends MessageHandler {
+export default class AddRoomEntity extends MessageHandler {
     public handle(): void {
         let user = this.message;
 

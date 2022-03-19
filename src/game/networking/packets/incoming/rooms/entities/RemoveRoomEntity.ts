@@ -3,14 +3,14 @@ import Engine from "../../../../../Engine";
 import User from "../../../../../engine/user/User";
 import UserVisualization from "../../../../../engine/user/visualization/UserVisualization";
 
-export default class RemoveRoomUser extends MessageHandler {
+export default class RemoveRoomEntity extends MessageHandler {
     public handle(): void {
-        let user= this.message;
+        let entity = this.message.data;
         
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
             let roomUsersManager = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager;
-            (roomUsersManager?.getUser(user.id)?.Visualization as UserVisualization).Avatar?.Container.destroy();
-            roomUsersManager?.removeUser(user.id);
+            (roomUsersManager?.getUser(entity.id)?.Visualization as UserVisualization).Avatar?.Container.destroy();
+            roomUsersManager?.removeUser(entity.id);
         }
     }
 }

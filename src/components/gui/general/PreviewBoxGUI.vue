@@ -120,7 +120,7 @@ export default {
 
                         if(!this.movingItem.getBase().hasIcon) {
                             if(this.movingItem instanceof FloorItem) {
-                                Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().getVisualization().getCanvasWall().addListener("mouseover", () => {
+                                Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().Visualization.getCanvasWall().addListener("mouseover", () => {
                                     this.movingItem.getBase().turnIntoIcon();
                                 })
 
@@ -128,20 +128,20 @@ export default {
                                     this.movingItem.getBase().turnIntoIcon();
                                 })
 
-                                Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().getVisualization().getCanvasFloor().addListener("pointerover", () => {
+                                Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().Visualization.getCanvasFloor().addListener("pointerover", () => {
                                     this.movingItem.getBase().restore(defaultItem.getBase().animation);
                                     this.item.getBase().alpha = FurniImager.LOADING_ALPHA;
                                 })
                             }
                             else if(this.movingItem instanceof WallItem) {
-                                Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().getVisualization().getCanvasFloor().addListener("mouseover", () => {
+                                Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().Visualization.getCanvasFloor().addListener("mouseover", () => {
                                     this.movingItem.getBase().turnIntoIcon();
                                 })
 
                                 Engine.getInstance().getRoomManager().currentRoom.getRoomViewer().root.addListener("pointerout", () => {
                                     this.movingItem.getBase().turnIntoIcon();
                                 })
-                                 Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().getVisualization().getCanvasWall().addListener("pointerover", () => {
+                                 Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().Visualization.getCanvasWall().addListener("pointerover", () => {
                                     this.movingItem.getBase().restore(0);
                                     this.item.getBase().alpha = FurniImager.LOADING_ALPHA;
                                 })
@@ -157,9 +157,9 @@ export default {
                             this.isMoving = false;
                             Engine.getInstance().getDisplay().app.stage.removeListener("mousemove");
                             Engine.getInstance().getRoomManager().currentRoom.getRoomViewer().root.removeListener("pointertap");
-                            Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().getVisualization().getCanvasWall().removeListener("mouseover");
+                            Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().Visualization.getCanvasWall().removeListener("mouseover");
                             Engine.getInstance().getRoomManager().currentRoom.getRoomViewer().root.removeListener("pointerout");
-                            Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().getVisualization().getCanvasFloor().removeListener("pointerover");
+                            Engine.getInstance().getRoomManager().currentRoom.getRoomLayout().Visualization.getCanvasFloor().removeListener("pointerover");
                         })
                     }
 

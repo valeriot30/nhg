@@ -1,20 +1,16 @@
 import anime from "animejs";
-import IUserVisualization from "../../../core/room/object/entities/user/IUserVisualization";
 import Engine from "../../../Engine";
 import Point from "../../../utils/point/Point";
 import Point3d from "../../../utils/point/Point3d";
-import UiUtils from "../../../utils/UiUtils";
 import MapData from "../../room/objects/map/MapData";
-import Tile from "../../room/objects/map/Tile";
 import RoomVisualization from "../../room/visualization/RoomVisualization";
-import StaticContainerUI from "../../ui/components/static/StaticContainerUI";
-import UIComponent from "../../ui/components/UIComponentEnum";
 import Avatar, { ActionId } from "../../ui/imagers/avatars/Avatar";
 import { Direction } from "../../ui/imagers/avatars/Direction";
-import Actions from "../../ui/imagers/avatars/imager/Actions";
 import UserLogic from "../logic/UserLogic";
 import User from "../User";
 import AvatarData from "../../ui/imagers/avatars/imager/AvatarData";
+import IUserVisualization from "../../../core/users/IUserVisualization";
+import Tile from "../../room/objects/map/Tile";
 
 export default class UserVisualization implements IUserVisualization {
     private user: User;
@@ -61,9 +57,9 @@ export default class UserVisualization implements IUserVisualization {
         });
         
         (this.user.Logic as UserLogic).registerEvents();
-        let roomV = Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().getVisualization() as RoomVisualization
+        let roomV = Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
-            (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().getVisualization() as RoomVisualization).Container.addChild(avatar.Container);
+            (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(avatar.Container);
         
         this.avatar.Container.zIndex = 1;
         
@@ -94,7 +90,7 @@ export default class UserVisualization implements IUserVisualization {
         this.updateDirection(this.rotation);
         Engine.getInstance().getUserInterfaceManager().avatarImager.drawAvatar(avatar);
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
-            (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().getVisualization() as RoomVisualization).Container.addChild(this.avatar.Container);
+            (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(this.avatar.Container);
         }
         this.updateAvatarPosition(this.x, this.y);
         (this.user.Logic as UserLogic).registerEvents();

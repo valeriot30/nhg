@@ -11,14 +11,14 @@ import UpdateUserInformation from './incoming/users/UpdateUserInformation';
 import CoinsStatus from './incoming/users/CoinsStatus';
 import MyRoomsList from './incoming/navigator/MyRoomsList';
 import GenerateRoom from './incoming/rooms/GenerateRoom';
-import NewRoomUser from './incoming/rooms/users/NewRoomUser';
 import AllRoomsList from './incoming/navigator/AllRoomsList';
 import DisconnectClient from './incoming/generic/DisconnectClient';
-import LoadUsersInRoom from './incoming/rooms/users/LoadUsersInRoom';
+import LoadUsersInRoom from './incoming/rooms/entities/LoadRoomEntities';
 import NewRoomMessage from './incoming/rooms/users/chat/NewRoomMessage';
-import UpdatePosition from './incoming/rooms/users/UpdatePosition';
-import RemoveRoomUser from './incoming/rooms/users/RemoveRoomUser';
-import UpdateStatus from './incoming/rooms/users/UpdateStatus';
+import UpdateEntity from './incoming/rooms/entities/UpdateEntity';
+import AddRoomEntity from './incoming/rooms/entities/AddRoomEntity';
+import RemoveRoomEntity from './incoming/rooms/entities/RemoveRoomEntity';
+import UpdateStatus from './incoming/rooms/entities/UpdateStatus';
 
 
 
@@ -43,9 +43,9 @@ class PacketManager {
             9: new MyRoomsList,
             10: new GenerateRoom,
             11: new LoadUsersInRoom,
-            12: new UpdatePosition,
-            13: new NewRoomUser,
-            14: new RemoveRoomUser,
+            12: new UpdateEntity,
+            13: new AddRoomEntity,
+            14: new RemoveRoomEntity,
             15: new NewRoomMessage,
             17: new UpdateUserInformation,
             20: new UpdateStatus,

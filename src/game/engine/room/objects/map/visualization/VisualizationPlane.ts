@@ -38,7 +38,7 @@ export default class VisualizationPlane extends RoomObjectVisualization {
     }
 
     private getCanvas() {
-        let roomV = (this.plane.getRoom().getVisualization() as RoomVisualization)
+        let roomV = (this.plane.getRoom().Visualization as RoomVisualization)
 
         switch (this.plane.getType()) {
             case RoomPlaneType.Floor:

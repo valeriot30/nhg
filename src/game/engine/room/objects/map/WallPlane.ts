@@ -15,13 +15,13 @@ export default class WallPlane extends RoomPlane {
     }
 
     public prepareWalls() : void {
-        let minY = this.getRoom().getModelMatrix()[0].length
-        let minX = this.getRoom().getModelMatrix().length
+        let minY = this.getRoom().getModelMaltrix()[0].length
+        let minX = this.getRoom().getModelMaltrix().length
         let isCorner = false
         let isDoor = false
 
-        for (let x = 0; x < this.getRoom().getModelMatrix().length; x++) {
-            for (let y = 0; y < this.getRoom().getModelMatrix()[x].length; y++) {
+        for (let x = 0; x < this.getRoom().getModelMaltrix().length; x++) {
+            for (let y = 0; y < this.getRoom().getModelMaltrix()[x].length; y++) {
 
                 
                 isCorner = MapTypeChecker.checkWallCorner(x, y, this.getRoom().getModelMaltrix());
@@ -31,7 +31,7 @@ export default class WallPlane extends RoomPlane {
                     isDoor = true
                 }
 
-                if (y <= minY && this.getRoom().getModelMatrix()[x][y] != 0) {
+                if (y <= minY && this.getRoom().getModelMaltrix()[x][y] != 0) {
                     if (minY > y) {
                         minY = y;
                     }
@@ -40,7 +40,7 @@ export default class WallPlane extends RoomPlane {
                     this.addMapObject(new Wall(
                         this,
                         `wall${ x }-${ y }`,
-                        new Point3d(x, y, this.getRoom().getModelMatrix()[x][y]),
+                        new Point3d(x, y, this.getRoom().getModelMaltrix()[x][y]),
                         isDoor ? WallType.DoorLeft : WallType.Left,
                         isCorner,
                         this.getRoom().getUniqueColor()
@@ -49,18 +49,18 @@ export default class WallPlane extends RoomPlane {
             }
         }
 
-        for (let y = 0; y < this.getRoom().getModelMatrix()[0].length; y++) {
-            for (let x = 0; x < this.getRoom().getModelMatrix().length; x++) {
+        for (let y = 0; y < this.getRoom().getModelMaltrix()[0].length; y++) {
+            for (let x = 0; x < this.getRoom().getModelMaltrix().length; x++) {
 
                 
-                isCorner = MapTypeChecker.checkWallCorner(x, y, this.getRoom().getModelMatrix());
+                isCorner = MapTypeChecker.checkWallCorner(x, y, this.getRoom().getModelMaltrix());
 
                 isDoor = false
                 if (x - 1 == this.getRoom().getDoorPosition().getX() && y == this.getRoom().getDoorPosition().getY()) {
                     isDoor = true
                 }
 
-                if (x <= minX && this.getRoom().getModelMatrix()[x][y] != 0) {
+                if (x <= minX && this.getRoom().getModelMaltrix()[x][y] != 0) {
                     if (minX > x) {
                         minX = x;
                     }
@@ -69,7 +69,7 @@ export default class WallPlane extends RoomPlane {
                     this.addMapObject(new Wall(
                         this,
                         `wall${ x }-${ y }`,
-                        new Point3d(x, y, this.getRoom().getModelMatrix()[x][y]),
+                        new Point3d(x, y, this.getRoom().getModelMaltrix()[x][y]),
                         isDoor ? WallType.DoorRight : WallType.Right,
                         isCorner,
                         this.getRoom().getUniqueColor()

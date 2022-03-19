@@ -12,7 +12,7 @@ export default class LogicWall extends RoomObjectLogic {
 
         this.wall = wall
 
-        let canvas = (this.wall.getPlane().getRoom().getLogic() as RoomLogic).getCanvasWallHit()
+        let canvas = (this.wall.getPlane().getRoom().Logic as RoomLogic).getCanvasWallHit()
         this.hitContext = canvas.getContext("2d")
     }
 

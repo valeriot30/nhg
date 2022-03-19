@@ -4,10 +4,10 @@ import User from "../../../../../engine/user/User";
 import UserVisualization from "../../../../../engine/user/visualization/UserVisualization";
 
 
-export default class LoadUsersInRoom extends MessageHandler
+export default class LoadRoomEntities extends MessageHandler
 {
     public handle(): void {
-        for (let i = 0; i < this.message.users.length; i++)
+        for (let i = 0; i < this.message.data.length; i++)
         {
             let userData = this.message.users[i];
             

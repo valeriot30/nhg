@@ -39,7 +39,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
         this.tileContext = null;
         this.stairsContext = null;
 
-        let roomV = (tile.getPlane().getRoom().getVisualization() as RoomVisualization)
+        let roomV = (tile.getPlane().getRoom().Visualization as RoomVisualization)
         this.floorContext = roomV.getCanvasFloor()
         this.doorContext = roomV.getCanvasDoorFloor()
         this.doorTileContext = roomV.getCanvasDoorTile();
@@ -112,7 +112,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
 
         const ctx = new PIXI.Graphics();
         ctx.interactive = true;
-        let roomV = (this.tile.getPlane().getRoom().getVisualization() as RoomVisualization)
+        let roomV = (this.tile.getPlane().getRoom().Visualization as RoomVisualization)
 
         let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.tile.getPosition().getZ() : 0
 
@@ -210,7 +210,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
                 let position = userV.getPosition();
 
                 if (position?.getX() != this.tile.getPosition().getX() || position?.getY() != this.tile.getPosition().getY()) {
-                    (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().getVisualization() as RoomVisualization).Container.emit("user-walk", {
+                    (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.emit("user-walk", {
                         x: this.tile.getPosition().getX(),
                         y: this.tile.getPosition().getY(),
                         tile: this.tile,
@@ -306,7 +306,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
                 let position = userV.getPosition();
 
                 if (position?.getX() != this.tile.getPosition().getX() || position?.getY() != this.tile.getPosition().getY()) {
-                    (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().getVisualization() as RoomVisualization).Container.emit("user-walk", {
+                    (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.emit("user-walk", {
                         x: this.tile.getPosition().getX(),
                         y: this.tile.getPosition().getY(),
                         tile: this.tile,

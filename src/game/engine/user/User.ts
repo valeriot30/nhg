@@ -1,4 +1,4 @@
-import IUserVisualization from "../../core/room/object/entities/user/IUserVisualization"
+import IUserVisualization from "../../core/users/IUserVisualization"
 import Engine from "../../Engine"
 import Point3d from "../../utils/point/Point3d"
 import UserLogic from "./logic/UserLogic"

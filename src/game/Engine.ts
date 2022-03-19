@@ -86,7 +86,7 @@ export default class Engine {
         let item = await this.userInterfaceManager!.getFurniImager().loadFurniSprite(ItemType.FloorItem, "doorC");
         item.start();
         //console.log(item);
-        //(room.getRoomLayout().getVisualization() as RoomVisualization).getCanvasFloor().addChild(item);
+        //(room.getRoomLayout().Visualization as RoomVisualization).getCanvasFloor().addChild(item);
 
         let avatar = new Avatar("hd-180-1.ch-255-66.lg-280-110.sh-305-62.ha-1012-110.hr-828-61", Direction.SOUTH, Direction.SOUTH);
 
@@ -97,9 +97,9 @@ export default class Engine {
         })
 
         console.log(avatar);
-        (room.getRoomLayout().getVisualization() as RoomVisualization).Container.addChild(avatar.Container);
+        (room.getRoomLayout().Visualization as RoomVisualization).Container.addChild(avatar.Container);
 
-        let roomV = room.getRoomLayout().getVisualization() as RoomVisualization;
+        let roomV = room.getRoomLayout().Visualization as RoomVisualization;
 
         let furni = new FloorItem(room, "habbocake", new Point3d(0, 0, 0), item);*/
 

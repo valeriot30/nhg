@@ -37,7 +37,7 @@ class RoomLogic implements IRoomLogic {
     }
 
     public registerEvents() : void {
-        let roomVisualization = (this.room.getVisualization() as RoomVisualization);
+        let roomVisualization = (this.room.Visualization as RoomVisualization);
         let currentUser = Engine.getInstance().UsersManager?.CurrentUser;
         let avatarV = currentUser?.Visualization as UserVisualization
 
@@ -80,7 +80,7 @@ class RoomLogic implements IRoomLogic {
 
         if (floorHitCtx == null) return
         
-        let coords = ScreenUtils.getPosition(event, (this.room.getVisualization() as RoomVisualization).getCanvasFloor().name);
+        let coords = ScreenUtils.getPosition(event, (this.room.Visualization as RoomVisualization).getCanvasFloor().name);
 
         if (coords == null || coords.x == null || coords.y == null) return
 

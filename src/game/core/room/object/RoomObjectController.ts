@@ -1,9 +1,10 @@
-import IRoomObjectController from "./IRoomObjectController"
+
 import IRoomObjectVisualization from "./IRoomObjectVisualization"
 import IRoomObjectLogic from "./IRoomObjectLogic"
 import Point3d from "../../../utils/point/Point3d"
-
-export default abstract class RoomObjectController implements IRoomObjectController {
+import RoomObjectLogic from "./RoomObjectLogic"
+import IObjectController from "./IRoomObjectController"
+export default abstract class RoomObjectController implements IObjectController {
 
     protected id: string
     protected position: Point3d

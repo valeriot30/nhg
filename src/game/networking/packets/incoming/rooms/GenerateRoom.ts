@@ -5,14 +5,14 @@ import Point from "../../../../utils/point/Point";
 export default class GenerateRoom extends MessageHandler{
     public handle(): void {
 
-        let room = this.message;
+        let room = this.message.data;
 
         if(room.id !== Engine.getInstance().RoomsManager?.CurrentRoom?.Id) {
             if(Engine.getInstance().RoomsManager?.CurrentRoom != null) {
                 Engine.getInstance().RoomsManager?.unsetRoom();
             }
             
-            let current = Engine.getInstance().RoomsManager?.setRoom(room.name, room.layout, new Point(room.doorx, room.doory), room.id);
+            let current = Engine.getInstance().RoomsManager?.setRoom(room.name, room.layout, new Point(room.door_x, room.door_y), room.id);
         }
     }
 }

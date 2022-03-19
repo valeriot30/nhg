@@ -17,7 +17,7 @@ export default class ZoomCommand extends Command{
                 return;
             }
 
-            (currentRoom!.getRoomLayout().getVisualization() as RoomVisualization).Container.scale.x = +zoom;
-                (currentRoom!.getRoomLayout().getVisualization() as RoomVisualization).Container.scale.y = +zoom;
+            (currentRoom!.getRoomLayout().Visualization as RoomVisualization).Container.scale.x = +zoom;
+                (currentRoom!.getRoomLayout().Visualization as RoomVisualization).Container.scale.y = +zoom;
     }
 }

@@ -25,7 +25,7 @@ export default class VisualizationWall extends RoomObjectVisualization {
 
         this.wall = wall
 
-        let roomV = (wall.getPlane().getRoom().getVisualization() as RoomVisualization)
+        let roomV = (wall.getPlane().getRoom().Visualization as RoomVisualization)
         this.wallContext = roomV.getCanvasWall();
         this.doorContext = roomV.getCanvasDoorWall();
     }

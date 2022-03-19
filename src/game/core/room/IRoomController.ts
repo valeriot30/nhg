@@ -3,6 +3,6 @@ import IRoomLogic from "./IRoomLogic"
 
 export default interface IRoomController {
 
-    getVisualization() : IRoomVisualization
-    getLogic() : IRoomLogic
+    Visualization : IRoomVisualization
+    Logic : IRoomLogic
 }
