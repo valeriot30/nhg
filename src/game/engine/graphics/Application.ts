@@ -23,7 +23,7 @@ export default class Application extends PIXI.utils.EventEmitter {
             width: window.innerWidth,
             transparent: false,
             resolution: this.dpi,
-            antialias: false,
+            antialias: true,
             powerPreference: "high-performance",
             resizeTo: window
         });
