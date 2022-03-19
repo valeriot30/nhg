@@ -17,15 +17,16 @@ export default class UpdateEntity extends MessageHandler {
             let userVisualization = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(parseInt(entity.id))?.Visualization as UserVisualization;
             userVisualization.setPosition(new Point3d(entity.x, entity.y, entity.z))
         
-            for(let action of entity.actions) {
-                
-                if(action == "Default") {
-                    userVisualization.NeedsUpdate = false;
-                    return;
-                }
+            if (entity.actions.length == 0) {
+                userVisualization.addAction(ActionId.STAND)
+                return;
+            }
 
+            console.log(userVisualization.Actions);
+
+            for(let action of entity.actions) {
                 action as ActionId
-                userVisualization.updateAction(action);      
+                userVisualization.addAction(action);      
             }
             userVisualization.NeedsUpdate = true;
         }

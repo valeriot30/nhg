@@ -40,13 +40,11 @@ export default class UserInterfaceManager {
             this._avatarImager.Data.loadGameData(),
             this.furniImager.init()
         ]).then(() => {
-            
+            this.engine.getNetworkingManager().setUpPingRequest()
         }).catch(err => {
             if (this.engine.getConfig().debug) {
                 this.engine.getLogger().error("initialization failed", err)
             }     
-        }).finally(() => {
-            this.engine.getNetworkingManager().setUpPingRequest()
         })
     }
 

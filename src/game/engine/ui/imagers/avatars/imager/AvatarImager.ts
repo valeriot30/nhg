@@ -51,7 +51,6 @@ export default class AvatarImager {
     public async loadAvatar(avatar: Avatar) {
 
         this.decideGeometry(avatar);
-        avatar.Container.alpha = 0.6;
 
         for(let part of avatar.Look) {
             //console.log(part)
@@ -93,7 +92,6 @@ export default class AvatarImager {
     public drawAvatar(avatar: Avatar) {
         //console.log(avatar.Actions);
         const actions = this.getActionsByIds(avatar.Actions);
-        //console.log(actions);
 
         let figurePartsComponents: FigureDataComponent[] = []
         let hiddenComponents: string[] = []
@@ -184,8 +182,6 @@ export default class AvatarImager {
 
         //console.log(flippedType);
 
-        let resourceAction = avatar.Action
-
         const spriteComponent = new AvatarSpriteComponent(
             partAction,
             type,
@@ -259,7 +255,10 @@ export default class AvatarImager {
             component.Frame = component.Frame + 1;
             component.IsFlipped = false;
         }
-        
+        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
+            component.Frame = 0;
+            component.IsFlipped = false;
+        }
 
         //console.log(component.ResourceDirection);
 
@@ -422,7 +421,7 @@ export default class AvatarImager {
 
         return parts
     }
-    private getActionsByIds(actionIds: string[]): Action[] {
+    private getActionsByIds(actionIds: Set<ActionId>): Action[] {
         let actions: Action[] = [];
 
         const avatarActions: Action[] = Object.values(this.data.avatarActions!.actions);

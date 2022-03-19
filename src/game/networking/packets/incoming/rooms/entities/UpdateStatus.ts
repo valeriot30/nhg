@@ -12,7 +12,7 @@ export default class UpdateStatus extends MessageHandler  {
         let userV = currentUser!.Visualization as UserVisualization;
 
         if(status.lay === false && status.walk === false && status.wave === false && status.lay === false && status.sit === false) {
-            userV.updateAction(ActionId.STAND);
+            userV.addAction(ActionId.STAND);
             userV.draw();
             userV.NeedsUpdate = false;
             userV.IsWalking = false;

@@ -13,7 +13,7 @@ export default class ChatManager {
     }
 
     public computeMessage(message: string, shout: boolean = false, authorId: number) {
-        let userVisualization = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(authorId)?.Visualization as UserVisualization;
+        /*let userVisualization = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(authorId)?.Visualization as UserVisualization;
         if(message.startsWith(":")) {
             let commandsManager = Engine.getInstance().GameEnvironment?.CommandsManager;
             let _args = message.split(" ");
@@ -44,12 +44,14 @@ export default class ChatManager {
                 }, 200 * message.length);
             }
 
-        }
+        }*/
     }
 
     private handleGesture(userVisualization: UserVisualization, message: string): boolean {
+
+        return false;
         
-        if(ChatManager.GESTURES.includes(message)) {
+        /*if(ChatManager.GESTURES.includes(message)) {
             let gesture = message;
             let action: ActionId = this.getActionFromGestureMessage(gesture);
             userVisualization.Action = action;
@@ -63,7 +65,7 @@ export default class ChatManager {
             return true;
         } else {
             return false;
-        }
+        }*/
     }
 
     public getActionFromGestureMessage(gesture: string): ActionId {
