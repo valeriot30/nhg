@@ -48,20 +48,27 @@ export default class UserLogic implements IUserLogic {
 
     public tick(delta: number): void {
         let userVisualization = (this.user.Visualization as UserVisualization)
+
         if(userVisualization.NeedsUpdate) {
             this.frameTracker += delta;
-            //console.log(delta);
-            if (this.frameTracker > 900) {
-                if(userVisualization.IsWalking) {
-                    userVisualization.walk(delta);
-                }
 
-                this.frameTracker = 0;
+            if (this.frameTracker >= 100) {
                 userVisualization.nextFrame();
                 (userVisualization as UserVisualization).draw();
+                this.frameTracker = 0;
             }
-            //userVisualization.updateFrame(0);
+
+            userVisualization.walk(delta);
         }
+        //if(userVisualization.NeedsUpdate) {
+            
+            //if (this.frameTracker >= 120) {
+                
+                
+                //
+            //}*/
+            //userVisualization.updateFrame(0);
+        //
     }
     public get FrameTracker() {
         return this.frameTracker;

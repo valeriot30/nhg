@@ -194,7 +194,7 @@ export default class AvatarImager {
             partFrame,
             color,
             flippedType,
-            false,
+            avatar.IsSmall,
             partAction
         );
 

@@ -100,12 +100,9 @@ export default class UserVisualization implements IUserVisualization {
     }
 
     public walk(delta: number) {
-        let speed = 2;
-         // (velocity)
-
         delta = delta / 1000;
-
-        this.isWalking = true;
+        let speed = 2;
+    
 
         if (this.x < this.nextX) {
             this.x += delta * speed;
@@ -135,19 +132,19 @@ export default class UserVisualization implements IUserVisualization {
             }
         }
 
-        /*if(this.x < this.nextX) {
-            this.x += delta * speed;
-        } else {
-            this.x = this.nextX;
-            this.isWalking = false;
+        if (this.nextZ > this.z) {
+            this.z += ((Math.abs(this.z - this.nextZ) > 1.5) ? 9.8 : speed) * delta;
+            if (this.z > this.nextZ) {
+                this.z = this.nextZ;
+            }
+        } else if (this.nextZ < this.z) {
+            this.z -= ((Math.abs(this.z - this.nextZ) > 1.5) ? 9.8 : speed) * delta;
+            if (this.z < this.nextZ) {
+                this.z = this.nextZ;
+            }
         }
-        if(this.y < this.nextY) {
-            this.y += delta * speed;
-        }
-        else {
-            this.y = this.nextY;
-            this.isWalking = false;
-        }*/
+
+
         this.updateAvatarPosition(this.x, this.y)
     }
 
@@ -187,9 +184,9 @@ export default class UserVisualization implements IUserVisualization {
         this.rotation = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
         this.headDirection = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
         //console.log(this.headDirection);
-        this.x = point.getX();
-        this.y = point.getY();
-        this.z = point.getZ();
+        this.nextX = point.getX();
+        this.nextY = point.getY();
+        this.nextZ = point.getZ();
         this.draw();
     }
 

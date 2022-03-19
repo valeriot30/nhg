@@ -8,7 +8,7 @@
     "reconnectOnFail": false,
     "reconnectOnFailTryTimes": 3
   },
-  "fps": 24,
+  "fps": 60,
   "debug": true,
   "debugRoomClick": false,
   "offlineMode": false,
