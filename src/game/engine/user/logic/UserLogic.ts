@@ -54,21 +54,12 @@ export default class UserLogic implements IUserLogic {
 
             if (this.frameTracker >= 100) {
                 userVisualization.nextFrame();
-                (userVisualization as UserVisualization).draw();
                 this.frameTracker = 0;
             }
-
+            (userVisualization as UserVisualization).draw();
             userVisualization.walk(delta);
         }
-        //if(userVisualization.NeedsUpdate) {
-            
-            //if (this.frameTracker >= 120) {
-                
-                
-                //
-            //}*/
-            //userVisualization.updateFrame(0);
-        //
+       
     }
     public get FrameTracker() {
         return this.frameTracker;
