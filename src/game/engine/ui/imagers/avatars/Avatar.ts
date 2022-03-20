@@ -80,7 +80,7 @@ export default class Avatar {
 
     private geometry: string;
 
-    private actions: ActionId[];
+    private actions: Set<ActionId>;
 
     private bodyFrame: number;
     private headFrame: number;
@@ -108,7 +108,7 @@ export default class Avatar {
         figure: string = DEFAULT_FIGURE,
         bodyDirection: Direction = Direction.SOUTH,
         headDirecton: Direction = Direction.SOUTH,
-        actions: ActionId[] = [],
+        actions: Set<ActionId>,
         geometry: string = "vertical",
         bodyFrame: number = 0,
         headFrame: number = 0,
@@ -119,7 +119,6 @@ export default class Avatar {
         this.bodyDirection = bodyDirection;
         this.headDirection = headDirecton;
 
-        this.actions = [];
         this.actions = actions
 
         this.bodyFrame = bodyFrame;
@@ -201,8 +200,8 @@ export default class Avatar {
         return look;
     }
 
-    public set Action(action: ActionId) {
-        this.actions.push(action);
+    public addAction(action: ActionId) {
+        this.actions.add(action);
     }
 
     public get Look() {

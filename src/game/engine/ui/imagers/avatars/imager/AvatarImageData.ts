@@ -35,7 +35,6 @@ export default class AvatarImageData implements IAvatarImageData {
     }
 
     public async loadGameData() {
-        if(!this.ready) {
             this.figureData = await this.AvatarDownloadManager.loadConfigFile("FigureData");
             this.avatarGeometry = await this.AvatarDownloadManager.loadConfigFile("HabboAvatarGeometry");
             this.figureMap = await this.AvatarDownloadManager.loadConfigFile("FigureMap");
@@ -43,14 +42,14 @@ export default class AvatarImageData implements IAvatarImageData {
             this.avatarPartSets = await this.AvatarDownloadManager.loadConfigFile("HabboAvatarPartSets");
             this.avatarDrawOrder = await this.AvatarDownloadManager.loadConfigFile("AvatarDrawOrder");
             this.avatarAnimations = await this.AvatarDownloadManager.loadConfigFile("HabboAvatarAnimations");
-            return new Promise<void>((resolve, reject) => {
-                if(this.figureData == undefined || this.avatarGeometry == undefined || this.figureMap == undefined) {
-                    reject()
-                } else {
-                    resolve()
-                }
+            while(this.figureData == undefined && this.avatarGeometry && undefined && this.figureMap == undefined && this.avatarDrawOrder == undefined && this.avatarPartSets == undefined && this.avatarAnimations == undefined) {
+                //
+            }
+
+            return new Promise((resolve: any, reject: any) => {
+                resolve()
             })
-        }
+        
     }
 
     public async loadPart(part: string) {

@@ -11,6 +11,7 @@ import User from "../User";
 import AvatarData from "../../ui/imagers/avatars/imager/AvatarData";
 import IUserVisualization from "../../../core/users/IUserVisualization";
 import Tile from "../../room/objects/map/Tile";
+import { Action } from "../../ui/imagers/avatars/imager/gamedata/AvatarActions";
 
 export default class UserVisualization implements IUserVisualization {
     private user: User;
@@ -27,7 +28,7 @@ export default class UserVisualization implements IUserVisualization {
     private nextZ: number = 0;
     private rotation: Direction = Direction.SOUTH;
     private headDirection: Direction = Direction.SOUTH;
-    private action: ActionId = ActionId.STAND
+    private actions: Set<ActionId>;
     private frame: number = 0;
 
     // rendering
@@ -40,6 +41,7 @@ export default class UserVisualization implements IUserVisualization {
 
     constructor(user: User) {
         this.user = user
+        this.actions = new Set();
         this.setUI();
     }
 
@@ -48,7 +50,7 @@ export default class UserVisualization implements IUserVisualization {
     }
 
     public render(): void {
-        let avatar = new Avatar(this.user.UserInfo.Look, this.rotation, this.rotation, [this.action]);
+        let avatar = new Avatar(this.user.UserInfo.Look, this.rotation, this.rotation, this.actions);
         
         this.avatar = avatar;
 
@@ -82,9 +84,7 @@ export default class UserVisualization implements IUserVisualization {
     }
     public draw(): void {
         this.avatar?.Container.destroy();
-        let actions = [];
-        actions.push(this.action);
-        let avatar = new Avatar(this.user.UserInfo.Look, this.rotation, this.rotation, actions, "", this.frame);
+        let avatar = new Avatar(this.user.UserInfo.Look, this.rotation, this.rotation, this.actions, "", this.frame);
         this.avatar = avatar;
         //this.updateAction(this.action);
         this.updateDirection(this.rotation);
@@ -100,12 +100,9 @@ export default class UserVisualization implements IUserVisualization {
     }
 
     public walk(delta: number) {
-        let speed = 2;
-         // (velocity)
-
         delta = delta / 1000;
-
-        this.isWalking = true;
+        let speed = 2;
+    
 
         if (this.x < this.nextX) {
             this.x += delta * speed;
@@ -135,28 +132,20 @@ export default class UserVisualization implements IUserVisualization {
             }
         }
 
-        /*if(this.x < this.nextX) {
-            this.x += delta * speed;
-        } else {
-            this.x = this.nextX;
-            this.isWalking = false;
+        if (this.nextZ > this.z) {
+            this.z += ((Math.abs(this.z - this.nextZ) > 1.5) ? 9.8 : speed) * delta;
+            if (this.z > this.nextZ) {
+                this.z = this.nextZ;
+            }
+        } else if (this.nextZ < this.z) {
+            this.z -= ((Math.abs(this.z - this.nextZ) > 1.5) ? 9.8 : speed) * delta;
+            if (this.z < this.nextZ) {
+                this.z = this.nextZ;
+            }
         }
-        if(this.y < this.nextY) {
-            this.y += delta * speed;
-        }
-        else {
-            this.y = this.nextY;
-            this.isWalking = false;
-        }*/
+
+
         this.updateAvatarPosition(this.x, this.y)
-    }
-
-    public set Action(action: ActionId) {
-        this.action = action;
-    }
-
-    public get Action(): ActionId {
-        return this.action;
     }
 
     public calculateDirection(a: Point, b: Point): Direction {
@@ -187,9 +176,9 @@ export default class UserVisualization implements IUserVisualization {
         this.rotation = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
         this.headDirection = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
         //console.log(this.headDirection);
-        this.x = point.getX();
-        this.y = point.getY();
-        this.z = point.getZ();
+        this.nextX = point.getX();
+        this.nextY = point.getY();
+        this.nextZ = point.getZ();
         this.draw();
     }
 
@@ -198,10 +187,8 @@ export default class UserVisualization implements IUserVisualization {
 
 
         let tile: Tile | undefined = currentRoom?.getRoomLayout().getFloorPlane().getTilebyPosition(new Point(Math.round(this.x), Math.round(this.y))); // get the tile where you want to set avatar
-        let offsetFloor = tile!.getPosition().getZ() > 0 ? -MapData.thickSpace * MapData.stepHeight * tile!.getPosition().getZ() : 0;
+        let offsetFloor = tile!.getPosition().getZ() > 0 ? -MapData.thickSpace * MapData.stepHeight * tile!.getPosition().getZ() : -AvatarData.AVATAR_TOP_OFFSET;
 
-        
-        this.avatar!.Container.zIndex = 8;
         let offset = this.isFlipped() ? 0 : AvatarData.AVATAR_LEFT_OFFSET;
 
         this.avatar!.Container.y = ((x + y) * MapData.tileHeight / 2) + (MapData.tileHeight / 2) + offsetFloor;
@@ -209,11 +196,6 @@ export default class UserVisualization implements IUserVisualization {
 
 
     }
-
-    public set(action: ActionId) {
-        this.action = action;
-    }
-
 
     public updateDirection(direction: Direction) {
         let avatar = this.avatar;
@@ -225,8 +207,19 @@ export default class UserVisualization implements IUserVisualization {
 
 
 
-    public updateAction(action: ActionId) {
-        this.action = action
+    public addAction(action: ActionId) {
+        this.removeActions([ActionId.STAND, ActionId.WALK, ActionId.SIT, ActionId.LAY])
+        this.actions.add(action);
+
+    }
+
+    public removeAction(action: ActionId) {
+        this.actions.delete(action)
+    }
+    public removeActions(actions: ActionId[]) {
+        for(let action of actions) {
+            this.removeAction(action)
+        }
     }
 
 
@@ -252,6 +245,11 @@ export default class UserVisualization implements IUserVisualization {
     
     public getPosition(): Point3d {
         return new Point3d(this.x, this.y, this.z);
+    }
+
+
+    public get Actions(): Set<ActionId> {
+        return this.actions
     }
 
     public set Rot(direction: Direction) {

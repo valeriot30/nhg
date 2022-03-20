@@ -25,6 +25,10 @@ class NetworkingManager {
         if (this.engine.getConfig().offlineMode)
             return
 
+        if(this.engine.getUserInterfaceManager().avatarImager.Data.avatarGeometry == undefined) {
+            this.engine.getUserInterfaceManager().avatarImager.Data.loadGameData()
+        }    
+
         window.setInterval(() => {
             this.packetManager.applyOut(OutgoingPacket.PingRequest);
         }, 50000);

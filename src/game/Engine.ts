@@ -65,7 +65,7 @@ export default class Engine {
         this.setUpEvents();
         this.setUpGameLoop();
 
-        PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.LINEAR;
+        PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.NEAREST;
 
         if (!(window as any).engine && this.config.debug) {
             (window as any).engine = Engine.getInstance()
@@ -114,37 +114,38 @@ export default class Engine {
     private setUpEvents(): void {
         window.requestAnimationFrame = (function () {
             return window.requestAnimationFrame ||
-                (window as any).mozRequestAnimationFrame ||
-                (window as any).oRequestAnimationFrame ||
-                (window as any).msRequestAnimationFrame ||
+                (window as any).webkitRequestAnimationFrame ||
+                (window as any).window.mozRequestAnimationFrame ||
+                (window as any).window.oRequestAnimationFrame ||
+                (window as any).window.msRequestAnimationFrame ||
                 function (callback) {
-                    window.setTimeout(callback, 1000 / Engine.getInstance().config.fps, new Date().getTime());
+                    let fpsInterval = 1000 / Engine.getInstance().config.fps
+
+                    window.setTimeout(callback, fpsInterval);
                 };
         })();
     }
 
-    private tick(): void {
-
-    }
-
     private setUpGameLoop(): void {
-        let callbackFunction = () => {
-            window.requestAnimationFrame(callbackFunction)
+        let fpsInterval = 1000 / Engine.getInstance().config.fps
+        this.lastFrameTime = Date.now()
 
-            let current = Date.now()
-            this.timeElapsed = current - this.lastFrameTime;
-            this.lastFrameTime = current
+        let gameLoop = () => {
+            window.requestAnimationFrame(gameLoop)
+            
+            let currentTime = Date.now()
 
-            let delta = this.timeElapsed * (1 / Engine.getInstance().config.fps) * 100
+            this.timeElapsed = currentTime - this.lastFrameTime; 
 
-            this.roomManager?.tick(delta)
+            if (this.timeElapsed > fpsInterval) {
+                this.roomManager?.tick(this.timeElapsed)
+                this.userManager?.tick(this.timeElapsed)
 
-            this.roomManager?.tick(delta)
-            this.userManager?.tick(delta)
-
+                this.lastFrameTime = currentTime //- (this.timeElapsed % fpsInterval)
+            }            
         }
 
-        callbackFunction()
+        gameLoop()
     }
 
 
