@@ -286,7 +286,6 @@ export default class AvatarImager {
     
             if (component.IsFlipped) {
                 sprite.scale.x = -1;
-    
                 sprite.x = this.geometryWidth! - sprite.x + AvatarData.AVATAR_LEFT_OFFSET;
             }
     
@@ -318,6 +317,7 @@ export default class AvatarImager {
             //this.loaded = true;
         } else {
             console.log('cannot find resource ' + this.getTextureId(assetName, component.ResourceName));
+            return;
         }
     }
 

@@ -46,6 +46,7 @@ export default class RoomManager implements IRoomManager {
     public tick(delta: number) : void {
         this.currentRoom?.getRoomLayout().Logic.tick(delta)
         this.CurrentRoom?.RoomUsersManager.tick(delta)
+        this.currentRoom?.RoomEntityManager.tick(delta);
     }
 
 

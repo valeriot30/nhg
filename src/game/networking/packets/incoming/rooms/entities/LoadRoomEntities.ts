@@ -1,5 +1,8 @@
 import MessageHandler from "../../../../../core/communication/messages/MessageHandler";
+import Entity from "../../../../../core/room/object/entities/Entity";
 import Engine from "../../../../../Engine";
+import UserEntity from "../../../../../engine/room/objects/entities/users/UserEntity";
+import UserEntityVisualization from "../../../../../engine/room/objects/entities/users/visualization/UserEntityVisualization";
 import User from "../../../../../engine/user/User";
 import UserVisualization from "../../../../../engine/user/visualization/UserVisualization";
 
@@ -11,22 +14,21 @@ export default class LoadRoomEntities extends MessageHandler
         {
             let userData = this.message.data[i];
             
-            if (Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(userData['id']) == undefined) {
-            
-                let tmpUser = new User(parseInt(userData['id']), userData['name'], userData['look'], userData['gender']); 
-                let userV = (tmpUser.Visualization) as UserVisualization
-                userV.X = userData['x']
-                userV.Y = userData['y']
-                userV.Z = userData['z']
-                userV.Rot = userV.parseRotation(userData['rot'])
+            if (Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.getEntity(userData['id']) == undefined) {
+                
+                //todo make this general for all entities
+                let userEntity = new UserEntity((userData['id']), userData['name'], userData['look'], userData['gender']); 
+                let entityVisualization = (userEntity.getVisualization()) as UserEntityVisualization
+                entityVisualization.X = userData['x']
+                entityVisualization.Y = userData['y']
+                entityVisualization.Z = userData['z']
+                entityVisualization.Rot = entityVisualization.parseRotation(userData['rot'])
                 //todo headRot
-                userV.HeadRot = userV.parseRotation(userData['rot'])
-                tmpUser.UserInfo!.Look = userData['look'];
-                tmpUser.UserInfo!.Gender = userData['gender'];
-                userV.InRoom = true;
+                entityVisualization.HeadRot = entityVisualization.parseRotation(userData['rot'])
+                entityVisualization.InRoom = true;
 
-                Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.addUser(tmpUser)
-                userV.render();
+                Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.addEntity(userEntity)
+                entityVisualization.render();
             }
             
        }

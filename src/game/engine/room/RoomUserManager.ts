@@ -12,10 +12,11 @@ export default class RoomUserManager implements IRoomManager {
         this.users.set(user.UserInfo.getId()!, user)
     }
 
-    public removeUser(userid: number) : void {
-        let user: User | undefined = this.users.get(userid);
-        (user?.Visualization as UserVisualization).Avatar?.Container.destroy();
-        this.users.delete(userid)
+    public getUserFromUserName(userName: string): User | undefined {
+        this.users.forEach((user: User) => {
+            return user.UserInfo.Username == userName ? user : undefined
+        })
+        return undefined;
     }
 
     public getUser(userid: number): User | undefined {

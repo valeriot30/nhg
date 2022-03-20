@@ -1,5 +1,6 @@
 import MessageHandler from "../../../../../core/communication/messages/MessageHandler";
 import Engine from "../../../../../Engine";
+import UserEntityVisualization from "../../../../../engine/room/objects/entities/users/visualization/UserEntityVisualization";
 import User from "../../../../../engine/user/User";
 import UserVisualization from "../../../../../engine/user/visualization/UserVisualization";
 
@@ -8,9 +9,9 @@ export default class RemoveRoomEntity extends MessageHandler {
         let entity = this.message.data;
         
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
-            let roomUsersManager = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager;
-            (roomUsersManager?.getUser(entity.id)?.Visualization as UserVisualization).Avatar?.Container.destroy();
-            roomUsersManager?.removeUser(entity.id);
+            let roomEntityManager = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager;
+            (roomEntityManager?.getEntity(entity.id)?.getVisualization() as UserEntityVisualization).Avatar?.Container.destroy();
+            roomEntityManager?.removeEntity(entity.id);
         }
     }
 }

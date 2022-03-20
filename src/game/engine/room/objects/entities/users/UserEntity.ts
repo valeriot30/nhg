@@ -5,10 +5,18 @@ import UserEntityLogic from "./logic/UserEntityLogic";
 import UserEntityVisualization from "./visualization/UserEntityVisualization";
 
 export default class UserEntity extends Entity {
-    public constructor(id: string, name: string, room: Room) {
+
+    private look: string;
+
+    public constructor(id: string, name: string, look: string, room: Room) {
         super(id, name, room);
+
+        this.look = look;
 
         this.setVisualization(new UserEntityVisualization(this));
         this.setLogic(new UserEntityLogic(this))
     }
+
+    public get Look(): string { return this.look }
+    public set Look(look: string) { this.look = look; }
 }

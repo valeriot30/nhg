@@ -1,6 +1,7 @@
 import { Direction } from "../Direction"
 import { Action } from "./gamedata/AvatarActions";
 
+
 export default class AvatarSpriteComponent {
     private state: string;
 
@@ -83,19 +84,9 @@ export default class AvatarSpriteComponent {
             this.resourceDirection = 3;
         }
 
-        if (direction == 6) {
-            this.isFlipped = true
-            this.resourceDirection = 0;
-        }
-
-        if (direction == 4) {
-            this.isFlipped = true
-            this.resourceDirection = 2
-        }
-
-        if (direction == 5) {
-            this.isFlipped = true
-            this.resourceDirection = 1;
+        if(this.resourceDirection > 3 && this.resourceDirection < 7) {
+            this.resourceDirection = this.calcFlip(this.resourceDirection);
+            this.isFlipped = true;
         }
 
 
@@ -106,6 +97,8 @@ export default class AvatarSpriteComponent {
 
         this.resourceType = flippedType != undefined && this.isFlipped ? flippedType : partType
     }
+
+    public calcFlip = (d: number) => (d > 3 && d < 7 ? 6 - d : d)
 
     // h_sit_lg_3596_0_0
     public get ResourceName(): string {

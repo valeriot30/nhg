@@ -3,6 +3,7 @@ import Entity from "../../core/room/object/entities/Entity";
 import IEntity from "../../core/room/object/entities/IEntity";
 import IRoomEntity from "../../core/room/object/entities/IEntity";
 import UserLogic from "../user/logic/UserLogic";
+import UserEntity from "./objects/entities/users/UserEntity";
 
 export default class RoomEntity implements IRoomManager {
 
@@ -16,6 +17,11 @@ export default class RoomEntity implements IRoomManager {
         let entity: IRoomEntity | undefined = this.entities.get(userid);
         //(entity?.Visualization as EntityVisualization).Avatar?.Container.destroy();
         this.entities.delete(userid)
+    }
+
+    public getUserFromUserName(userName: string): UserEntity | undefined {
+        
+        return undefined;
     }
 
     public getEntity(userid: string): Entity | undefined {

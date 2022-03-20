@@ -29,8 +29,6 @@ export default class UserInfo
         this.rank = rank
         this.allowTrade = allowTrade
         this.email = email
-
-        
     }
 
     public getId(): number | null

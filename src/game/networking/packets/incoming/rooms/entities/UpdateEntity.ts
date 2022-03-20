@@ -1,6 +1,7 @@
 import { Point } from "pixi.js";
 import MessageHandler from "../../../../../core/communication/messages/MessageHandler";
 import Engine from "../../../../../Engine";
+import UserEntityVisualization from "../../../../../engine/room/objects/entities/users/visualization/UserEntityVisualization";
 import { ActionId } from "../../../../../engine/ui/imagers/avatars/Avatar";
 import UserLogic from "../../../../../engine/user/logic/UserLogic";
 import UserVisualization from "../../../../../engine/user/visualization/UserVisualization";
@@ -14,21 +15,21 @@ export default class UpdateEntity extends MessageHandler {
         // check, it's teleport?
 
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
-            let userVisualization = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(parseInt(entity.id))?.Visualization as UserVisualization;
-            userVisualization.setPosition(new Point3d(entity.x, entity.y, entity.z))
+            let entityVisualization = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.getEntity(entity.id)?.getVisualization() as UserEntityVisualization
+            entityVisualization.setPosition(new Point3d(entity.x, entity.y, entity.z))
         
             if (entity.actions.length == 0) {
-                userVisualization.addAction(ActionId.STAND)
+                entityVisualization.addAction(ActionId.STAND)
                 return;
             }
 
-            console.log(userVisualization.Actions);
+            console.log(entityVisualization.Actions);
 
             for(let action of entity.actions) {
                 action as ActionId
-                userVisualization.addAction(action);      
+                entityVisualization.addAction(action);      
             }
-            userVisualization.NeedsUpdate = true;
+            entityVisualization.NeedsUpdate = true;
         }
     }
 }

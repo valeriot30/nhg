@@ -14,6 +14,7 @@ import anime from "animejs"
 import Engine from "../../../../../Engine"
 import UserVisualization from "../../../../user/visualization/UserVisualization"
 import VisualizationPointer from "./VisualizationPointer"
+import { OutgoingPacket } from "../../../../../networking/packets/outgoing/OutgoingPacketEnum"
 
 export default class VisualizationTile extends RoomObjectVisualization {
 
@@ -202,22 +203,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
         ctx.endFill();
 
         ctx.addListener('pointerdown', () => {
-            //console.log('X: ' + this.tile.getPosition().getX() + 'Y: ' + this.tile.getPosition().getY())
-
-            if (Engine.getInstance().UsersManager?.CurrentUser) {
-                let userV = (Engine.getInstance().UsersManager!.CurrentUser?.Visualization as UserVisualization)
-                let avatar = userV.Avatar;
-                let position = userV.getPosition();
-
-                if (position?.getX() != this.tile.getPosition().getX() || position?.getY() != this.tile.getPosition().getY()) {
-                    (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.emit("user-walk", {
-                        x: this.tile.getPosition().getX(),
-                        y: this.tile.getPosition().getY(),
-                        tile: this.tile,
-                        player: avatar
-                    })
-                }
-            }
+            Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.getPosition().getX(), y: this.tile.getPosition().getY()})
         })
 
         this.tileContext = ctx;
@@ -298,22 +284,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
         })
 
         ctx.addListener('pointerdown', () => {
-            //console.log('X: ' + this.tile.getPosition().getX() + 'Y: ' + this.tile.getPosition().getY())
-
-            if (Engine.getInstance().UsersManager?.CurrentUser) {
-                let userV = (Engine.getInstance().UsersManager!.CurrentUser?.Visualization as UserVisualization)
-                let avatar = userV.Avatar;
-                let position = userV.getPosition();
-
-                if (position?.getX() != this.tile.getPosition().getX() || position?.getY() != this.tile.getPosition().getY()) {
-                    (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.emit("user-walk", {
-                        x: this.tile.getPosition().getX(),
-                        y: this.tile.getPosition().getY(),
-                        tile: this.tile,
-                        player: avatar
-                    })
-                }
-            }
+            Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.getPosition().getX(), y: this.tile.getPosition().getY()})
         })
 
         for (let i = 0; i < MapData.stairSteps; i++) {

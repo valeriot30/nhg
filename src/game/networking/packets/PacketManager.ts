@@ -1,9 +1,6 @@
 import Engine from '../../Engine';
 import NetworkingManager from '../NetworkingManager'
 import MessageHandler from '../../core/communication/messages/MessageHandler';
-
-import { DisconnectMessage } from './outgoing/DisconnectMessage';
-import { PingRequest } from './outgoing/PingRequest';
 import { OutgoingPacket } from './outgoing/OutgoingPacketEnum';
 import { LoginResponse } from './incoming/handshake/LoginResponse';
 import { PongResponse } from './incoming/handshake/PongResponse';
@@ -18,7 +15,6 @@ import NewRoomMessage from './incoming/rooms/users/chat/NewRoomMessage';
 import UpdateEntity from './incoming/rooms/entities/UpdateEntity';
 import AddRoomEntity from './incoming/rooms/entities/AddRoomEntity';
 import RemoveRoomEntity from './incoming/rooms/entities/RemoveRoomEntity';
-import UpdateStatus from './incoming/rooms/entities/UpdateStatus';
 
 
 
@@ -48,7 +44,6 @@ class PacketManager {
             14: new RemoveRoomEntity,
             15: new NewRoomMessage,
             17: new UpdateUserInformation,
-            20: new UpdateStatus,
             102: new DisconnectClient
         }
 

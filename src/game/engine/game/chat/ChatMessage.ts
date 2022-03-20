@@ -5,11 +5,11 @@ import UserVisualization from "../../user/visualization/UserVisualization";
 
 import anime from "animejs";
 import { Container } from "pixi.js";
+import UserEntityVisualization from "../../room/objects/entities/users/visualization/UserEntityVisualization";
 
 export default class ChatMessage {
 
     private message: string;
-    private authorId: number;
     private authorName: string | undefined;
     private whisper: boolean = false;
     private chatBubbleId: string;
@@ -20,11 +20,10 @@ export default class ChatMessage {
     private y: number = 0;
     private width: number = 0;
 
-    constructor(message: string, shout: boolean = false, authorId: number,whisper: boolean = false) {
+    constructor(message: string, shout: boolean = false, authorName: string,whisper: boolean = false) {
         this.message = message;
         this.chatBubbleId = "ID-"+UiUtils.guidGenerator();
-        this.authorId = authorId;
-        this.authorName = "undefined";
+        this.authorName = authorName;
         this.chatColor = "";
     }
 
@@ -33,10 +32,10 @@ export default class ChatMessage {
         let message: string = this.message;
         let bubbleChatContainer = document.getElementById("chatBubbleContainer");
 
-        let user = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(this.authorId!)
+        let user = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.getUserFromUserName(this.authorName!)
 
-        this.x = user ? UiUtils.getGlobalPosition((user?.Visualization as UserVisualization).Avatar!.Container).tx : - 60;
-        this.y = user ? UiUtils.getGlobalPosition((user?.Visualization as UserVisualization).Avatar!.Container).ty -  (Engine.getInstance().UsersManager?.CurrentUser?.Visualization as UserVisualization).Avatar!.Container.height * 2 : 0;
+        this.x = user ? UiUtils.getGlobalPosition((user?.getVisualization() as UserEntityVisualization).Avatar!.Container).tx : - 60;
+        this.y = user ? UiUtils.getGlobalPosition((user?.getVisualization() as UserEntityVisualization).Avatar!.Container).ty -  (user.getVisualization() as UserEntityVisualization).Avatar!.Container.height * 2 : 0;
         this.width = message.length * 20;
 
         let element: string = this.generateChatDiv();

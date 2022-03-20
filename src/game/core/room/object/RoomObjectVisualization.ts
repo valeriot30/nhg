@@ -6,7 +6,7 @@ export default abstract class RoomObjectVisualization implements IRoomObjectVisu
     protected offsetY: number
     protected zIndex: number
 
-    private needsUpdate: boolean = false;
+    protected needsUpdate: boolean = false;
 
     constructor(offsetX: number, offsetY: number, zIndex: number) {
         this.offsetX = offsetX

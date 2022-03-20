@@ -14,7 +14,7 @@ export default class UpdateUserInformation extends MessageHandler {
             Engine.getInstance().UsersManager!.CurrentUser!.UserInfo.Look = userInfo.look;
             Engine.getInstance().UsersManager!.CurrentUser!.UserInfo.Gender = userInfo.gender;
             Engine.getInstance().UsersManager!.CurrentUser!.UserInfo.Motto = userInfo.motto;
-            (Engine.getInstance().UsersManager?.CurrentUser?.Visualization as UserVisualization).render();
+            //(Engine.getInstance().UsersManager?.CurrentUser?.Visualization as UserVisualization).render();
 
         } else {
             Engine.getInstance().UsersManager?.setUser(new User(userInfo.id, userInfo.username, userInfo.look, userInfo.gender))
