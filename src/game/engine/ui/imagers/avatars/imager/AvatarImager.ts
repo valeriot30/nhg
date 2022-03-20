@@ -239,8 +239,6 @@ export default class AvatarImager {
 
         //console.log(assetName);
 
-        let asset = spritesheet[component.ResourceName];
-
         /*if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
             component.IsFlipped = true;
             component.ResourceDirection = 6 - component.ResourceDirection;
@@ -253,6 +251,18 @@ export default class AvatarImager {
             component.Frame = 0;
             component.IsFlipped = false;
         }*/
+
+        if(spritesheet[component.ResourceName] == undefined) {
+            component.ResourceDirection = 1;
+            component.IsFlipped = false;
+        }
+        if(spritesheet[component.ResourceName] == undefined) {
+            component.ResourceDirection = component.ResourceDirection + 1;
+            component.IsFlipped = true;
+        }
+
+
+        let asset = spritesheet[component.ResourceName];
 
         //console.log(component.ResourceDirection);
 
@@ -310,8 +320,7 @@ export default class AvatarImager {
             
             //this.loaded = true;
         } else {
-            console.log('cannot find resource ' + this.getTextureId(assetName, component.ResourceName));
-            return;
+            console.log('cannot find resource ' + this.getTextureId(assetName, component.ResourceName))
         }
     }
 

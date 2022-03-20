@@ -45,6 +45,7 @@ export default class Application extends PIXI.utils.EventEmitter {
         this.viewport.drag({
             wheel: false
         });
+        //this.viewport.zoomPercent(-0.25) <- zoom for snowstorm
 
         window.onresize = () => {
             this.resize();

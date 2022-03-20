@@ -86,7 +86,6 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         this.avatar?.Container.destroy();
         let avatar = new Avatar(this.entity.Look, this.rotation, this.rotation, this.actions, "", this.frame);
         this.avatar = avatar;
-        //this.updateAction(this.action);
         this.updateDirection(this.rotation);
         Engine.getInstance().getUserInterfaceManager().avatarImager.drawAvatar(avatar);
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
