@@ -6,7 +6,7 @@ export default class NewRoomMessage extends MessageHandler {
 
         let message = this.message;
 
-        Engine.getInstance().GameEnvironment?.ChatManager.computeMessage(message.message, message.shout, message.userName)
+        Engine.getInstance().GameEnvironment?.ChatManager.computeMessage(message.message, message.shout, message.name)
 
     }
 }
