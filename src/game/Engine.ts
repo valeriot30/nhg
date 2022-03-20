@@ -66,6 +66,7 @@ export default class Engine {
         this.setUpGameLoop();
 
         PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.NEAREST;
+        PIXI.settings.SORTABLE_CHILDREN = false
 
         if (!(window as any).engine && this.config.debug) {
             (window as any).engine = Engine.getInstance()

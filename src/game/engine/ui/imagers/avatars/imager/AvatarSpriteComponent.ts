@@ -117,6 +117,7 @@ export default class AvatarSpriteComponent {
         );
     }
 
+
     public get State() {
         return this.state;
     }

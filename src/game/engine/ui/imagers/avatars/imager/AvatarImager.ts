@@ -234,20 +234,14 @@ export default class AvatarImager {
 
 
     private async drawSpriteComponent(component: AvatarSpriteComponent, assetName: string, avatar: Avatar, animationOffsets: { x: number, y: number }) {
-        let offsetResource: OffsetResource = this.data.Offsets.get(assetName) as OffsetResource;
-        let spritesheet: Spritesheet = this.data.SpriteSheets.get(assetName) as Spritesheet;
+        let spritesheet: any = this.data.SpriteSheets.get(assetName) as Spritesheet;
 
 
-        if(!offsetResource) {
-            return;
-        }
+        //console.log(assetName);
 
-        let assets: Asset = offsetResource.assets;
-        let asset = assets[component.ResourceName];
+        let asset = spritesheet[component.ResourceName];
 
-        let direction = 0;
-
-        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
+        /*if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
             component.IsFlipped = true;
             component.ResourceDirection = 6 - component.ResourceDirection;
         }
@@ -258,16 +252,14 @@ export default class AvatarImager {
         if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
             component.Frame = 0;
             component.IsFlipped = false;
-        }
+        }*/
 
         //console.log(component.ResourceDirection);
 
         let frame: Frame;
-        //console.log(this.getTextureId(assetName, component.ResourceName));
-        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] !== undefined) {
-            frame = spritesheet.frames[this.getTextureId(assetName, component.ResourceName)].frame;
+        if(asset !== undefined) {
             let downloadedTexture: PIXI.Texture = await this.downloadTexture(assetName);
-            let texture = new PIXI.Texture(downloadedTexture.baseTexture, new Rectangle(frame.x, frame.y, frame.w, frame.h));
+            let texture = new PIXI.Texture(downloadedTexture.baseTexture, new Rectangle(asset.left, asset.top, asset.width, asset.height));
     
             let sprite = new Sprite(texture);
             sprite.interactive = true;
@@ -277,12 +269,14 @@ export default class AvatarImager {
             if (component.Color && component.ResourceType != "ey") {
                 sprite.tint = parseInt(component.Color, 16);
             }
-    
-            if (asset) {
-                sprite.x -= asset.x - (animationOffsets.x ?? 0);
-                sprite.y -= asset.y - (animationOffsets.y ?? 0);
+
+            let offsets = asset.offset.split(",");
+
+            if(offsets) {
+                sprite.pivot.x = offsets[0]
+                sprite.pivot.y = offsets[1]
             }
-    
+
     
             if (component.IsFlipped) {
                 sprite.scale.x = -1;
@@ -322,7 +316,7 @@ export default class AvatarImager {
     }
 
     private getTextureId(assetName: string, resourceName: string) {
-        return assetName + "_" + resourceName + ".png";
+        return resourceName + ".png";
     }
 
     private getAssetPart(assetName: string) {

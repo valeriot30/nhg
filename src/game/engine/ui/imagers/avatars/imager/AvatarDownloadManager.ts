@@ -22,7 +22,7 @@ export default class AvatarDownloadManager {
     public loadSpriteSheet(part: string): Promise<any> {
         return new Promise((resolve, reject) => {
             try {
-                resolve(fetchJsonAsync(`${Engine.getInstance().getConfig().avatarFigurePath}/${part}/${part}_spritesheet.json`));
+                resolve(fetchJsonAsync(`${Engine.getInstance().getConfig().avatarFigurePath}/${part}/${part}.json`));
             } catch(e) {
                 console.log(e)
             }
