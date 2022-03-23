@@ -14,19 +14,22 @@ import Engine from "../../../../Engine"
 import Sprite from "../../../../utils/Sprite"
 import * as PIXI from "pixi.js"
 import { Dictionary } from "vue-router/types/router"
+import { IAsset } from "../../../../core/objects/IAsset"
 
 export default class FurniBase {
     private _data: IFurnidata
-    private _spritesheetData: ISpritesheet | null
+    private _spritesheetData: IFurnidata | null
     private spritesheet: Promise<PIXI.Texture> | null
     private ready: boolean = false
     private loader: PIXI.Loader;
+    private itemName: string;
 
-    constructor(data: IFurnidata) {
+    constructor(data: IFurnidata, itemName: string) {
 
         this._data = data;
         this._spritesheetData = null;
         this.spritesheet = null;
+        this.itemName = itemName
         this.loader = new PIXI.Loader();
     }
 
@@ -34,12 +37,15 @@ export default class FurniBase {
 
         return Promise.all([
             new Promise((res, rej) => {
-                //console.log(this.data);
-                fetchJsonAsync(Engine.getInstance().getConfig().proxyUrl + Engine.getInstance().getConfig().itemsResourcesUrl + this.data.name + '/' + this.data.name + '_spritesheet.json').then(data => {
-                    this._spritesheetData = data as ISpritesheet
+                let url = Engine.getInstance().getConfig().proxyUrl + Engine.getInstance().getConfig().itemsResourcesUrl + this.itemName + '/' + this.itemName+ '.json'
+                fetchJsonAsync(url).then(data => {
+                    this._spritesheetData = data as IFurnidata
                     //console.log(this._spritesheetData);
                     res(data);
-                }).catch(err => rej(err))
+                }).catch(err => {
+                    throw new Error('cannot find json file ' + url);
+                    rej(err)
+                })
 
             })
         ])
@@ -49,7 +55,7 @@ export default class FurniBase {
     public downloadSpritesheet(): Promise<PIXI.Texture> {
 
         let loader = new PIXI.Loader();
-        let configUrl = Engine.getInstance().getConfig().proxyUrl + Engine.getInstance().getConfig().itemsResourcesUrl + this.data.name + '/' + this.data.name + '.png';
+        let configUrl = Engine.getInstance().getConfig().proxyUrl + Engine.getInstance().getConfig().itemsResourcesUrl + this.itemName + '/' + this.itemName + '.png';
 
         loader.add(configUrl);
 
@@ -99,7 +105,7 @@ export default class FurniBase {
 
     public hasDirection(direction: number): boolean {
         direction = direction / 90 * 2
-        return this.data.directions.indexOf(direction) >= 0
+        return this.data.visualization.directions!.indexOf(direction) >= 0
     }
 
     public hasAnimations(): boolean {
@@ -120,18 +126,20 @@ export default class FurniBase {
 
     public getFrameFromAsset(assetName: string): any {
 
-        let frameName = this._spritesheetData!.frames[this.data.name + "_" + assetName + ".png"]
+        console.log(this._spritesheetData);
+
+        let frameName = this._spritesheetData!.assets[assetName + ".png"]
 
         if (frameName == undefined) {
-            frameName = this._spritesheetData!.frames[assetName + ".png"]
+            frameName = this._spritesheetData!.assets[this.itemName + ".png"]
         }
 
         return frameName;
 
     }
 
-    public getSprite(texture: PIXI.Texture, framePart: any): PIXI.Sprite {
-        texture = new PIXI.Texture(texture.baseTexture, new PIXI.Rectangle(framePart.frame.x + 0.5, framePart.frame.y - 1, framePart.frame.w + 1, framePart.frame.h + 1))
+    public getSprite(texture: PIXI.Texture, framePart: IAsset): PIXI.Sprite {
+        texture = new PIXI.Texture(texture.baseTexture, new PIXI.Rectangle(framePart.sprite.left, framePart.sprite.top, framePart.sprite.width, framePart.sprite.height))
         let sprite = new PIXI.Sprite(texture);
         return sprite;
     }
@@ -188,10 +196,10 @@ export default class FurniBase {
         let layerChar = this.layerFromNumber(layer);
 
         if (size == 1) {
-            return this.data.name + "_icon_" + layerChar
+            return this.itemName + "_icon_" + layerChar
         }
 
-        let assetName = this.data.name + "_" + size + "_" + layerChar;
+        let assetName = this.itemName + "_" + size + "_" + layerChar;
         if (direction != null && frame != null) {
             assetName += "_" + direction + "_" + frame;
         }
@@ -218,14 +226,12 @@ export default class FurniBase {
 
     public hasVisualDirection(direction: number): boolean {
         return this.hasVisualDirections() &&
-            this.data.visualization.directions![direction] != null;
+            this.data.logic.directions![direction] != null;
     }
 
     public hasVisualDirectionLayer(direction: number, layer: number): boolean {
-        if (this.hasVisualDirection(direction) && this.data.visualization.directions![direction]) {
-            if (this.data.visualization.directions![direction].layers != null && this.data.visualization.directions![direction].layers[layer] != null) {
-                return true
-            }
+        if (this.hasVisualDirection(direction) && this.data.logic.directions![direction]) {
+            return true;
         }
 
         return false
@@ -237,7 +243,7 @@ export default class FurniBase {
         if (this.hasAsset(assetName)) {
             let asset = this.data.assets[assetName]
             if (asset && asset.flipH != null) {
-                return asset.flipH
+                return asset.flipH == 1
             }
         }
 
@@ -268,6 +274,6 @@ export default class FurniBase {
     }
 
     public get directions(): number[] {
-        return this.data.directions.map((direction) => direction / 90 * 2)
+        return this.data.logic.directions!.map((direction) => direction / 90 * 2)
     }
 }

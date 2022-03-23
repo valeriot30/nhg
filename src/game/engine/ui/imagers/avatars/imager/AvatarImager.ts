@@ -13,6 +13,7 @@ import { Asset, Frame, OffsetResource, Spritesheet } from "./AvatarResource";
 import Engine from "../../../../../Engine";
 import PartSets from "./AvatarPartSets";
 import AvatarData from "./AvatarData";
+import { ActivePart } from "./gamedata/AvatarPartSetsData";
 
 export type FigureDataComponent = {
     index: number;
@@ -197,16 +198,6 @@ export default class AvatarImager {
         this.drawSpriteComponent(spriteComponent, assetName, avatar, animationOffsets);
     }
 
-    private getFlippedSetType(assetName: string, type: string) {
-        let partSet = this.getPartSet(type)
-
-        //console.log(partSet);
-
-        if (partSet?.flippedSetType) {
-            return partSet.flippedSetType
-        }
-    }
-
     private downloadTexture(assetName: string): Promise<PIXI.Texture> {
 
         let loader = new PIXI.Loader();
@@ -252,14 +243,6 @@ export default class AvatarImager {
             component.IsFlipped = false;
         }*/
 
-        if(spritesheet[component.ResourceName] == undefined) {
-            component.ResourceDirection = 1;
-            component.IsFlipped = false;
-        }
-        if(spritesheet[component.ResourceName] == undefined) {
-            component.ResourceDirection = component.ResourceDirection + 1;
-            component.IsFlipped = true;
-        }
 
 
         let asset = spritesheet[component.ResourceName];
@@ -328,13 +311,26 @@ export default class AvatarImager {
         return resourceName + ".png";
     }
 
-    private getAssetPart(assetName: string) {
-        
+    public getActivePartSet(partSet: ActivePart) {
+        return this.data.avatarPartSets!.partSets.activePartSets.find((x: any) => {
+            x.id = partSet;
+        })!.activeParts;
     }
 
-    private getAssetComponent(assetName: string) {
-        
+    public getFlippedSetType(assetName: string, type: string) {
+        let flippedSetType: string;
+
+        let partSet = this.getPartSet(type);
+
+        this.data.avatarPartSets!.partSets.partSet.forEach((x) => {
+            if (x.setType == partSet?.setType) {
+                flippedSetType = x.flippedSetType ?? x.setType;
+            }
+        });
+
+        return flippedSetType!;
     }
+
 
 
     private getAnimationFrames(actionid: string, setType: string): AnimationFrame[] {

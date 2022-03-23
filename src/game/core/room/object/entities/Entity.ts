@@ -19,4 +19,7 @@ export default abstract class Entity extends RoomObjectController implements IRo
         this.name = name
         this.room = room;
     }
+
+    public get Name(): string { return this.name; }
+    public get Room(): Room | null { return this.room; }
 } 

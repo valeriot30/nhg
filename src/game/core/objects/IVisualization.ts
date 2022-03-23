@@ -6,8 +6,9 @@ import { IAnimation } from "./IAnimation";
 export interface IVisualization {
     layerCount: number;
     angle: number;
+    type: string;
     layers?: { [key: string] : ILayer };
     colors?: { [key: string] : IColor };
-    directions?: { [key: string] : IDirections };
+    directions?: number[]
     animations?: { [key: string] : IAnimation };
 }

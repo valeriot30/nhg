@@ -91,6 +91,21 @@ export default class RoomVisualization implements IRoomVisualization {
 
     }
 
+
+    public globalToTileWithHeight(x: number, y: number, z: number): Point {
+        const offsetX = this.container.x;
+        const offsetY = this.container.y - (z * MapData.tileHeight * 2);
+
+        const xminusy = (x - MapData.tileWidth - offsetX) / MapData.tileWidth;
+        const xplusy = (y - offsetY) / MapData.tileWidth
+
+        const tileX = Math.floor((xminusy + xplusy) / 2);
+        const tileY = Math.floor((xplusy - xminusy) / 2);
+
+        return new Point(tileX, tileY);
+    }
+
+
     public getCanvasFloor() : PIXI.Container {
         return this.canvasFloor
     }

@@ -12,19 +12,21 @@ export default class LoadRoomEntities extends MessageHandler
     public handle(): void {
         for (let i = 0; i < this.message.data.length; i++)
         {
-            let userData = this.message.data[i];
+            let entityData = this.message.data[i];
             
-            if (Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.getEntity(userData['id']) == undefined) {
+            
+
+            if (Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.getEntity(entityData['id']) == undefined) {
                 
                 //todo make this general for all entities
-                let userEntity = new UserEntity((userData['id']), userData['name'], userData['look'], userData['gender']); 
+                let userEntity = new UserEntity((entityData['id']), entityData['name'], entityData['look'], entityData['gender']); 
                 let entityVisualization = (userEntity.getVisualization()) as UserEntityVisualization
-                entityVisualization.X = userData['x']
-                entityVisualization.Y = userData['y']
-                entityVisualization.Z = userData['z']
-                entityVisualization.Rot = entityVisualization.parseRotation(userData['rot'])
+                entityVisualization.X = entityData['x']
+                entityVisualization.Y = entityData['y']
+                entityVisualization.Z = entityData['z']
+                entityVisualization.Rot = entityVisualization.parseRotation(entityData['rot'])
                 //todo headRot
-                entityVisualization.HeadRot = entityVisualization.parseRotation(userData['rot'])
+                entityVisualization.HeadRot = entityVisualization.parseRotation(entityData['rot'])
                 entityVisualization.InRoom = true;
 
                 Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.addEntity(userEntity)

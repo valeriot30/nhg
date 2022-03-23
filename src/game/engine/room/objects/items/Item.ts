@@ -26,14 +26,13 @@ export default abstract class Item extends RoomObjectController implements IRoom
 
         this._room = room;
 
-        //Engine.getInstance().Application?.app?.stage.addChild(sprite);
-
-        let visualization = this.getItemVisualizationFromType(sprite.furniBase.visualizationType)
-        let logic = this.getItemLogicFromType(sprite.furniBase.LogicType)
+        let visualization = this.getItemVisualizationFromType(sprite.furniBase.data.visualization.type)
+        let logic = this.getItemLogicFromType(sprite.furniBase.data.logic.type)
 
         this.setVisualization(visualization);
         this.setLogic(logic);
 
+        //console.log(visualization);
 
     }
 
@@ -46,6 +45,7 @@ export default abstract class Item extends RoomObjectController implements IRoom
                     return new ItemVisualizationStatic(this);
                 case "furniture_animated":
                     return new ItemVisualizationAnimated(this)
+
         }
     }
 
@@ -66,7 +66,7 @@ export default abstract class Item extends RoomObjectController implements IRoom
         return this._room;
     }
 
-    public getBase() : FurniSprite {
+    public get Base() : FurniSprite {
         return this.base;
     }
 }

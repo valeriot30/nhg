@@ -1,6 +1,7 @@
 import Command from "./Command";
 import { ICommand } from "../../../core/game/commands/ICommand";
 import ZoomCommand from "./ZoomCommand";
+import IqqdCommand from "./IqqdCommand";
 
 export default class CommandsManager {
 
@@ -12,6 +13,7 @@ export default class CommandsManager {
 
     public async init() {
         this.addCommand("zoom", new ZoomCommand())
+        this.addCommand("iqqd", new IqqdCommand())
     }
 
     private addCommand(name: string, command: Command) : void {

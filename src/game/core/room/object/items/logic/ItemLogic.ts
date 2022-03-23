@@ -19,9 +19,10 @@ export default abstract class ItemLogic implements IRoomObjectLogic {
     }
 
     public listen() {
-        this.item.getBase().interactive = true
-        this.item.getBase().addListener("mousedown", this.togglePreview.bind(this))
-        this.item.getBase().addListener("mouseup", this.onItemHover.bind(this))
+        this.item.Base.interactive = true;
+        this.item.Base.buttonMode = true;
+        this.item.Base.addListener("mousedown", this.togglePreview.bind(this))
+        this.item.Base.addListener("mouseup", this.onItemHover.bind(this))
     }
 
 
@@ -41,6 +42,4 @@ export default abstract class ItemLogic implements IRoomObjectLogic {
 
     public tick(delta: number) {
     }
-
-
 }

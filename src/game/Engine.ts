@@ -10,7 +10,7 @@ import Application from './engine/graphics/Application'
 import * as PIXI from "pixi.js"
 import RoomManager from './engine/room/RoomManager'
 import Point from './utils/point/Point'
-import Avatar from './engine/ui/imagers/avatars/Avatar'
+import Avatar, { ActionId } from './engine/ui/imagers/avatars/Avatar'
 import { Direction } from './engine/ui/imagers/avatars/Direction'
 import { ItemType } from './engine/ui/imagers/items/FurniImager'
 import RoomVisualization from './engine/room/visualization/RoomVisualization'
@@ -46,6 +46,8 @@ export default class Engine {
     private timeElapsed: number = 0
     private lastFrameTime: number = 0
 
+    private offlineMode: boolean = true;
+
 
     private constructor() { }
 
@@ -66,7 +68,7 @@ export default class Engine {
         this.setUpGameLoop();
 
         PIXI.settings.SCALE_MODE = PIXI.SCALE_MODES.NEAREST;
-        PIXI.settings.SORTABLE_CHILDREN = false
+        PIXI.settings.ROUND_PIXELS = true;
 
         if (!(window as any).engine && this.config.debug) {
             (window as any).engine = Engine.getInstance()
@@ -82,28 +84,29 @@ export default class Engine {
 
         loader.updateProgress(50)
 
-        /*let room = this.roomManager!.setRoom("prova", "xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxx000000x/xxxxx000000x/xxxx0000000x/xxxxx000000x/xxxxx000000x/xxxxx000000x/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx/xxxxxxxxxxxx", new Point(7, 4), 200);
+        if(this.offlineMode) {
+            let room = this.roomManager!.setRoom("prova", "111111111/1111111011111/111111111001/111111", new Point(7, 4), 200);
 
-        let item = await this.userInterfaceManager!.getFurniImager().loadFurniSprite(ItemType.FloorItem, "doorC");
-        item.start();
-        //console.log(item);
-        //(room.getRoomLayout().Visualization as RoomVisualization).getCanvasFloor().addChild(item);
+            //console.log(item);
+            //(room.getRoomLayout().Visualization as RoomVisualization).getCanvasFloor().addChild(item);
 
-        let avatar = new Avatar("hd-180-1.ch-255-66.lg-280-110.sh-305-62.ha-1012-110.hr-828-61", Direction.SOUTH, Direction.SOUTH);
+            let avatar = new Avatar("hd-180-1.ch-255-66.lg-280-110.sh-305-62.ha-1012-110.hr-828-61", Direction.SOUTH, Direction.SOUTH, new Set());
 
-        this.userInterfaceManager.avatarImager.Data.loadGameData().then(() => {
-            this.userInterfaceManager?.avatarImager.loadAvatar(avatar).then(() => {
-                this.userInterfaceManager?.avatarImager.drawAvatar(avatar)
+            this.userInterfaceManager.avatarImager.Data.loadGameData().then(() => {
+                this.userInterfaceManager?.avatarImager.loadAvatar(avatar).then(() => {
+                    this.userInterfaceManager?.avatarImager.drawAvatar(avatar)
+                });
             });
-        })
 
-        console.log(avatar);
-        (room.getRoomLayout().Visualization as RoomVisualization).Container.addChild(avatar.Container);
+          
+            (room.getRoomLayout().Visualization as RoomVisualization).Container.addChild(avatar.Container);
 
-        let roomV = room.getRoomLayout().Visualization as RoomVisualization;
-
-        let furni = new FloorItem(room, "habbocake", new Point3d(0, 0, 0), item);*/
-
+            let item = await this.userInterfaceManager!.getFurniImager().loadFurniSprite(ItemType.FloorItem, "lc_chair");
+            item.start();
+            let roomV = room.getRoomLayout().Visualization as RoomVisualization;
+            let furni = new FloorItem(room, "doorC", new Point3d(2, 3, 1), item);
+            furni.getVisualization()?.render()
+        }
 
     }
 

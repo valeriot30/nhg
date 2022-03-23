@@ -18,14 +18,15 @@ export default class Application extends PIXI.utils.EventEmitter {
     public init(): void {
 
         this._app = new PIXI.Application({
-            backgroundColor: 0x104B86, // 
+            backgroundColor: 0x12436d, // 
             height: window.innerHeight,
             width: window.innerWidth,
             transparent: false,
             resolution: this.dpi,
             antialias: false,
             powerPreference: "high-performance",
-            resizeTo: window
+            resizeTo: window,
+            autoDensity: true
         });
 
         this.viewport = new Viewport({

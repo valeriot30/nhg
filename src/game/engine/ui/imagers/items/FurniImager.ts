@@ -106,7 +106,7 @@ export default class FurniImager {
             this.bases[type][itemName] = new Promise((resolve, _reject) => {
                 //Load furni json
                 this.fetchOffsetAsync(itemName).then((data) => {
-                    const furniBase = new FurniBase(data as IFurnidata)
+                    const furniBase = new FurniBase(data as IFurnidata, itemName)
                     furniBase.init()
                     resolve(furniBase);
                 })

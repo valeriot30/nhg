@@ -42,7 +42,7 @@
                 </div>
                 <hr>
                 <div class="itemImageContainer" ref="itemImageContainer">
-                    <img ref="itemImage" />
+                    <img ref="itemImage" :src="this.image"/>
                 </div>
                 <div class="additionalInfoContainer" ref="additionalInfoContainer">
                 </div>
@@ -61,7 +61,7 @@
                     Prendi</div>
 
                 <div class="previewButton" ref="useItemButton" id="useItemButton"
-                    :class="{hidden: false}" @click.stop="useItemMethod" v-if="item ? this.item.getBase().furniBase.visualizationType === 'furniture_animated': true">
+                    :class="{hidden: false}" @click.stop="useItemMethod" v-if="item ? this.item.Base.furniBase.visualizationType === 'furniture_animated': true">
                     Usa</div>
             </div>
         </div>
@@ -96,10 +96,12 @@ export default {
             this.$props.visible = false;
         },
 
-
+        useItemMethod() {
+            
+        },
 
         rotateItem() {
-            this.item.getBase().rotate();
+            this.item.Base.rotate();
         },
 
         moveItem() {

@@ -15,4 +15,7 @@ export default class MapData {
     public static wallBlankBottom = 16
 
     public static maxHeight = 17
+
+    public static drawingFurniOffsetX = 36;
+    public static drawingFurniOffsetY = 16;
 }

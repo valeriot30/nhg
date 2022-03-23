@@ -1,103 +1,37 @@
-import Engine from "../../../Engine";
 import UiUtils from "../../../utils/UiUtils";
-import Avatar from "../../ui/imagers/avatars/Avatar";
-import UserVisualization from "../../user/visualization/UserVisualization";
-
-import anime from "animejs";
-import { Container } from "pixi.js";
 import UserEntityVisualization from "../../room/objects/entities/users/visualization/UserEntityVisualization";
+import { MessageType } from "../../../core/game/chat/MessageType";
+import Entity from "../../../core/room/object/entities/Entity";
+import AvatarData from "../../ui/imagers/avatars/imager/AvatarData";
 
 export default class ChatMessage {
+    private  messageType: MessageType;
 
     private message: string;
-    private authorName: string | undefined;
+    private author: Entity;
     private whisper: boolean = false;
     private chatBubbleId: string;
-
-    private chatColor: string;
-    
     private x: number = 0;
     private y: number = 0;
     private width: number = 0;
 
-    constructor(message: string, shout: boolean = false, authorName: string,whisper: boolean = false) {
+    constructor(message: string, author: Entity, messageType: MessageType) {
         this.message = message;
-        this.chatBubbleId = "ID-"+UiUtils.guidGenerator();
-        this.authorName = authorName;
-        this.chatColor = "";
+        this.messageType = messageType
+        this.chatBubbleId = "ID-"+ UiUtils.guidGenerator();
+        this.author = author;
+        this.compose()
     }
 
-    public send(): void {
-
-        let message: string = this.message;
-        let bubbleChatContainer = document.getElementById("chatBubbleContainer");
-
-        let user = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.getUserFromUserName(this.authorName!)
-
-        this.x = user ? UiUtils.getGlobalPosition((user?.getVisualization() as UserEntityVisualization).Avatar!.Container).tx : - 60;
-        this.y = user ? UiUtils.getGlobalPosition((user?.getVisualization() as UserEntityVisualization).Avatar!.Container).ty -  (user.getVisualization() as UserEntityVisualization).Avatar!.Container.height * 2 : 0;
-        this.width = message.length * 20;
-
-        let element: string = this.generateChatDiv();
-        let html: ChildNode | null = UiUtils.htmlToElement(element);
-
-        if(html) {
-            bubbleChatContainer?.appendChild(html);
-        }
-
-        let chatMessage = document.getElementById(this.chatBubbleId);
-
-        let chatInterval = setInterval(() => {
-
-            if (!this.checkVisible(chatMessage)) {
-                chatMessage?.remove();
-            }
-
-            anime({
-                targets: ".chatBubble",
-                top: "-=" + 26,
-                easing: 'easeInQuad',
-                duration: 1000
-            });
-
-        }, 2001);
+    public compose() {
+        this.x = this.author ? UiUtils.getGlobalPosition((this.author?.getVisualization() as UserEntityVisualization).Avatar!.Container).tx + AvatarData.AVATAR_LEFT_OFFSET : - AvatarData.AVATAR_GENERIC_WIDTH;
+        this.y = this.author ? UiUtils.getGlobalPosition((this.author?.getVisualization() as UserEntityVisualization).Avatar!.Container).ty -  (this.author.getVisualization() as UserEntityVisualization).Avatar!.Container.height * 2: 0;
     }
 
-    /*public cycle(): void {
-
-
-        var rect = chatMessage?.getBoundingClientRect();
-        var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
-
-        while(this.checkVisible(chatMessage)) {
-            anime({
-                targets: ".chatBubble",
-                top: "-=" + 26,
-                easing: 'easeInQuad',
-                duration: 100
-            });
-        }
-        chatMessage?.remove();
-    }*/
-
-    private checkVisible(elm: HTMLElement | null) {
-        var rect = elm?.getBoundingClientRect();
-        var viewHeight = Math.max(document.documentElement.clientHeight, window.innerHeight);
-        return !(rect!.bottom < 0 || rect!.top - viewHeight >= 0);
-    }
-    private generateChatDiv(): string {
-        let chatDiv = `<div id="${this.chatBubbleId}" class="chatBubble ${this.whisper ? "chatBubbleWhisper" : ""} chatColor${this.chatColor}" style="left: ${this.x - 32}px; top: ${this.y + 20}px;">
-            <div class="chatBubbleContainer">
-                <div class="playerHeadContainer">
-                    <img src="" />
-                </div>
-                <p>
-                    <b>${this.authorName}:</b> ${this.message}
-                </p>
-        </div>`
-
-        return chatDiv;
-
-    }
-
+    public get Message(): string { return this.message }
+    public get MessageType(): MessageType { return this.messageType }
+    public get Id(): string { return this.chatBubbleId}
+    public get X(): number { return this.x; }
+    public get Y(): number { return this.y; }
+    public get Author(): Entity { return this.author; }
 }

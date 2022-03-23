@@ -65,7 +65,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         
         this.avatar.Container.zIndex = 1;
         
-        this.updateAvatarPosition(this.x, this.y); //todo needs to be refactored 
+        this.updateAvatarPosition(); //todo needs to be refactored 
         this.avatar.Container.sortChildren();
         }
 
@@ -91,7 +91,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
             (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(this.avatar.Container);
         }
-        this.updateAvatarPosition(this.x, this.y);
+        this.updateAvatarPosition();
         (this.entity.getLogic() as UserEntityLogic).registerEvents();
         this.avatar.Container.interactive = true;
         this.avatar.Container.interactiveChildren = true;
@@ -144,7 +144,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         }
 
 
-        this.updateAvatarPosition(this.x, this.y)
+        this.updateAvatarPosition()
     }
 
     public calculateDirection(a: Point, b: Point): Direction {
@@ -181,7 +181,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         this.draw();
     }
 
-    public updateAvatarPosition(x: number, y: number) {
+    public updateAvatarPosition() {
         let currentRoom = Engine.getInstance().RoomsManager?.CurrentRoom; // current user room
 
 
@@ -190,8 +190,8 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
 
         let offset = this.isFlipped() ? 0 : AvatarData.AVATAR_LEFT_OFFSET;
 
-        this.avatar!.Container.y = ((x + y) * MapData.tileHeight / 2) + (MapData.tileHeight / 2) + offsetFloor;
-        this.avatar!.Container.x = (((y - x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileHeight;
+        this.avatar!.Container.x = (((this.y - this.x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileHeight;
+        this.avatar!.Container.y = ((this.x + this.y) * MapData.tileHeight / 2) + (MapData.tileHeight / 2) + offsetFloor;
 
 
     }

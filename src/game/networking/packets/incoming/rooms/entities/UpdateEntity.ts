@@ -22,9 +22,7 @@ export default class UpdateEntity extends MessageHandler {
                 entityVisualization.addAction(ActionId.STAND)
                 return;
             }
-
-            console.log(entityVisualization.Actions);
-
+            
             for(let action of entity.actions) {
                 action as ActionId
                 entityVisualization.addAction(action);      

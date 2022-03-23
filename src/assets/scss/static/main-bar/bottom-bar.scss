@@ -18,11 +18,11 @@
         border-radius: 12px;
         height: 53px;
         margin-top: 15px;
-        max-width: 900px;
-        width: calc(80% - 630px);
+        width: calc(60% - 630px);
         border: 2px solid rgba(0,0,0,.2);
         box-shadow: 2px 3px 0 rgba(0,0,0,.15);
-        pointer-events: all
+        pointer-events: all;
+        color:#000;
     }
 
     .muted {

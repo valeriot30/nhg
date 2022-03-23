@@ -5,6 +5,7 @@ import PreviewBoxGUI from "../../../../../components/gui/general/PreviewBoxGUI.v
 import IComponentShowableUI from '../../../../core/ui/IComponentShowableUI';
 import Point from '../../../../utils/point/Point';
 import Item from '../../../room/objects/items/Item';
+import UiUtils from '../../../../utils/UiUtils';
 
 export default class PreviewBoxUI implements IComponentShowableUI {
 
@@ -60,6 +61,7 @@ export default class PreviewBoxUI implements IComponentShowableUI {
     public setItem(item: Item) {
         this.gui.$data.item = item;
         this.gui.$data.mode = "item"
+        this.gui.$data.image = UiUtils.generateImageFromObject(item.Base)?.src;
         this.gui.$forceUpdate;
     }
 

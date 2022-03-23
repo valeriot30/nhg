@@ -9,7 +9,7 @@ export default class ItemVisualizationStatic extends ItemVisualization{
     }
 
     public render(): void {
-            
+        super.render()
     }
 
 }

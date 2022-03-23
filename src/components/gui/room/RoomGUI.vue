@@ -1,12 +1,15 @@
 <template>
-    <div id="roomGui" ref="roomGui" v-draggable="dragBox">
-
-        <div id="chatBubbleContainer" @click="sendMessage()" ref="chatBubbleContainer">
-        </div>
-
-        <div id="itemIcon" ref="itemIcon" :class="{hidden: !showIcon}"></div>
-        <div class="roomObjectsContainer" ref="roomObjectsContainer">
-            <div id="roomCanvasContainer" style="position: absolute;" ref="roomCanvasContainer">
+    <div id="roomGui" ref="roomGui">
+        <div id="chatBubbleContainer" ref="chatBubbleContainer">
+            <div class="chatBubble" v-for="message in this.messages" v-bind:key="message.id" :id="message.id" v-bind:style="{top: message.y + 'px', left: message.x + 'px'}" v-bind:class="message.shout ? 'chatBubbleShout' : ''">
+                <div class="chatBubbleContainer">
+                <div class="playerHeadContainer">
+                    <img src="" />
+                    </div>
+                    <p>
+                        <b>{{ message.author }}:</b> {{ message.text }}
+                    </p>
+                 </div>
             </div>
         </div>
     </div>
@@ -26,28 +29,14 @@
         props: ["visible"],
         data() {
             return {
-                dragBox: {
-                    onPositionChange: this.onPosChanged,
-                    resetInitialPos: false
-                },
-                leftOffset: 0,
-                topOffset: 0,
-                showIcon: false,
-                message: ""
-            };
-        },
-        methods: {
-            onPosChanged(positionDiff, absolutePosition) {
-                if (absolutePosition == null)
-                    return;
-                /*
-                this.leftOffset = absolutePosition.left;
-                this.topOffset = absolutePosition.top;*/
+                messages: []
             }
         },
+        methods: {
+            
+        },
         mounted() {
-            //todo move room to cenetr
-            //Engine.getInstance()
+            
         }
     }
 </script>

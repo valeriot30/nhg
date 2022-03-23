@@ -156,6 +156,9 @@ export default class RoomLayout {
             MapData.wallHeight - MapData.thickSpace - MapData.wallDepth - MapData.wallBlankTop + this.getExtraHeight()
         )
     }
+    public getOffset(x: number, y: number, z: number): Point {
+        return new Point((y - x) * MapData.tileWidth, (x + y) * MapData.tileHeight - (z * MapData.tileHeight * 2));
+    }
 
     public getUniqueColor() : ColorRGB {
         let color: ColorRGB = ColorRGB.getRandomColor()

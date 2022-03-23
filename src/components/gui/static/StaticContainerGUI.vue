@@ -14,7 +14,6 @@
 
 <script>
 import Engine from '../../../game/Engine';
-import { OutgoingPacket } from '../../../game/networking/packets/outgoing/OutgoingPacketEnum';
 
     export default {
         data() {
@@ -37,10 +36,7 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
                 if(e.shiftKey) {
                     shout = true;
                 }
-                Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserSay, {
-                    message: this.message,
-                    shout: shout
-                })
+                Engine.getInstance().GameEnvironment.ChatManager.computeMessage(this.message, shout)
                 this.resetChatMessage();
 
             },

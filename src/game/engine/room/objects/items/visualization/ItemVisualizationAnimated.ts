@@ -8,8 +8,8 @@ export default class ItemVisualizationAnimated extends ItemVisualization {
 
     }
 
-    public render() : void {
-        this.item.getBase().nextFrame();
+    public render() {
+        super.render()
     }
 
 }

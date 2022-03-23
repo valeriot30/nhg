@@ -1,7 +1,7 @@
 <template>
 <div class="topBar">
-        <div class="coinsBox credits" v-html="credits"></div>
-        <div class="coinsBox points">521152</div>
+        <div class="coinsBox" v-html="credits"></div>
+        <div class="coinsBox" v-html="credits"></div>
     </div>
 </template>
 

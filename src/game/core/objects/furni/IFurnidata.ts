@@ -1,5 +1,6 @@
 import { IAsset } from "../IAsset";
 import { IDimension } from "../IDimension";
+import { ILogic } from "../ILogic";
 import { IVisualization } from "../IVisualization";
 
 export interface IFurnidata {
@@ -9,7 +10,7 @@ export interface IFurnidata {
     logicType: string;
     spritesheet: string;
     dimensions: IDimension;
-    directions: number[];
     assets: { [key: string] : IAsset };
     visualization: IVisualization;
+    logic: ILogic,
 }

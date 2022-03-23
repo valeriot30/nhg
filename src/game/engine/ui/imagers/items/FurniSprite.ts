@@ -3,6 +3,7 @@ import * as PIXI from "pixi.js"
 import Engine from "../../../../Engine";
 import FurniImager from "./FurniImager";
 import anime from "animejs";
+import { IOffsets } from "../../../../core/objects/IAsset";
 
 export class FurniSprite extends PIXI.Container {
 
@@ -12,7 +13,6 @@ export class FurniSprite extends PIXI.Container {
     private direction: number = 0;
     private animationPlaying: number = 0;
     private frameCount: number = 0;
-    private _furniContainer: PIXI.Container;
     public isPlaying: boolean = false;
 
     public static FPS: number = 36;
@@ -23,38 +23,35 @@ export class FurniSprite extends PIXI.Container {
         this._furniBase = furniBase;
         this.isIcon = isIcon;
         this.direction = direction;
-        this._furniContainer = new PIXI.Container();
         this.interactive = true;
         this.visible = true;
 
-        console.log(this.furniBase.data);
+        this.direction = 2
     }
-
-    public getBaseDirection() {
+    
+    public getUIDirection(): number {
         const directions = this.furniBase.getAvailableDirections();
-        console.log(directions);
-
-        if (directions.length == 2) {
-            return 0;
-        }
-
-        if (directions.includes(2)) {
-            return 2;
-        }
-
         if (directions.includes(4)) {
             return 4;
         }
-
-        return directions[0]
+        if (directions.includes(2)) {
+            return 2;
+        }
+        return directions[0];
+    }
+    public getNextDirection() {
+        console.log(this.furniBase.data);
+        const directions = this.furniBase.getAvailableDirections();
+        const pos = directions.indexOf(this.direction);
+        return directions[(pos + 1) % directions.length];
     }
 
     public start(animation: number = 0) {
         if (this.furniBase.hasAnimation(animation) || animation === null) {
             this.animationPlaying = animation;
-            this.update();
             this.isPlaying = true;
         }
+        this.update();
     }
 
     public setDirection(direction: number = 0) {
@@ -98,7 +95,7 @@ export class FurniSprite extends PIXI.Container {
                 x: this.x,
                 y: this.y + 10,
             });
-        }, 250)
+        }, 220)
 
         this.scale.x *= -1;
     }
@@ -132,41 +129,45 @@ export class FurniSprite extends PIXI.Container {
             })
         }
         Promise.resolve(this.furniBase.downloadSpritesheet().then((texture) => {
-            
             for (let layer = 0; layer < this.furniBase.layercount; layer++) {
-
-
                 let frame = this.isIcon ? 0 : this.furniBase.getFrameFrom(this.animationPlaying, layer, this.frameCount);
                 let assetName = this.furniBase.assetNameFrom(this.isIcon ? 1 : FurniImager.DEFAULT_SIZE, layer, this.direction, frame);
 
-                //console.log(assetName);
+                if(this.furniBase.data.assets[assetName] == undefined) {
+                    assetName = this.furniBase.assetNameFrom(this.isIcon ? 1 : FurniImager.DEFAULT_SIZE, layer, this.direction + 2, frame);
+                }
 
                 if (this.furniBase.data.assets[assetName] != undefined) {
 
-
                     let asset = this.furniBase.data.assets[assetName];
 
-                    let framePart = this.furniBase.getFrameFromAsset(assetName);
+                    console.log(asset);
 
-                    if (framePart == undefined) {
-                        //console.log(this.furniBase.data.name + "_" + assetName);
-                        framePart = this.furniBase.getFrameFromAsset(this.furniBase.data.name + "_" + assetName);
-                    }
+                    if (asset) {
 
-                    //console.log(framePart);
+    
 
-                    if (framePart) {
-                        let spriteElement = this.furniBase.getSprite(texture, framePart);
+                        if(!asset.sprite) {
+                            return;
+                        }
 
+                        let spriteElement = this.furniBase.getSprite(texture, asset);
 
                         if (asset.flipH) {
                             spriteElement.scale.x = -1;
                         }
 
-                        spriteElement.x = -asset.x;
-                        spriteElement.y = -asset.y;
+                        let offsets: IOffsets = asset.offsets;
+                        
 
-                        spriteElement = this.furniBase.updateSpriteFrom(spriteElement, this.furniBase.data.visualization.layers![layer])
+                        spriteElement.pivot.x = offsets.left;
+                        spriteElement.pivot.y = offsets.top;
+
+                        
+                        if(this.furniBase.data.visualization.layers)
+                            spriteElement = this.furniBase.updateSpriteFrom(spriteElement, this.furniBase.data.visualization.layers![layer])
+
+                        spriteElement.alpha = 1;
 
                         this.addChild(spriteElement);
                     }
@@ -187,9 +188,6 @@ export class FurniSprite extends PIXI.Container {
     }
     public get animation(): number {
         return this.animationPlaying
-    }
-    public get furniContainer() {
-        return this._furniContainer;
     }
 
     public get furniBase() {
