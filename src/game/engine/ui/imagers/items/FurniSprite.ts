@@ -26,7 +26,7 @@ export class FurniSprite extends PIXI.Container {
         this.interactive = true;
         this.visible = true;
 
-        this.direction = 2
+        this.direction = 0
     }
     
     public getUIDirection(): number {
@@ -63,14 +63,12 @@ export class FurniSprite extends PIXI.Container {
 
     public setAnimation(animation: number) {
 
-        if (this.furniBase.hasAnimation(animation) || animation === null) {
-            this.children.forEach((child: PIXI.DisplayObject) => {
-                child.destroy();
-            })
-
+        if (this.furniBase.hasAnimation(animation)) {
             this.animationPlaying = animation
             this.needsUpdate = true;
             this.update();
+        } else {
+            //console.log('no animation');
         }
 
     }
@@ -133,22 +131,23 @@ export class FurniSprite extends PIXI.Container {
                 let frame = this.isIcon ? 0 : this.furniBase.getFrameFrom(this.animationPlaying, layer, this.frameCount);
                 let assetName = this.furniBase.assetNameFrom(this.isIcon ? 1 : FurniImager.DEFAULT_SIZE, layer, this.direction, frame);
 
-                if(this.furniBase.data.assets[assetName] == undefined) {
+                if(assetName == undefined) {
                     assetName = this.furniBase.assetNameFrom(this.isIcon ? 1 : FurniImager.DEFAULT_SIZE, layer, this.direction + 2, frame);
                 }
+
+                
 
                 if (this.furniBase.data.assets[assetName] != undefined) {
 
                     let asset = this.furniBase.data.assets[assetName];
 
-                    console.log(asset);
+                    //console.log(asset);
 
                     if (asset) {
 
     
-
                         if(!asset.sprite) {
-                            return;
+                            asset = this.furniBase.data.assets[asset.source];
                         }
 
                         let spriteElement = this.furniBase.getSprite(texture, asset);
@@ -164,10 +163,10 @@ export class FurniSprite extends PIXI.Container {
                         spriteElement.pivot.y = offsets.top;
 
                         
-                        if(this.furniBase.data.visualization.layers)
+                        if(this.furniBase.data.visualization.layers) {
                             spriteElement = this.furniBase.updateSpriteFrom(spriteElement, this.furniBase.data.visualization.layers![layer])
+                        }
 
-                        spriteElement.alpha = 1;
 
                         this.addChild(spriteElement);
                     }

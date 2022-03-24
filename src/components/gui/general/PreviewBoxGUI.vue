@@ -57,11 +57,11 @@
                     Ruota</div>
 
                 <div class="previewButton" ref="pickItemButton" id="pickItemButton"
-                    :class="{hidden: false}" @click.stop="pickItemMethod">
+                    :class="{hidden: false}" @click.stop="pickItem">
                     Prendi</div>
 
                 <div class="previewButton" ref="useItemButton" id="useItemButton"
-                    :class="{hidden: false}" @click.stop="useItemMethod" v-if="item ? this.item.Base.furniBase.visualizationType === 'furniture_animated': true">
+                    :class="{hidden: false}" @click.stop="useItem" v-if="item ? this.item.Base.furniBase.data.visualization.type === 'furniture_animated': true">
                     Usa</div>
             </div>
         </div>
@@ -96,12 +96,18 @@ export default {
             this.$props.visible = false;
         },
 
-        useItemMethod() {
-            
+        useItem() {
+            this.item.getLogic().changeState();
         },
 
         rotateItem() {
             this.item.Base.rotate();
+        },
+        pickItem() {
+
+            //TODO send message to the server, user wants to pickup item
+            this.item.Base.destroy();
+            this.hide();
         },
 
         moveItem() {

@@ -18,16 +18,16 @@ export default abstract class Item extends RoomObjectController implements IRoom
     private _room: Room
     private base: FurniSprite;
 
-    constructor(room: Room, id: string, position: Point3d, sprite: FurniSprite) {
+    constructor(room: Room, id: string, position: Point3d, baseItem: FurniSprite) {
 
         super(id, position, null, null)
 
-        this.base = sprite;
+        this.base = baseItem;
 
         this._room = room;
 
-        let visualization = this.getItemVisualizationFromType(sprite.furniBase.data.visualization.type)
-        let logic = this.getItemLogicFromType(sprite.furniBase.data.logic.type)
+        let visualization = this.getItemVisualizationFromType(this.base.furniBase.data.visualization.type)
+        let logic = this.getItemLogicFromType(this.base.furniBase.data.logic.type)
 
         this.setVisualization(visualization);
         this.setLogic(logic);

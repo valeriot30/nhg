@@ -87,9 +87,6 @@ export default class Engine {
         if(this.offlineMode) {
             let room = this.roomManager!.setRoom("prova", "111111111/1111111011111/111111111001/111111", new Point(7, 4), 200);
 
-            //console.log(item);
-            //(room.getRoomLayout().Visualization as RoomVisualization).getCanvasFloor().addChild(item);
-
             let avatar = new Avatar("hd-180-1.ch-255-66.lg-280-110.sh-305-62.ha-1012-110.hr-828-61", Direction.SOUTH, Direction.SOUTH, new Set());
 
             this.userInterfaceManager.avatarImager.Data.loadGameData().then(() => {
@@ -101,11 +98,12 @@ export default class Engine {
           
             (room.getRoomLayout().Visualization as RoomVisualization).Container.addChild(avatar.Container);
 
-            let item = await this.userInterfaceManager!.getFurniImager().loadFurniSprite(ItemType.FloorItem, "lc_chair");
+            let item = await this.userInterfaceManager!.getFurniImager().loadFurniSprite(ItemType.FloorItem, "md_sofa");
             item.start();
             let roomV = room.getRoomLayout().Visualization as RoomVisualization;
             let furni = new FloorItem(room, "doorC", new Point3d(2, 3, 1), item);
             furni.getVisualization()?.render()
+            room.RoomItemManager.addItem(furni)
         }
 
     }

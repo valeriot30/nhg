@@ -82,7 +82,11 @@ export default class FurniBase {
 
         if (layer) {
             if (layer.ink === 'ADD') {
-                sprite.blendMode = PIXI.BLEND_MODES.ADD;
+                sprite.blendMode = PIXI.BLEND_MODES.MULTIPLY;
+            }
+
+            if(layer.z) {
+                sprite.zIndex = layer.z
             }
         }
 
@@ -200,7 +204,7 @@ export default class FurniBase {
         }
 
         let assetName = this.itemName + "_" + size + "_" + layerChar;
-        if (direction != null && frame != null) {
+        if (frame != null) {
             assetName += "_" + direction + "_" + frame;
         }
 

@@ -27,6 +27,7 @@ export default class Room {
         this.roomLayout = new RoomLayout(this, roomModel, doorPosition);
         this.roomUsersManager = new RoomUserManager();
         this.roomEntityManager = new RoomEntityManager();
+        this.roomItemManager = new RoomItemManager();
         this.roomItemManager = new RoomItemManager()
         this.roomInfo = new RoomInfo(roomName);
 
@@ -44,6 +45,10 @@ export default class Room {
 
     public get RoomEntityManager(): RoomEntityManager {
         return this.roomEntityManager;
+    }
+
+    public get RoomItemManager(): RoomItemManager {
+        return this.roomItemManager
     }
 
     public get Name(): string {
