@@ -9,21 +9,21 @@ import UserVisualization from "../../../../../engine/user/visualization/UserVisu
 
 export default class AddRoomEntity extends MessageHandler {
     public handle(): void {
-        let user = this.message;
+        let entity = this.message;
 
-        let tmpUser = new UserEntity(user.id, user.name, user.look, user.gender );
+        let tmpUser = new UserEntity(entity.id, entity.name, entity.look, entity.gender );
         let tmpVisualization =  (tmpUser?.getVisualization()) as UserEntityVisualization;
-        tmpVisualization!.X = user.x;
-        tmpVisualization!.Y = user.y;
-        tmpVisualization!.Z = user.z;
+        tmpVisualization!.X = entity.x;
+        tmpVisualization!.Y = entity.y;
+        tmpVisualization!.Z = entity.z;
 
-        tmpVisualization!.NextX = user.nextx;
-        tmpVisualization!.NextY = user.nexty;
-        tmpVisualization!.NextZ = user.nextz;
+        tmpVisualization!.NextX = entity.nextx;
+        tmpVisualization!.NextY = entity.nexty;
+        tmpVisualization!.NextZ = entity.nextz;
 
-        tmpVisualization!.Rot = tmpVisualization!.parseRotation(user.rot)
-        tmpVisualization!.HeadRot = tmpVisualization!.parseRotation(user.rot)
-        tmpUser.Look = user.look;
+        tmpVisualization!.Rot = tmpVisualization!.parseRotation(entity.rot)
+        tmpVisualization!.HeadRot = tmpVisualization!.parseRotation(entity.rot)
+        tmpUser.Look = entity.look;
         //tmpUser.!.Gender = user.gender;
         tmpVisualization!.InRoom = true;
 

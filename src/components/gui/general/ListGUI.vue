@@ -2,11 +2,11 @@
     <div id="furniList" :class="{hidden: !visible}" draggable="false">
         <div class="title-bar">
             <div class="closeIcon" @click="hide">&times;</div>
-            Furni
+            {{ this.mode == 'user' ? 'Utenti' : 'Furni'}}
         </div>
         <div class="furni-container">
             <ul>
-                <li v-for="[key] in items" :key="key" @click="searchAndOpen(key)">{{ key }}</li>
+                <li v-for="key in list" :key="key" @click="searchAndOpen(key)">{{ key.toString() }}</li>
             </ul>
         </div>
     </div>
@@ -16,11 +16,12 @@
 import Engine from '../../../game/Engine'
 import UIComponent from '../../../game/engine/ui/components/UIComponentEnum'
 export default {
-    name: "FurniListGUI",
+    name: "ListGUI",
     props: ["visible"],
     data() {
         return {
-            items: null
+            list: [],
+            mode: 'user'
         }
     },
     methods : {
@@ -29,8 +30,10 @@ export default {
         },
         searchAndOpen(key) {
 
-            let item = Engine.getInstance().getRoomManager().getRoomItemManager().getItemById(key);
-            item.Logic.togglePreview();
+            if(this.mode == 'furni') {
+                let item = Engine.getInstance().getRoomManager().getRoomItemManager().getItemById(key);
+                item.Logic.togglePreview();
+            }
 
         }
     }

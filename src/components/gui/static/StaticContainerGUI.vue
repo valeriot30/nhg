@@ -7,7 +7,7 @@
             </div>!-->    
         </div>    
         <div class="chatBar">
-            <input type="text" class="chatInput" autofocus :disabled="this.isMuted"  v-bind:class="{ muted: this.isMuted, hidden: !this.isChatBarVisible }" ref="chatBarInput" placeholder="Type here to talk!" v-model="message" v-on:keyup.enter="sendMessage">
+            <input type="text" class="chatInput" autofocus :disabled="this.isMuted"  v-bind:class="{ muted: this.isMuted, hidden: !this.isChatBarVisible }" ref="chatBarInput" placeholder="Type here to talk!" v-model="message" v-on:keyup.enter="sendMessage" v-on:keydown="startTyping">
         </div>
     </div>
 </template>
@@ -29,6 +29,9 @@ import Engine from '../../../game/Engine';
 
         },
         methods: {
+            startTyping() {
+                this.$emit("user-start-typing")
+            },
             sendMessage(e) {
 
                 let shout = false;
@@ -43,6 +46,8 @@ import Engine from '../../../game/Engine';
             resetChatMessage() {
                 this.message = "";
             }
+        },
+        mounted() {
         }
     }
 </script>

@@ -30,10 +30,14 @@ export default class AvatarContainerUI implements IComponentShowableUI {
     {
         this.gui.$data.x = position.getX()
         this.gui.$data.y = position.getY()
-        this.gui.$data.w = dimension.getY()
         this.gui.$data.h = dimension.getX()
+        this.gui.$data.w = dimension.getY()
         this.gui.$forceUpdate()
         
+    }
+    public startTyping() {
+        this.gui.$data.typing = true;
+        this.gui.$forceUpdate()
     }
     public init(): void {
         this.gui.$mount();

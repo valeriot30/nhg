@@ -17,8 +17,6 @@ export default class UserLogic implements IUserLogic {
         this.user = user
     }
 
-    
-
     public tick(delta: number): void {
         //todo tick user 
        

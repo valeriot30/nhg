@@ -51,8 +51,6 @@ export default class RoomVisualization implements IRoomVisualization {
 
         this.container.x = (window.innerWidth / 2);
         this.container.y = (window.innerHeight - Engine.getInstance().Application?.app?.stage.height!) / 2
-
-        this.container.sortableChildren = true;
         
         this.canvasWall.interactive = true;
         this.canvasFloor.interactive = true;

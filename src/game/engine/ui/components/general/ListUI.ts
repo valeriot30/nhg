@@ -1,12 +1,12 @@
 import Vue from 'vue'
 
 import UIComponentManager from "../UIComponentManager";
-import FurniListGUI from "../../../../../components/gui/general/FurniListGUI.vue"
+import ListGUI from "../../../../../components/gui/general/ListGUI.vue"
 import IComponentShowableUI from '../../../../core/ui/IComponentShowableUI';
 import Point from '../../../../utils/point/Point';
 import Item from '../../../room/objects/items/Item';
 
-export default class FurniListUI implements IComponentShowableUI {
+export default class ListUI implements IComponentShowableUI {
 
     private componentManager: UIComponentManager
 
@@ -17,7 +17,7 @@ export default class FurniListUI implements IComponentShowableUI {
     constructor(componentManager: UIComponentManager) {
         this.componentManager = componentManager
 
-        this.gui = new (Vue.extend(FurniListGUI))({
+        this.gui = new (Vue.extend(ListGUI))({
             propsData: {
                 visible: this.visible
             }
@@ -28,26 +28,16 @@ export default class FurniListUI implements IComponentShowableUI {
         return document.getElementById("roomCanvasContainer")
     }
 
-    public setSize(point:Point) : void
-    {
-        let el = document.getElementById("roomCanvasContainer")
-
-        if (el != null)
-        {
-            el.style.height = point.getX().toString()
-            el.style.width = point.getY().toString()
+    public add(element: string) {
+        if(this.gui.$data.list.includes(element)) {
+            return;
         }
-        
+        this.gui.$data.list.push(element);
+        this.gui.$forceUpdate()
     }
-
     public init(): void {
         this.gui.$mount();
         this.componentManager.getRootComponent().appendChild(this.gui.$el)
-    }
-
-    public setItems(items: Map<string, Item>) {
-        this.gui.$data.items = items;
-        this.gui.$forceUpdate();
     }
     
     public show() : void

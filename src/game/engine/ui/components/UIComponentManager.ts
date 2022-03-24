@@ -8,7 +8,6 @@ import IComponentUI from "../../../core/ui/IComponentUI";
 import NavigatorUI from "./navigator/NavigatorUI";
 import FriendsMenuUI from "./friends/FriendsMenuUI"
 import PreviewBoxUI from "./general/PreviewBoxUI";
-import FurniListUI from "./general/FurniListUI";
 import CreateRoomUI from "./navigator/CreateRoomUI";
 import LoginUI from "./login/LoginUI";
 import CatalogueUI from "./catalogue/CatalogueUI";
@@ -17,6 +16,7 @@ import RoomEditInfoUI from "./room/RoomEditInfoUI";
 import DefaultPanel from "./panel/DefaultPanel";
 import UserPanelUI from "./room/UserPanelUI";
 import AvatarContainerUI from "./avatar/AvatarContainerUI";
+import ListUI from "./general/ListUI";
 
 export default class UIComponentManager {
 
@@ -39,7 +39,7 @@ export default class UIComponentManager {
         this.addComponent(UIComponent.NavigatorUI, new NavigatorUI(this));
         this.addComponent(UIComponent.FriendsMenuUI, new FriendsMenuUI(this));
         this.addComponent(UIComponent.PreviewBoxUI, new PreviewBoxUI(this))
-        this.addComponent(UIComponent.FurniListUI, new FurniListUI(this))
+        this.addComponent(UIComponent.ListUI, new ListUI(this))
         this.addComponent(UIComponent.CreateRoomUI, new CreateRoomUI(this))
         this.addComponent(UIComponent.CatalogueUI, new CatalogueUI(this))
         this.addComponent(UIComponent.RoomInfoUI, new RoomInfoUI(this))

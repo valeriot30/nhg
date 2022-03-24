@@ -41,4 +41,7 @@ export default class StaticContainerUI implements IComponentUI {
     public get TopBarGUI() {
         return this.topBarGUI;
     }
+    public get Gui() {
+        return this.gui
+    }
 }

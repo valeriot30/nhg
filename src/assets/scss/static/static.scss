@@ -1,6 +1,15 @@
 @import './main-bar/bottom-bar.scss';
 @import './main-bar/top-bar.scss';
 
+.chatTyping {
+    width: 22px;
+    height: 18px;
+    background: url("~@/assets/images/chat/typing.png") no-repeat;
+    outline:none;
+    position:absolute;
+    border:none !important;
+}
+
 #staticContainer {
     background: url('') no-repeat center;
     width: 100%;

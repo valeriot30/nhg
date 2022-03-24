@@ -1,11 +1,9 @@
-import IRoomEntityVisualization from "../../../../../../core/room/object/entities/IEntityVisualization";
 import RoomEntityVisualization from "../../../../../../core/room/object/entities/EntityVisualization";
 import Engine from "../../../../../../Engine";
 import Point3d from "../../../../../../utils/point/Point3d";
 import Avatar, { ActionId } from "../../../../../ui/imagers/avatars/Avatar";
 import { Direction } from "../../../../../ui/imagers/avatars/Direction";
 import AvatarData from "../../../../../ui/imagers/avatars/imager/AvatarData";
-import UserLogic from "../../../../../user/logic/UserLogic";
 import RoomVisualization from "../../../../visualization/RoomVisualization";
 import MapData from "../../../map/MapData";
 import Tile from "../../../map/Tile";
@@ -39,6 +37,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
     // status
     private isWalking: boolean = false;
     private isDancing: boolean = false;
+    private isTyping: boolean = false;
     
 
     constructor(entity: UserEntity) {
@@ -66,12 +65,10 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
             (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(avatar.Container);
         
-        this.avatar.Container.zIndex = 1;
-
-        (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI).setSize(new Point(UiUtils.getGlobalPosition(avatar.Container).tx, UiUtils.getGlobalPosition(avatar.Container).ty), new Point(avatar.Container.height, avatar.Container.width))
         
-        this.updateAvatarPosition(); //todo needs to be refactored 
-        this.avatar.Container.sortChildren();
+        
+            this.updateAvatarPosition(); //todo needs to be refactored 
+            
         }
 
         //Engine.getInstance().Application?.Viewport.follow(this.avatar);
@@ -184,11 +181,12 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         this.nextY = point.getY();
         this.nextZ = point.getZ();
         this.draw();
+        setTimeout(() => 
+        this.avatar?.Container.emit("user-position-changed"), 100)
     }
 
     public updateAvatarPosition() {
         let currentRoom = Engine.getInstance().RoomsManager?.CurrentRoom; // current user room
-
 
         let tile: Tile | undefined = currentRoom?.getRoomLayout().getFloorPlane().getTilebyPosition(new Point(Math.round(this.x), Math.round(this.y))); // get the tile where you want to set avatar
         let offsetFloor = tile!.getPosition().getZ() > 0 ? -MapData.thickSpace * MapData.stepHeight * tile!.getPosition().getZ() : -AvatarData.AVATAR_TOP_OFFSET;
@@ -197,8 +195,6 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
 
         this.avatar!.Container.x = (((this.y - this.x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileHeight;
         this.avatar!.Container.y = ((this.x + this.y) * MapData.tileHeight / 2) + (MapData.tileHeight / 2) + offsetFloor;
-
-
     }
 
     public updateDirection(direction: Direction) {
@@ -276,6 +272,10 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
 
     public get IsInRoom(): boolean {
         return this.inRoom;
+    }
+
+    public get IsTyping(): boolean {
+        return this.isTyping
     }
 
     public get NeedsUpdate(): boolean {

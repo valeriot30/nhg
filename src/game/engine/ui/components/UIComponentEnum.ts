@@ -5,7 +5,7 @@ enum UIComponent {
     NavigatorUI,
     FriendsMenuUI,
     PreviewBoxUI,
-    FurniListUI,
+    ListUI,
     CreateRoomUI,
     CatalogueUI,
     RoomInfoUI,
