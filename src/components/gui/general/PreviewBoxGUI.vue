@@ -6,7 +6,7 @@
                     <span class="title">
                        {{ this.username }}
                     </span>
-                    <span class="closeIcon" @click="engine.gameGui.previewBoxGui.hide()">-</span>
+                    <span class="closeIcon" @click="hide()">-</span>
                 </div>
                 <div class="userInfoContainer">
                     <div class="imageContainer">
@@ -18,7 +18,6 @@
                 </div>
                 <div class="additionalInfoContainer">
                     <p>{{ this.motto ? this.motto : "sdasd" }}</p>
-                    
                 </div>
             </div>
              <div class="previewBoxContainerButtons" :class="{hidden: optionsVisible}">

@@ -25,8 +25,7 @@ export default class Application extends PIXI.utils.EventEmitter {
             resolution: this.dpi,
             antialias: false,
             powerPreference: "high-performance",
-            resizeTo: window,
-            autoDensity: true
+            resizeTo: window
         });
 
         this.viewport = new Viewport({

@@ -12,6 +12,9 @@ import Tile from "../../../map/Tile";
 import UserEntity from "../UserEntity";
 import Point from "../../../../../../utils/point/Point";
 import UserEntityLogic from "../logic/UserEntityLogic";
+import UIComponent from "../../../../../ui/components/UIComponentEnum";
+import AvatarContainerUI from "../../../../../ui/components/avatar/AvatarContainerUI";
+import UiUtils from "../../../../../../utils/UiUtils";
 
 export default class UserEntityVisualization extends RoomEntityVisualization {
     public entity: UserEntity;
@@ -64,6 +67,8 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
             (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(avatar.Container);
         
         this.avatar.Container.zIndex = 1;
+
+        (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI).setSize(new Point(UiUtils.getGlobalPosition(avatar.Container).tx, UiUtils.getGlobalPosition(avatar.Container).ty), new Point(avatar.Container.height, avatar.Container.width))
         
         this.updateAvatarPosition(); //todo needs to be refactored 
         this.avatar.Container.sortChildren();

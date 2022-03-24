@@ -26,7 +26,6 @@ export default class ChatManager {
     }
 
     public computeMessage(message: string, shout: boolean = false, authorName: string) {
-        let userVisualization = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUserFromUserName(authorName)?.Visualization as UserVisualization;
         if(message.startsWith(":")) {
             let commandsManager = Engine.getInstance().GameEnvironment?.CommandsManager;
             let _args = message.split(" ");
@@ -51,6 +50,5 @@ export default class ChatManager {
                 shout: shout
             })
         }
-        
     }
 }

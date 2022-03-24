@@ -43,7 +43,6 @@ export default class FurniImager {
 
     public async init(): Promise<void> {
         await Promise.all(this.loadFiles())
-        this.ready = true
     }
 
     private loadFiles(): Promise<void>[] {
@@ -51,11 +50,13 @@ export default class FurniImager {
             fetchJsonAsync(Engine.getInstance().getConfig().itemsResourcesUrl + "furnidata.json")
                 .then(data => {
                     this.furnidata = data as Furnidata;
+                    this.ready = true;
                 })
                 .catch(err => {
                     if (Engine.getInstance().getConfig().debug) {
-                        Engine.getInstance().getLogger().error("Cannot load furnidata", err)
+                        Engine.getInstance().getLogger().error("Cannot load furnidata")
                     }
+                    this.ready = false;
                 }),
         ];
     }
@@ -154,7 +155,7 @@ export default class FurniImager {
         });
     }
 
-    public isReady(): boolean {
+    public get isReady(): boolean {
         return this.ready
     }
 

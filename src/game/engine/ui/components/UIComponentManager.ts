@@ -16,6 +16,7 @@ import RoomInfoUI from "./room/RoomInfoUI";
 import RoomEditInfoUI from "./room/RoomEditInfoUI";
 import DefaultPanel from "./panel/DefaultPanel";
 import UserPanelUI from "./room/UserPanelUI";
+import AvatarContainerUI from "./avatar/AvatarContainerUI";
 
 export default class UIComponentManager {
 
@@ -45,6 +46,7 @@ export default class UIComponentManager {
         this.addComponent(UIComponent.UserPanelUI, new UserPanelUI(this))
         this.addComponent(UIComponent.RoomEditInfoUI, new RoomEditInfoUI(this))
         this.addComponent(UIComponent.DefaultPanelUI, new DefaultPanel(this));
+        this.addComponent(UIComponent.AvatarContainerUI, new AvatarContainerUI(this))
     }
 
     public initGameComponents() {

@@ -43,7 +43,7 @@ class WebSocketManager {
         this.webSocket.onopen = (event) => {
             Engine.getInstance().getLogger().info("Connected");
 
-            this.networkingManager.getPacketManager().applyOut(OutgoingPacket.PingRequest);
+            //his.networkingManager.getPacketManager().applyOut(OutgoingPacket.PingRequest);
             this.closed = false;
         }
 

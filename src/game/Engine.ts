@@ -18,6 +18,7 @@ import FloorItem from './engine/room/objects/items/FloorItem'
 import Point3d from './utils/point/Point3d'
 import UserManager from './engine/user/UserManager'
 import Environment from './engine/game/Environment'
+import { GameMode } from './core/GameMode'
 
 export default class Engine {
 
@@ -46,14 +47,14 @@ export default class Engine {
     private timeElapsed: number = 0
     private lastFrameTime: number = 0
 
-    private offlineMode: boolean = true;
-
+    private gameMode: GameMode = GameMode.OFFLINE;
 
     private constructor() { }
 
     public async init() {
         this.gameLoader = new PIXI.Loader();
         this.logger = new Logger();
+        this.gameMode = Engine.getInstance().config.offlineMode ? GameMode.OFFLINE : GameMode.ONLINE
         this.userInterfaceManager = new UserInterfaceManager(this, this.gameLoader!);
         this.applicationProvider = new Application();
         this.logger.log("%cNHG CLIENT v" + generalConfig.version, "font-size:2rem; background-color:#069; color: #fff; padding:10px 45px;")
@@ -84,7 +85,8 @@ export default class Engine {
 
         loader.updateProgress(50)
 
-        if(this.offlineMode) {
+        if(this.gameMode == GameMode.OFFLINE) {
+            loader.updateProgress(100)
             let room = this.roomManager!.setRoom("prova", "111111111/1111111011111/111111111001/111111", new Point(7, 4), 200);
 
             let avatar = new Avatar("hd-180-1.ch-255-66.lg-280-110.sh-305-62.ha-1012-110.hr-828-61", Direction.SOUTH, Direction.SOUTH, new Set());

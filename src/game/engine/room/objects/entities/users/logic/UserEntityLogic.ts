@@ -3,6 +3,7 @@ import EntityLogic from "../../../../../../core/room/object/entities/EntityLogic
 import IEntityLogic from "../../../../../../core/room/object/entities/IEntityLogic";
 import Engine from "../../../../../../Engine";
 import UiUtils from "../../../../../../utils/UiUtils";
+import PreviewBoxUI from "../../../../../ui/components/general/PreviewBoxUI";
 import UserPanelUI from "../../../../../ui/components/room/UserPanelUI";
 import UIComponent from "../../../../../ui/components/UIComponentEnum";
 import AvatarData from "../../../../../ui/imagers/avatars/imager/AvatarData";
@@ -15,10 +16,12 @@ export default class UserEntityLogic extends EntityLogic  {
 
     public constructor(entity: UserEntity) {
         super(entity)
+        this.registerEvents()
     }
 
     public registerEvents() {
         (this.entity.getVisualization() as UserEntityVisualization).Avatar?.Container.addListener('pointerdown', () => {
+
             this.openMenu();
             this.openPreviewBox();
         });
@@ -33,17 +36,17 @@ export default class UserEntityLogic extends EntityLogic  {
     }
 
     public openPreviewBox() {
-        /*let previewBox = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI)
+        let previewBox = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI)
             previewBox.Gui.$data.mode = 'user';
-            previewBox.Gui.$data.motto = this.user.UserInfo.getMotto();
-            previewBox.Gui.$data.username = this.user.UserInfo.Username;
-            if(this.user.UserInfo.Username !== Engine.getInstance().UsersManager?.CurrentUser?.UserInfo.Username) {
+            previewBox.Gui.$data.motto = "motto";
+            previewBox.Gui.$data.username = this.entity.Name
+            if(this.entity.Name !== Engine.getInstance().UsersManager?.CurrentUser?.UserInfo.Username) {
                 previewBox.Gui.$data.optionVisible = true;
             }
-            let image: HTMLImageElement | undefined = UiUtils.generateImageFromObject((this.user.Visualization as UserVisualization).Avatar!.Container);
+            let image: HTMLImageElement | undefined = UiUtils.generateImageFromObject((this.entity.getVisualization() as UserEntityVisualization).Avatar!.Container);
             previewBox.Gui.$data.image = image?.src;
             previewBox.Gui.$forceUpdate();
-            previewBox.show();*/
+            previewBox.show();
     }
 
     tick(delta: number): void {

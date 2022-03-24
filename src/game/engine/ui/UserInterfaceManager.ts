@@ -8,6 +8,7 @@ import * as PIXI from "pixi.js"
 import AvatarImageData from "./imagers/avatars/imager/AvatarImageData"
 import UIComponent from "./components/UIComponentEnum"
 import GameLoaderUI from "./components/loader/GameLoaderUI"
+import { OutgoingPacket } from "../../networking/packets/outgoing/OutgoingPacketEnum"
 
 export default class UserInterfaceManager {
 
@@ -40,10 +41,10 @@ export default class UserInterfaceManager {
             this._avatarImager.Data.loadGameData(),
             this.furniImager.init()
         ]).then(() => {
-            this.engine.getNetworkingManager().setUpPingRequest()
+            Engine.getInstance().getNetworkingManager().setUpPingRequest()
         }).catch(err => {
             if (this.engine.getConfig().debug) {
-                this.engine.getLogger().error("initialization failed", err)
+                this.engine.getLogger().error("UI initialization failed")
             }     
         })
     }

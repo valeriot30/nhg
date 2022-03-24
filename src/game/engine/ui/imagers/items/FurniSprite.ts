@@ -26,7 +26,7 @@ export class FurniSprite extends PIXI.Container {
         this.interactive = true;
         this.visible = true;
 
-        this.direction = 0
+        this.direction = 2
     }
     
     public getUIDirection(): number {
