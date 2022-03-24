@@ -56,6 +56,7 @@ export default class LoadRoomEntities extends MessageHandler
 
                 (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.sortChildren()
             }
+            
        }
     }
 }

@@ -35,9 +35,8 @@ export default class AvatarContainerUI implements IComponentShowableUI {
         this.gui.$forceUpdate()
         
     }
-    public startTyping() {
-        this.gui.$data.typing = true;
-        this.gui.$forceUpdate()
+    public toggleTyping(value: boolean) {
+        this.gui.$data.typing = value;
     }
     public init(): void {
         this.gui.$mount();

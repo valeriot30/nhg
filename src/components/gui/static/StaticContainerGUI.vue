@@ -40,6 +40,7 @@ import Engine from '../../../game/Engine';
                     shout = true;
                 }
                 Engine.getInstance().GameEnvironment.ChatManager.computeMessage(this.message, shout)
+                this.$emit('user-stop-typing');
                 this.resetChatMessage();
 
             },
@@ -48,6 +49,11 @@ import Engine from '../../../game/Engine';
             }
         },
         mounted() {
+            setInterval(() => {
+                if(this.message === "") {
+                    this.$emit('user-stop-typing');
+                }
+            }, 100)
         }
     }
 </script>

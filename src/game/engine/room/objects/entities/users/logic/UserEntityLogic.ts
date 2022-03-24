@@ -30,7 +30,8 @@ export default class UserEntityLogic extends EntityLogic  {
 
         UserEntityVisualization.Avatar?.Container.addListener('pointerdown', () => this.userPointerDown())
         UserEntityVisualization.Avatar?.Container.on('user-position-changed',() => this.userPositionChanged())
-        staticContainer.Gui.$on('user-start-typing', () => this.userStartedTyping())
+        staticContainer.Gui.$on('user-start-typing', () => this.userToggleTyping(true))
+        staticContainer.Gui.$on('user-stop-typing', () => this.userToggleTyping(false))
     }
 
     public userPositionChanged() {
@@ -47,9 +48,9 @@ export default class UserEntityLogic extends EntityLogic  {
 
         avatarContainerUI.setSize(position, dimension)
     }
-    public userStartedTyping() {
+    public userToggleTyping(value: boolean) {
         let avatarContainerUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI
-        avatarContainerUI.startTyping()
+        avatarContainerUI.toggleTyping(value)
     }
 
     public userPointerDown() {

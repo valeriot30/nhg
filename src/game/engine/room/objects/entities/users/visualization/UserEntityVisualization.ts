@@ -68,6 +68,8 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         
         
             this.updateAvatarPosition(); //todo needs to be refactored 
+            this.avatar?.Container.emit("user-position-changed", 100);
+        
             
         }
 
@@ -180,9 +182,9 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         this.nextX = point.getX();
         this.nextY = point.getY();
         this.nextZ = point.getZ();
-        this.draw();
         setTimeout(() => 
         this.avatar?.Container.emit("user-position-changed"), 100)
+        this.draw();
     }
 
     public updateAvatarPosition() {
