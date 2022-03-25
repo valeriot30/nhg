@@ -54,19 +54,13 @@ export default {
             case "catalog":
                 Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.CatalogueUI).toggle();
                 break;
-
+            case "inventory":
+                Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.InventoryUI).toggle();
+                break;
             case "roominfo":
                 Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.RoomInfoUI).toggle();
                 break;
         }
-    },
-    sendMessage(event) {
-
-        
-
-    },
-    resetChatMessage() {
-        this.message = ""
     }
   },
   mounted() {

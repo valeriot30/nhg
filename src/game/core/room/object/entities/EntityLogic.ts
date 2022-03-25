@@ -12,5 +12,8 @@ export default abstract class EntityLogic extends RoomObjectLogic {
         this.entity = entity;
     }
 
+    public abstract onPositionChanged(): void
+
+
     public get Entity(): Entity { return this.entity; }
 }

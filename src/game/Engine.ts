@@ -75,15 +75,15 @@ export default class Engine {
             (window as any).engine = Engine.getInstance()
         }
         
+
+        await this.userInterfaceManager.init();
         this.userInterfaceManager?.getUIComponentManager().loadGameComponents()
         this.userInterfaceManager?.getUIComponentManager().initGameComponents()
-        await this.userInterfaceManager.init();
         // (this.userInterfaceManager!.getUIComponentManager().getComponent(UIComponent.LoginUI) as LoginUI).hide()
         //this.networkingManager = new NetworkingManager(Engine.getInstance());
 
         let loader = (this.userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.GameLoaderUI) as GameLoaderUI)
 
-        loader.updateProgress(50)
 
         if(this.gameMode == GameMode.OFFLINE) {
             loader.updateProgress(100)
@@ -103,7 +103,7 @@ export default class Engine {
             let item = await this.userInterfaceManager!.getFurniImager().loadFurniSprite(ItemType.FloorItem, "md_sofa");
             item.start();
             let roomV = room.getRoomLayout().Visualization as RoomVisualization;
-            let furni = new FloorItem(room, "doorC", new Point3d(2, 3, 1), item);
+            let furni = new FloorItem(room, "doorC", "Door C", new Point3d(2, 3, 1), item);
             furni.getVisualization()?.render()
             room.RoomItemManager.addItem(furni)
         }

@@ -12,7 +12,8 @@ enum UIComponent {
     RoomEditInfoUI,
     DefaultPanelUI,
     UserPanelUI,
-    AvatarContainerUI
+    AvatarContainerUI,
+    InventoryUI
 }
 
 export default UIComponent

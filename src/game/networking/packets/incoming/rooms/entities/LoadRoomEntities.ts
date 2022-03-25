@@ -23,6 +23,7 @@ export default class LoadRoomEntities extends MessageHandler
                 
                 let entity: Entity | null = null;
                 let entityVisualization: EntityVisualization | null = null;
+                let user: User | undefined;
                 
                 if(entityData.type === EntityType.HUMAN) {
                     entity = new UserEntity((entityData['id']), entityData['name'], entityData['look'], entityData['gender']); 
@@ -37,7 +38,6 @@ export default class LoadRoomEntities extends MessageHandler
                     (entityVisualization as UserEntityVisualization).InRoom = true;
 
                     if(entityData.user_id !== undefined) {
-                        let user;
                         if(Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(entityData.user_id) === undefined) {
                             user = new User(entityData.user_id, entityData.name, entityData.look, entityData.gender);
                             Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.addUser(user);
@@ -53,6 +53,8 @@ export default class LoadRoomEntities extends MessageHandler
                     Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.addEntity(entity)
                     entityVisualization.render();
                 }
+
+                user?.Logic.registerEvents();
 
                 (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.sortChildren()
             }

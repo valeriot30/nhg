@@ -22,7 +22,12 @@ export default class UiUtils {
     }
 
     static generateImageFromObject(object: DisplayObject | Container): HTMLImageElement | undefined {
+        
         return Engine.getInstance().Application?.app?.renderer.plugins.extract.image((object));
+    }
+
+    static generateBase64FromObject(object: DisplayObject | Container): string | undefined {
+        return Engine.getInstance().Application?.app?.renderer.plugins.extract.canvas(object).toDataURL()
     }
 
 

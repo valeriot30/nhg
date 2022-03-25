@@ -15,14 +15,20 @@ import Engine from "../../../../Engine";
 
 export default abstract class Item extends RoomObjectController implements IRoomItemObject {
 
-    private _room: Room
+    private _room: Room | null
     private base: FurniSprite;
+    private name: string;
 
-    constructor(room: Room, id: string, position: Point3d, baseItem: FurniSprite) {
+    constructor(room: Room | null, id: string, name: string, position: Point3d, baseItem: FurniSprite) {
 
         super(id, position, null, null)
 
+
         this.base = baseItem;
+
+        //Engine.getInstance().Application?.Viewport.addChild(this.base)
+
+        this.name = name;
 
         this._room = room;
 
@@ -62,11 +68,14 @@ export default abstract class Item extends RoomObjectController implements IRoom
 
     }
 
-    public get Room() : Room {
+    public get Room() : Room | null {
         return this._room;
     }
 
     public get Base() : FurniSprite {
         return this.base;
     }
+
+    public get Id(): string { return this.id; }
+    public get Name(): string { return this.name; }
 }

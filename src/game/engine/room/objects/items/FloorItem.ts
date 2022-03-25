@@ -14,7 +14,7 @@ import ItemVisualizationStatic from "./visualization/ItemVisualizationStatic";
 
 export default class FloorItem extends Item {
 
-    constructor(room: Room, id: string, position: Point3d, baseItem: FurniSprite) {
-        super(room, id, position, baseItem);
+    constructor(room: Room | null, id: string, name: string, position: Point3d, baseItem: FurniSprite) {
+        super(room, id, name, position, baseItem);
     }
 }

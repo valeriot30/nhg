@@ -86,7 +86,7 @@ export default class FurniImager {
         return null;
     }
 
-    public loadFurniBase(type: ItemType, furniBaseName: string): Promise<FurniBase> {
+    private loadFurniBase(type: ItemType, furniBaseName: string): Promise<FurniBase> {
 
         let rawItem = this.findItemByName(furniBaseName);
 

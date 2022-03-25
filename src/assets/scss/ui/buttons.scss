@@ -1,0 +1,49 @@
+.ui-button {
+    font-family: 'Ubuntu';
+    border-radius: 4px;
+    padding: 4px;
+    outline: none;
+    cursor: pointer;
+  
+    border: 2px solid #000;
+    background: #e6e6e6;
+    background: linear-gradient(to bottom, #f3f3f3 0%, #f3f3f3 50%, #d9d9d9 51%, #d9d9d9 71%, #d9d9d9 100%);
+    box-shadow: inset 0 0 0px 2px #d9d9d9;
+    text-align: center;
+  
+    &.small {
+      border: 1px solid #000;
+      padding: 2px;
+      font-size: 13px;
+      height: 20px;
+      line-height: 15px;
+      width: auto;
+    }
+  
+    &:hover {
+      background: linear-gradient(to bottom,  #e6e6e6 0%, #e6e6e6 50%, #c2c2c2 51%, #c2c2c2 71%, #c2c2c2 100%);
+      box-shadow: inset 0 0 0px 2px #c2c2c2;
+    }
+  
+    &.green {
+      font-weight: 700;
+      color: #fff;
+      background: rgb(0, 161, 0);
+      background: linear-gradient(to bottom, rgba(0, 161, 0, 1) 0%, rgba(0, 161, 0, 1) 50%, rgba(0, 144, 0, 1) 51%, rgba(0, 144, 0, 1) 71%, rgba(0, 144, 0, 1) 100%);
+      box-shadow: inset 0 0 0px 2px #009000;
+  
+      &:hover {
+        background: linear-gradient(to bottom, rgba(0, 179, 0, 1) 0%, rgba(0, 179, 0, 1) 50%, rgba(0, 158, 0, 1) 51%, rgba(0, 158, 0, 1) 71%, rgba(0, 158, 0, 1) 100%);
+        box-shadow: inset 0 0 0px 2px rgba(0, 158, 0, 1);
+      }
+    }
+  
+    &.disabled {
+      cursor: not-allowed;
+      background: #d6d6d1;
+      border: 1px solid #b2b2ad;
+      color: #b2b2ad;
+      box-shadow: none;
+    }
+  }
+  

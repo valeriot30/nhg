@@ -27,8 +27,6 @@ export default class UserEntityLogic extends EntityLogic  {
     public registerEvents() {
         let UserEntityVisualization = this.entity.getVisualization() as UserEntityVisualization
         let staticContainer = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.StaticContainerUI) as StaticContainerUI
-
-        UserEntityVisualization.Avatar?.Container.addListener('pointerdown', () => this.userPointerDown())
         UserEntityVisualization.Avatar?.Container.on('user-position-changed',() => this.onPositionChanged())
         UserEntityVisualization.Avatar?.Container.on('user-started-typing', () => this.userToggleTyping(true))
         UserEntityVisualization.Avatar?.Container.on('user-stop-typing', () => this.userToggleTyping(false))
@@ -57,34 +55,8 @@ export default class UserEntityLogic extends EntityLogic  {
         avatarContainerUI.toggleTyping(value)
     }
 
-    public userPointerDown() {
-        this.openMenu();
-        this.openPreviewBox();
-    }
 
-    public openMenu() {
-        let menu = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.UserPanelUI) as UserPanelUI);
-        let global = UiUtils.getGlobalPosition((this.entity.getVisualization() as UserEntityVisualization).Avatar!.Container);
-        menu.setUser("");
-        menu.setPosition(global.tx - 5, (global.ty - AvatarData.AVATAR_GENERIC_HEIGHT - 50));
-        menu.show();
-    }
-
-    public openPreviewBox() {
-        let previewBox = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI)
-            previewBox.Gui.$data.mode = 'user';
-            previewBox.Gui.$data.motto = "motto";
-            previewBox.Gui.$data.username = this.entity.Name
-            if(this.entity.Name !== Engine.getInstance().UsersManager?.CurrentUser?.UserInfo.Username) {
-                previewBox.Gui.$data.optionVisible = true;
-            }
-            let image: HTMLImageElement | undefined = UiUtils.generateImageFromObject((this.entity.getVisualization() as UserEntityVisualization).Avatar!.Container);
-            previewBox.Gui.$data.image = image?.src;
-            previewBox.Gui.$forceUpdate();
-            previewBox.show();
-    }
-
-    tick(delta: number): void {
+    public tick(delta: number): void {
         let userVisualization = (this.entity.getVisualization() as UserEntityVisualization)
 
         if(userVisualization.NeedsUpdate) {

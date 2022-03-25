@@ -1,0 +1,289 @@
+#inventory {
+    position: fixed;
+    height: 340px;
+    width: 490px;
+    left: 20vw;
+    top: 20vh;
+    pointer-events: all;
+    display: flex;
+    background-color: #e9e9e1;
+    overflow: hidden;
+    border-radius: 8px;
+    border: 1px solid #000;
+    flex-wrap: wrap;
+    flex-flow: column;
+
+    &::after {
+        content: ' ';
+        box-shadow: inset 0 0 0 2px rgba(255, 255, 255, .15);
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 100%;
+        pointer-events: none;
+    }
+
+    .title-bar {
+        background-color: #FF7C00;
+        height: 30px;
+        display: flex;
+        flex-flow: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        border-bottom: 1px solid #000;
+        font-weight: 700;
+        color: #fff;
+
+        .closeIcon {
+            position: absolute;
+            right: 8px;
+            top: 6px;
+            width: 19px;
+            height: 20px;
+            cursor: pointer;
+            background: url("~@/assets/images/closeIcon.png") no-repeat;
+
+            &:hover {
+                background: url("~@/assets/images/closeIconHover.png") no-repeat;
+            }
+        }
+    }
+
+
+
+    .inventoryContainer {
+        position: relative;
+        margin-top: 0px;
+        width: 100%;
+        height: 100%;
+
+        .inventoryContainerBg {
+            padding-left: 4px;
+            padding-right: 4px;
+            padding-bottom: 4px;
+            height: 100%;
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+
+            .inventoryTabs {
+                padding-top: 5px;
+                padding-left: 16px;
+                padding-right: 16px;
+                border-bottom: 1px solid #000;
+
+                display: flex;
+                width: 100%;
+
+                justify-items: center;
+                align-items: center;
+                justify-content: left;
+
+                .tab {
+                    text-align: center;
+                    border-top-left-radius: 4px;
+                    border-top-right-radius: 4px;
+                    border: 1px solid #000;
+                    border-bottom: 0;
+                    padding: 3px;
+                    color: #000;
+                    background-color: #c3c2b8;
+                    position: relative;
+                    cursor: pointer;
+                    user-select: none;
+
+                    &.active {
+                        border-left: 2px solid #000;
+                        border-right: 2px solid #000;
+                        border-top: 2px solid #000;
+                        background-color: #eceae0;
+
+                        &::after {
+                            content: ' ';
+                            position: absolute;
+                            bottom: -1px;
+                            width: 100%;
+                            height: 2px;
+                            background-color: #eceae0;
+                            left: 0;
+                        }
+                    }
+                }
+            }
+
+            .inventoryListAndButtonsContainer {
+                margin-left: 5px;
+                margin-right: 5px;
+
+                display: flex;
+                flex-direction: row;
+                width: 100%;
+                height: 100%;
+
+                overflow-y: auto;
+                background-color: #eceae0;
+
+                .listContainer {
+                    width: 65%;
+                    overflow-y: scroll;
+                    padding: 4px 16px 4px 4px;
+                }
+
+                .buttonsContainer {
+                    width: 35%;
+                    padding: 4px;
+                    display: flex;
+                    flex-direction: column;
+                    justify-content: flex-start;
+
+                    .itemInfoPanelButton {
+                        margin: 3px;
+                        background-color: #fff;
+                        color: #000;
+                        padding-left: 3px;
+                        padding-right: 3px;
+                        border-radius: 12px;
+                        font-weight: 600;
+                        border: 1px solid #000;
+                        font-size: 13px;
+                        text-align: center;
+                        cursor: pointer;
+
+                        &:hover {
+                            background-color: #878787;
+                        }
+                    }
+                }
+            }
+
+            .tradeContainer {
+                margin-top: 2px;
+                margin-left: 5px;
+                margin-right: 5px;
+
+                display: flex;
+                flex-direction: row;
+                width: calc(100% - 5px * 2);
+                height: calc(50% - 37px);
+
+                border-radius: 12px;
+                border: 1px solid #000;
+                padding: 4px;
+
+                overflow-y: auto;
+
+                .trade-container {
+                    display: table;
+                    width: 100%;
+                    table-layout: fixed;
+
+                    div {
+                        list-style-type: none;
+                        display: table-cell;
+                        text-align: center;
+                        vertical-align: middle;
+                        padding: 2px;
+                        border-right: 1px solid #333;
+
+                        &:last-child {
+                            border-right: none;
+                        }
+                    }
+
+                    .tradeButton {
+                        margin: 3px;
+                        background-color: #fff;
+                        color: #000;
+                        padding-left: 3px;
+                        padding-right: 3px;
+                        border-radius: 12px;
+                        font-weight: 600;
+                        border: 1px solid #000;
+                        font-size: 13px;
+                        text-align: center;
+                        cursor: pointer;
+
+                        &:hover {
+                            background-color: #878787;
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+    &.tradeMode {
+        height: 500px;
+
+        .inventoryListAndButtonsContainer {
+            height: 50% !important;
+        }
+    }
+
+    .itemsContainer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: center;
+        justify-content: flex-start;
+        flex-flow: row wrap;
+        align-content: flex-start;
+
+        .itemInventory {
+            border: 1px solid #000;
+            background-color: #cbcbcb;
+            margin: 2px;
+            width: 38px;
+            height: 38px;
+            text-align: center;
+            position: relative;
+            border-radius: 6px;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+
+            .stackSize {
+                position: absolute;
+                top: 1px;
+                right: 0;
+                background-color: #fff;
+                border: 1px solid #2f6982;
+                color: #2f6982;
+                font-size: 9px;
+                font-family: Volter;
+                height: 15px;
+                line-height: 15px;
+                padding: 0;
+                padding-left: 2px;
+                padding-right: 2px;
+            }
+
+            &.selected,
+            &:hover {
+                box-shadow: inset 0 0 0 2px #fff;
+            }
+
+            img {
+                object-fit: none;
+            }
+
+            .stackSize {}
+        }
+    }
+
+    .itemPreivew {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 180px;
+        margin-bottom: 5px;
+
+        img {
+            height: 100%;
+            object-fit: scale-down;
+        }
+    }
+}

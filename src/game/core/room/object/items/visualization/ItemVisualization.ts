@@ -4,8 +4,11 @@ import MapData from "../../../../../engine/room/objects/map/MapData";
 import Tile from "../../../../../engine/room/objects/map/Tile";
 import RoomVisualization from "../../../../../engine/room/visualization/RoomVisualization";
 import AvatarData from "../../../../../engine/ui/imagers/avatars/imager/AvatarData";
+import { ItemType } from "../../../../../engine/ui/imagers/items/FurniImager";
+import { FurniSprite } from "../../../../../engine/ui/imagers/items/FurniSprite";
 import Point from "../../../../../utils/point/Point";
 import Point3d from "../../../../../utils/point/Point3d";
+import UiUtils from "../../../../../utils/UiUtils";
 import IRoomVisualization from "../../../IRoomVisualization";
 import IRoomObjectVisualization from "../../IRoomObjectVisualization";
 
@@ -16,9 +19,15 @@ export default abstract class ItemVisualization implements IRoomObjectVisualizat
     private needsUpdate: boolean = false
     private position: Point3d;
 
+    private imagePreview: string | undefined;
+
+    private iconImage: string | undefined;
+
     constructor(item: Item) {
         this.item = item;
         this.position = item.getPosition()
+        this.imagePreview = this.generateImagePreview();
+        this.iconImage = this.generateIcon();
     }
 
     private updatePosition() {
@@ -36,6 +45,15 @@ export default abstract class ItemVisualization implements IRoomObjectVisualizat
         (currentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(this.item.Base)
         this.item.Base.zIndex = 16;
 
+    }
+
+    private generateImagePreview() {
+        return UiUtils.generateBase64FromObject(this.item.Base);
+    }
+    private generateIcon(): string | undefined{
+        let icon: FurniSprite = this.item.Base.turnIntoIcon()
+        this.item.Base.restore()
+        return UiUtils.generateBase64FromObject(icon);
     }
 
     public render(): void {
@@ -62,6 +80,13 @@ export default abstract class ItemVisualization implements IRoomObjectVisualizat
 
     public get NeedsUpdate(): boolean {
         return this.needsUpdate
+    }
+
+    public get ImagePreview(): string | undefined {
+        return this.imagePreview;
+    }
+    public get Icon(): string | undefined {
+        return this.iconImage;
     }
 
 }

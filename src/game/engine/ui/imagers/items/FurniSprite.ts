@@ -104,15 +104,16 @@ export class FurniSprite extends PIXI.Container {
         this.update();
     }
 
-    public turnIntoIcon() {
+    public turnIntoIcon(): FurniSprite {
         this.animationPlaying = 0;
         this.direction = 0;
         this.frameCount = 0;
         this.isIcon = true;
         this.needsUpdate = true;
         this.update();
+        return this
     }
-    public restore(animation: number) {
+    public restore(animation: number = 0) {
         this.animationPlaying = animation;
         this.isIcon = false;
         this.needsUpdate = true;
