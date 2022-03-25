@@ -14,6 +14,7 @@
 
 <script>
 import Engine from '../../../game/Engine';
+import { OutgoingPacket } from '../../../game/networking/packets/outgoing/OutgoingPacketEnum';
 
     export default {
         data() {
@@ -30,7 +31,10 @@ import Engine from '../../../game/Engine';
         },
         methods: {
             startTyping() {
-                this.$emit("user-start-typing")
+                Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
+                    roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
+                    typing: true
+                })
             },
             sendMessage(e) {
 
@@ -40,7 +44,10 @@ import Engine from '../../../game/Engine';
                     shout = true;
                 }
                 Engine.getInstance().GameEnvironment.ChatManager.computeMessage(this.message, shout)
-                this.$emit('user-stop-typing');
+                Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
+                    roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
+                    typing: false
+                })
                 this.resetChatMessage();
 
             },
@@ -51,7 +58,13 @@ import Engine from '../../../game/Engine';
         mounted() {
             setInterval(() => {
                 if(this.message === "") {
-                    this.$emit('user-stop-typing');
+                    if(Engine.getInstance().RoomsManager) {
+                        return;
+                    }
+                    Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
+                        roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
+                        typing: false
+                    })
                 }
             }, 100)
         }

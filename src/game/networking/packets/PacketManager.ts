@@ -15,6 +15,7 @@ import NewRoomMessage from './incoming/rooms/users/chat/NewRoomMessage';
 import UpdateEntity from './incoming/rooms/entities/UpdateEntity';
 import AddRoomEntity from './incoming/rooms/entities/AddRoomEntity';
 import RemoveRoomEntity from './incoming/rooms/entities/RemoveRoomEntity';
+import UserTypeStatus from './incoming/rooms/users/UserTypeStatus';
 
 
 
@@ -43,6 +44,7 @@ class PacketManager {
             13: new AddRoomEntity,
             14: new RemoveRoomEntity,
             15: new NewRoomMessage,
+            16: new UserTypeStatus,
             17: new UpdateUserInformation,
             102: new DisconnectClient
         }

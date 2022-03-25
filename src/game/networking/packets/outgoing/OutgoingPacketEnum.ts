@@ -9,6 +9,7 @@ export enum OutgoingPacket {
     UserEnterRoom = 8,
     UserMove = 10,
     UserSay = 11,
+    UserTypeStatus = 12,
     RequestInventoryItemsEvent = 13,
     UserProfileInformation = 15,
     FriendRequestEvent = 16,

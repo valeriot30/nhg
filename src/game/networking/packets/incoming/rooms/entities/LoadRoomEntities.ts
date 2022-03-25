@@ -39,7 +39,7 @@ export default class LoadRoomEntities extends MessageHandler
                     if(entityData.user_id !== undefined) {
                         let user;
                         if(Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(entityData.user_id) === undefined) {
-                            user = new User(entityData, entityData.name, entityData.look, entityData.gender);
+                            user = new User(entityData.user_id, entityData.name, entityData.look, entityData.gender);
                             Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.addUser(user);
                         } else {
                             user = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(entityData.user_id)

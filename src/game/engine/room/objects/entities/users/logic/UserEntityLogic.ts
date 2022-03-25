@@ -29,12 +29,15 @@ export default class UserEntityLogic extends EntityLogic  {
         let staticContainer = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.StaticContainerUI) as StaticContainerUI
 
         UserEntityVisualization.Avatar?.Container.addListener('pointerdown', () => this.userPointerDown())
-        UserEntityVisualization.Avatar?.Container.on('user-position-changed',() => this.userPositionChanged())
-        staticContainer.Gui.$on('user-start-typing', () => this.userToggleTyping(true))
-        staticContainer.Gui.$on('user-stop-typing', () => this.userToggleTyping(false))
+        UserEntityVisualization.Avatar?.Container.on('user-position-changed',() => this.onPositionChanged())
+        UserEntityVisualization.Avatar?.Container.on('user-started-typing', () => this.userToggleTyping(true))
+        UserEntityVisualization.Avatar?.Container.on('user-stop-typing', () => this.userToggleTyping(false))
     }
 
-    public userPositionChanged() {
+    public onPositionChanged() {
+        this.setAvatarContainer()
+    }
+    public setAvatarContainer() {
         let UserEntityVisualization = this.entity.getVisualization() as UserEntityVisualization
         let avatarContainerUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI
 
@@ -49,6 +52,7 @@ export default class UserEntityLogic extends EntityLogic  {
         avatarContainerUI.setSize(position, dimension)
     }
     public userToggleTyping(value: boolean) {
+        this.setAvatarContainer()
         let avatarContainerUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI
         avatarContainerUI.toggleTyping(value)
     }

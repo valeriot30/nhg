@@ -62,14 +62,7 @@ export default {
     },
     sendMessage(event) {
 
-        let shout = false;
-
-        if(event.shiftKey) {
-            shout = true;
-        }
-
-        Engine.getInstance().GameEnvironment.ChatManager.computeMessage(this.message, shout);
-        this.resetChatMessage();
+        
 
     },
     resetChatMessage() {

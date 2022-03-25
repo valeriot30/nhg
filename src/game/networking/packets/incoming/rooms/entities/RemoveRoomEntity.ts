@@ -6,12 +6,12 @@ import UserVisualization from "../../../../../engine/user/visualization/UserVisu
 
 export default class RemoveRoomEntity extends MessageHandler {
     public handle(): void {
-        let entity = this.message.data;
+        let id = this.message.data;
         
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
             let roomEntityManager = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager;
-            (roomEntityManager?.getEntity(entity.id)?.getVisualization() as UserEntityVisualization).Avatar?.Container.destroy();
-            roomEntityManager?.removeEntity(entity.id);
+            (roomEntityManager?.getEntity(id)?.getVisualization() as UserEntityVisualization).Avatar?.Container.destroy();
+            roomEntityManager?.removeEntity(id);
         }
     }
 }
