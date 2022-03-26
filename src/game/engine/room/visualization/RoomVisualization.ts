@@ -34,10 +34,10 @@ export default class RoomVisualization implements IRoomVisualization {
         
         this.container = new PIXI.Container();
 
+        this.canvasFloor = new PIXI.Container();
         this.canvasDoorFloor = new PIXI.Container();
         this.canvasWall = new PIXI.Container();
         this.canvasDoorWall = new PIXI.Container();
-        this.canvasFloor = new PIXI.Container();
         this.canvasPointer = new PIXI.Container();
         this.canvasDoorTile = new PIXI.Container();
         
@@ -49,19 +49,17 @@ export default class RoomVisualization implements IRoomVisualization {
         this.container.addChild(this.canvasFloor)
         this.container.addChild(this.canvasPointer) 
 
-
         this.container.x = (window.innerWidth / 2);
         this.container.y = (window.innerHeight - Engine.getInstance().Application?.app?.stage.height!) / 2
         
-        this.canvasWall.interactive = true;
+        this.canvasDoorFloor.interactive = true;
         this.canvasFloor.interactive = true;
-        this.canvasPointer.interactive = true;
 
         this.canvasDoorFloor.zIndex = 1;
         this.canvasFloor.zIndex = 4;
-        this.canvasPointer.zIndex = 4;
-        this.canvasDoorWall.zIndex = 2;
-        this.canvasWall.zIndex = 3;
+        this.canvasPointer.zIndex = 3;
+        this.canvasDoorWall.zIndex = 4;
+        this.canvasWall.zIndex = 4;
 
         Engine.getInstance().Application?.on('resize', () => {
             this.container.x = (window.innerWidth / 2);
@@ -75,19 +73,9 @@ export default class RoomVisualization implements IRoomVisualization {
 
     public render() {
 
-        //this.canvasWall.getContext("2d")?.clearRect(0, 0, this.canvasWall.width, this.canvasWall.height);
-
-        //this.roomLayout.getWallPlane().Visualization?.render()
-
-        //this.canvasFloor.getContext("2d")?.clearRect(0, 0, this.canvasFloor.width, this.canvasFloor.height);
-
-        //this.roomLayout.getFloorPlane().Visualization?.render()
-
-        // after drawing the room, bind events
-        this.roomLayout.getFloorPlane().getTiles().forEach((tile: Tile) => {
-            (tile.getLogic() as LogicTile).registerEvents();
-        })
-
+        this.roomLayout.getWallPlane().getVisualization()?.render()
+        this.roomLayout.getFloorPlane().getVisualization()?.render()
+        
     }
 
     public tileToLocal(x: number, y: number, z: number): Point {

@@ -18,14 +18,11 @@ export default class LogicPointer extends RoomObjectLogic {
     constructor(pointer: Pointer) {
         super()
         this.pointer = pointer
-        this.registerEvents()
+
     }
 
     public registerEvents() {
-        this.pointer.getCanvas().on('pointerover', (tile: Tile) => {
-            let tileVisualization = tile.getVisualization() as VisualizationTile
-            (this.pointer.getVisualization() as VisualizationPointer).updatePosition(tileVisualization.TileContext!.x, tileVisualization.TileContext!.y, tile)
-        })
+        
     }
 
     public movePointer(point: Point, zIndex: number, color: ColorRGB) {

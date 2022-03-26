@@ -16,6 +16,10 @@ export default class LogicWall extends RoomObjectLogic {
         this.hitContext = canvas.getContext("2d")
     }
 
+    registerEvents(): void {
+        
+    }
+
     tick() : void {}
     
 }

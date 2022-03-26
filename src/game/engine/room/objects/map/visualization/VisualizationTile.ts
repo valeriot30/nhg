@@ -202,18 +202,12 @@ export default class VisualizationTile extends RoomObjectVisualization {
 
         ctx.endFill();
 
-        ctx.addListener('pointerdown', () => {
+        /*ctx.addListener('pointerdown', () => {
             Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.getPosition().getX(), y: this.tile.getPosition().getY()})
-        })
+        })*/
 
         this.tileContext = ctx;
-        ctx.addListener('pointerover', () => {
-            (this.tile.getPlane().getRoom().getPointer().getVisualization() as VisualizationPointer).updatePosition(ctx.x, ctx.y, this.tile);
-        })
-
-        ctx.addListener('pointerout', () => {
-            roomV.getCanvasPointer().visible = false;
-        })
+        
 
         container.addChild(ctx);
         return container;
@@ -279,13 +273,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
         if(this.useStroke)
             ctx.lineStyle(0.5, 0x8a8a5c);
 
-        ctx.addListener('pointerover', () => {
-            (this.tile.getPlane().getRoom().getPointer().getVisualization() as VisualizationPointer).updatePosition(ctx.x, ctx.y, this.tile);
-        })
-
-        ctx.addListener('pointerdown', () => {
-            Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.getPosition().getX(), y: this.tile.getPosition().getY()})
-        })
+        this.tileContext = ctx;
 
         for (let i = 0; i < MapData.stairSteps; i++) {
             let offsetX = (MapData.tileWidth / 2 / 8) * 2 * i;

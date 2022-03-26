@@ -27,6 +27,7 @@ export default class RoomManager implements IRoomManager {
     public setRoom(roomName: string, roomModel: string, doorPosition: Point, roomId: number) : Room {
         this.currentRoom = new Room(roomName, roomModel, doorPosition, roomId);
         this.currentRoom.getRoomLayout().Visualization.render();
+        this.currentRoom.getRoomLayout().Logic.registerEvents()
         this.showUI();
         return this.currentRoom;
     }

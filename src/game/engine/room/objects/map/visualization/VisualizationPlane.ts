@@ -21,8 +21,6 @@ export default class VisualizationPlane extends RoomObjectVisualization {
         super(0, 0, 0)
 
         this.plane = plane
-
-        this.render()
     }
 
     render(): void {

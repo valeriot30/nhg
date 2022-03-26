@@ -15,19 +15,15 @@ export default abstract class ItemLogic implements IRoomObjectLogic {
     constructor(item: Item) {
         this.item = item;
 
-        this.listen()
+        this.registerEvents()
     }
 
-    public listen() {
+    public registerEvents() {
         this.item.Base.interactive = true;
         this.item.Base.buttonMode = true;
         this.item.Base.addListener("mousedown", this.togglePreview.bind(this))
         this.item.Base.addListener("mouseup", this.onItemHover.bind(this))
     }
-
-
-    protected abstract registerEvents(): void;
-
 
     public onItemHover() {
         //this.item.Room.getRoomLayout().Visualization as RoomVisualization)

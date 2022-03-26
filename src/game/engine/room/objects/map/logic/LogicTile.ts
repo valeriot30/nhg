@@ -5,6 +5,9 @@ import MapData from "../MapData"
 import TileType from "../TileTypeEnum"
 import VisualizationTile from "../visualization/VisualizationTile"
 import { DisplayObject } from "pixi.js"
+import Engine from "../../../../../Engine"
+import { OutgoingPacket } from "../../../../../networking/packets/outgoing/OutgoingPacketEnum"
+import VisualizationPointer from "../visualization/VisualizationPointer"
 
 export default class LogicTile extends RoomObjectLogic {
 
@@ -23,9 +26,19 @@ export default class LogicTile extends RoomObjectLogic {
     }
 
     public registerEvents() {
-        let tileVisualization = this.tile.getVisualization() as VisualizationTile;
+        setTimeout(() => {          
+            (this.tile.getVisualization() as VisualizationTile).TileContext?.on('pointerdown', this.onTileClick.bind(this));
+            (this.tile.getVisualization() as VisualizationTile).TileContext?.on('pointerover', this.onTileHover.bind(this))
+        }, 200);
+    }
 
-        //console.log(tileVisualization.TileContext);
+    private onTileClick(e: any) {
+        Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.getPosition().getX(), y: this.tile.getPosition().getY()})
+    }
+
+    private onTileHover(e: any) {
+        let tileCtx: PIXI.Graphics | null = (this.tile.getVisualization() as VisualizationTile).TileContext;
+        (this.tile.getPlane().getRoom().getPointer().getVisualization() as VisualizationPointer).updatePosition(tileCtx!.x, tileCtx!.y, this.tile);
     }
 
     public checkTileAndDrawHitBox() {

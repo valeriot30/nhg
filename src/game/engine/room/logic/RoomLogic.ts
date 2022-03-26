@@ -32,68 +32,28 @@ class RoomLogic implements IRoomLogic {
             let roomUIElement = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.RoomUI) as RoomUI).getCanvasContainer()
             roomUIElement!.appendChild(this.canvasFloorHit)
         }
-
-        this.registerEvents()
     }
 
     public registerEvents() : void {
         let roomVisualization = (this.room.Visualization as RoomVisualization);
-        let currentUser = Engine.getInstance().UsersManager?.CurrentUser;
-        let avatarV = currentUser?.Visualization as UserVisualization
-
-        roomVisualization.Container.on("user-walk", this.onClickFloor.bind(this));
-    }
-
-    private onClickFloor(e: any) {
-        let tile = this.room.getFloorPlane().getTilebyPosition(new Point(e.x, e.y));
-        if (tile && tile.getType() != TileType.Hole) {                   
-            if(Engine.getInstance().UsersManager?.CurrentUser) {
-                Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {
-                    x: e.x,
-                    y: e.y
-                })
-            }
-        }
-    }
-
-    private onMouseOver() {
         
+        roomVisualization.getCanvasFloor().on('pointerover', this.onMouseOver.bind(this));
+        roomVisualization.getCanvasFloor().on('pointerout', this.onMouseOut.bind(this));
+
+        this.room.getFloorPlane().getLogic()?.registerEvents()
+        this.room.getWallPlane().getLogic()?.registerEvents()
     }
 
-    private onMouseMoveFloor() {
-        let tile = this.getTileByEvent()
-
-        let pointerLogic = (this.room.getPointer().getLogic() as LogicPointer)
-        
-        if (tile && tile.getType() != TileType.Hole) {
-            if (tile.getColor() != pointerLogic.getCurrentColor()) {
-                pointerLogic.movePointer(new Point(tile.getVisualization()!.getOffsetX(), tile.getVisualization()!.getOffsetY()),  tile.getVisualization()!.getZIndex(), tile.getColor())
-            }
-        }
+    private onMouseOver(e: any) {
+        (this.room.Visualization as RoomVisualization).getCanvasPointer().zIndex = 5;
+        (this.room.Visualization as RoomVisualization).Container.sortChildren()
     }
 
-    private getTileByEvent() : Tile | undefined {
-
-        if (event == undefined) return
-
-        let floorHitCtx = this.canvasFloorHit.getContext("2d")
-
-        if (floorHitCtx == null) return
-        
-        let coords = ScreenUtils.getPosition(event, (this.room.Visualization as RoomVisualization).getCanvasFloor().name);
-
-        if (coords == null || coords.x == null || coords.y == null) return
-
-        let pixel = floorHitCtx.getImageData(
-            coords.x / this.room.getZoom(),
-            coords.y / this.room.getZoom(),
-            1,
-            1
-        ).data;
-        
-        let color = new ColorRGB(pixel[0], pixel[1], pixel[2])
-        return this.room.getFloorPlane().getTileByColor(color)
+    private onMouseOut(e: any) {
+        (this.room.Visualization as RoomVisualization).getCanvasPointer().zIndex = 3;
+        (this.room.Visualization as RoomVisualization).Container.sortChildren()
     }
+
 
     public tick(delta: number) : void {
         
