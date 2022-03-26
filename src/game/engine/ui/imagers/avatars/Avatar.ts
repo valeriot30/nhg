@@ -122,6 +122,9 @@ export default class Avatar {
         this.actions = actions
 
         this.bodyFrame = bodyFrame;
+
+        //if(actions.has(ActionId.WALK)) this.bodyFrame = this.bodyFrame % 4;
+
         this.headFrame = headFrame;
 
         this.isSmall = isSmall;

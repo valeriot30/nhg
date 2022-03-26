@@ -24,7 +24,7 @@ export default class FloorPlane extends RoomPlane {
                 let position = new Point3d(x, y, this.getRoom().getModelMaltrix()[x][y])
 
                 if (position.getX() == this.getRoom().getDoorPosition().getX() && position.getY() == this.getRoom().getDoorPosition().getY())
-                    this.getRoom().getModelMaltrix()[x][y] = 0
+                    console.log("door")//this.getRoom().getModelMaltrix()[x][y] = 0*/
 
                 this.addMapObject(new Tile(
                     this,

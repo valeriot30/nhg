@@ -122,6 +122,10 @@ export default class AvatarSpriteComponent {
         return this.state;
     }
 
+    public set State(state: string) {
+        this.state = state;
+    }
+
     public get PartType() {
         return this.partType;
     }

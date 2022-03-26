@@ -9,7 +9,8 @@ export default class MapTypeChecker {
 
        // console.log(position);
 
-        if (doorPosition.getY() === position.getY() && doorPosition.getX() === position.getX()) {
+        if (doorPosition.getY() == position.getY() && doorPosition.getX() == position.getX() && modelMatrix[position.getX()][position.getY()] == 0) {
+            console.log("type door")
             return TileType.DoorTile
         } else if (modelMatrix[position.getX()][position.getY()] == 0) {
             return TileType.Hole

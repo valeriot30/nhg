@@ -69,9 +69,11 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         
             this.updateAvatarPosition(); //todo needs to be refactored 
             this.avatar?.Container.emit("user-position-changed", 100);
-        
+            
             
         }
+
+        this.avatar.Container.zIndex = 6;
 
         //Engine.getInstance().Application?.Viewport.follow(this.avatar);
 

@@ -31,9 +31,9 @@ export default class VisualizationTile extends RoomObjectVisualization {
     private stairsContext: PIXI.Graphics | null;
 
     constructor(tile: Tile) {
-        super(VisualizationTile.calculateOffsetX(tile.getPosition()),
-            VisualizationTile.calculateOffsetY(tile.getPosition()),
-            VisualizationTile.calculateZIndex(tile.getPosition()))
+        super(VisualizationTile.calculateOffsetX(tile.getPosition(), tile.getType()),
+            VisualizationTile.calculateOffsetY(tile.getPosition(), tile.getType()),
+            VisualizationTile.calculateZIndex(tile.getPosition(), tile.getType()))
 
         this.tile = tile
 
@@ -47,16 +47,16 @@ export default class VisualizationTile extends RoomObjectVisualization {
     }
 
 
-    private static calculateOffsetX(position: Point3d): number {
+    private static calculateOffsetX(position: Point3d, type: TileType): number {
         return (position.getY() * MapData.tileHeight) - (position.getX() * MapData.tileWidth) / 2
     }
 
-    private static calculateOffsetY(position: Point3d): number {
-        return (position.getY() * MapData.tileHeight) / 2 + (position.getX() * MapData.tileWidth) / 4 - (position.getZ() * MapData.thickSpace * MapData.stairSteps)
+    private static calculateOffsetY(position: Point3d, type: TileType): number {
+        return (position.getY() * MapData.tileHeight) / 2 + (position.getX() * MapData.tileWidth) / 4 - ((position.getZ() + (type == TileType.DoorTile ? 1 : 0)) * MapData.thickSpace * MapData.stairSteps)
     }
 
-    private static calculateZIndex(position: Point3d): number {
-        return (1 * position.getX()) + (1 * position.getY()) + (1 * position.getZ())
+    private static calculateZIndex(position: Point3d, type: TileType): number {
+        return (1 * position.getX()) + (1 * position.getY()) + (1 * (position.getZ() + type == TileType.DoorTile ? 1 : 0))
     }
 
     public get TileContext(): PIXI.Graphics | null {
@@ -75,8 +75,10 @@ export default class VisualizationTile extends RoomObjectVisualization {
 
         switch (this.tile.getType()) {
 
+            case TileType.DoorTile:
             case TileType.Door:
-                this.drawTile(this.doorContext)
+
+                this.drawTile(this.doorTileContext, true)
                 break
             case TileType.Flat:
                 this.drawTile(this.floorContext)
@@ -101,21 +103,19 @@ export default class VisualizationTile extends RoomObjectVisualization {
                 this.drawFrontCorner(this.floorContext)
                 break
 
-            case TileType.DoorTile:
-                this.drawTile(this.drawTile(this.doorTileContext))
-                break;
             default:
                 return
         }
     }
 
-    private drawTile(container: PIXI.Container): PIXI.Container {
+    private drawTile(container: PIXI.Container, isDoor: boolean = false): PIXI.Container {
 
+        if (isDoor) console.log("draw door")
         const ctx = new PIXI.Graphics();
         ctx.interactive = true;
         let roomV = (this.tile.getPlane().getRoom().Visualization as RoomVisualization)
 
-        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.tile.getPosition().getZ() : 0
+        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * (this.tile.getPosition().getZ() + (isDoor ? 1 : 0)) : 0
 
 
         let floorColor = RoomVisualizationColorData.getNormal(this.color, NormalType.LIGHT).toHex()

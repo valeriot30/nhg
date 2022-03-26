@@ -5,7 +5,7 @@ import { Direction } from "../Direction";
 import AvatarImageData from "./AvatarImageData";
 import AvatarSpriteComponent from "./AvatarSpriteComponent";
 import { Action } from "./gamedata/AvatarActions";
-import { Animation, AnimationFrame, BodyPart, OffsetDirection, OffsetFrame, Part } from "./gamedata/AvatarAnimatons";
+import { Animation, AnimationFrame, BodyPart, OffsetDirection, OffsetFrame, Offsets, Part } from "./gamedata/AvatarAnimatons";
 import { Canvas, GeometryElement } from "./gamedata/AvatarGeometry";
 import FigureData from "./gamedata/FigureData";
 import { IPart } from "./IPart";
@@ -117,6 +117,8 @@ export default class AvatarImager {
             //let action = this.getFigureComponentAction(a, actions)
 
             let order = this.getDrawParts("std", direction)
+
+            if(order == null) order = this.getDrawParts("std", avatar.Direction);
 
             if (order) {
                 for (let position of order) {
@@ -230,28 +232,36 @@ export default class AvatarImager {
 
         //console.log(assetName);
 
-        /*if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
-            component.IsFlipped = true;
-            component.ResourceDirection = 6 - component.ResourceDirection;
-        }
-        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
+
+        let asset = spritesheet[component.ResourceName];
+
+   
+        
+        if(spritesheet[component.ResourceName] === undefined && component.IsFlipped) {
             component.Frame = component.Frame + 1;
             component.IsFlipped = false;
         }
-        if(spritesheet.frames[this.getTextureId(assetName, component.ResourceName)] === undefined) {
-            component.Frame = 0;
+        if(spritesheet[component.ResourceName] === undefined && component.IsFlipped) {
+            if (component.Direction === 7) {
+                component.ResourceDirection = 3;
+            }
+            if (component.Direction === 3) {
+                component.ResourceDirection = 7;
+            }
             component.IsFlipped = false;
-        }*/
-
-
-
-        let asset = spritesheet[component.ResourceName];
+        }
+        if(spritesheet[component.ResourceName] === undefined) {
+            component.Frame = 0;
+            component.ResourceDirection = 1;
+            component.IsFlipped = false;
+        }
 
         //console.log(component.ResourceDirection);
 
         let frame: Frame;
-        if(asset !== undefined) {
+        if(spritesheet[component.ResourceName] !== undefined) {
             let downloadedTexture: PIXI.Texture = await this.downloadTexture(assetName);
+            let asset = spritesheet[component.ResourceName];
             let texture = new PIXI.Texture(downloadedTexture.baseTexture, new Rectangle(asset.left, asset.top, asset.width, asset.height));
     
             let sprite = new Sprite(texture);
@@ -264,10 +274,11 @@ export default class AvatarImager {
             }
 
             let offsets = asset.offset.split(",");
-
             if(offsets) {
                 sprite.pivot.x = offsets[0]
                 sprite.pivot.y = offsets[1]
+                sprite.y = -animationOffsets.y
+                sprite.x = -animationOffsets.x
             }
 
     
@@ -311,10 +322,14 @@ export default class AvatarImager {
         return resourceName + ".png";
     }
 
+    private getAssetId(assetName: string) {
+        return assetName + ".png"
+    }
+
     public getActivePartSet(partSet: ActivePart) {
         return this.data.avatarPartSets!.partSets.activePartSets.find((x: any) => {
             x.id = partSet;
-        })!.activeParts;
+        })?.activeParts;
     }
 
     public getFlippedSetType(assetName: string, type: string) {
@@ -355,7 +370,20 @@ export default class AvatarImager {
     }
 
     private getAnimationOffsets(actionId: string, frameId: number, directionId: number): { x: number, y: number } {
-        return { x: 0, y: 0 };
+        
+        Object.values(this.data.avatarAnimations!.animations).forEach((animation: Animation) => {
+            if (animation.id.toLowerCase() === actionId.toLowerCase()) {
+                animation.offsets?.frames?.forEach((offset: OffsetFrame) => {
+                    offset.directions.forEach((direction: OffsetDirection) => {
+                        if(direction.id == frameId) {
+                            return {x: direction.bodyParts[0].dx, y: direction.bodyParts[0].dy}
+                        }
+                    })
+                })
+            }
+        })
+
+        return {x: 0, y: 0}
 
     }
 

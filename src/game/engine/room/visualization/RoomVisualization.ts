@@ -49,6 +49,7 @@ export default class RoomVisualization implements IRoomVisualization {
         this.container.addChild(this.canvasFloor)
         this.container.addChild(this.canvasPointer) 
 
+
         this.container.x = (window.innerWidth / 2);
         this.container.y = (window.innerHeight - Engine.getInstance().Application?.app?.stage.height!) / 2
         
@@ -56,11 +57,11 @@ export default class RoomVisualization implements IRoomVisualization {
         this.canvasFloor.interactive = true;
         this.canvasPointer.interactive = true;
 
-        this.canvasDoorFloor.zIndex = -1;
-        this.canvasFloor.zIndex = 3;
-        this.canvasPointer.zIndex = 3;
-        this.canvasDoorWall.zIndex = 7;
-        this.canvasWall.zIndex = 2;
+        this.canvasDoorFloor.zIndex = 1;
+        this.canvasFloor.zIndex = 4;
+        this.canvasPointer.zIndex = 4;
+        this.canvasDoorWall.zIndex = 2;
+        this.canvasWall.zIndex = 3;
 
         Engine.getInstance().Application?.on('resize', () => {
             this.container.x = (window.innerWidth / 2);
@@ -87,6 +88,10 @@ export default class RoomVisualization implements IRoomVisualization {
             (tile.getLogic() as LogicTile).registerEvents();
         })
 
+    }
+
+    public tileToLocal(x: number, y: number, z: number): Point {
+        return new Point((x - y) * MapData.tileWidth, (x + y) * MapData.tileHeight - (z * MapData.tileHeight * 2));
     }
 
 
