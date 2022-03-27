@@ -1,7 +1,6 @@
 import RoomObjectVisualization from "../../../../../core/room/object/RoomObjectVisualization";
 import Pointer from "../Pointer";
 import MapData from "../MapData";
-import RoomVisualization from "../../../visualization/RoomVisualization";
 import ColorRGB from "../../../../../utils/color/ColorRGB";
 import * as PIXI from "pixi.js"
 import Tile from "../Tile";

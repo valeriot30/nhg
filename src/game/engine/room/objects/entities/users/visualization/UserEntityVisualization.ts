@@ -10,9 +10,6 @@ import Tile from "../../../map/Tile";
 import UserEntity from "../UserEntity";
 import Point from "../../../../../../utils/point/Point";
 import UserEntityLogic from "../logic/UserEntityLogic";
-import UIComponent from "../../../../../ui/components/UIComponentEnum";
-import AvatarContainerUI from "../../../../../ui/components/avatar/AvatarContainerUI";
-import UiUtils from "../../../../../../utils/UiUtils";
 
 export default class UserEntityVisualization extends RoomEntityVisualization {
     public entity: UserEntity;

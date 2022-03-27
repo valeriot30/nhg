@@ -1,5 +1,4 @@
 import RoomObjectController from "../../../../core/room/object/RoomObjectController"
-import Room from "../../Room"
 import Point3d from "../../../../utils/point/Point3d"
 import VisualizationPointer from "./visualization/VisualizationPointer"
 import LogicPointer from "./logic/LogicPointer"

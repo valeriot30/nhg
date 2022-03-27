@@ -1,14 +1,11 @@
 import RoomPlane from "./RoomPlane"
 import RoomPlaneType from "./RoomPlaneTypeEnum"
-import Room from "../../Room"
 import Tile from "./Tile"
 import ColorRGB from "../../../../utils/color/ColorRGB"
 import TileType from "./TileTypeEnum"
-import MapData from "./MapData"
 import MapTypeChecker from "./MapTypeChecker"
 import Point3d from "../../../../utils/point/Point3d"
 import RoomLayout from "../../RoomLayout"
-import { IPoint } from "pixi.js"
 import Point from "../../../../utils/point/Point"
 
 export default class FloorPlane extends RoomPlane {
@@ -22,9 +19,6 @@ export default class FloorPlane extends RoomPlane {
             xRow.forEach((_, y) => {
 
                 let position = new Point3d(x, y, this.getRoom().getModelMaltrix()[x][y])
-
-                if (position.getX() == this.getRoom().getDoorPosition().getX() && position.getY() == this.getRoom().getDoorPosition().getY())
-                    console.log("door")//this.getRoom().getModelMaltrix()[x][y] = 0*/
 
                 this.addMapObject(new Tile(
                     this,

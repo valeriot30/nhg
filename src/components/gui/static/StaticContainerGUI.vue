@@ -68,8 +68,7 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
                     if(!Engine.getInstance().RoomsManager || !Engine.getInstance().RoomsManager.CurrentRoom) {
                         return;
                     }
-
-                    console.log('aa');
+                    
                     Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
                         roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
                         typing: false

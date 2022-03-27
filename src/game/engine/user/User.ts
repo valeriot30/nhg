@@ -1,6 +1,4 @@
 import IUserVisualization from "../../core/users/IUserVisualization"
-import Engine from "../../Engine"
-import Point3d from "../../utils/point/Point3d"
 import UserLogic from "./logic/UserLogic"
 import UserInfo from "./UserInfo"
 import UserVisualization from "./visualization/UserVisualization"

@@ -4,10 +4,8 @@ import Room from "./Room";
 import Point from "../../utils/point/Point";
 import UIComponent from "../ui/components/UIComponentEnum";
 import RoomUI from "../ui/components/room/RoomUI";
-import RoomItemManager from "./RoomItemManager";
 import StaticContainerUI from "../ui/components/static/StaticContainerUI";
 import RoomVisualization from "./visualization/RoomVisualization";
-import RoomUserManager from "./RoomUserManager";
 
 export default class RoomManager implements IRoomManager {
 

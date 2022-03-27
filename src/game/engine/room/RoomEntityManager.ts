@@ -1,6 +1,5 @@
 import IRoomManager from "../../core/room/IRoomManager";
 import Entity from "../../core/room/object/entities/Entity";
-import IEntity from "../../core/room/object/entities/IEntity";
 import IRoomEntity from "../../core/room/object/entities/IEntity";
 import UserLogic from "../user/logic/UserLogic";
 import UserEntity from "./objects/entities/users/UserEntity";

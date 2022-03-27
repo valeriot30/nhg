@@ -1,9 +1,5 @@
-import IChatMessage from "../../../core/game/chat/IChatMessage";
-import { MessageType } from "../../../core/game/chat/MessageType";
 import Engine from "../../../Engine";
 import { OutgoingPacket } from "../../../networking/packets/outgoing/OutgoingPacketEnum";
-import { ActionId } from "../../ui/imagers/avatars/Avatar";
-import UserVisualization from "../../user/visualization/UserVisualization";
 import ChatMessage from "./ChatMessage";
 
 export default class ChatManager {

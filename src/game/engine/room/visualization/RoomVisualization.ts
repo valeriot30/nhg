@@ -1,17 +1,11 @@
 import Engine from "../../../Engine"
-import Room from "../Room"
 import UIComponent from "../../ui/components/UIComponentEnum"
 import RoomUI from "../../ui/components/room/RoomUI"
 import IRoomVisualization from "../../../core/room/IRoomVisualization"
 import RoomLayout from "../RoomLayout"
 import * as PIXI from "pixi.js"
 import Point from "../../../utils/point/Point"
-import Tile from "../objects/map/Tile"
-import LogicTile from "../objects/map/logic/LogicTile"
-import Avatar from "../../ui/imagers/avatars/Avatar"
 import MapData from "../objects/map/MapData"
-import Item from "../objects/items/Item"
-import { stagger } from "animejs"
 
 export default class RoomVisualization implements IRoomVisualization {
 

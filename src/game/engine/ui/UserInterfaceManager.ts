@@ -6,9 +6,6 @@ import AvatarImager from "./imagers/avatars/imager/AvatarImager"
 
 import * as PIXI from "pixi.js"
 import AvatarImageData from "./imagers/avatars/imager/AvatarImageData"
-import UIComponent from "./components/UIComponentEnum"
-import GameLoaderUI from "./components/loader/GameLoaderUI"
-import { OutgoingPacket } from "../../networking/packets/outgoing/OutgoingPacketEnum"
 
 export default class UserInterfaceManager {
 

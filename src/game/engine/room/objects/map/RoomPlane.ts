@@ -1,6 +1,5 @@
 import IRoomMapObject from "../../../../core/room/object/map/IRoomMapObject";
 import IRoomMapPlane from "../../../../core/room/object/map/IRoomMapPlane";
-import Room from "../../Room";
 import RoomPlaneType from "./RoomPlaneTypeEnum";
 import RoomObjectController from "../../../../core/room/object/RoomObjectController";
 import Point3d from "../../../../utils/point/Point3d";

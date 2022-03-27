@@ -1,7 +1,6 @@
 
 import { Viewport } from "pixi-viewport";
 import * as PIXI from "pixi.js"
-import Engine from "../../Engine";
 
 export default class Application extends PIXI.utils.EventEmitter {
 

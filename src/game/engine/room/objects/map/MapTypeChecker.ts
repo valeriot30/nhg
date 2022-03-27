@@ -1,7 +1,6 @@
 
 import Point from "../../../../utils/point/Point"
 import Point3d from "../../../../utils/point/Point3d"
-import Tile from "./Tile"
 import TileType from "./TileTypeEnum"
 export default class MapTypeChecker {
 
@@ -10,7 +9,6 @@ export default class MapTypeChecker {
        // console.log(position);
 
         if (doorPosition.getY() == position.getY() && doorPosition.getX() == position.getX() && modelMatrix[position.getX()][position.getY()] == 0) {
-            console.log("type door")
             return TileType.DoorTile
         } else if (modelMatrix[position.getX()][position.getY()] == 0) {
             return TileType.Hole

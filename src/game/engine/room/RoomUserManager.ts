@@ -1,8 +1,6 @@
 import IRoomManager from "../../core/room/IRoomManager";
 import UserLogic from "../user/logic/UserLogic";
 import User from "../user/User";
-import UserVisualization from "../user/visualization/UserVisualization";
-import Item from "./objects/items/Item";
 
 export default class RoomUserManager implements IRoomManager {
 
@@ -12,11 +10,11 @@ export default class RoomUserManager implements IRoomManager {
         this.users.set(user.UserInfo.getId()!, user)
     }
 
-    public getUserFromUserName(userName: string): User | undefined {
+    public getUserFromUserName(userName: string): User | null {
         this.users.forEach((user: User) => {
-            return user.UserInfo.Username == userName ? user : undefined
+            return user.UserInfo.Username == userName ? user : null
         })
-        return undefined;
+        return null;
     }
 
     public getUser(userid: number): User | undefined {

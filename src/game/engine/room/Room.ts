@@ -1,10 +1,8 @@
 import Point from '../../utils/point/Point'
 import RoomLayout from "./RoomLayout"
 import RoomInfo from "./RoomInfo"
-import Engine from "../../Engine"
 import RoomItemManager from './RoomItemManager';
 import RoomUserManager from './RoomUserManager';
-import IRoomLogic from '../../core/room/IRoomLogic';
 import RoomEntityManager from './RoomEntityManager';
 
 export default class Room {

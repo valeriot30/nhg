@@ -1,4 +1,4 @@
-import { Container, DisplayObject, Sprite } from "pixi.js";
+import { Container } from "pixi.js";
 
 import { Direction } from "./Direction"
 

@@ -10,11 +10,6 @@ import ColorRGB from "../../../../../utils/color/ColorRGB"
 import NormalType from "../../../visualization/NormalTypeEnum"
 
 import * as PIXI from "pixi.js"
-import anime from "animejs"
-import Engine from "../../../../../Engine"
-import UserVisualization from "../../../../user/visualization/UserVisualization"
-import VisualizationPointer from "./VisualizationPointer"
-import { OutgoingPacket } from "../../../../../networking/packets/outgoing/OutgoingPacketEnum"
 
 export default class VisualizationTile extends RoomObjectVisualization {
 
@@ -110,7 +105,6 @@ export default class VisualizationTile extends RoomObjectVisualization {
 
     private drawTile(container: PIXI.Container, isDoor: boolean = false): PIXI.Container {
 
-        if (isDoor) console.log("draw door")
         const ctx = new PIXI.Graphics();
         ctx.interactive = true;
         let roomV = (this.tile.getPlane().getRoom().Visualization as RoomVisualization)

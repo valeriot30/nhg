@@ -1,11 +1,6 @@
 
-import IRoomManager from "../../core/room/IRoomManager";
-import Engine from "../../Engine";
 import Room from "./Room";
 import Point from "../../utils/point/Point";
-import UIComponent from "../ui/components/UIComponentEnum";
-import RoomUI from "../ui/components/room/RoomUI";
-import RoomItemManager from "./RoomItemManager";
 import RoomVisualization from "./visualization/RoomVisualization";
 import RoomLogic from "./logic/RoomLogic";
 import FloorPlane from "./objects/map/FloorPlane";
@@ -15,7 +10,6 @@ import Pointer from "./objects/map/Pointer";
 import MapData from "./objects/map/MapData";
 import IRoomVisualization from "../../core/room/IRoomVisualization";
 import IRoomLogic from "../../core/room/IRoomLogic";
-import RoomObjectController from "../../core/room/object/RoomObjectController";
 
 export default class RoomLayout {
     private visualization: RoomVisualization
