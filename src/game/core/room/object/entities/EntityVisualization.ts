@@ -14,5 +14,5 @@ export default abstract class EntityVisualization extends RoomObjectVisualizatio
 
     abstract render(): void
 
-    public get Entity(): IEntity { return this.entity; }
+    public get Entity(): Entity { return this.entity; }
 }

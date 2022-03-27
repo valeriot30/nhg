@@ -1,3 +1,4 @@
+import { IEntityData } from "../../../../../core/communication/messages/incoming/rooms/entities/IEntityData";
 import MessageHandler from "../../../../../core/communication/messages/MessageHandler";
 import Entity from "../../../../../core/room/object/entities/Entity";
 import { EntityType } from "../../../../../core/room/object/entities/EntityType";
@@ -17,9 +18,52 @@ export default class LoadRoomEntities extends MessageHandler
     public handle(): void {
         for (let i = 0; i < this.message.data.length; i++)
         {
-            let entityData = this.message.data[i];
+            let entityData: IEntityData = this.message.data[i];
+
+            let entity: Entity | null = null;
+            let entityVisualization: EntityVisualization | null = null;
+            let user: User | undefined;
+
+            let userId: number = entityData.user_id
+
+            let isUser = userId !== undefined;
+
+            if(Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.getEntity(entityData.id.toString()) !== undefined) {
+                return;
+            }
+    
+
+            if(entityData.type === EntityType.HUMAN && isUser) {
+
+                entity = new UserEntity(entityData.id.toString(), entityData.name, entityData.look, Engine.getInstance().RoomsManager?.CurrentRoom!); 
+                entityVisualization = entity.getVisualization() as UserEntityVisualization
+                    
+                (entityVisualization as UserEntityVisualization).X = entityData.x;
+                (entityVisualization as UserEntityVisualization).Y = entityData.y;
+                (entityVisualization as UserEntityVisualization).Z = entityData.z;
+                (entityVisualization as UserEntityVisualization).Rot = (entityVisualization as UserEntityVisualization).parseRotation(entityData.rot);
+                    //todo headRot
+                (entityVisualization as UserEntityVisualization).HeadRot = (entityVisualization as UserEntityVisualization).parseRotation(entityData.rot);
+                (entityVisualization as UserEntityVisualization).InRoom = true;
+
+                user = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(userId)
+
+                if(!user) {
+                    user = new User(userId, entityData.name, entityData.look, entityData.gender);
+                    Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.addUser(user);
+                    (user.Visualization as UserVisualization).UserEntity = entity as UserEntity;
+                    (user.Visualization as UserVisualization).UserEntity?.getVisualization()?.render()
+                }
+            }
+
+            if(entity) {
+                Engine.getInstance().RoomsManager?.CurrentRoom?.RoomEntityManager.addEntity(entity);
+            }
             
-            if (Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(entityData['user_id']) == undefined) {
+            
+            
+
+            /*if (Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(entityData['user_id']) == undefined) {
                 
                 let entity: Entity | null = null;
                 let entityVisualization: EntityVisualization | null = null;
@@ -57,7 +101,7 @@ export default class LoadRoomEntities extends MessageHandler
                 user?.Logic.registerEvents();
 
                 (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.sortChildren()
-            }
+            }*/
             
        }
     }

@@ -62,6 +62,10 @@ export default class UserVisualization implements IUserVisualization {
             previewBox.show();
     }
 
+    public render(): void {
+        
+    }
+
     public set UserEntity(userEntity: UserEntity | null) {
         this.userEntity = userEntity
     }

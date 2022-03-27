@@ -1,6 +1,7 @@
 import IRoomManager from "../../core/room/IRoomManager";
 import UserLogic from "../user/logic/UserLogic";
 import User from "../user/User";
+import UserVisualization from "../user/visualization/UserVisualization";
 
 export default class RoomUserManager implements IRoomManager {
 
@@ -15,6 +16,10 @@ export default class RoomUserManager implements IRoomManager {
             return user.UserInfo.Username == userName ? user : null
         })
         return null;
+    }
+
+    public deleteUser(userId: number): boolean {
+        return this.users.delete(userId)
     }
 
     public getUser(userid: number): User | undefined {

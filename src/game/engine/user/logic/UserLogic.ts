@@ -28,7 +28,10 @@ export default class UserLogic implements IUserLogic {
     }
 
     public tick(delta: number): void {
-        //todo tick user 
+        
+        if((this.user.Visualization as UserVisualization).UserEntity) {
+            (this.user.Visualization as UserVisualization).UserEntity?.getLogic()?.tick(delta)
+        }
     }
     public get FrameTracker() {
         return this.frameTracker;

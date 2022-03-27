@@ -61,16 +61,12 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         let roomV = Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
             (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(avatar.Container);
-        
-        
-        
+
             this.updateAvatarPosition(); //todo needs to be refactored 
             this.avatar?.Container.emit("user-position-changed", 100);
-            
-            
         }
 
-        this.avatar.Container.zIndex = 3;
+        this.avatar.Container.zIndex = 6;
 
         //Engine.getInstance().Application?.Viewport.follow(this.avatar);
 
@@ -87,10 +83,10 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
     }
     public draw(): void {
         this.avatar?.Container.destroy();
-        let avatar = new Avatar(this.entity.Look, this.rotation, this.rotation, this.actions, "", this.frame);
-        this.avatar = avatar;
         this.updateDirection(this.rotation);
+        let avatar = new Avatar(this.entity.Look, this.rotation, this.rotation, this.actions, "", this.frame);
         Engine.getInstance().getUserInterfaceManager().avatarImager.drawAvatar(avatar);
+        this.avatar = avatar;
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
             (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(this.avatar.Container);
         }
@@ -175,16 +171,18 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
     }
 
     public setPosition(point: Point3d)  {
-        this.rotation = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
-        this.headDirection = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
         //console.log(this.headDirection);
         this.nextX = point.getX();
         this.nextY = point.getY();
         this.nextZ = point.getZ();
+        this.rotation = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
+        this.headDirection = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
+        /*setTimeout(() => 
+            this.avatar?.Container.emit("user-position-changed"), 100)*/
+
         this.updateAvatarPosition()
-        setTimeout(() => 
-        this.avatar?.Container.emit("user-position-changed"), 100)
         this.draw();
+        
     }
 
     public updateAvatarPosition() {

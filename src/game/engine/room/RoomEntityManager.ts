@@ -1,7 +1,9 @@
 import IRoomManager from "../../core/room/IRoomManager";
 import Entity from "../../core/room/object/entities/Entity";
+import EntityLogic from "../../core/room/object/entities/EntityLogic";
 import IRoomEntity from "../../core/room/object/entities/IEntity";
 import UserLogic from "../user/logic/UserLogic";
+import UserEntityLogic from "./objects/entities/users/logic/UserEntityLogic";
 import UserEntity from "./objects/entities/users/UserEntity";
 
 export default class RoomEntity implements IRoomManager {
@@ -33,7 +35,9 @@ export default class RoomEntity implements IRoomManager {
 
     public tick(delta: number) {
         this.entities.forEach((entity: Entity) => {
-            (entity.getLogic() as UserLogic).tick(delta);
+            if(entity.getLogic() instanceof UserEntityLogic) return;
+            
+            (entity.getLogic() as EntityLogic).tick(delta);
         })
     }
 
