@@ -177,8 +177,8 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         this.nextZ = point.getZ();
         this.rotation = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
         this.headDirection = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
-        /*setTimeout(() => 
-            this.avatar?.Container.emit("user-position-changed"), 100)*/
+        setTimeout(() => 
+            this.avatar?.Container.emit("user-position-changed"), 3)
 
         this.updateAvatarPosition()
         this.draw();
@@ -197,9 +197,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
 
     public updateDirection(direction: Direction) {
         let avatar = this.avatar;
-
         avatar?.Container.removeChildren();
-        
         avatar!.Direction = direction;
     }
 
