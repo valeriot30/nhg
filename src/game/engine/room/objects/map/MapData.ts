@@ -13,7 +13,7 @@ export default class MapData {
     public static wallBlankTop = 4
     public static wallBlankBottom = 17
 
-    public static strokeDepth = 0.6;
+    public static strokeDepth = 0.5;
 
     public static maxHeight = 17
 

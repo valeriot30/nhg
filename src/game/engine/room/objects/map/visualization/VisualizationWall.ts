@@ -16,7 +16,7 @@ export default class VisualizationWall extends RoomObjectVisualization {
     private wallContext: PIXI.Container
     private doorContext: PIXI.Container
 
-    private color: ColorRGB = ColorRGB.getColorFromNumber(0xb4bec8)
+    private color: ColorRGB = ColorRGB.getColorFromNumber(0xa5afc0)
 
     constructor(wall: Wall) {
         super(VisualizationWall.calculateOffsetX(wall.getPosition()),
