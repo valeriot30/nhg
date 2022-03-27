@@ -7,6 +7,7 @@ import UserEntity from "../../../../../engine/room/objects/entities/users/UserEn
 import UserEntityVisualization from "../../../../../engine/room/objects/entities/users/visualization/UserEntityVisualization";
 import RoomUI from "../../../../../engine/ui/components/room/RoomUI";
 import UIComponent from "../../../../../engine/ui/components/UIComponentEnum";
+import { ActionId } from "../../../../../engine/ui/imagers/avatars/Avatar";
 import User from "../../../../../engine/user/User";
 import UserVisualization from "../../../../../engine/user/visualization/UserVisualization";
 
@@ -21,6 +22,7 @@ export default class UserTypeStatus extends MessageHandler {
         if(!user) {
             return;
         }
+
 
         ((user.Visualization as UserVisualization).UserEntity?.getLogic() as UserEntityLogic).userToggleTyping(data.typing)
     }

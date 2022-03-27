@@ -253,7 +253,7 @@ export default class AvatarImager {
         if(spritesheet[component.ResourceName] === undefined) {
             component.Frame = 0;
             component.ResourceDirection = 1;
-            component.IsFlipped = false;
+            component.IsFlipped = true;
         }
 
         //console.log(component.ResourceDirection);
@@ -277,12 +277,11 @@ export default class AvatarImager {
             if(offsets) {
                 sprite.pivot.x = offsets[0]
                 sprite.pivot.y = offsets[1]
-                sprite.y = -animationOffsets.y
-                sprite.x = -animationOffsets.x
             }
 
     
             if (component.IsFlipped) {
+                
                 sprite.scale.x = -1;
                 sprite.x = this.geometryWidth! - sprite.x + AvatarData.AVATAR_LEFT_OFFSET;
             }

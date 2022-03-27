@@ -73,7 +73,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
             
         }
 
-        this.avatar.Container.zIndex = 6;
+        this.avatar.Container.zIndex = 3;
 
         //Engine.getInstance().Application?.Viewport.follow(this.avatar);
 
@@ -184,18 +184,17 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         this.nextX = point.getX();
         this.nextY = point.getY();
         this.nextZ = point.getZ();
+        this.updateAvatarPosition()
         setTimeout(() => 
         this.avatar?.Container.emit("user-position-changed"), 100)
         this.draw();
     }
 
     public updateAvatarPosition() {
-        let currentRoom = Engine.getInstance().RoomsManager?.CurrentRoom; // current user room
+        const currentRoom = Engine.getInstance().RoomsManager?.CurrentRoom; // current user room
 
         let tile: Tile | undefined = currentRoom?.getRoomLayout().getFloorPlane().getTilebyPosition(new Point(Math.round(this.x), Math.round(this.y))); // get the tile where you want to set avatar
         let offsetFloor = tile!.getPosition().getZ() > 0 ? -MapData.thickSpace * MapData.stepHeight * tile!.getPosition().getZ() : -AvatarData.AVATAR_TOP_OFFSET;
-
-        let offset = this.isFlipped() ? 0 : AvatarData.AVATAR_LEFT_OFFSET;
 
         this.avatar!.Container.x = (((this.y - this.x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileHeight;
         this.avatar!.Container.y = ((this.x + this.y) * MapData.tileHeight / 2) + (MapData.tileHeight / 2) + offsetFloor;

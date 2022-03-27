@@ -23,6 +23,7 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
                 isMuted: false,
                 shout: false,
                 whisper: false,
+                typing: false,
                 isChatBarVisible: false,
                 shiftPressed: false,
                 message: this.isMuted ? "You are currently muted!" : ""
@@ -31,10 +32,13 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
         },
         methods: {
             startTyping() {
-                Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
-                    roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
-                    typing: true
-                })
+                if(!this.typing) {
+                    Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
+                        roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
+                        typing: true
+                    })
+                    this.typing = true;
+                }
             },
             sendMessage(e) {
 
@@ -48,6 +52,9 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
                     roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
                     typing: false
                 })
+
+                this.typing = false;
+
                 this.resetChatMessage();
 
             },
@@ -56,15 +63,19 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
             }
         },
         mounted() {
-            setInterval(() => {
-                if(this.message === "") {
-                    if(Engine.getInstance().RoomsManager) {
+            window.setInterval(() => {
+                if(this.message === "" && this.typing) {
+                    if(!Engine.getInstance().RoomsManager || !Engine.getInstance().RoomsManager.CurrentRoom) {
                         return;
                     }
+
+                    console.log('aa');
                     Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
                         roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
                         typing: false
                     })
+                    this.typing = false;
+                    //clearInterval(100)
                 }
             }, 100)
         }

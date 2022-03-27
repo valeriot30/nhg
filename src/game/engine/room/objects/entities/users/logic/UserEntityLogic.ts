@@ -10,7 +10,7 @@ import PreviewBoxUI from "../../../../../ui/components/general/PreviewBoxUI";
 import UserPanelUI from "../../../../../ui/components/room/UserPanelUI";
 import StaticContainerUI from "../../../../../ui/components/static/StaticContainerUI";
 import UIComponent from "../../../../../ui/components/UIComponentEnum";
-import Avatar from "../../../../../ui/imagers/avatars/Avatar";
+import Avatar, { ActionId } from "../../../../../ui/imagers/avatars/Avatar";
 import AvatarData from "../../../../../ui/imagers/avatars/imager/AvatarData";
 import UserEntity from "../UserEntity";
 import UserEntityVisualization from "../visualization/UserEntityVisualization";
@@ -67,7 +67,9 @@ export default class UserEntityLogic extends EntityLogic  {
                 this.frameTracker = 0;
                 (userVisualization as UserEntityVisualization).draw();
             }
-            userVisualization.walk(delta);
+            if(userVisualization.Actions.has(ActionId.WALK)) {
+                userVisualization.walk(delta);
+            }
         }
     }
 }
