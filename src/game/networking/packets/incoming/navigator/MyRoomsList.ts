@@ -1,3 +1,4 @@
+import { NavigatorRoom, NavigatorRoomsList, NavigatorRoomType } from "../../../../core/communication/messages/incoming/navigator/RoomsList";
 import MessageHandler from "../../../../core/communication/messages/MessageHandler";
 import Engine from "../../../../Engine";
 import NavigatorUI from "../../../../engine/ui/components/navigator/NavigatorUI";
@@ -7,7 +8,7 @@ export default class MyRoomsList extends MessageHandler {
 
     public handle() {
         
-        let rooms = this.message.data;
+        let rooms: NavigatorRoomsList = this.message.data;
 
         let navUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.NavigatorUI) as NavigatorUI;
 
@@ -17,8 +18,8 @@ export default class MyRoomsList extends MessageHandler {
             
             for(let roomIndex in rooms)
             {
-                let room = rooms[roomIndex]
-                room.type = "my";
+                let room: NavigatorRoom = rooms[roomIndex]
+                room.type = NavigatorRoomType.MY;
                 navUI.addRoom(room);
             }
 
