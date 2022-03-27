@@ -3,6 +3,7 @@ import Vue from 'vue'
 import UIComponentManager from "../UIComponentManager";
 import NavigatorGUI from "../../../../../components/gui/navigator/NavigatorGUI.vue"
 import IComponentShowableUI from '../../../../core/ui/IComponentShowableUI';
+import { NavigatorRoom } from '../../../../core/communication/messages/incoming/navigator/RoomsList';
 
 export default class NavigatorUI implements IComponentShowableUI {
 
@@ -46,7 +47,7 @@ export default class NavigatorUI implements IComponentShowableUI {
         this.visible = !this.visible;
         this.gui.$props.visible = this.visible;
     }
-    public addRoom(room: string) {
+    public addRoom(room: NavigatorRoom) {
         this.gui.$data['rooms'].push(room);
     }
     public refreshData()
