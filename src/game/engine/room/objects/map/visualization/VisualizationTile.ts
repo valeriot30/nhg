@@ -116,10 +116,12 @@ export default class VisualizationTile extends RoomObjectVisualization {
         let leftColor = RoomVisualizationColorData.getNormal(this.color, NormalType.MEDIUM).toHex()
         let rightColor = RoomVisualizationColorData.getNormal(this.color, NormalType.DARK).toHex()
 
-        //thick left
-        ctx.beginFill(leftColor);
+
         if (this.useStroke)
             ctx.lineStyle(MapData.strokeDepth, 0x8a8a5c);
+
+        //thick left
+        ctx.beginFill(leftColor);
         ctx.moveTo(this.getOffsetX(), this.getOffsetY() + MapData.tileHeight / 2);
         ctx.lineTo(this.getOffsetX() + MapData.tileWidth / 2, this.getOffsetY() + MapData.tileHeight);
         ctx.lineTo(
@@ -138,7 +140,6 @@ export default class VisualizationTile extends RoomObjectVisualization {
         );
 
         ctx.closePath();
-        //ctx.fillStyle = RoomVisualizationColorData.getNormal(this.color, NormalType.MEDIUM).toString()
         ctx.endFill();
         //thick right
         ctx.beginFill(rightColor);
@@ -185,12 +186,6 @@ export default class VisualizationTile extends RoomObjectVisualization {
         ctx.closePath();
 
         //ctx.fillStyle = RoomVisualizationColorData.getNormal(this.color, NormalType.LIGHT).toString()
-
-
-        /*if (this.useStroke) {
-            ctx.strokeStyle = RoomVisualizationColorData.getNormal(this.color, NormalType.LIGHT).brightness(-10).toString()
-            ctx.stroke()
-        }*/
 
 
 
@@ -265,7 +260,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
         ctx.buttonMode = true;
 
         if(this.useStroke)
-            ctx.lineStyle(0.5, 0x8a8a5c);
+            ctx.lineStyle(MapData.strokeDepth, 0x8a8a5c);
 
         this.tileContext = ctx;
 

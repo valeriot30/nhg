@@ -1,19 +1,19 @@
 export default class MapData {
 
-    public static tileWidth = 66
-    public static tileHeight = 33
+    public static tileWidth = 68
+    public static tileHeight = 34
 
     public static thickSpace = 8
     public static stepHeight = 4
     public static stairSteps = 4
 
-    public static wallWidth = 41
-    public static wallHeight = 150
+    public static wallWidth = 42
+    public static wallHeight = 149
     public static wallDepth = 8
     public static wallBlankTop = 4
     public static wallBlankBottom = 17
 
-    public static strokeDepth = 0.3;
+    public static strokeDepth = 0.6;
 
     public static maxHeight = 17
 
