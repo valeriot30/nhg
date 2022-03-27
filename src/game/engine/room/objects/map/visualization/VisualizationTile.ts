@@ -119,7 +119,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
         //thick left
         ctx.beginFill(leftColor);
         if (this.useStroke)
-            ctx.lineStyle(0.5, 0x8a8a5c);
+            ctx.lineStyle(MapData.strokeDepth, 0x8a8a5c);
         ctx.moveTo(this.getOffsetX(), this.getOffsetY() + MapData.tileHeight / 2);
         ctx.lineTo(this.getOffsetX() + MapData.tileWidth / 2, this.getOffsetY() + MapData.tileHeight);
         ctx.lineTo(

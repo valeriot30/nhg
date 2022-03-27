@@ -6,12 +6,12 @@ export default class Application extends PIXI.utils.EventEmitter {
 
     private _app: PIXI.Application | null = null;
     private dpi: number = 0;
-    private view: any;
-    private viewport: any
+    private viewport: any;
 
     constructor() {
         super();
         this.dpi = window.devicePixelRatio;
+
         this.init();
     }
     public init(): void {

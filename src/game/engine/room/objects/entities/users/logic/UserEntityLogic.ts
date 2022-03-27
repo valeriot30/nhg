@@ -4,6 +4,7 @@ import Engine from "../../../../../../Engine";
 import Point from "../../../../../../utils/point/Point";
 import UiUtils from "../../../../../../utils/UiUtils";
 import AvatarContainerUI from "../../../../../ui/components/avatar/AvatarContainerUI";
+import PreviewBoxUI from "../../../../../ui/components/general/PreviewBoxUI";
 import StaticContainerUI from "../../../../../ui/components/static/StaticContainerUI";
 import UIComponent from "../../../../../ui/components/UIComponentEnum";
 import { ActionId } from "../../../../../ui/imagers/avatars/Avatar";
@@ -22,7 +23,7 @@ export default class UserEntityLogic extends EntityLogic  {
 
     public registerEvents() {
         let UserEntityVisualization = this.entity.getVisualization() as UserEntityVisualization
-        let staticContainer = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.StaticContainerUI) as StaticContainerUI
+        UserEntityVisualization.Avatar?.Container.on('pointerdown', () => this.openPreviewBox())
         UserEntityVisualization.Avatar?.Container.on('user-position-changed',() => this.onPositionChanged())
         UserEntityVisualization.Avatar?.Container.on('user-started-typing', () => this.userToggleTyping(true))
         UserEntityVisualization.Avatar?.Container.on('user-stop-typing', () => this.userToggleTyping(false))
@@ -50,6 +51,19 @@ export default class UserEntityLogic extends EntityLogic  {
         let avatarContainerUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI
         avatarContainerUI.toggleTyping(value)
     }
+
+    public openPreviewBox() {
+        let previewBox = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI)
+        previewBox.Gui.$data.mode = 'user';
+        previewBox.Gui.$data.motto = "motto";
+        previewBox.Gui.$data.username = this.entity.Name
+        previewBox.Gui.$data.optionVisible = true;
+        let image: HTMLImageElement | undefined = UiUtils.generateImageFromObject((this.entity.getVisualization() as UserEntityVisualization).Avatar!.Container);
+        previewBox.Gui.$data.image = image?.src;
+        previewBox.Gui.$forceUpdate();
+        previewBox.show();
+    }
+
 
 
     public tick(delta: number): void {

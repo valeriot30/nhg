@@ -66,7 +66,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
             this.avatar?.Container.emit("user-position-changed", 100);
         }
 
-        this.avatar.Container.zIndex = 6;
+        this.avatar.Container.zIndex = 3;
 
         //Engine.getInstance().Application?.Viewport.follow(this.avatar);
 
@@ -91,7 +91,6 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
             (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(this.avatar.Container);
         }
         this.updateAvatarPosition();
-        (this.entity.getLogic() as UserEntityLogic).registerEvents();
         this.avatar.Container.interactive = true;
         this.avatar.Container.interactiveChildren = true;
         this.avatar!.Container.zIndex = 8;
@@ -178,8 +177,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         this.rotation = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
         this.headDirection = this.calculateDirection(new Point(point.getX(), point.getY()), new Point(this.x, this.y));
         setTimeout(() => 
-            this.avatar?.Container.emit("user-position-changed"), 3)
-
+            this.avatar?.Container.emit("user-position-changed"), 100)
         this.updateAvatarPosition()
         this.draw();
         
