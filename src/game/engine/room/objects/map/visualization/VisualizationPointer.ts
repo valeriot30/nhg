@@ -26,8 +26,8 @@ export default class VisualizationPointer extends RoomObjectVisualization {
     }
 
     public updatePosition(x: number, y: number, tile: Tile) {
-        let xpos = ((x - y) * (MapData.tileWidth / 2)) + tile!.getVisualization()!.getOffsetX();
-        let ypos = ((x + y) * (MapData.tileHeight / 2)) + tile!.getVisualization()!.getOffsetY();
+        let xpos = ((x - y) * (MapData.tileWidth / 2)) + tile!.visualization!.getOffsetX();
+        let ypos = ((x + y) * (MapData.tileHeight / 2)) + tile!.visualization!.getOffsetY();
 
         this.pointerContext.visible = true;
 

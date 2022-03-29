@@ -16,7 +16,7 @@ export default class ItemLogicMultiState extends ItemLogic {
     }
 
     public registerEvents() {
-        this.item.Base.addListener("click", () => {
+        this.item.base.addListener("click", () => {
             //this.changeState()
         })
     }
@@ -25,14 +25,14 @@ export default class ItemLogicMultiState extends ItemLogic {
 
         let animation = this.animation;
 
-        if (this.animation > this.item.Base.furniBase.getAnimations().length) {
+        if (this.animation > this.item.base.furniBase.getAnimations().length) {
             animation = 0;
         }
         else {
             animation++
         }
 
-        this.item.Base.setAnimation(animation)
+        this.item.base.setAnimation(animation)
 
         this.animation = animation;
     }
@@ -41,11 +41,11 @@ export default class ItemLogicMultiState extends ItemLogic {
 
         this.frameTracker += delta;
 
-        if (this.item.Base.furniBase.visualizationType === "furniture_animated") {
+        if (this.item.base.furniBase.visualizationType === "furniture_animated") {
 
             if (this.frameTracker > (1000 * (100 / FurniSprite.FPS)) / FurniSprite.FPS) {
                 this.frameTracker = 0
-                this.item.getVisualization()?.render();
+                this.item.visualization?.render();
             }
         }
     }

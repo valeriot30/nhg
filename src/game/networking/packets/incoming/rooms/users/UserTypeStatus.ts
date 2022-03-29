@@ -24,6 +24,6 @@ export default class UserTypeStatus extends MessageHandler {
         }
 
 
-        ((user.Visualization as UserVisualization).UserEntity?.getLogic() as UserEntityLogic).userToggleTyping(data.typing)
+        ((user.visualization as UserVisualization).UserEntity?.logic as UserEntityLogic).userToggleTyping(data.typing)
     }
 }

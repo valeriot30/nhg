@@ -29,7 +29,7 @@ export default class VisualizationPlane extends RoomObjectVisualization {
 
             this.plane.getMapObjects().forEach((obj) => {
                 if (obj instanceof RoomObjectController) {
-                    obj.getVisualization()?.render()
+                    obj.visualization?.render()
                 }
             })
         })
@@ -108,11 +108,11 @@ export default class VisualizationPlane extends RoomObjectVisualization {
             this.plane.getRoom().getFloorPlane().getMapObjects().forEach((mapObject: IRoomMapObject) => {
                 if (mapObject instanceof Tile) {
                     const tiled = new PIXI.TilingSprite(PIXI.Texture.from(tcanvas) ?? PIXI.Texture.WHITE);
-                    tiled.tilePosition = new PIXI.Point(mapObject.getPosition().getX(), mapObject.getPosition().getY());
+                    tiled.tilePosition = new PIXI.Point(mapObject.position.getX(), mapObject.position.getY());
                     tiled.width = 32;
                     tiled.height = 32;
-                    tiled.x += mapObject.getVisualization()!.getOffsetX() + (MapData.tileWidth / 2) - 2;
-                    tiled.y = mapObject.getVisualization()!.getOffsetY() - 1;
+                    tiled.x += mapObject.visualization!.getOffsetX() + (MapData.tileWidth / 2) - 2;
+                    tiled.y = mapObject.visualization!.getOffsetY() - 1;
                     container.addChild(tiled);
                 }
             })

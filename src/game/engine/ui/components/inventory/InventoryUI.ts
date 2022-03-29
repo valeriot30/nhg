@@ -35,7 +35,7 @@ export default class InventoryUI implements IComponentShowableUI {
 
         let list = item instanceof WallItem ? this.gui.$data.wallItems : this.gui.$data.floorItems;
 
-        if(list.some((data: { id: number; }) => data.id === parseInt(item.Id))){
+        if(list.some((data: { id: number; }) => data.id === parseInt(item.id))){
             return;
         }
         

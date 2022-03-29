@@ -26,9 +26,9 @@ export default class VisualizationTile extends RoomObjectVisualization {
     private stairsContext: PIXI.Graphics | null;
 
     constructor(tile: Tile) {
-        super(VisualizationTile.calculateOffsetX(tile.getPosition(), tile.getType()),
-            VisualizationTile.calculateOffsetY(tile.getPosition(), tile.getType()),
-            VisualizationTile.calculateZIndex(tile.getPosition(), tile.getType()))
+        super(VisualizationTile.calculateOffsetX(tile.position, tile.getType()),
+            VisualizationTile.calculateOffsetY(tile.position, tile.getType()),
+            VisualizationTile.calculateZIndex(tile.position, tile.getType()))
 
         this.tile = tile
 
@@ -109,7 +109,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
         ctx.interactive = true;
         let roomV = (this.tile.getPlane().getRoom().Visualization as RoomVisualization)
 
-        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * (this.tile.getPosition().getZ() + (isDoor ? 1 : 0)) : 0
+        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * (this.tile.position.getZ() + (isDoor ? 1 : 0)) : 0
 
 
         let floorColor = RoomVisualizationColorData.getNormal(this.color, NormalType.LIGHT).toHex()
@@ -192,7 +192,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
         ctx.endFill();
 
         /*ctx.addListener('pointerdown', () => {
-            Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.getPosition().getX(), y: this.tile.getPosition().getY()})
+            Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.position.getX(), y: this.tile.position.getY()})
         })*/
 
         this.tileContext = ctx;
@@ -207,7 +207,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
         const ctx = new PIXI.Graphics();
         ctx.interactive = true;
 
-        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.tile.getPosition().getZ() : 0
+        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.tile.position.getZ() : 0
 
         let _offsetX = this.getOffsetX()
 
@@ -334,7 +334,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
 
         const ctx = new PIXI.Graphics();
 
-        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.tile.getPosition().getZ() : 0
+        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.tile.position.getZ() : 0
         //ctx.translate(0, -MapData.thickSpace * MapData.stepHeight /** (parseInt(_z) + 1)*/ );
         ctx.transform.position = new PIXI.Point(0, -MapData.thickSpace * MapData.stepHeight /** (parseInt(_z) + 1)*/);
 
@@ -464,7 +464,7 @@ export default class VisualizationTile extends RoomObjectVisualization {
     }
 
     drawStairCorner(ctx: CanvasRenderingContext2D, isRight: boolean = false) {
-        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.tile.getPosition().getZ() : 0
+        let fullHeightTick = this.tile.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.tile.position.getZ() : 0
         let _offsetX = this.getOffsetX()
         ctx.save();
         ctx.translate(0, -MapData.thickSpace * MapData.stepHeight);

@@ -15,7 +15,7 @@ export default class LogicPlane extends RoomObjectLogic {
     registerEvents(): void {
         this.plane.getMapObjects().forEach((obj) => {
             if (obj instanceof RoomObjectController) {
-                obj.getLogic()?.registerEvents()
+                obj.logic?.registerEvents()
             }
         })
     }
@@ -23,7 +23,7 @@ export default class LogicPlane extends RoomObjectLogic {
     tick(delta: number) : void {
         this.plane.getMapObjects().forEach((obj) => {
             if (obj instanceof RoomObjectController) {
-                obj.getLogic()?.tick(delta)
+                obj.logic?.tick(delta)
             }
         })
     }

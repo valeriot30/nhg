@@ -22,7 +22,7 @@ export default class UserEntityLogic extends EntityLogic  {
     }
 
     public registerEvents() {
-        let UserEntityVisualization = this.entity.getVisualization() as UserEntityVisualization
+        let UserEntityVisualization = this.entity.visualization as UserEntityVisualization
         UserEntityVisualization.Avatar?.Container.on('pointerdown', () => this.openPreviewBox())
         UserEntityVisualization.Avatar?.Container.on('user-position-changed',() => this.onPositionChanged())
         UserEntityVisualization.Avatar?.Container.on('user-started-typing', () => this.userToggleTyping(true))
@@ -33,7 +33,7 @@ export default class UserEntityLogic extends EntityLogic  {
         this.setAvatarContainer()
     }
     public setAvatarContainer() {
-        let UserEntityVisualization = this.entity.getVisualization() as UserEntityVisualization
+        let UserEntityVisualization = this.entity.visualization as UserEntityVisualization
         let avatarContainerUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI
 
         let dimension = new Point(UserEntityVisualization.Avatar?.Container.height!,
@@ -58,7 +58,7 @@ export default class UserEntityLogic extends EntityLogic  {
         previewBox.Gui.$data.motto = "motto";
         previewBox.Gui.$data.username = this.entity.Name
         previewBox.Gui.$data.optionVisible = true;
-        let image: HTMLImageElement | undefined = UiUtils.generateImageFromObject((this.entity.getVisualization() as UserEntityVisualization).Avatar!.Container);
+        let image: HTMLImageElement | undefined = UiUtils.generateImageFromObject((this.entity.visualization as UserEntityVisualization).Avatar!.Container);
         previewBox.Gui.$data.image = image?.src;
         previewBox.Gui.$forceUpdate();
         previewBox.show();
@@ -67,7 +67,7 @@ export default class UserEntityLogic extends EntityLogic  {
 
 
     public tick(delta: number): void {
-        let userVisualization = (this.entity.getVisualization() as UserEntityVisualization)
+        let userVisualization = (this.entity.visualization as UserEntityVisualization)
 
         if(userVisualization.NeedsUpdate) {
             this.frameTracker += delta;

@@ -104,7 +104,7 @@ export default class Engine {
             item.start();
             let roomV = room.getRoomLayout().Visualization as RoomVisualization;
             let furni = new FloorItem(room, "doorC", "Door C", new Point3d(2, 3, 1), item);
-            furni.getVisualization()?.render()
+            furni.visualization?.render()
             room.RoomItemManager.addItem(furni)
         }
 

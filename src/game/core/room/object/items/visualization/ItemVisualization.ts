@@ -25,7 +25,7 @@ export default abstract class ItemVisualization implements IRoomObjectVisualizat
 
     constructor(item: Item) {
         this.item = item;
-        this.position = item.getPosition()
+        this.position = item.position
         this.imagePreview = this.generateImagePreview();
         this.iconImage = this.generateIcon();
     }
@@ -33,26 +33,26 @@ export default abstract class ItemVisualization implements IRoomObjectVisualizat
     private updatePosition() {
         let currentRoom = Engine.getInstance().RoomsManager?.CurrentRoom;
         let tile: Tile | undefined = currentRoom?.getRoomLayout().getFloorPlane().getTilebyPosition(new Point(Math.round(this.position.getX()), Math.round(this.position.getY()))); // get the tile where you want to set avatar
-        let offsetFloor = tile!.getPosition().getZ() > 0 ? -MapData.thickSpace * MapData.stepHeight * tile!.getPosition().getZ() : -AvatarData.AVATAR_TOP_OFFSET;
+        let offsetFloor = tile!.position.getZ() > 0 ? -MapData.thickSpace * MapData.stepHeight * tile!.position.getZ() : -AvatarData.AVATAR_TOP_OFFSET;
 
         const offset = currentRoom?.getRoomLayout().getOffset(this.position.getX(), this.position.getY(), this.position.getZ());
 
 
-        this.item.Base.x = offset?.getX()! - tile?.getVisualization()!.getOffsetX()! + MapData.drawingFurniOffsetX;
-        this.item.Base.y = offset?.getY()! - tile?.getVisualization()!.getOffsetY()! + MapData.drawingFurniOffsetY;
+        this.item.base.x = offset?.getX()! - tile?.visualization!.getOffsetX()! + MapData.drawingFurniOffsetX;
+        this.item.base.y = offset?.getY()! - tile?.visualization!.getOffsetY()! + MapData.drawingFurniOffsetY;
 
 
-        (currentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(this.item.Base)
-        this.item.Base.zIndex = 16;
+        (currentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(this.item.base)
+        this.item.base.zIndex = 16;
 
     }
 
     private generateImagePreview() {
-        return UiUtils.generateBase64FromObject(this.item.Base);
+        return UiUtils.generateBase64FromObject(this.item.base);
     }
     private generateIcon(): string | undefined{
-        let icon: FurniSprite = this.item.Base.turnIntoIcon()
-        this.item.Base.restore()
+        let icon: FurniSprite = this.item.base.turnIntoIcon()
+        this.item.base.restore()
         return UiUtils.generateBase64FromObject(icon);
     }
 
@@ -65,7 +65,7 @@ export default abstract class ItemVisualization implements IRoomObjectVisualizat
     }
 
     public getVisualizationType() : string  {
-        return this.item.Base.furniBase.visualizationType;
+        return this.item.base.furniBase.visualizationType;
     }
 
     public getOffsetX(): number {

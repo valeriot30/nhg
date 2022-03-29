@@ -23,7 +23,7 @@ export default class AddRoomEntity extends MessageHandler {
 
         if(entityData.type === EntityType.HUMAN && entityData.user_id != undefined) {
             entity = new UserEntity(entityData.id.toString(), entityData.name, entityData.look, Engine.getInstance().RoomsManager?.CurrentRoom!);
-            entityVisualization =  (entity?.getVisualization()) as UserEntityVisualization;
+            entityVisualization =  (entity?.visualization) as UserEntityVisualization;
             (entityVisualization as UserEntityVisualization).X = entityData.x;
             (entityVisualization as UserEntityVisualization).Y = entityData.y;
             (entityVisualization as UserEntityVisualization).Z = entityData.z;
@@ -39,7 +39,7 @@ export default class AddRoomEntity extends MessageHandler {
             if(!user) {
                 user = new User(entityData.user_id, entityData.name, entityData.look, entityData.gender);
                 Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.addUser(user);
-                (user.Visualization as UserVisualization).UserEntity = entity as UserEntity;
+                (user.visualization as UserVisualization).UserEntity = entity as UserEntity;
             }
         }
 

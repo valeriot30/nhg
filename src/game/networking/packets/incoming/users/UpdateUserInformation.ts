@@ -9,11 +9,11 @@ export default class UpdateUserInformation extends MessageHandler {
         let userInfo = this.message;
 
         if(Engine.getInstance().UsersManager?.CurrentUser) {
-            Engine.getInstance().UsersManager!.CurrentUser!.UserInfo.Username = userInfo.username;
-            Engine.getInstance().UsersManager!.CurrentUser!.UserInfo.Id = userInfo.id;
-            Engine.getInstance().UsersManager!.CurrentUser!.UserInfo.Look = userInfo.look;
-            Engine.getInstance().UsersManager!.CurrentUser!.UserInfo.Gender = userInfo.gender;
-            Engine.getInstance().UsersManager!.CurrentUser!.UserInfo.Motto = userInfo.motto;
+            Engine.getInstance().UsersManager!.CurrentUser!.userInfo.username = userInfo.username;
+            Engine.getInstance().UsersManager!.CurrentUser!.userInfo.id = userInfo.id;
+            Engine.getInstance().UsersManager!.CurrentUser!.userInfo.look = userInfo.look;
+            Engine.getInstance().UsersManager!.CurrentUser!.userInfo.gender = userInfo.gender;
+            Engine.getInstance().UsersManager!.CurrentUser!.userInfo.motto = userInfo.motto;
             //(Engine.getInstance().UsersManager?.CurrentUser?.Visualization as UserVisualization).render();
 
         } else {

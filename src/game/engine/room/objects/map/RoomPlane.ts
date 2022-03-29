@@ -19,8 +19,8 @@ export default abstract class RoomPlane extends RoomObjectController implements 
         this.room = room
         this.type = type
 
-        this.setLogic(new LogicPlane(this))
-        this.setVisualization(new VisualizationPlane(this))
+        this.logic = (new LogicPlane(this))
+        this.visualization = (new VisualizationPlane(this))
     }
 
     public addMapObject(obj: IRoomMapObject) : void {

@@ -26,18 +26,18 @@ export default class LogicTile extends RoomObjectLogic {
 
     public registerEvents() {
         setTimeout(() => {          
-            (this.tile.getVisualization() as VisualizationTile).TileContext?.on('pointerdown', this.onTileClick.bind(this));
-            (this.tile.getVisualization() as VisualizationTile).TileContext?.on('pointerover', this.onTileHover.bind(this))
+            (this.tile.visualization as VisualizationTile).TileContext?.on('pointerdown', this.onTileClick.bind(this));
+            (this.tile.visualization as VisualizationTile).TileContext?.on('pointerover', this.onTileHover.bind(this))
         }, 200);
     }
 
     private onTileClick(e: any) {
-        Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.getPosition().getX(), y: this.tile.getPosition().getY()})
+        Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.position.getX(), y: this.tile.position.getY()})
     }
 
     private onTileHover(e: any) {
-        let tileCtx: PIXI.Graphics | null = (this.tile.getVisualization() as VisualizationTile).TileContext;
-        (this.tile.getPlane().getRoom().getPointer().getVisualization() as VisualizationPointer).updatePosition(tileCtx!.x, tileCtx!.y, this.tile);
+        let tileCtx: PIXI.Graphics | null = (this.tile.visualization as VisualizationTile).TileContext;
+        (this.tile.getPlane().getRoom().getPointer().visualization as VisualizationPointer).updatePosition(tileCtx!.x, tileCtx!.y, this.tile);
     }
 
     public checkTileAndDrawHitBox() {
@@ -54,15 +54,15 @@ export default class LogicTile extends RoomObjectLogic {
 
         hitCtx.beginPath();
         hitCtx.moveTo(
-            this.tile.getVisualization()!.getOffsetX() + MapData.tileWidth / 2,
-            this.tile.getVisualization()!.getOffsetY()
+            this.tile.visualization!.getOffsetX() + MapData.tileWidth / 2,
+            this.tile.visualization!.getOffsetY()
         );
         hitCtx.lineTo(
-            this.tile.getVisualization()!.getOffsetX() + MapData.tileWidth,
-            this.tile.getVisualization()!.getOffsetY() + MapData.tileHeight / 2
+            this.tile.visualization!.getOffsetX() + MapData.tileWidth,
+            this.tile.visualization!.getOffsetY() + MapData.tileHeight / 2
         );
-        hitCtx.lineTo(this.tile.getVisualization()!.getOffsetX() + MapData.tileWidth / 2, this.tile.getVisualization()!.getOffsetY() + MapData.tileHeight);
-        hitCtx.lineTo(this.tile.getVisualization()!.getOffsetX(), this.tile.getVisualization()!.getOffsetY() + MapData.tileHeight / 2);
+        hitCtx.lineTo(this.tile.visualization!.getOffsetX() + MapData.tileWidth / 2, this.tile.visualization!.getOffsetY() + MapData.tileHeight);
+        hitCtx.lineTo(this.tile.visualization!.getOffsetX(), this.tile.visualization!.getOffsetY() + MapData.tileHeight / 2);
         hitCtx.closePath();
         hitCtx.fillStyle = this.tile.getColor().toString();
         hitCtx.fill();

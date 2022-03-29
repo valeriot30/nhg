@@ -6,7 +6,7 @@ export default class RoomItemManager implements IRoomManager {
     private items: Map<string, Item> = new Map()
 
     public addItem(item: Item) : void {
-        this.items.set(item.getId(), item)
+        this.items.set(item.id, item)
     }
 
     public removeItem(itemId: string) : void {
@@ -27,7 +27,7 @@ export default class RoomItemManager implements IRoomManager {
 
     public tick(delta: number) {
         this.items.forEach((item: Item) => {
-            item.getLogic()?.tick(delta)
+            item.logic?.tick(delta)
         })
     }
 

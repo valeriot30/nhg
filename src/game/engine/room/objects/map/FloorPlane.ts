@@ -34,7 +34,7 @@ export default class FloorPlane extends RoomPlane {
     public setTileType(x: number, y: number, type: TileType) : void {
         this.getMapObjects().find((obj) => {
             if (obj instanceof Tile) {
-                if (obj.getPosition().getX() == x && obj.getPosition().getY() == y) {
+                if (obj.position.getX() == x && obj.position.getY() == y) {
                     obj.setType(type)
                     if (type == TileType.Hole) {
                         this.getRoom().setModelMatrixElement(x, y, 0)
@@ -57,7 +57,7 @@ export default class FloorPlane extends RoomPlane {
     public getTilebyPosition(point: Point): Tile | undefined {
         return this.getMapObjects().find((obj) => {
             if (obj instanceof Tile) {
-                if (obj.getPosition().getX() === point.getX() && obj.getPosition().getY() === point.getY()) {
+                if (obj.position.getX() === point.getX() && obj.position.getY() === point.getY()) {
                     return obj
                 }
             }
@@ -67,7 +67,7 @@ export default class FloorPlane extends RoomPlane {
     public getTileByName(name : string) : Tile | undefined {
         return this.getMapObjects().find((obj) => {
             if (obj instanceof Tile) {
-                if (obj.getId() === name) {
+                if (obj.id === name) {
                     return obj
                 }
             }

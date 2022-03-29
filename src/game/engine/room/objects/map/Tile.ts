@@ -24,8 +24,8 @@ export default class Tile extends RoomObjectController implements IRoomMapObject
         this.type = type
         this.color = color
 
-        this.setVisualization(new VisualizationTile(this))
-        this.setLogic(new LogicTile(this))
+        this.visualization = new VisualizationTile(this)
+        this.logic = new LogicTile(this)
     }
 
     public getColor(): ColorRGB {

@@ -8,12 +8,12 @@ export default class RoomUserManager implements IRoomManager {
     private users: Map<number, User> = new Map()
 
     public addUser(user: User) : void {
-        this.users.set(user.UserInfo.getId()!, user)
+        this.users.set(user.userInfo.id!, user)
     }
 
     public getUserFromUserName(userName: string): User | null {
         this.users.forEach((user: User) => {
-            return user.UserInfo.Username == userName ? user : null
+            return user.userInfo.username == userName ? user : null
         })
         return null;
     }
@@ -32,7 +32,7 @@ export default class RoomUserManager implements IRoomManager {
 
     public tick(delta: number) {
         this.users.forEach((user: User) => {
-            (user.Logic as UserLogic).tick(delta);
+            (user.logic as UserLogic).tick(delta);
         })
     }
 

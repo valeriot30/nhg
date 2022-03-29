@@ -15,31 +15,25 @@ import Engine from "../../../../Engine";
 
 export default abstract class Item extends RoomObjectController implements IRoomItemObject {
 
-    private _room: Room | null
-    private base: FurniSprite;
-    private name: string;
+    public room: Room | null
+    public base: FurniSprite;
+    public name: string;
 
     constructor(room: Room | null, id: string, name: string, position: Point3d, baseItem: FurniSprite) {
 
         super(id, position, null, null)
 
-
         this.base = baseItem;
-
-        //Engine.getInstance().Application?.Viewport.addChild(this.base)
 
         this.name = name;
 
-        this._room = room;
+        this.room = room;
 
         let visualization = this.getItemVisualizationFromType(this.base.furniBase.data.visualization.type)
         let logic = this.getItemLogicFromType(this.base.furniBase.data.logic.type)
 
-        this.setVisualization(visualization);
-        this.setLogic(logic);
-
-        //console.log(visualization);
-
+        this.visualization = (visualization);
+        this.logic = logic
     }
 
     private getItemVisualizationFromType(type: string) : ItemVisualization
@@ -67,15 +61,4 @@ export default abstract class Item extends RoomObjectController implements IRoom
         }
 
     }
-
-    public get Room() : Room | null {
-        return this._room;
-    }
-
-    public get Base() : FurniSprite {
-        return this.base;
-    }
-
-    public get Id(): string { return this.id; }
-    public get Name(): string { return this.name; }
 }

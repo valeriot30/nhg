@@ -27,8 +27,8 @@ export default class Wall extends RoomObjectController implements IRoomMapObject
 
         this.corner = isCorner
 
-        this.setVisualization(new VisualizationWall(this))
-        this.setLogic(new LogicWall(this))
+        this.visualization = (new VisualizationWall(this))
+        this.logic = (new LogicWall(this))
     }
 
     public getColor(): ColorRGB {

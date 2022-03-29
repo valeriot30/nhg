@@ -19,9 +19,9 @@ export default class VisualizationWall extends RoomObjectVisualization {
     private color: ColorRGB = ColorRGB.getColorFromNumber(0xa5afc0)
 
     constructor(wall: Wall) {
-        super(VisualizationWall.calculateOffsetX(wall.getPosition()),
-            VisualizationWall.calculateOffsetY(wall.getPosition()),
-            VisualizationWall.calculateZIndex(wall.getPosition()))
+        super(VisualizationWall.calculateOffsetX(wall.position),
+            VisualizationWall.calculateOffsetY(wall.position),
+            VisualizationWall.calculateZIndex(wall.position))
 
         this.wall = wall
 
@@ -82,7 +82,7 @@ export default class VisualizationWall extends RoomObjectVisualization {
         let wallLeft = RoomVisualizationColorData.getNormal(this.color, NormalType.MEDIUM).toHex()
         let wallTop = RoomVisualizationColorData.getNormal(this.color, NormalType.DARK).toHex()
 
-        let fullHeightTick = this.wall.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.wall.getPosition().getZ() : 0
+        let fullHeightTick = this.wall.getPlane().getRoom().HasFullHeightTick ? MapData.thickSpace * MapData.stepHeight * this.wall.position.getZ() : 0
 
     
         ctx.beginFill(wallTop) // top
@@ -125,9 +125,9 @@ export default class VisualizationWall extends RoomObjectVisualization {
             let last: boolean = false;
 
 
-            if(this.wall.getPosition().getX() === this.wall.getPlane().getRoom().getDoorPosition().getX() -1 && this.wall.getPosition().getY() === 1) {
+            if(this.wall.position.getX() === this.wall.getPlane().getRoom().getDoorPosition().getX() -1 && this.wall.position.getY() === 1) {
                 ctx.endFill()
-            } else if(this.wall.getPosition().getY() === this.wall.getPlane().getRoom().getDoorPosition().getY() -1 && this.wall.getPosition().getX() === 1) {
+            } else if(this.wall.position.getY() === this.wall.getPlane().getRoom().getDoorPosition().getY() -1 && this.wall.position.getX() === 1) {
                 ctx.endFill()
             }
 
@@ -195,7 +195,7 @@ export default class VisualizationWall extends RoomObjectVisualization {
         let wallLeft = RoomVisualizationColorData.getNormal(this.color, NormalType.MEDIUM).toHex()
         let wallTop = RoomVisualizationColorData.getNormal(this.color, NormalType.DARK).toHex()
 
-        //ctx.translate(0, MapData.thickSpace * MapData.stepHeight * this.wall.getPosition().getZ());
+        //ctx.translate(0, MapData.thickSpace * MapData.stepHeight * this.wall.position.getZ());
 
         let doorHeight = Math.floor(MapData.wallHeight * 0.64)
 

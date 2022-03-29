@@ -61,7 +61,7 @@ export default class PreviewBoxUI implements IComponentShowableUI {
     public setItem(item: Item) {
         this.gui.$data.item = item;
         this.gui.$data.mode = "item"
-        this.gui.$data.image = UiUtils.generateImageFromObject(item.Base)?.src;
+        this.gui.$data.image = UiUtils.generateImageFromObject(item.base)?.src;
         this.gui.$forceUpdate();
     }
 

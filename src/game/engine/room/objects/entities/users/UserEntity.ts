@@ -12,8 +12,8 @@ export default class UserEntity extends Entity {
 
         this.look = look;
 
-        this.setVisualization(new UserEntityVisualization(this));
-        this.setLogic(new UserEntityLogic(this))
+        this.visualization = new UserEntityVisualization(this)
+        this.logic = new UserEntityLogic(this)
     }
 
     public get Look(): string { return this.look }

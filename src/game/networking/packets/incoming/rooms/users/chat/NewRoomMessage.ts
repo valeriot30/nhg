@@ -19,7 +19,7 @@ export default class NewRoomMessage extends MessageHandler {
         Engine.getInstance().GameEnvironment?.ChatManager.addMessage(chatMessage);
         (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.RoomUI) as RoomUI).addChatMessage(chatMessage)
 
-        let entityVisualization = (entity.getVisualization() as UserEntityVisualization)
+        let entityVisualization = (entity.visualization as UserEntityVisualization)
         entityVisualization.addAction(ActionId.TALK)
 
         entityVisualization.NeedsUpdate = true;

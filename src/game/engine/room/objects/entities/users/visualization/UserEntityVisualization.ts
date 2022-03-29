@@ -57,7 +57,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
             Engine.getInstance().getUserInterfaceManager()?.avatarImager.drawAvatar(this.avatar!)
         });
         
-        (this.entity.getLogic() as UserEntityLogic).registerEvents();
+        (this.entity.logic as UserEntityLogic).registerEvents();
         let roomV = Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
             (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(avatar.Container);
@@ -187,7 +187,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         const currentRoom = Engine.getInstance().RoomsManager?.CurrentRoom; // current user room
 
         let tile: Tile | undefined = currentRoom?.getRoomLayout().getFloorPlane().getTilebyPosition(new Point(Math.round(this.x), Math.round(this.y))); // get the tile where you want to set avatar
-        let offsetFloor = tile!.getPosition().getZ() > 0 ? -MapData.thickSpace * MapData.stepHeight * tile!.getPosition().getZ() : -AvatarData.AVATAR_TOP_OFFSET;
+        let offsetFloor = tile!.position.getZ() > 0 ? -MapData.thickSpace * MapData.stepHeight * tile!.position.getZ() : -AvatarData.AVATAR_TOP_OFFSET;
 
         this.avatar!.Container.x = (((this.y - this.x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileHeight;
         this.avatar!.Container.y = ((this.x + this.y) * MapData.tileHeight / 2) + (MapData.tileHeight / 2) + offsetFloor;

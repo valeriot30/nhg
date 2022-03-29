@@ -15,12 +15,12 @@ export default class Pointer extends RoomObjectController {
 
         this.room = room
 
-        this.getCanvas().name = this.getId()
+        this.getCanvas().name = this.id
         this.getCanvas().width = MapData.tileWidth
         this.getCanvas().height = MapData.tileHeight
 
-        this.setVisualization(new VisualizationPointer(this))
-        this.setLogic(new LogicPointer(this))
+        this.visualization = new VisualizationPointer(this)
+        this.logic = new LogicPointer(this)
     }
     
     public getCanvas() : PIXI.Container {

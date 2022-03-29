@@ -6,43 +6,40 @@ import RoomObjectLogic from "./RoomObjectLogic"
 import IObjectController from "./IRoomObjectController"
 export default abstract class RoomObjectController implements IObjectController {
 
-    protected id: string
-    protected position: Point3d
-    protected visualization: IRoomObjectVisualization | null
-    protected logic: IRoomObjectLogic | null
+    public readonly id: string
+    protected objectPosition: Point3d
+    protected objectVisualization: IRoomObjectVisualization | null
+    protected objectLogic: IRoomObjectLogic | null
 
     constructor(id: string, position: Point3d, visualization: IRoomObjectVisualization | null, logic: IRoomObjectLogic | null) {
         this.id = id;
-        this.position = position
-        this.visualization = visualization
-        this.logic = logic
+        this.objectPosition = position
+        this.objectVisualization = visualization
+        this.objectLogic = logic
     }
 
-    getId(): string {
-        return this.id
+
+    get position(): Point3d {
+        return this.objectPosition
     }
 
-    getPosition(): Point3d {
-        return this.position
-    }
-
-    getVisualization(): IRoomObjectVisualization | null {
+    get visualization(): IRoomObjectVisualization | null {
         return this.visualization
     }
 
-    getLogic(): IRoomObjectLogic | null {
-        return this.logic
+    get logic(): IRoomObjectLogic | null {
+        return this.objectLogic
     }
 
-    setVisualization(visualization: IRoomObjectVisualization) : void {
+    set visualization(visualization: IRoomObjectVisualization | null) {
         this.visualization = visualization
     }
 
-    setLogic(logic: IRoomObjectLogic) : void {
-        this.logic = logic
+    set logic(logic: IRoomObjectLogic | null) {
+        this.objectLogic = logic
     }
 
-    setPosition(point: Point3d) {
-        this.position = point
+    set osition(point: Point3d) {
+        this.objectPosition = point
     }
 }

@@ -24,8 +24,8 @@ export default class ChatMessage {
     }
 
     public compose() {
-        this.x = this.author ? UiUtils.getGlobalPosition((this.author?.getVisualization() as UserEntityVisualization).Avatar!.Container).tx + AvatarData.AVATAR_LEFT_OFFSET : - AvatarData.AVATAR_GENERIC_WIDTH;
-        this.y = this.author ? UiUtils.getGlobalPosition((this.author?.getVisualization() as UserEntityVisualization).Avatar!.Container).ty -  (this.author.getVisualization() as UserEntityVisualization).Avatar!.Container.height * 2: 0;
+        this.x = this.author ? UiUtils.getGlobalPosition((this.author?.visualization as UserEntityVisualization).Avatar!.Container).tx + AvatarData.AVATAR_LEFT_OFFSET : - AvatarData.AVATAR_GENERIC_WIDTH;
+        this.y = this.author ? UiUtils.getGlobalPosition((this.author.visualization as UserEntityVisualization).Avatar!.Container).ty -  (this.author.visualization as UserEntityVisualization).Avatar!.Container.height * 2: 0;
     }
 
     public get Message(): string { return this.message }

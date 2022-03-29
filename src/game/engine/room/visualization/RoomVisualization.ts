@@ -67,8 +67,8 @@ export default class RoomVisualization implements IRoomVisualization {
 
     public render() {
 
-        this.roomLayout.getWallPlane().getVisualization()?.render()
-        this.roomLayout.getFloorPlane().getVisualization()?.render()
+        this.roomLayout.getWallPlane().visualization?.render()
+        this.roomLayout.getFloorPlane().visualization?.render()
         
     }
 

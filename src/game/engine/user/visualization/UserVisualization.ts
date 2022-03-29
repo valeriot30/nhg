@@ -23,7 +23,7 @@ export default class UserVisualization implements IUserVisualization {
 
     private user: User
 
-    private userEntity: UserEntity | null
+    public userEntity: UserEntity | null
 
     public constructor(user: User) {
         this.user = user;
@@ -38,7 +38,7 @@ export default class UserVisualization implements IUserVisualization {
         }
 
         let menu = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.UserPanelUI) as UserPanelUI);
-        let global = UiUtils.getGlobalPosition((this.userEntity.getVisualization() as UserEntityVisualization).Avatar!.Container);
+        let global = UiUtils.getGlobalPosition((this.userEntity.visualization as UserEntityVisualization).Avatar!.Container);
         menu.setUser("");
         menu.setPosition(global.tx - 5, (global.ty - AvatarData.AVATAR_GENERIC_HEIGHT - 50));
         menu.show();
@@ -51,12 +51,12 @@ export default class UserVisualization implements IUserVisualization {
 
         let previewBox = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI)
             previewBox.Gui.$data.mode = 'user';
-            previewBox.Gui.$data.motto = this.user.UserInfo.Motto;
-            previewBox.Gui.$data.username = this.user.UserInfo.Username
-            if(this.userEntity.Name !== Engine.getInstance().UsersManager?.CurrentUser?.UserInfo.Username) {
+            previewBox.Gui.$data.motto = this.user.userInfo.motto;
+            previewBox.Gui.$data.username = this.user.userInfo.username
+            if(this.userEntity.Name !== Engine.getInstance().UsersManager?.CurrentUser?.userInfo.username) {
                 previewBox.Gui.$data.optionVisible = true;
             }
-            let image: HTMLImageElement | undefined = UiUtils.generateImageFromObject((this.userEntity.getVisualization() as UserEntityVisualization).Avatar!.Container);
+            let image: HTMLImageElement | undefined = UiUtils.generateImageFromObject((this.userEntity.visualization as UserEntityVisualization).Avatar!.Container);
             previewBox.Gui.$data.image = image?.src;
             previewBox.Gui.$forceUpdate();
             previewBox.show();
@@ -68,9 +68,5 @@ export default class UserVisualization implements IUserVisualization {
 
     public set UserEntity(userEntity: UserEntity | null) {
         this.userEntity = userEntity
-    }
-
-    public get UserEntity(): UserEntity | null {
-        return this.userEntity
     }
 }

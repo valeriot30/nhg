@@ -22,7 +22,7 @@ export default class ChooserCommand extends Command{
         }
 
         for(let user of Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUsers().values()!) {
-            list.add(user.UserInfo.Username!);
+            list.add(user.userInfo.username!);
         }
         list.toggle()
     }

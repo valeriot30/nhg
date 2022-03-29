@@ -31,8 +31,8 @@ class RoomLogic implements IRoomLogic {
         roomVisualization.getCanvasFloor().on('pointerover', this.onMouseOver.bind(this));
         roomVisualization.getCanvasFloor().on('pointerout', this.onMouseOut.bind(this));
 
-        this.room.getFloorPlane().getLogic()?.registerEvents()
-        this.room.getWallPlane().getLogic()?.registerEvents()
+        this.room.getFloorPlane().logic?.registerEvents()
+        this.room.getWallPlane().logic?.registerEvents()
     }
 
     private onMouseOver(e: any) {
@@ -48,8 +48,8 @@ class RoomLogic implements IRoomLogic {
 
     public tick(delta: number) : void {
         
-        this.room.getWallPlane().getLogic()?.tick(delta)
-        this.room.getFloorPlane().getLogic()?.tick(delta)
+        this.room.getWallPlane().logic?.tick(delta)
+        this.room.getFloorPlane().logic?.tick(delta)
     }
 
     public getCanvasFloorHit() : HTMLCanvasElement {

@@ -19,18 +19,18 @@ export default class UserLogic implements IUserLogic {
     }
 
     public registerEvents(): void {
-        ((this.user.Visualization as UserVisualization).UserEntity?.getVisualization() as UserEntityVisualization).Avatar?.Container.addListener('pointerdown', () => this.onUserClick())
+        ((this.user.visualization as UserVisualization).UserEntity?.visualization as UserEntityVisualization).Avatar?.Container.addListener('pointerdown', () => this.onUserClick())
     }
 
     public onUserClick(): void {
-        (this.user.Visualization as UserVisualization).openMenu();
-        (this.user.Visualization as UserVisualization).openPreviewBox()
+        (this.user.visualization as UserVisualization).openMenu();
+        (this.user.visualization as UserVisualization).openPreviewBox()
     }
 
     public tick(delta: number): void {
         
-        if((this.user.Visualization as UserVisualization).UserEntity) {
-            (this.user.Visualization as UserVisualization).UserEntity?.getLogic()?.tick(delta)
+        if((this.user.visualization as UserVisualization).UserEntity) {
+            (this.user.visualization as UserVisualization).UserEntity?.logic?.tick(delta)
         }
     }
     public get FrameTracker() {
