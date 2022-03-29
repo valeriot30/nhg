@@ -11,17 +11,15 @@ export default class RoomEntity implements IRoomManager {
     private entities: Map<string, Entity> = new Map()
 
     public addEntity(entity: Entity) : void {
-        this.entities.set(entity.getId(), entity)
+        this.entities.set(entity.id, entity)
     }
 
     public removeEntity(userid: string) : void {
         let entity: IRoomEntity | undefined = this.entities.get(userid);
-        //(entity?.Visualization as EntityVisualization).Avatar?.Container.destroy();
         this.entities.delete(userid)
     }
 
     public getUserFromUserName(userName: string): UserEntity | undefined {
-        
         return undefined;
     }
 
@@ -35,12 +33,9 @@ export default class RoomEntity implements IRoomManager {
 
     public tick(delta: number) {
         this.entities.forEach((entity: Entity) => {
-            if(entity.getLogic() instanceof UserEntityLogic) return;
+            if(entity.logic instanceof UserEntityLogic) return;
             
-            (entity.getLogic() as EntityLogic).tick(delta);
+            (entity.logic as EntityLogic).tick(delta);
         })
     }
-
-
-
 }
