@@ -14,11 +14,11 @@ export default class LoadItems extends MessageHandler {
     public handle(): void {
         let items = this.message;
 
-        let InventoryUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.InventoryUI) as InventoryUI
+        let InventoryUI = Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.InventoryUI) as InventoryUI
 
         for(let itemData of items.data) {
             let type: ItemType = itemData.item_type as ItemType
-            let base = Engine.getInstance().getUserInterfaceManager().getFurniImager().loadFurniSprite(type, itemData.baseName).then((sprite: FurniSprite) => {
+            let base = Engine.getInstance().userInterfaceManager?.getFurniImager().loadFurniSprite(type, itemData.baseName).then((sprite: FurniSprite) => {
                 sprite.start()
                 let Item = type === ItemType.FloorItem ? new FloorItem(null, itemData.id, itemData.name, new Point3d(0, 0, 0), sprite) : new WallItem(null, itemData.id, itemData.name, new Point3d(0, 0, 0), sprite);
                 InventoryUI.addItem(Item)

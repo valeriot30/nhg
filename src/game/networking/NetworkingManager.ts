@@ -22,7 +22,7 @@ class NetworkingManager {
     }
 
     public setUpPingRequest() : void {
-        if (this.engine.getConfig().offlineMode)
+        if (this.engine.config.offlineMode)
             return
 
         this.packetManager.applyOut(OutgoingPacket.PingRequest);

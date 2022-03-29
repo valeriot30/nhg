@@ -62,7 +62,7 @@
                 dragBox: {
                     //handle: undefined,
                     onDragStart: () => {
-                        Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.CatalogueUI).show();
+                        Engine.getInstance().userInterfaceManager.getUIComponentManager().getComponent(UIComponent.CatalogueUI).show();
                     }
                 },
                 catalogMenu: [],
@@ -72,7 +72,7 @@
                     title: "",
                     description: ""
                 },
-                resourceUrl: Engine.getInstance().getConfig().catalogueResourcesUrl
+                resourceUrl: Engine.getInstance().config.catalogueResourcesUrl
             }
         },
         methods: {
@@ -83,14 +83,14 @@
                     pageId: id
                 }
 
-                Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.RequestCatalogPageEvent, message);
+                Engine.getInstance().networkingManager.getPacketManager().applyOut(OutgoingPacket.RequestCatalogPageEvent, message);
 
                 //this.engine.gameGui.catalogueGui.cataloguePageRef.innerHTML = id
             },
             openPacket() {
                 const message = {}
 
-                Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.CatalogPagesListEvent, message);
+                Engine.getInstance().networkingManager.getPacketManager().applyOut(OutgoingPacket.CatalogPagesListEvent, message);
             },
             // setMockOfflineData() {
             //     this.catalogMenu.push({
@@ -130,7 +130,7 @@
             //     })
             // }
             close() {
-                Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.CatalogueUI).hide();
+                Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.CatalogueUI).hide();
             },
         },
         // parseTreeFixData(tree) {

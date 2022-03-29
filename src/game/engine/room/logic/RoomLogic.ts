@@ -19,8 +19,8 @@ class RoomLogic implements IRoomLogic {
         this.canvasFloorHit = this.room.createOrGetRoomCanvas("floorHit")
         this.canvasWallHit = this.room.createOrGetRoomCanvas("wallHit")
 
-        if (Engine.getInstance().getConfig().debug && Engine.getInstance().getConfig().debugRoomClick) {
-            let roomUIElement = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.RoomUI) as RoomUI).getCanvasContainer()
+        if (Engine.getInstance().config.debug && Engine.getInstance().config.debugRoomClick) {
+            let roomUIElement = (Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.RoomUI) as RoomUI).getCanvasContainer()
             roomUIElement!.appendChild(this.canvasFloorHit)
         }
     }

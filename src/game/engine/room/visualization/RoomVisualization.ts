@@ -24,7 +24,7 @@ export default class RoomVisualization implements IRoomVisualization {
     constructor(room: RoomLayout) {
         this.roomLayout = room
 
-        let roomUIElement = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.RoomUI) as RoomUI)
+        let roomUIElement = (Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.RoomUI) as RoomUI)
         
         this.container = new PIXI.Container();
 

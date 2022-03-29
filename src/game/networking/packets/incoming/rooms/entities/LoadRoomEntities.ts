@@ -35,7 +35,7 @@ export default class LoadRoomEntities extends MessageHandler
 
             if(entityData.type === EntityType.HUMAN && isUser) {
 
-                entity = new UserEntity(entityData.id.toString(), entityData.name, entityData.look, Engine.getInstance().RoomsManager?.CurrentRoom!); 
+                entity = new UserEntity(entityData.id.toString(), entityData.name, entityData.look, Engine.getInstance().roomManager?.CurrentRoom!); 
                 entityVisualization = entity.visualization as UserEntityVisualization
                     
                 (entityVisualization as UserEntityVisualization).X = entityData.x;
@@ -51,8 +51,8 @@ export default class LoadRoomEntities extends MessageHandler
                 if(!user) {
                     user = new User(userId, entityData.name, entityData.look, entityData.gender);
                     Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.addUser(user);
-                    (user.visualization as UserVisualization).UserEntity = entity as UserEntity;
-                    (user.visualization as UserVisualization).UserEntity?.visualization?.render()
+                    (user.visualization as UserVisualization).userEntity = entity as UserEntity;
+                    (user.visualization as UserVisualization).userEntity?.visualization?.render()
                 }
             }
 

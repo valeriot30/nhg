@@ -37,7 +37,7 @@ export default class UserVisualization implements IUserVisualization {
             return;
         }
 
-        let menu = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.UserPanelUI) as UserPanelUI);
+        let menu = (Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.UserPanelUI) as UserPanelUI);
         let global = UiUtils.getGlobalPosition((this.userEntity.visualization as UserEntityVisualization).Avatar!.Container);
         menu.setUser("");
         menu.setPosition(global.tx - 5, (global.ty - AvatarData.AVATAR_GENERIC_HEIGHT - 50));
@@ -49,7 +49,7 @@ export default class UserVisualization implements IUserVisualization {
             return;
         }
 
-        let previewBox = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI)
+        let previewBox = (Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI)
             previewBox.Gui.$data.mode = 'user';
             previewBox.Gui.$data.motto = this.user.userInfo.motto;
             previewBox.Gui.$data.username = this.user.userInfo.username
@@ -64,9 +64,5 @@ export default class UserVisualization implements IUserVisualization {
 
     public render(): void {
         
-    }
-
-    public set UserEntity(userEntity: UserEntity | null) {
-        this.userEntity = userEntity
     }
 }

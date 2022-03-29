@@ -44,23 +44,26 @@ export default {
   },
   methods: {
     toggle(ui) {
+        let component;
         switch(ui) {
             case "navigator":
-                Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.NavigatorUI).toggle();
+                component = UIComponent.NavigatorUI
                 break;
             case "friends":
-                Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.FriendsMenuUI).toggle();
+                component = UIComponent.FriendsMenuUI
                 break;
             case "catalog":
-                Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.CatalogueUI).toggle();
+                component = UIComponent.CatalogueUI;
                 break;
             case "inventory":
-                Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.InventoryUI).toggle();
+                component = UIComponent.InventoryUI
                 break;
             case "roominfo":
-                Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.RoomInfoUI).toggle();
+                component = UIComponent.RoomInfoUI
                 break;
+
         }
+            Engine.getInstance().userInterfaceManager.getUIComponentManager().getComponent(component).toggle();    
     }
   },
   mounted() {

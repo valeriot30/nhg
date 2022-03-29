@@ -47,14 +47,14 @@ export default class FurniImager {
 
     private loadFiles(): Promise<void>[] {
         return [
-            fetchJsonAsync(Engine.getInstance().getConfig().itemsResourcesUrl + "furnidata.json")
+            fetchJsonAsync(Engine.getInstance().config.itemsResourcesUrl + "furnidata.json")
                 .then(data => {
                     this.furnidata = data as Furnidata;
                     this.ready = true;
                 })
                 .catch(err => {
-                    if (Engine.getInstance().getConfig().debug) {
-                        Engine.getInstance().getLogger().error("Cannot load furnidata")
+                    if (Engine.getInstance().config.debug) {
+                        Engine.getInstance().logger?.error("Cannot load furnidata")
                     }
                     this.ready = false;
                 }),
@@ -149,7 +149,7 @@ export default class FurniImager {
     private fetchOffsetAsync(uniqueName: string) {
         //console.log("downloading .." + Engine.getInstance().getConfig().proxyUrl + Engine.getInstance().getConfig().itemsResourcesUrl + uniqueName + '/' + uniqueName + '.json');
         return new Promise((resolve, reject) => {
-            fetchJsonAsync(Engine.getInstance().getConfig().itemsResourcesUrl + uniqueName + '/' + uniqueName + '.json').then(data => {
+            fetchJsonAsync(Engine.getInstance().config.itemsResourcesUrl + uniqueName + '/' + uniqueName + '.json').then(data => {
                 resolve(data);
             }).catch(err => reject(err));
         });

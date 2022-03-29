@@ -8,7 +8,7 @@ export class PongResponse extends MessageHandler {
         let engine = Engine.getInstance()
 
         if (this.message.data && engine.SSO != "") {
-            engine.getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.LoginMessage,
+            engine.networkingManager?.getPacketManager().applyOut(OutgoingPacket.LoginMessage,
                 {
                     sso: String(engine.SSO)
                 }

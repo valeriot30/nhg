@@ -5,13 +5,10 @@ import { Direction } from "../Direction";
 import AvatarImageData from "./AvatarImageData";
 import AvatarSpriteComponent from "./AvatarSpriteComponent";
 import { Action } from "./gamedata/AvatarActions";
-import { Animation, AnimationFrame, BodyPart, OffsetDirection, OffsetFrame, Offsets, Part } from "./gamedata/AvatarAnimatons";
+import { Animation, AnimationFrame, BodyPart, OffsetDirection, OffsetFrame, Part } from "./gamedata/AvatarAnimatons";
 import { Canvas, GeometryElement } from "./gamedata/AvatarGeometry";
-import FigureData from "./gamedata/FigureData";
-import { IPart } from "./IPart";
 import { Asset, Frame, OffsetResource, Spritesheet } from "./AvatarResource";
 import Engine from "../../../../../Engine";
-import PartSets from "./AvatarPartSets";
 import AvatarData from "./AvatarData";
 import { ActivePart } from "./gamedata/AvatarPartSetsData";
 
@@ -203,7 +200,7 @@ export default class AvatarImager {
     private downloadTexture(assetName: string): Promise<PIXI.Texture> {
 
         let loader = new PIXI.Loader();
-        let textureUrl = `${Engine.getInstance().getConfig().avatarFigurePath}/${assetName}/${assetName}.png`;
+        let textureUrl = `${Engine.getInstance().config.avatarFigurePath}/${assetName}/${assetName}.png`;
 
         if(this.textures.get(assetName)) {
             return Promise.resolve(this.textures.get(assetName)!);

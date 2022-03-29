@@ -18,7 +18,7 @@ export default class RoomManager implements IRoomManager {
 
     constructor(engine: Engine) {
         this.engine = engine
-        this.roomUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.RoomUI) as RoomUI
+        this.roomUI = Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.RoomUI) as RoomUI
     }   
 
 
@@ -31,7 +31,7 @@ export default class RoomManager implements IRoomManager {
     }
 
     public showUI() {
-        let container = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.StaticContainerUI) as StaticContainerUI);
+        let container = (Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.StaticContainerUI) as StaticContainerUI);
         container.StaticContainer.$data.isChatBarVisible = true;
     }
 

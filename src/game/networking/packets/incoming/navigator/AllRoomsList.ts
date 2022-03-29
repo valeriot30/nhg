@@ -9,7 +9,7 @@ export default class AllRoomsList extends MessageHandler {
         
         let rooms = this.message.data;
 
-        let navUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.NavigatorUI) as NavigatorUI;
+        let navUI = Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.NavigatorUI) as NavigatorUI;
 
         if(navUI) {
 

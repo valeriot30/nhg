@@ -55,7 +55,7 @@ export default class InventoryUI implements IComponentShowableUI {
     }
 
     public toggle(): void {
-        if(!this.visible) Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.RequestInventoryItemsEvent);
+        if(!this.visible) Engine.getInstance().networkingManager?.getPacketManager().applyOut(OutgoingPacket.RequestInventoryItemsEvent);
         
         this.visible = !this.visible;
         this.gui.$props.visible = this.visible;

@@ -34,7 +34,7 @@ export default class UserEntityLogic extends EntityLogic  {
     }
     public setAvatarContainer() {
         let UserEntityVisualization = this.entity.visualization as UserEntityVisualization
-        let avatarContainerUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI
+        let avatarContainerUI = Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI
 
         let dimension = new Point(UserEntityVisualization.Avatar?.Container.height!,
             UserEntityVisualization.Avatar?.Container.width!
@@ -48,12 +48,12 @@ export default class UserEntityLogic extends EntityLogic  {
     }
     public userToggleTyping(value: boolean) {
         this.setAvatarContainer()
-        let avatarContainerUI = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI
+        let avatarContainerUI = Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.AvatarContainerUI) as AvatarContainerUI
         avatarContainerUI.toggleTyping(value)
     }
 
     public openPreviewBox() {
-        let previewBox = (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI)
+        let previewBox = (Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI)
         previewBox.Gui.$data.mode = 'user';
         previewBox.Gui.$data.motto = "motto";
         previewBox.Gui.$data.username = this.entity.Name

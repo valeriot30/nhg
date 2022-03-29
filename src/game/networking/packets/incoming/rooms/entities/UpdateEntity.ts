@@ -23,7 +23,7 @@ export default class UpdateEntity extends MessageHandler {
             let entityVisualization: EntityVisualization | null = null;
 
             if(isUser) {
-                entity = ((Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(entityData.user_id)?.visualization as UserVisualization).UserEntity);
+                entity = ((Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(entityData.user_id)?.visualization as UserVisualization).userEntity);
                 entityVisualization = entity?.visualization as UserEntityVisualization
                 (entityVisualization as UserEntityVisualization).setPosition(new Point3d(entityData.x, entityData.y, entityData.z))
 

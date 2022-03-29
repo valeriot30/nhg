@@ -35,13 +35,13 @@ export default class ChatManager {
                 let commandClass = commandsManager.commands.get(splittedMessage);
                 commandClass?.handle(args)
             } else {
-                Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserSay, {
+                Engine.getInstance().networkingManager?.getPacketManager().applyOut(OutgoingPacket.UserSay, {
                     message: message,
                     shout: shout
                 })
             } 
         } else {
-            Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserSay, {
+            Engine.getInstance().networkingManager?.getPacketManager().applyOut(OutgoingPacket.UserSay, {
                 message: message,
                 shout: shout
             })

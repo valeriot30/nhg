@@ -10,12 +10,12 @@ export class LoginResponse extends MessageHandler {
         let engine = Engine.getInstance()
         if (this.message.data) {
             
-            (engine.getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.GameLoaderUI) as GameLoaderUI).updateProgress(100);
-            engine.getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.GetUserStats)
+            (engine.userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.GameLoaderUI) as GameLoaderUI).updateProgress(100);
+            engine.networkingManager?.getPacketManager().applyOut(OutgoingPacket.GetUserStats)
             return
         } 
 
-        engine.getNetworkingManager().getWebSocketManager().disconnect()
+        engine.networkingManager?.getWebSocketManager().disconnect()
         
     }
 }

@@ -32,7 +32,7 @@ export default class LogicTile extends RoomObjectLogic {
     }
 
     private onTileClick(e: any) {
-        Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.position.getX(), y: this.tile.position.getY()})
+        Engine.getInstance().networkingManager?.getPacketManager().applyOut(OutgoingPacket.UserMove, {x: this.tile.position.getX(), y: this.tile.position.getY()})
     }
 
     private onTileHover(e: any) {

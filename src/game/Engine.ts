@@ -34,20 +34,20 @@ export default class Engine {
         return Engine._instance
     }
 
-    private config = generalConfig
-    private gameEnvironment: Environment | null = null;
-    private logger: Logger | null = null
-    private networkingManager: NetworkingManager | null = null
-    private userInterfaceManager: UserInterfaceManager | null = null
-    private applicationProvider: Application | null = null;
-    private gameLoader: PIXI.Loader | null = null;
-    private roomManager: RoomManager | null = null;
+    public config = generalConfig
+    public gameEnvironment: Environment | null = null;
+    public logger: Logger | null = null
+    public networkingManager: NetworkingManager | null = null
+    public userInterfaceManager: UserInterfaceManager | null = null
+    public applicationProvider: Application | null = null;
+    public gameLoader: PIXI.Loader | null = null;
+    public roomManager: RoomManager | null = null;
     private userManager: UserManager | null = null;
 
     private timeElapsed: number = 0
     private lastFrameTime: number = 0
 
-    private gameMode: GameMode = GameMode.OFFLINE;
+    public gameMode: GameMode = GameMode.OFFLINE;
 
     private constructor() { }
 
@@ -165,24 +165,6 @@ export default class Engine {
     }
 
 
-    public getConfig() {
-        return this.config
-    }
-
-    public getLogger(): Logger {
-        return this.logger!
-    }
-
-    public getNetworkingManager(): NetworkingManager {
-        return this.networkingManager!
-    }
-
-    public getUserInterfaceManager(): UserInterfaceManager {
-        return this.userInterfaceManager!
-    }
-    public getDisplay(): Application | null {
-        return this.applicationProvider;
-    }
 
     public get Application(): Application | null {
         return this.applicationProvider;

@@ -14,7 +14,7 @@ class SoundManager {
     constructor(userInterfaceManager: UserInterfaceManager) {
         this.userInterfaceManager = userInterfaceManager
         
-        this.audioResourceFolder = userInterfaceManager.getEngine().getConfig().soundResourcesUrl
+        this.audioResourceFolder = userInterfaceManager.getEngine().config.soundResourcesUrl
         this.volume = 100;
 
         //this.loadAudioResources();

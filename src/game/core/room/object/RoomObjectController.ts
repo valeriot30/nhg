@@ -24,22 +24,22 @@ export default abstract class RoomObjectController implements IObjectController 
     }
 
     get visualization(): IRoomObjectVisualization | null {
-        return this.visualization
+        return this.objectVisualization
     }
 
     get logic(): IRoomObjectLogic | null {
         return this.objectLogic
     }
 
-    set visualization(visualization: IRoomObjectVisualization | null) {
-        this.visualization = visualization
+    set visualization(objectVisualization: IRoomObjectVisualization | null) {
+        this.objectVisualization = objectVisualization;
     }
 
-    set logic(logic: IRoomObjectLogic | null) {
-        this.objectLogic = logic
+    set logic(objectLogic: IRoomObjectLogic | null) {
+        this.objectLogic = objectLogic
     }
 
-    set osition(point: Point3d) {
+    set position(point: Point3d) {
         this.objectPosition = point
     }
 }

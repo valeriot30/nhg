@@ -53,8 +53,8 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         
         this.avatar = avatar;
 
-        Engine.getInstance().getUserInterfaceManager()?.avatarImager.loadAvatar(this.avatar!).then(() => {
-            Engine.getInstance().getUserInterfaceManager()?.avatarImager.drawAvatar(this.avatar!)
+        Engine.getInstance().userInterfaceManager?.avatarImager.loadAvatar(this.avatar!).then(() => {
+            Engine.getInstance().userInterfaceManager?.avatarImager.drawAvatar(this.avatar!)
         });
         
         (this.entity.logic as UserEntityLogic).registerEvents();
@@ -85,7 +85,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         this.avatar?.Container.destroy();
         this.updateDirection(this.rotation);
         let avatar = new Avatar(this.entity.Look, this.rotation, this.rotation, this.actions, "", this.frame);
-        Engine.getInstance().getUserInterfaceManager().avatarImager.drawAvatar(avatar);
+        Engine.getInstance().userInterfaceManager?.avatarImager.drawAvatar(avatar);
         this.avatar = avatar;
         if(Engine.getInstance().RoomsManager?.CurrentRoom) {
             (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.addChild(this.avatar.Container);

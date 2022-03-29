@@ -16,7 +16,7 @@ export default class RemoveRoomEntity extends MessageHandler {
 
             if(entityData.user_id) {
                 let user: User | undefined = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(entityData.user_id);
-                ((user?.visualization as UserVisualization).UserEntity?.visualization as UserEntityVisualization).Avatar?.Container.destroy()
+                ((user?.visualization as UserVisualization).userEntity?.visualization as UserEntityVisualization).Avatar?.Container.destroy()
                 Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.deleteUser(entityData.user_id)
             }
 

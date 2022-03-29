@@ -64,22 +64,22 @@ class PacketManager {
 
         if (messageHandler instanceof MessageHandler) {
 
-            if (Engine.getInstance().getConfig().debug) {
-                Engine.getInstance().getLogger().debug("%c[INCOMING] %c[" + packetHeader + "] %c(" + messageHandler.constructor.name + ") ", "color: purple", "color: DeepPink", "color: #777", packetBody);
+            if (Engine.getInstance().config.debug) {
+                Engine.getInstance().logger?.debug("%c[INCOMING] %c[" + packetHeader + "] %c(" + messageHandler.constructor.name + ") ", "color: purple", "color: DeepPink", "color: #777", packetBody);
             }
             messageHandler.setMessage(packetBody)
             messageHandler.handle()
-        } else if (Engine.getInstance().getConfig().debug) {
-            Engine.getInstance().getLogger().warning("Unknown packet " + packetHeader, packetBody)
+        } else if (Engine.getInstance().config.debug) {
+            Engine.getInstance().logger?.warning("Unknown packet " + packetHeader, packetBody)
         }
     }
 
     public applyOut(packetHeader: OutgoingPacket, packetBody: any = {}): void {
 
-        if (Engine.getInstance().getNetworkingManager().getWebSocketManager().isClosed()) return
+        if (Engine.getInstance().networkingManager?.getWebSocketManager().isClosed()) return
 
-        if (Engine.getInstance().getConfig().debug) {
-            Engine.getInstance().getLogger().debug("%c[OUTGOING] %c[" + packetHeader + "] %c(" + OutgoingPacket[packetHeader] + ") ", "color: green", "color: #1493ff", "color: #777", packetBody);
+        if (Engine.getInstance().config.debug) {
+            Engine.getInstance().logger?.debug("%c[OUTGOING] %c[" + packetHeader + "] %c(" + OutgoingPacket[packetHeader] + ") ", "color: green", "color: #1493ff", "color: #777", packetBody);
         }
 
         this.getNetworkingManager().getWebSocketManager().sendData({

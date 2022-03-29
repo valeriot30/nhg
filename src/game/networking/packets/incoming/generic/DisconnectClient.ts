@@ -12,6 +12,6 @@ export default class DisconnectClient extends MessageHandler {
             (Engine.getInstance().RoomsManager?.CurrentRoom?.getRoomLayout().Visualization as RoomVisualization).Container.destroy();
         }
 
-        (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.DefaultPanelUI) as DefaultPanel).set(reason);
+        (Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.DefaultPanelUI) as DefaultPanel).set(reason);
     }
 }

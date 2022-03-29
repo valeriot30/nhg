@@ -19,7 +19,7 @@ export default class UserLogic implements IUserLogic {
     }
 
     public registerEvents(): void {
-        ((this.user.visualization as UserVisualization).UserEntity?.visualization as UserEntityVisualization).Avatar?.Container.addListener('pointerdown', () => this.onUserClick())
+        ((this.user.visualization as UserVisualization).userEntity?.visualization as UserEntityVisualization).Avatar?.Container.addListener('pointerdown', () => this.onUserClick())
     }
 
     public onUserClick(): void {
@@ -29,8 +29,8 @@ export default class UserLogic implements IUserLogic {
 
     public tick(delta: number): void {
         
-        if((this.user.visualization as UserVisualization).UserEntity) {
-            (this.user.visualization as UserVisualization).UserEntity?.logic?.tick(delta)
+        if((this.user.visualization as UserVisualization).userEntity) {
+            (this.user.visualization as UserVisualization).userEntity?.logic?.tick(delta)
         }
     }
     public get FrameTracker() {

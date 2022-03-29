@@ -41,7 +41,7 @@ export default {
   data() {
     return {
       openSubMenu: false,
-      resourceUrl: Engine.getInstance().getConfig().catalogueResourcesUrl
+      resourceUrl: Engine.getInstance().config.catalogueResourcesUrl
     };
   },
   methods: {

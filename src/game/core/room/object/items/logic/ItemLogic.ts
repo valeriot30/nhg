@@ -30,7 +30,7 @@ export default abstract class ItemLogic implements IRoomObjectLogic {
     }
 
     public togglePreview() {
-        let preview = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI;
+        let preview = Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.PreviewBoxUI) as PreviewBoxUI;
 
         preview.setItem(this.item)
         preview.show();

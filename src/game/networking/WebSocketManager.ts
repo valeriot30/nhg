@@ -18,11 +18,11 @@ class WebSocketManager {
     constructor(networkingManager: NetworkingManager) {
         this.networkingManager = networkingManager
 
-        if (Engine.getInstance().getConfig().debug) {
-            Engine.getInstance().getLogger().debug("Connection url: " + this.getWebSocketUrl());
+        if (Engine.getInstance().config.debug) {
+            Engine.getInstance().logger?.debug("Connection url: " + this.getWebSocketUrl());
         }
 
-        Engine.getInstance().getLogger().info("Connecting to the server!")
+        Engine.getInstance().logger?.info("Connecting to the server!")
 
         this.webSocket = new WebSocket(this.getWebSocketUrl())
         this.setUpWebSocketEvents()
@@ -30,10 +30,10 @@ class WebSocketManager {
     }
 
     private getWebSocketUrl(): string {
-        let webSocketUrl = Engine.getInstance().getConfig().server.ssl ? "wss://" : "ws://"
-        webSocketUrl += Engine.getInstance().getConfig().server.host
-        webSocketUrl += ":" + Engine.getInstance().getConfig().server.port
-        webSocketUrl += "/" + Engine.getInstance().getConfig().server.channel
+        let webSocketUrl = Engine.getInstance().config.server.ssl ? "wss://" : "ws://"
+        webSocketUrl += Engine.getInstance().config.server.host
+        webSocketUrl += ":" + Engine.getInstance().config.server.port
+        webSocketUrl += "/" + Engine.getInstance().config.server.channel
 
         return webSocketUrl
     }
@@ -41,7 +41,7 @@ class WebSocketManager {
     private setUpWebSocketEvents(): void {
 
         this.webSocket.onopen = (event) => {
-            Engine.getInstance().getLogger().info("Connected");
+            Engine.getInstance().logger?.info("Connected");
 
             //his.networkingManager.getPacketManager().applyOut(OutgoingPacket.PingRequest);
             this.closed = false;
@@ -50,10 +50,10 @@ class WebSocketManager {
         this.webSocket.onerror = (event) => {
             this.closed = true;
 
-            Engine.getInstance().getLogger().error("Connection error");
+            Engine.getInstance().logger?.error("Connection error");
 
-            if (Engine.getInstance().getConfig().debug) {
-                Engine.getInstance().getLogger().debug("Connection error - event details: ");
+            if (Engine.getInstance().config.debug) {
+                Engine.getInstance().logger?.debug("Connection error - event details: ");
                 console.log(event)
             }
         }
@@ -65,17 +65,17 @@ class WebSocketManager {
 
             this.reconnectCounter = 0;
 
-            if (Engine.getInstance().getConfig().server.reconnectOnFail) {
+            if (Engine.getInstance().config.server.reconnectOnFail) {
 
                 setInterval(() => {
-                    while(this.closed && this.reconnectCounter <= Engine.getInstance().getConfig().server.reconnectOnFailTryTimes) { 
-                        (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.DefaultPanelUI) as DefaultPanel).set("Reconnection try: " + this.reconnectCounter);
+                    while(this.closed && this.reconnectCounter <= Engine.getInstance().config.server.reconnectOnFailTryTimes) { 
+                        (Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.DefaultPanelUI) as DefaultPanel).set("Reconnection try: " + this.reconnectCounter);
                         this.reconnectCounter++;
                         this.setUpWebSocketEvents();
                     }
                 }, 2001);
                 setTimeout(() => {
-                    (Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.DefaultPanelUI) as DefaultPanel).set("Failed to connect to the server :(");
+                    (Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.DefaultPanelUI) as DefaultPanel).set("Failed to connect to the server :(");
                 }, 4000)
                 
             }
@@ -101,7 +101,7 @@ class WebSocketManager {
     }
 
     public disconnect() {
-        Engine.getInstance().getLogger().info("Disconnected");
+        Engine.getInstance().logger?.info("Disconnected");
         this.networkingManager.getPacketManager().applyOut(OutgoingPacket.DisconnectMessage);
         this.webSocket.close()
     }

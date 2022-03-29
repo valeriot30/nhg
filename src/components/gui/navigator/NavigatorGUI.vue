@@ -149,7 +149,7 @@ export default {
   methods: {
     createRoom() {
       let createRoomUI = Engine.getInstance()
-        .getUserInterfaceManager()
+        .userInterfaceManager
         .getUIComponentManager()
         .getComponent(UIComponent.CreateRoomUI);
       createRoomUI.toggle();
@@ -157,7 +157,7 @@ export default {
     enterRoom(roomId) {
       this.hide();
       Engine.getInstance()
-        .getNetworkingManager()
+        .networkingManager
         .getPacketManager()
         .applyOut(OutgoingPacket.UserEnterRoom, {
           id: roomId,
@@ -167,7 +167,7 @@ export default {
 
     openPacket() {
       return Engine.getInstance()
-        .getNetworkingManager()
+        .userInterfaceManager
         .getPacketManager()
         .applyOut(OutgoingPacket.NavigatorPublicRooms);
     },
@@ -177,21 +177,21 @@ export default {
         case "public":
           this.currentTab = tab;
           Engine.getInstance()
-            .getNetworkingManager()
+            .networkingManager
             .getPacketManager()
             .applyOut(OutgoingPacket.NavigatorPublicRooms);
           break;
         case "my":
           this.currentTab = tab;
           Engine.getInstance()
-            .getNetworkingManager()
+            .networkingManager
             .getPacketManager()
             .applyOut(OutgoingPacket.NavigatorMyRooms);
           break;
         case "all":
           this.currentTab = tab;
           Engine.getInstance()
-            .getNetworkingManager()
+            .networkingManager
             .getPacketManager()
             .applyOut(OutgoingPacket.NavigatorAllRooms);
           break;
@@ -199,7 +199,7 @@ export default {
     },
     hide() {
       return Engine.getInstance()
-        .getUserInterfaceManager()
+        .userInterfaceManager
         .getUIComponentManager()
         .getComponent(UIComponent.NavigatorUI)
         .hide();

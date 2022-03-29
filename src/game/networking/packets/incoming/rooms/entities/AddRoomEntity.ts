@@ -39,7 +39,7 @@ export default class AddRoomEntity extends MessageHandler {
             if(!user) {
                 user = new User(entityData.user_id, entityData.name, entityData.look, entityData.gender);
                 Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.addUser(user);
-                (user.visualization as UserVisualization).UserEntity = entity as UserEntity;
+                (user.visualization as UserVisualization).userEntity = entity as UserEntity;
             }
         }
 

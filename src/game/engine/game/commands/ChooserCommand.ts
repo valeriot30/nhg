@@ -15,7 +15,7 @@ export default class ChooserCommand extends Command{
 
         let currentRoom = Engine.getInstance().RoomsManager!.CurrentRoom;
         
-        let list = Engine.getInstance().getUserInterfaceManager().getUIComponentManager().getComponent(UIComponent.ListUI) as ListUI
+        let list = Engine.getInstance().userInterfaceManager?.getUIComponentManager().getComponent(UIComponent.ListUI) as ListUI
 
         if(Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUsers() == undefined) {
             return;
