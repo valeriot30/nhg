@@ -11,19 +11,21 @@ import { ActionId } from "../../../../../engine/ui/imagers/avatars/Avatar";
 import User from "../../../../../engine/user/User";
 import UserVisualization from "../../../../../engine/user/visualization/UserVisualization";
 
-
 export default class UserTypeStatus extends MessageHandler {
-    public handle(): void {
+  public handle(): void {
+    let data = this.message;
 
-        let data = this.message;
+    let user:
+      | User
+      | undefined = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(
+      data.id
+    );
 
-        let user: User | undefined = Engine.getInstance().RoomsManager?.CurrentRoom?.RoomUsersManager.getUser(data.id)
-
-        if(!user) {
-            return;
-        }
-
-
-        ((user.visualization as UserVisualization).userEntity?.logic as UserEntityLogic).userToggleTyping(data.typing)
+    if (!user) {
+      return;
     }
+
+    ((user.visualization as UserVisualization).userEntity
+      ?.logic as UserEntityLogic).userToggleTyping(data.typing);
+  }
 }

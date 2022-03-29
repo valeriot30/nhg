@@ -1,7 +1,7 @@
 <template>
 <div class="topBar">
-        <div class="coinsBox" v-html="credits"></div>
-        <div class="coinsBox" v-html="credits"></div>
+        <div class="coinsBox credits" v-html="credits"></div>
+        <div class="coinsBox points" v-html="credits"></div>
     </div>
 </template>
 
@@ -10,7 +10,7 @@
     export default {
         data() {
             return {
-                credits: 0
+                credits: 23524
             }
         }
     }

@@ -141,7 +141,6 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
             }
         }
 
-
         this.updateAvatarPosition()
     }
 
@@ -189,7 +188,7 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         let tile: Tile | undefined = currentRoom?.getRoomLayout().getFloorPlane().getTilebyPosition(new Point(Math.round(this.x), Math.round(this.y))); // get the tile where you want to set avatar
         let offsetFloor = tile!.position.getZ() > 0 ? -MapData.thickSpace * MapData.stepHeight * tile!.position.getZ() : -AvatarData.AVATAR_TOP_OFFSET;
 
-        this.avatar!.Container.x = (((this.y - this.x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileHeight;
+        this.avatar!.Container.x = (((this.y - this.x) * MapData.tileWidth / 2) + (MapData.tileWidth / 2)) - MapData.tileWidth / 2
         this.avatar!.Container.y = ((this.x + this.y) * MapData.tileHeight / 2) + (MapData.tileHeight / 2) + offsetFloor;
     }
 

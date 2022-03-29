@@ -1,6 +1,6 @@
 .topBar {
     position: fixed;
-    top:0;
+    top:10px;
     right:0;
     height: 85px;
     background-color: transparent;
@@ -13,23 +13,22 @@
         border-radius: 25px;
         font-size: 1.2rem;
         border:1px solid rgba(0,0,0,.25);
-        border-bottom-width: 4px;
+        border-bottom-width: 3px;
         margin:5px 10px;
         color:#fff;
-        text-shadow: 0 0 1px rgba(0,0,0,.25), 1px 1px 0 rgba(0,0,0,.25);
         box-shadow: 1px 2px 0 rgba(0,0,0,.15);
         font-weight: bold;
         letter-spacing: 1.5px;
         pointer-events: all;
-        background-color: rgb(11, 36, 56);
+        background-color: rgba(11, 36, 56, 0.78);
+        text-align:right;
 
         &.credits {
-            background-color: #bda110;
-            margin-top:10px
+            color: #e7bb1a;
         }
         
         &.points {
-            background-color: #a60e73;
+            color: #a60e73;
         }
     }
 }

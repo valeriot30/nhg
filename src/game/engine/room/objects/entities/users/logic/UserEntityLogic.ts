@@ -72,7 +72,7 @@ export default class UserEntityLogic extends EntityLogic  {
         if(userVisualization.NeedsUpdate) {
             this.frameTracker += delta;
 
-            if (this.frameTracker >= 100) {
+            if (this.frameTracker >= AvatarData.AVATAR_FRAME_SPEED) {
                 userVisualization.nextFrame();
                 this.frameTracker = 0;
                 (userVisualization as UserEntityVisualization).draw();

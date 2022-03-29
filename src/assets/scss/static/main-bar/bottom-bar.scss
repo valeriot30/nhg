@@ -1,3 +1,16 @@
+@-moz-keyframes spin { 
+    100% { -moz-transform: rotate(360deg); } 
+}
+@-webkit-keyframes spin { 
+    100% { -webkit-transform: rotate(360deg); } 
+}
+@keyframes spin { 
+    100% { 
+        -webkit-transform: rotate(360deg); 
+        transform:rotate(360deg); 
+    } 
+}
+
 .bottomBar {
     position: absolute;
     width: 100%;
@@ -18,7 +31,7 @@
         border-radius: 12px;
         height: 53px;
         margin-top: 15px;
-        width: calc(60% - 630px);
+        width: calc(50% - 630px);
         border: 2px solid rgba(0,0,0,.2);
         box-shadow: 2px 3px 0 rgba(0,0,0,.15);
         pointer-events: all;
@@ -40,7 +53,7 @@
     & .rightOptions, .leftOptions {
         position: absolute;
         top:0;
-        min-width: 315px;
+        min-width: 225px;
         text-align: center;
         margin-bottom: 30px;
 
@@ -54,22 +67,41 @@
             pointer-events:all;
             text-align:center;
             padding: 8px;
-            border: 2px solid rgb(52, 135, 199);
-            -webkit-box-shadow: 1px 4px 7px -4px rgba(0,0,0,0.59); 
-            box-shadow: 1px 4px 7px -4px rgba(0,0,0,0.59);
+            -webkit-box-shadow: 0px 0px 23px -2px rgba(0,0,0,0.26); 
+            box-shadow: 0px 0px 23px -2px rgba(0,0,0,0.26);
+            border: 1px solid rgba(0,0,0,.35);
+            background-color: rgb(90, 126, 215);
+            cursor: pointer;
+            outline:none;
 
             &:hover {
-                border-color: #4995d0;
+                border: 1px solid rgba(0,0,0,.65);
             }
 
             & .img {
                 background-position: center;
                 background-repeat: no-repeat;
                 width:40px;
-                height:40px;
-                
-                filter:drop-shadow(2px 3px 0 rgba(0,0,0,.15))
+                height:36px;
+                filter:drop-shadow(2px 3px 0 rgba(0,0,0,.15));
+                box-shadow: 0px 0px 23px -2px rgba(0,0,0,0.26);
 
+            }
+
+            &.inventory {
+                background-color: rgb(63, 141, 222);
+                position: absolute;
+                transform: translate(-4.8em, -4.3em);
+            }
+            &.navigator {
+                background-color: rgb(46, 148, 85);
+                position: absolute;
+                transform: translate(-0.5em, -3em);
+            }
+            &.catalog {
+                background-color: rgb(217, 176, 32);
+                padding-top: 5px;
+                padding-left: 9px;
             }
 
             &.navigator .img {
@@ -85,8 +117,8 @@
             }
 
             &.friends {
-                padding: 7px;
-                line-height: 4.1;
+                padding: 5px;
+                line-height: 4.6;
             }
 
             &.settings .img {
@@ -94,7 +126,7 @@
             }
 
             &.avatar {
-               background-color: #fff;
+               background-color: rgb(97, 80, 155);
                height: 75px;
                width: 75px;
                padding-right: 5px;

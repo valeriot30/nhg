@@ -11,6 +11,7 @@
     top: 10vh;
     overflow: hidden;
     pointer-events: all !important;
+    font-family: 'Ubuntu', sans-serif;
     /*padding: 4px;*/
 
     .footer {
@@ -23,19 +24,19 @@
       outline:none;
       padding: 10px;
       border-radius: 8px;
-      width: 48%;
+      width: 44%;
       box-shadow: 1px #000;
       border: 0px;
       cursor:pointer;
       }
       .newRoom {
       
-      background: linear-gradient(180deg,#639EBF 50%,#057199 50%);
+      background: #057199;
       border: 2px solid#057199;
       color: #eeeeee;
       }
      .randomRoom {
-      background: linear-gradient(180deg, #22CD48 50%, #079847 50%);
+      background: #079847;
       border: 2px solid#079847;
       color: #eeeeee;
       }

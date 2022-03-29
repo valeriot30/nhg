@@ -4,14 +4,14 @@
             <div class="menuButton avatar">
                 <img src="~@/assets/images/bottom-bar/avatar.png" style="width: 100%;"/>
             </div>
+            <div class="menuButton inventory" @click="toggle('inventory')">
+                 <img src="~@/assets/images/bottom-bar/inventory.png" style="width: 100%;"/>
+            </div>
             <div class="menuButton navigator" @click="toggle('navigator')">
-                <img src="~@/assets/images/bottom-bar/navigator.png" style="width: 75%;"/>
+                <img src="~@/assets/images/bottom-bar/navigator.png"/>
             </div>
             <div class="menuButton catalog" @click="toggle('catalog')">
                  <img src="~@/assets/images/bottom-bar/catalog.png"/>
-            </div>
-            <div class="menuButton inventory" @click="toggle('inventory')">
-                 <img src="~@/assets/images/bottom-bar/inventory.png" style="width: 100%;"/>
             </div>
             <div class="menuButton friends" @click="toggle('friends')">
                  <img src="~@/assets/images/bottom-bar/friends.png" style="width: 95%;"/>

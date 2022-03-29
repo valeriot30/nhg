@@ -163,7 +163,7 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
             },
             hide() {
                 Engine.getInstance()
-                    .getUserInterfaceManager()
+                    .userInterfaceManager
                     .getUIComponentManager()
                     .getComponent(UIComponent.InventoryUI)
                     .hide();
