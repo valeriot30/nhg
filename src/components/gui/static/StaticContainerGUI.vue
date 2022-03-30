@@ -33,7 +33,7 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
         methods: {
             startTyping() {
                 if(!this.typing) {
-                    Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
+                    Engine.getInstance().networkingManager.getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
                         roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
                         typing: true
                     })
@@ -48,7 +48,7 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
                     shout = true;
                 }
                 Engine.getInstance().GameEnvironment.ChatManager.computeMessage(this.message, shout)
-                Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
+                Engine.getInstance().networkingManager.getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
                     roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
                     typing: false
                 })
@@ -69,7 +69,7 @@ import { OutgoingPacket } from '../../../game/networking/packets/outgoing/Outgoi
                         return;
                     }
                     
-                    Engine.getInstance().getNetworkingManager().getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
+                    Engine.getInstance().networkingManager.getPacketManager().applyOut(OutgoingPacket.UserTypeStatus, {
                         roomId: Engine.getInstance().RoomsManager.CurrentRoom.Id,
                         typing: false
                     })

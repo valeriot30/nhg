@@ -9,4 +9,5 @@ export default class AvatarData {
     public static AVATAR_TOP_TYPING_OFFSET = 0; // the y distance between avatar and chat
 
     public static AVATAR_FRAME_SPEED = 100;
+    public static AVATAR_WALK_SPEED = 2.1
 }

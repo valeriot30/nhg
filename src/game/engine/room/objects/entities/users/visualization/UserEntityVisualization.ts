@@ -98,17 +98,15 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
 
     public walk(delta: number) {
         delta = delta / 1000;
-        let speed = 2;
-    
-
+ 
         if (this.x < this.nextX) {
-            this.x += delta * speed;
+            this.x += delta * AvatarData.AVATAR_WALK_SPEED;
             if (this.x > this.nextX) {
                 //this.isWalking = false;
                 this.x = this.nextX;
             }
         } else if (this.x > this.nextX) {
-            this.x -= delta * speed;
+            this.x -= delta * AvatarData.AVATAR_WALK_SPEED;
             if (this.x < this.nextX) {
                 //this.isWalking = false;
                 this.x = this.nextX;
@@ -116,13 +114,13 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         }
 
         if (this.y < this.nextY) {
-            this.y += delta * speed;
+            this.y += delta * AvatarData.AVATAR_WALK_SPEED;
             if (this.y > this.nextY) {
                 //this.isWalking = false;
                 this.y = this.nextY;
             }
         } else if (this.y > this.nextY) {
-            this.y -= delta * speed;
+            this.y -= delta * AvatarData.AVATAR_WALK_SPEED;
             if (this.y < this.nextY) {
                 //this.isWalking = false;
                 this.y = this.nextY;
@@ -130,12 +128,12 @@ export default class UserEntityVisualization extends RoomEntityVisualization {
         }
 
         if (this.nextZ > this.z) {
-            this.z += ((Math.abs(this.z - this.nextZ) > 1.5) ? 9.8 : speed) * delta;
+            this.z += ((Math.abs(this.z - this.nextZ) > 1.5) ? 9.8 : AvatarData.AVATAR_WALK_SPEED) * delta;
             if (this.z > this.nextZ) {
                 this.z = this.nextZ;
             }
         } else if (this.nextZ < this.z) {
-            this.z -= ((Math.abs(this.z - this.nextZ) > 1.5) ? 9.8 : speed) * delta;
+            this.z -= ((Math.abs(this.z - this.nextZ) > 1.5) ? 9.8 : AvatarData.AVATAR_WALK_SPEED) * delta;
             if (this.z < this.nextZ) {
                 this.z = this.nextZ;
             }
