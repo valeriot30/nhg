@@ -16,6 +16,13 @@ https://user-images.githubusercontent.com/30567406/168142362-5ba0a7c2-75ec-4f4f-
 https://user-images.githubusercontent.com/30567406/168142486-d1a240e3-c987-4fc8-a043-15c2d847ece5.mp4
 
 
+## Languages and frameworks used:
+   - Typescript 
+   - Vue.js
+   - Pixi.js (rendering)
+   - Anime.js
+ 
+
 
 ## Project setup
 ```
