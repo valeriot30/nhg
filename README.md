@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/30567406/168142486-d1a240e3-c987-4fc8-
 ## Languages and frameworks used:
    - Typescript 
    - Vue.js
-   - Pixi.js (rendering)
+   - Pixi.js (WebGL)
    - Anime.js
  
 
