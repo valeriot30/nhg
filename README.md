@@ -2,7 +2,8 @@
 
 A try to emulate Habbo Game 
 
-[![](https://media.discordapp.net/attachments/953686030496694283/956514130116882472/unknown.png?width=1351&height=637)](http://https://media.discordapp.net/attachments/953686030496694283/956514130116882472/unknown.png?width=1351&height=637)
+
+![unknown](https://user-images.githubusercontent.com/30567406/168144753-00012fca-c501-421a-adb5-b51d49de098b.png)
 
 
 ![09d1bfa5cfc9ab04febb1463c626344e](https://user-images.githubusercontent.com/30567406/168142624-7589d8a9-4eb4-4478-b6b4-334b034e1fca.png)
